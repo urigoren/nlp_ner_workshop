@@ -230,3 +230,15 @@ def parse_lines(fname, tokenize=True):
                 i+=1
         ret.append(new_line)
     return ret
+
+if __name__ == "__main__":
+    from sys import argv
+    from glob import glob
+    out_file, in_files = (argv[1], argv[0])
+    with open(out_file, 'w') as f:
+        for fname in glob(in_files):
+            for line in parse_lines(fname):
+                for td in line:
+                    d = ''.join(c for c in td.data if 0 < ord(c) < 127)
+                    f.write(f"{d} {td.tag}\n")
+                f.write('\n')
