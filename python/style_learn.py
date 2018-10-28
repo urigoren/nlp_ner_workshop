@@ -126,3 +126,5 @@ precision_recall_fscore_support(fyh, fpr)
 # Save the model architecture
 with open('model_architecture.json', 'w') as f:
     f.write(model.to_json())
+
+model.save_weights('model_weights.h5')

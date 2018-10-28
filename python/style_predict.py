@@ -1,6 +1,7 @@
 from keras.models import model_from_json
 from keras.preprocessing.sequence import pad_sequences
 import json
+from style_extract import tokenizer
 import collections
 
 
