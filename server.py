@@ -1,8 +1,10 @@
-from flask import Flask, request, send_from_directory, render_template
-import traceback
 import sys
+import traceback
+from flask import Flask, request, send_from_directory, render_template
+
 sys.path.append('python')
 from style_predict import autotag, load_model
+
 app = Flask(__name__)
 model, params = load_model('model')
 
@@ -36,7 +38,7 @@ def style():
         txt = request.form["txt"]
         return autotag(txt, model, params)
     except Exception as e:
-        return f"<h2>{e}</h2>"+traceback.format_exc().replace('\n', '<br>')
+        return f"<h2>{e}</h2>" + traceback.format_exc().replace('\n', '<br>')
 
 
 @app.route('/')

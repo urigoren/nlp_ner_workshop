@@ -185,9 +185,9 @@ class StyleExtrater(HTMLParser):
             yield arr
 
 
-
 def uppercase2Ttag(txt):
-    return upper_pattern.sub(lambda x: "<t>"+x.group(0).title()+"</t>" if len(x.group(0).strip().split())>1 else x.group(0), txt)
+    return upper_pattern.sub(
+        lambda x: "<t>" + x.group(0).title() + "</t>" if len(x.group(0).strip().split()) > 1 else x.group(0), txt)
 
 
 def strip_tags(fname):
@@ -223,17 +223,19 @@ def parse_lines(fname, tokenize=True):
     ret = []
     for line in styler.get_lines():
         new_line = []
-        i=0
+        i = 0
         for td in line:
             for token in tokenizer(td.data):
                 new_line.append(taggedData(token, td.tag, i))
-                i+=1
+                i += 1
         ret.append(new_line)
     return ret
+
 
 if __name__ == "__main__":
     from sys import argv
     from glob import glob
+
     out_file, in_files = (argv[1], argv[0])
     with open(out_file, 'w') as f:
         for fname in glob(in_files):

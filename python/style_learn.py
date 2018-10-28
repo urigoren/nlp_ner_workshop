@@ -1,16 +1,17 @@
-import numpy as np
-from keras.models import Model
-from keras.layers.recurrent import LSTM
-from keras.layers import TimeDistributed, Dense, Activation, Input
-from keras.preprocessing.sequence import pad_sequences
-from keras.layers.embeddings import Embedding
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
+import sys
 import collections
 import json
+import numpy as np
+from keras.layers import TimeDistributed, Dense, Activation, Input
+from keras.layers.embeddings import Embedding
+from keras.layers.recurrent import LSTM
+from keras.models import Model
+from keras.preprocessing.sequence import pad_sequences
+from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
+from sklearn.model_selection import train_test_split
 
 # in_file = '../wikigold.conll.txt'
-in_file = 'c:/datasets/edgar_html.txt'
+in_file = sys.argv[1]
 min_word_freq = 2
 batch_size = 32
 epochs = 40
