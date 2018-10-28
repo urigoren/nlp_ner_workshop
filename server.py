@@ -2,8 +2,9 @@ from flask import Flask, request, send_from_directory, render_template
 import traceback
 import sys
 sys.path.append('python')
-from style_predict import autotag
+from style_predict import autotag, load_model
 app = Flask(__name__)
+model, params = load_model('model')
 
 
 @app.route('/assets/<path:path>')
@@ -33,7 +34,7 @@ def page_not_found(e):
 def style():
     try:
         txt = request.form["txt"]
-        return autotag(txt)
+        return autotag(txt, model, params)
     except Exception as e:
         return f"<h2>{e}</h2>"+traceback.format_exc().replace('\n', '<br>')
 
