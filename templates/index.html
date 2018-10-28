@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>Contract Styler</title>
+    <script type="text/javascript">
+        function loadDoc() {
+          var xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+              document.getElementById('styled').innerHTML = this.responseText;
+            }
+          };
+          xhttp.open("POST", "/style", true);
+          xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+          xhttp.send("txt="+encodeURI(document.getElementById('raw').value));
+        }
+        function onTextChange() {
+            loadDoc();
+        }
+    </script>
+</head>
+<body>
+<table border="0">
+    <td>
+        <form>
+            <textarea name="raw" id="raw"
+                      cols="80" rows="20"
+                      onkeydown="onTextChange()" onmousedown="onTextChange()"></textarea>
+        </form>
+    </td><td valign="top">
+        <div id="styled"></div>
+    </td>
+</table>
+</body>
+</html>

@@ -4,11 +4,13 @@ import json
 from style_extract import tokenizer
 import collections
 
+__dir__ = '/'.join(__file__.replace('\\', '/').split('/')[:-2]+['model'])
 
 # Model reconstruction from JSON file
-with open('model_architecture.json', 'r') as f:
+with open(__dir__ + '/model_architecture.json', 'r') as f:
     model = model_from_json(f.read())
-with open('model_params.json', 'r') as f:
+model.load_weights(__dir__+ '/model_weights.h5')
+with open(__dir__ + '/model_params.json', 'r') as f:
     data = json.load(f)
     word2ind = collections.defaultdict(lambda : 1, data["word2ind"])
     ind2word = {i:l for l,i in word2ind.items()}
@@ -34,3 +36,4 @@ def autotag(text):
     for tag in ind2label.values():
         html = html.replace(f"</{tag}> <{tag}>", " ")
     return html
+
