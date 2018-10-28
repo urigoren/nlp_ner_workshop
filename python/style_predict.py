@@ -3,6 +3,7 @@ from keras.preprocessing.sequence import pad_sequences
 import json
 from style_extract import tokenizer
 import collections
+import re
 
 
 def load_model(folder):
@@ -37,4 +38,6 @@ def autotag(text, model, params):
     html = "<br>".join([' '.join(line) for line in lines])
     for tag in params['ind2label'].values():
         html = html.replace(f"</{tag}> <{tag}>", " ")
+    html = re.compile('" (\w+) "').sub('"\\1"', html)
+    html = re.compile(' ([\\.,:;]) ').sub('\\1 ', html)
     return html
