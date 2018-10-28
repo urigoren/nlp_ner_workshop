@@ -7,6 +7,7 @@ import re
 
 
 def load_model(folder):
+    """Loads model files, and returns keras model and parameters"""
     with open(folder + '/model_architecture.json', 'r') as f:
         model = model_from_json(f.read())
     model.load_weights(folder + '/model_weights.h5')
@@ -24,11 +25,13 @@ def load_model(folder):
 
 
 def autotag(text, model, params):
+    """Gets text, model and params, and outputs formatter HTML"""
+    # Covert line to X_enc vector, and predict y_enc
     X = [tokenizer(line.strip(), lower=False, enum=False, numeric=False) for line in text.split('\n')]
     X_enc = [[params['word2ind'][tokenizer(c, split=False, enum=True, numeric=True)] for c in x] for x in X]
     X_enc = pad_sequences(X_enc, maxlen=params['maxlen'])
     y_enc = model.predict(X_enc).argmax(2)
-    y = [params['ind2label'][l] for row in y_enc for l in row]
+    # Turn prediction to HTML
     lines = []
     for row in zip(X, y_enc):
         lines.append([])
@@ -36,6 +39,7 @@ def autotag(text, model, params):
             tag = params['ind2label'][label]
             lines[-1].insert(0, f"<{tag}>{word}</{tag}>" if tag != 'n' else word)
     html = "<br>".join([' '.join(line) for line in lines])
+    # Rejoin words together, to get a cleaner view
     for tag in params['ind2label'].values():
         html = html.replace(f"</{tag}> <{tag}>", " ")
     html = re.compile('" (\w+) "').sub('"\\1"', html)
