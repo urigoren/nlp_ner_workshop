@@ -1,6 +1,7 @@
 import sys
 import collections
 import json
+from zipfile import ZipFile
 import numpy as np
 from keras.layers import TimeDistributed, Dense, Activation, Input
 from keras.layers.embeddings import Embedding
@@ -11,7 +12,8 @@ from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_f
 from sklearn.model_selection import train_test_split
 
 # in_file = '../wikigold.conll.txt'
-in_file = sys.argv[1]
+# in_file = sys.argv[1]
+in_file = "c:/datasets/style/0.zip"
 min_word_freq = 2
 batch_size = 32
 epochs = 40
@@ -21,7 +23,7 @@ maxsize = 256
 random_state = 1442
 
 
-def read_input_file(in_file, maxsize=256):
+def read_conll_file(in_file, maxsize=256,):
     all_x = []
     seq = []
     with open(in_file, 'r', errors='ignore') as f:
@@ -44,7 +46,32 @@ def read_input_file(in_file, maxsize=256):
     return X, y
 
 
-X, y = read_input_file(in_file, maxsize)
+def read_json_zip_file(in_file, maxsize=256, read_limit=1000):
+    with ZipFile(in_file) as z:
+        all_x = []
+        i = 0
+        for fname in z.filelist:
+            with z.open(fname) as f:
+                all_x += json.load(f)
+                i += 1
+            if i >= read_limit:
+                break
+    lengths = [len(x) for x in all_x]
+    print('Input sequence length range: ', max(lengths), min(lengths))
+    short_x = [x for x in all_x if len(x) <= maxsize]
+    print('# of short sequences: {n}/{m} '.format(n=len(short_x), m=len(all_x)))
+    X = [[c[0] for c in x] for x in short_x]
+    y = [[c[1] for c in y] for y in short_x]
+    return X, y
+
+
+if in_file.lower().endswith('.txt'):
+    print("Reading conll format")
+    X, y = read_conll_file(in_file, maxsize)
+elif in_file.lower().endswith('.zip'):
+    X, y = read_json_zip_file(in_file, maxsize)
+else:
+    raise SystemError("unknown input file extension")
 
 corpus = (c for x in X for c in x)
 
