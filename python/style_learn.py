@@ -61,7 +61,7 @@ def encode(x, n):
     return result
 
 
-def score(yh, pr):
+def calc_score(yh, pr):
     coords = [np.where(yhh > 0)[0][0] for yhh in yh]
     yh = [yhh[co:] for yhh, co in zip(yh, coords)]
     ypr = [prr[co:] for prr, co in zip(pr, coords)]
@@ -82,7 +82,7 @@ def build_model(max_sentence_length, vocab_size, num_tags):
     return model
 
 
-def main():
+def main(in_file, out_dir):
     if in_file.lower().endswith('.txt'):
         print("Reading conll format")
         X, y = read_conll_file(in_file, maxsize)
@@ -97,7 +97,7 @@ def main():
     word2ind = collections.defaultdict(lambda: 1, {word: index for index, word in enumerate(ind2word)})
     ind2label = ["{pad}"] + list(set([c for x in y for c in x]))
     label2ind = {label: index for index, label in enumerate(ind2label)}
-    with open('model_params.json', 'w') as f:
+    with open(out_dir+'model_params.json', 'w') as f:
         json.dump({
             "word2ind": dict(word2ind),
             "label2ind": dict(label2ind),
@@ -131,7 +131,7 @@ def main():
 
     pr = model.predict(X_train).argmax(2)
     yh = y_train.argmax(2)
-    fyh, fpr = score(yh, pr)
+    fyh, fpr = calc_score(yh, pr)
     print('Training accuracy:', accuracy_score(fyh, fpr))
     print('Training confusion matrix:')
     print(confusion_matrix(fyh, fpr))
@@ -139,21 +139,20 @@ def main():
 
     pr = model.predict(X_test).argmax(2)
     yh = y_test.argmax(2)
-    fyh, fpr = score(yh, pr)
+    fyh, fpr = calc_score(yh, pr)
     print('Testing accuracy:', accuracy_score(fyh, fpr))
     print('Testing confusion matrix:')
     print(confusion_matrix(fyh, fpr))
     precision_recall_fscore_support(fyh, fpr)
 
     # Save the model architecture
-    with open('model_architecture.json', 'w') as f:
+    with open(out_dir+'model_architecture.json', 'w') as f:
         f.write(model.to_json())
 
-    model.save_weights('model_weights.h5')
+    model.save_weights(out_dir+'model_weights.h5')
 
 
 if __name__ == "__main__":
-    in_file = sys.argv[1]
     min_word_freq = 2
     batch_size = 32
     epochs = 40
@@ -161,4 +160,4 @@ if __name__ == "__main__":
     hidden_size = 32
     maxsize = 256
     random_state = 1442
-    main()
+    main('../data/0.zip', '../model/')
