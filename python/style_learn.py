@@ -11,9 +11,7 @@ from keras.preprocessing.sequence import pad_sequences
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 from sklearn.model_selection import train_test_split
 
-# in_file = '../wikigold.conll.txt'
-# in_file = sys.argv[1]
-in_file = "c:/datasets/style/0.zip"
+in_file = sys.argv[1]
 min_word_freq = 2
 batch_size = 32
 epochs = 40
