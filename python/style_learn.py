@@ -35,7 +35,7 @@ def read_conll_file(in_file, maxsize=256,):
     return X, y
 
 
-def read_json_zip_file(in_file, maxsize=256, read_limit=10000):
+def read_json_zip_file(in_file, maxsize=256, read_limit=1000):
     with ZipFile(in_file) as z:
         all_x = []
         i = 0
