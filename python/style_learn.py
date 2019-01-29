@@ -7,6 +7,7 @@ from keras.layers import TimeDistributed, Dense, Activation, Input
 from keras.layers.embeddings import Embedding
 from keras.layers.recurrent import LSTM
 from keras.models import Model
+from keras.utils import to_categorical
 from keras.preprocessing.sequence import pad_sequences
 from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_fscore_support
 from sklearn.model_selection import train_test_split
@@ -52,13 +53,6 @@ def read_json_zip_file(in_file, maxsize=256, read_limit=1000):
     X = [[c[0] for c in x] for x in short_x]
     y = [[c[1] for c in y] for y in short_x]
     return X, y
-
-
-def encode(x, n):
-    """One-hot encoding"""
-    result = np.zeros(n)
-    result[x] = 1
-    return result
 
 
 def calc_score(yh, pr):
@@ -111,13 +105,12 @@ def main(in_file, out_dir):
     X_enc = [[word2ind[c] for c in x] for x in X]
     max_label = len(label2ind)
     y_enc = [[0] * (maxlen - len(ey)) + [label2ind[c] for c in ey] for ey in y]
-    y_enc = [[encode(c, max_label) for c in ey] for ey in y_enc]
+    y_enc = [to_categorical(ey, max_label) for ey in y_enc]
 
     X_enc = pad_sequences(X_enc, maxlen=maxlen)
     y_enc = pad_sequences(y_enc, maxlen=maxlen)
 
-    X_train, X_test, y_train, y_test = train_test_split(X_enc, y_enc, test_size=11 * 32, train_size=45 * 32,
-                                                        random_state=random_state)
+    X_train, X_test, y_train, y_test = train_test_split(X_enc, y_enc, test_size=test_size)
     print('Training and testing tensor shapes:', X_train.shape, X_test.shape, y_train.shape, y_test.shape)
 
     max_features = len(word2ind)
@@ -153,11 +146,11 @@ def main(in_file, out_dir):
 
 
 if __name__ == "__main__":
+    test_size = 0.1
     min_word_freq = 2
     batch_size = 32
     epochs = 40
     embedding_size = 128
     hidden_size = 32
     maxsize = 256
-    random_state = 1442
     main('../data/0.zip', '../model/')
