@@ -80,9 +80,9 @@ def encode_by_vocab(X, y, word2ind, label2ind, maxlen=None):
         maxlen = max([len(x) for x in X])
         print('Maximum sequence length:', maxlen)
 
-    X_enc = [[word2ind[c] for c in x] for x in X]
+    X_enc = [[word2ind[c] for c in x] for x in X if len(x) <= maxlen]
     max_label = len(label2ind)
-    y_enc = [[0] * (maxlen - len(ey)) + [label2ind[c] for c in ey] for ey in y]
+    y_enc = [[0] * (maxlen - len(ey)) + [label2ind[c] for c in ey] for ey in y if len(y) <= maxlen]
     y_enc = [to_categorical(ey, max_label) for ey in y_enc]
 
     X_enc = pad_sequences(X_enc, maxlen=maxlen)
@@ -90,11 +90,11 @@ def encode_by_vocab(X, y, word2ind, label2ind, maxlen=None):
     return X_enc, y_enc, maxlen
 
 
-def build_model(max_sentence_length, vocab_size, num_tags):
+def build_model(max_sentence_length, vocab_size, num_tags, embedding_size, lstm_size):
     """ Compiles a keras model """
     l_input = Input(shape=(max_sentence_length,))
     l_embed = Embedding(vocab_size, embedding_size, input_length=max_sentence_length, mask_zero=True)(l_input)
-    l_lstm = LSTM(hidden_size, return_sequences=True)(l_embed)
+    l_lstm = LSTM(lstm_size, return_sequences=True)(l_embed)
     l_dense = TimeDistributed(Dense(num_tags))(l_lstm)
     l_active = Activation('softmax')(l_dense)
     model = Model(inputs=l_input, outputs=l_active)
@@ -105,9 +105,9 @@ def build_model(max_sentence_length, vocab_size, num_tags):
 def main(in_file, out_dir):
     if in_file.lower().endswith('.txt'):
         print("Reading conll format")
-        X, y = read_conll_file(in_file, maxsize)
+        X, y = read_conll_file(in_file, max_sentence_size)
     elif in_file.lower().endswith('.zip'):
-        X, y = read_json_zip_file(in_file, maxsize)
+        X, y = read_json_zip_file(in_file, max_sentence_size)
     else:
         raise SystemError("unknown input file extension")
 
@@ -120,15 +120,12 @@ def main(in_file, out_dir):
             "maxsize": maxsize
         }, f)
 
-    X_enc, y_enc, maxlen = encode_by_vocab(X, y, word2ind, label2ind)
+    X_enc, y_enc, seq_size = encode_by_vocab(X, y, word2ind, label2ind)
 
     X_train, X_test, y_train, y_test = train_test_split(X_enc, y_enc, test_size=test_size)
     print('Training and testing tensor shapes:', X_train.shape, X_test.shape, y_train.shape, y_test.shape)
 
-    max_features = len(word2ind)
-    out_size = len(label2ind)
-
-    model = build_model(maxlen, max_features, out_size)
+    model = build_model(seq_size, len(word2ind), len(label2ind), embedding_size, lstm_size)
 
     model.fit(X_train, y_train, batch_size=batch_size, epochs=epochs, validation_data=(X_test, y_test))
     score = model.evaluate(X_test, y_test, batch_size=batch_size)
@@ -158,11 +155,11 @@ def main(in_file, out_dir):
 
 
 if __name__ == "__main__":
+    max_sentence_size = 256
     test_size = 0.1
     min_word_freq = 2
     batch_size = 32
     epochs = 40
     embedding_size = 128
-    hidden_size = 32
-    maxsize = 256
+    lstm_size = 32
     main('../data/0.zip', '../model/')
