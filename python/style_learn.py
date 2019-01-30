@@ -36,7 +36,7 @@ def read_conll_file(in_file, maxsize=256,):
     return X, y
 
 
-def read_json_zip_file(in_file, maxsize=256, read_limit=1000):
+def read_json_zip_file(in_file, maxsize=256, read_limit=2000):
     with ZipFile(in_file) as z:
         all_x = []
         i = 0
@@ -82,7 +82,7 @@ def encode_by_vocab(X, y, word2ind, label2ind, maxlen=None):
 
     X_enc = [[word2ind[c] for c in x] for x in X if len(x) <= maxlen]
     max_label = len(label2ind)
-    y_enc = [[0] * (maxlen - len(ey)) + [label2ind[c] for c in ey] for ey in y if len(y) <= maxlen]
+    y_enc = [[0] * (maxlen - len(ey)) + [label2ind[c] for c in ey] for ey in y if len(ey) <= maxlen]
     y_enc = [to_categorical(ey, max_label) for ey in y_enc]
 
     X_enc = pad_sequences(X_enc, maxlen=maxlen)
@@ -113,14 +113,16 @@ def main(in_file, out_dir):
 
     ind2word, word2ind, ind2label, label2ind = build_vocabulary(X, y)
 
+    X_enc, y_enc, seq_size = encode_by_vocab(X, y, word2ind, label2ind)
+    assert set(map(len, y_enc)) == {seq_size}
+    assert set(map(len, X_enc)) == {seq_size}
+
     with open(out_dir+'model_params.json', 'w') as f:
         json.dump({
             "word2ind": dict(word2ind),
             "label2ind": dict(label2ind),
-            "maxsize": maxsize
+            "maxsize": seq_size
         }, f)
-
-    X_enc, y_enc, seq_size = encode_by_vocab(X, y, word2ind, label2ind)
 
     X_train, X_test, y_train, y_test = train_test_split(X_enc, y_enc, test_size=test_size)
     print('Training and testing tensor shapes:', X_train.shape, X_test.shape, y_train.shape, y_test.shape)
@@ -158,8 +160,8 @@ if __name__ == "__main__":
     max_sentence_size = 256
     test_size = 0.1
     min_word_freq = 2
-    batch_size = 32
-    epochs = 40
+    batch_size = 1024
+    epochs = 1
     embedding_size = 128
     lstm_size = 32
     main('../data/0.zip', '../model/')
