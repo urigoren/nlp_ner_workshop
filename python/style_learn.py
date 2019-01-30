@@ -64,6 +64,32 @@ def calc_score(yh, pr):
     return fyh, fpr
 
 
+def build_vocabulary(X, y):
+    corpus = (c for x in X for c in x)
+
+    ind2word = ["{pad}", "{unk}"] + [w for w, c in collections.Counter(corpus).items() if c >= min_word_freq]
+    word2ind = collections.defaultdict(lambda: 1, {word: index for index, word in enumerate(ind2word)})
+    ind2label = ["{pad}"] + list(set([c for x in y for c in x]))
+    label2ind = {label: index for index, label in enumerate(ind2label)}
+    print('Vocabulary size:', len(word2ind), len(label2ind))
+    return ind2word, word2ind, ind2label, label2ind
+
+
+def encode_by_vocab(X, y, word2ind, label2ind, maxlen=None):
+    if type(maxlen) != int:
+        maxlen = max([len(x) for x in X])
+        print('Maximum sequence length:', maxlen)
+
+    X_enc = [[word2ind[c] for c in x] for x in X]
+    max_label = len(label2ind)
+    y_enc = [[0] * (maxlen - len(ey)) + [label2ind[c] for c in ey] for ey in y]
+    y_enc = [to_categorical(ey, max_label) for ey in y_enc]
+
+    X_enc = pad_sequences(X_enc, maxlen=maxlen)
+    y_enc = pad_sequences(y_enc, maxlen=maxlen)
+    return X_enc, y_enc, maxlen
+
+
 def build_model(max_sentence_length, vocab_size, num_tags):
     """ Compiles a keras model """
     l_input = Input(shape=(max_sentence_length,))
@@ -85,30 +111,16 @@ def main(in_file, out_dir):
     else:
         raise SystemError("unknown input file extension")
 
-    corpus = (c for x in X for c in x)
+    ind2word, word2ind, ind2label, label2ind = build_vocabulary(X, y)
 
-    ind2word = ["{pad}", "{unk}"] + [w for w, c in collections.Counter(corpus).items() if c >= min_word_freq]
-    word2ind = collections.defaultdict(lambda: 1, {word: index for index, word in enumerate(ind2word)})
-    ind2label = ["{pad}"] + list(set([c for x in y for c in x]))
-    label2ind = {label: index for index, label in enumerate(ind2label)}
     with open(out_dir+'model_params.json', 'w') as f:
         json.dump({
             "word2ind": dict(word2ind),
             "label2ind": dict(label2ind),
             "maxsize": maxsize
         }, f)
-    print('Vocabulary size:', len(word2ind), len(label2ind))
 
-    maxlen = max([len(x) for x in X])
-    print('Maximum sequence length:', maxlen)
-
-    X_enc = [[word2ind[c] for c in x] for x in X]
-    max_label = len(label2ind)
-    y_enc = [[0] * (maxlen - len(ey)) + [label2ind[c] for c in ey] for ey in y]
-    y_enc = [to_categorical(ey, max_label) for ey in y_enc]
-
-    X_enc = pad_sequences(X_enc, maxlen=maxlen)
-    y_enc = pad_sequences(y_enc, maxlen=maxlen)
+    X_enc, y_enc, maxlen = encode_by_vocab(X, y, word2ind, label2ind)
 
     X_train, X_test, y_train, y_test = train_test_split(X_enc, y_enc, test_size=test_size)
     print('Training and testing tensor shapes:', X_train.shape, X_test.shape, y_train.shape, y_test.shape)
