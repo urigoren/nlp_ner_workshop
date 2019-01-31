@@ -1,8 +1,8 @@
 # Named-Entity-Recognition Workshop
 
-In this workshop, we would learn how to automatically style a word according to context.
+In this workshop, we would learn how to automatically style ( **bold** , 	*Italics*, etc. ) a word according to context.
 
-Learn styling from html files automatically and apply them to raw text.
+We learn styling from html files automatically and apply them to raw text.
 
 This project is used mainly to demonstrate deep-learning implementation of named-entity-recognition (NER) models.
 
