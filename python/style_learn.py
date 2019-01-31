@@ -3,7 +3,7 @@ import collections
 import json
 from zipfile import ZipFile
 import numpy as np
-from keras.layers import TimeDistributed, Dense, Activation, Input
+from keras.layers import TimeDistributed, Dense, Activation, Input, Dropout
 from keras.layers.embeddings import Embedding
 from keras.layers.recurrent import LSTM
 from keras.models import Model
@@ -164,4 +164,5 @@ if __name__ == "__main__":
     epochs = 1
     embedding_size = 128
     lstm_size = 32
+    dropout = 0.5
     main('../data/0.zip', '../model/')
