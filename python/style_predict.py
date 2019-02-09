@@ -24,11 +24,12 @@ def load_model(folder):
                    'maxlen': maxlen}
 
 
-def predict(X, model, params):
-    X_enc = [[params['word2ind'][c] for c in x] for x in X]
+def predict_on_token_array(X, model, params):
+    X_enc = [[params['word2ind'][x] for x in X]]
     X_enc = pad_sequences(X_enc, maxlen=params['maxlen'])
     y_enc = model.predict(X_enc).argmax(2)
-    return [params["ind2label"][y[0]] for y in y_enc]
+    y_enc = list(y_enc)[0][-len(X):]
+    return [params["ind2label"][y] for y in y_enc]
 
 
 def autotag(text, model, params):
@@ -56,6 +57,6 @@ def autotag(text, model, params):
 
 if __name__ == "__main__":
     model, params = load_model("../model")
-    X = "Governing law . The parties shall obide to".split()
-    y = predict(X, model, params)
+    X = "governing law . the parties shall obide to".split()
+    y = predict_on_token_array(X, model, params)
     print(list(zip(X, y)))
