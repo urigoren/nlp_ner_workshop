@@ -117,7 +117,7 @@ def fit_file(in_file, tp):
     assert set(map(len, y_enc)) == {seq_size}
     assert set(map(len, X_enc)) == {seq_size}
 
-    with open(tp["out_dir"]+'model_params.json', 'w') as f:
+    with open(tp["out_dir"]+'/model_params.json', 'w') as f:
         json.dump({
             "word2ind": dict(word2ind),
             "label2ind": dict(label2ind),
@@ -150,10 +150,10 @@ def fit_file(in_file, tp):
     precision_recall_fscore_support(fyh, fpr)
 
     # Save the model architecture
-    with open(tp["out_dir"]+'model_architecture.json', 'w') as f:
+    with open(tp["out_dir"]+'/model_architecture.json', 'w') as f:
         f.write(model.to_json())
 
-    model.save_weights(tp["out_dir"]+'model_weights.h5')
+    model.save_weights(tp["out_dir"]+'/model_weights.h5')
 
 
 if __name__ == "__main__":
@@ -166,6 +166,6 @@ if __name__ == "__main__":
         "embedding_size": 128,
         "lstm_size": 32,
         "dropout": 0.5,
-        "out_dir": "../model/",
+        "out_dir": "../model",
     }
     fit_file('../data/0.zip', train_params)

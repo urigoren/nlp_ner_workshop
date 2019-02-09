@@ -28,7 +28,7 @@ def predict(X, model, params):
     X_enc = [[params['word2ind'][c] for c in x] for x in X]
     X_enc = pad_sequences(X_enc, maxlen=params['maxlen'])
     y_enc = model.predict(X_enc).argmax(2)
-    return [params["ind2label"][y] for y in y_enc]
+    return [params["ind2label"][y[0]] for y in y_enc]
 
 
 def autotag(text, model, params):
@@ -52,3 +52,10 @@ def autotag(text, model, params):
     html = re.compile('" (\w+) "').sub('"\\1"', html)
     html = re.compile(' ([\\.,:;]) ').sub('\\1 ', html)
     return html
+
+
+if __name__ == "__main__":
+    model, params = load_model("../model")
+    X = "Governing law . The parties shall obide to".split()
+    y = predict(X, model, params)
+    print(list(zip(X, y)))
