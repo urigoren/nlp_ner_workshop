@@ -64,7 +64,7 @@ def calc_score(yh, pr):
     return fyh, fpr
 
 
-def build_vocabulary(X, y):
+def build_vocabulary(X, y, min_word_freq):
     corpus = (c for x in X for c in x)
 
     ind2word = ["{pad}", "{unk}"] + [w for w, c in collections.Counter(corpus).items() if c >= min_word_freq]
@@ -102,35 +102,35 @@ def build_model(max_sentence_length, vocab_size, num_tags, embedding_size, lstm_
     return model
 
 
-def main(in_file, out_dir):
+def fit_file(in_file, tp):
     if in_file.lower().endswith('.txt'):
         print("Reading conll format")
-        X, y = read_conll_file(in_file, max_sentence_size)
+        X, y = read_conll_file(in_file, tp["max_sentence_size"])
     elif in_file.lower().endswith('.zip'):
-        X, y = read_json_zip_file(in_file, max_sentence_size)
+        X, y = read_json_zip_file(in_file, tp["max_sentence_size"])
     else:
         raise SystemError("unknown input file extension")
 
-    ind2word, word2ind, ind2label, label2ind = build_vocabulary(X, y)
+    ind2word, word2ind, ind2label, label2ind = build_vocabulary(X, y, tp["min_word_freq"])
 
     X_enc, y_enc, seq_size = encode_by_vocab(X, y, word2ind, label2ind)
     assert set(map(len, y_enc)) == {seq_size}
     assert set(map(len, X_enc)) == {seq_size}
 
-    with open(out_dir+'model_params.json', 'w') as f:
+    with open(tp["out_dir"]+'model_params.json', 'w') as f:
         json.dump({
             "word2ind": dict(word2ind),
             "label2ind": dict(label2ind),
             "maxsize": seq_size
         }, f)
 
-    X_train, X_test, y_train, y_test = train_test_split(X_enc, y_enc, test_size=test_size)
+    X_train, X_test, y_train, y_test = train_test_split(X_enc, y_enc, test_size=tp["test_size"])
     print('Training and testing tensor shapes:', X_train.shape, X_test.shape, y_train.shape, y_test.shape)
 
-    model = build_model(seq_size, len(word2ind), len(label2ind), embedding_size, lstm_size)
+    model = build_model(seq_size, len(word2ind), len(label2ind), tp["embedding_size"], tp["lstm_size"])
 
-    model.fit(X_train, y_train, batch_size=batch_size, epochs=epochs, validation_data=(X_test, y_test))
-    score = model.evaluate(X_test, y_test, batch_size=batch_size)
+    model.fit(X_train, y_train, batch_size=tp["batch_size"], epochs=tp["epochs"], validation_data=(X_test, y_test))
+    score = model.evaluate(X_test, y_test, batch_size=tp["batch_size"])
     print('Raw test score:', score)
 
     pr = model.predict(X_train).argmax(2)
@@ -150,19 +150,22 @@ def main(in_file, out_dir):
     precision_recall_fscore_support(fyh, fpr)
 
     # Save the model architecture
-    with open(out_dir+'model_architecture.json', 'w') as f:
+    with open(tp["out_dir"]+'model_architecture.json', 'w') as f:
         f.write(model.to_json())
 
-    model.save_weights(out_dir+'model_weights.h5')
+    model.save_weights(tp["out_dir"]+'model_weights.h5')
 
 
 if __name__ == "__main__":
-    max_sentence_size = 256
-    test_size = 0.1
-    min_word_freq = 2
-    batch_size = 1024
-    epochs = 1
-    embedding_size = 128
-    lstm_size = 32
-    dropout = 0.5
-    main('../data/0.zip', '../model/')
+    train_params = {
+        "max_sentence_size": 256,
+        "test_size": 0.1,
+        "min_word_freq": 2,
+        "batch_size": 1024,
+        "epochs": 1,
+        "embedding_size": 128,
+        "lstm_size": 32,
+        "dropout": 0.5,
+        "out_dir": "../model/",
+    }
+    fit_file('../data/0.zip', train_params)

@@ -1,9 +1,9 @@
-from keras.models import model_from_json
-from keras.preprocessing.sequence import pad_sequences
 import json
-from style_extract import tokenizer
 import collections
 import re
+from keras.models import model_from_json
+from keras.preprocessing.sequence import pad_sequences
+from style_extract import tokenizer
 
 
 def load_model(folder):
@@ -22,6 +22,13 @@ def load_model(folder):
         maxlen = data["maxsize"]
     return model, {'word2ind': word2ind, 'ind2word': ind2word, 'label2ind': label2ind, 'ind2label': ind2label,
                    'maxlen': maxlen}
+
+
+def predict(X, model, params):
+    X_enc = [[params['word2ind'][c] for c in x] for x in X]
+    X_enc = pad_sequences(X_enc, maxlen=params['maxlen'])
+    y_enc = model.predict(X_enc).argmax(2)
+    return [params["ind2label"][y] for y in y_enc]
 
 
 def autotag(text, model, params):
