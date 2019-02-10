@@ -2,6 +2,7 @@ from html.parser import HTMLParser
 from html import unescape
 from collections import namedtuple, deque
 import re
+import json
 
 Clause = namedtuple('Clause', ('title', 'body'))
 taggedData = namedtuple('taggedData', ('data', 'tag', 'index'))
@@ -232,15 +233,32 @@ def parse_lines(fname, tokenize=True):
     return ret
 
 
-if __name__ == "__main__":
-    from sys import argv
-    from glob import glob
-
-    out_file, in_files = (argv[1], argv[0])
-    with open(out_file, 'w') as f:
-        for fname in glob(in_files):
-            for line in parse_lines(fname):
+def main(params):
+    if params.out_json:
+        with open(params.out_json, "w") as f:
+            json.dump(parse_lines(params.in_html), f)
+    elif params.out_text:
+        with open(params.out_text, 'w') as f:
+            for line in parse_lines(params.in_html):
                 for td in line:
-                    d = ''.join(c for c in td.data if 0 < ord(c) < 127)
-                    f.write(f"{d} {td.tag}\n")
+                    f.write(f"{td.data} ")
                 f.write('\n')
+        if params.out_labels:
+            with open(params.out_labels, 'w') as f:
+                for line in parse_lines(params.in_html):
+                    for td in line:
+                        f.write(f"{td.tag} ")
+                    f.write('\n')
+    else:
+        sys.stderr.write("either `out_text` or `out_json` parameter is required\n")
+
+
+if __name__ == "__main__":
+    import sys
+    from argparse import ArgumentParser
+    argparse = ArgumentParser()
+    argparse.add_argument('--in_html', default="", type=str, help='window size')
+    argparse.add_argument('--out_json', default="", type=str, help='vector size')
+    argparse.add_argument('--out_text', default="", type=str, help='number of processes')
+    argparse.add_argument('--out_labels', default="", type=str, help='number of processes')
+    sys.exit(main(argparse.parse_args()))
