@@ -1,0 +1,55 @@
+exhibit 
+first supplemental indenture 
+this first supplemental indenture dated as of july {num} {num} ( this " first supplemental indenture " ) is by and between wilmington trust company , a delaware trust company , as trustee ( herein , together with its successors in interest , the " trustee " ) , and hope bancorp , inc . ( the " successor company " ) , a delaware corporation formerly known as bbcn bancorp , inc . and the successor by merger with wilshire bancorp , inc . , a california corporation ( the " company " ) . 
+preliminary statements 
+the trustee and the company are parties to that certain indenture , dated as of september {num} {num} ( the " indenture " ) , pursuant to which the company issued ${num} aggregate principal amount of its fixed / floating rate junior subordinated deferrable interest debentures due september {num} {num} ( the " debentures " ) . 
+as permitted by article xi of the indenture , the company has , simultaneously with the effectiveness of this first supplemental indenture , merged ( referred to herein as the " transaction " ) with and into the successor company , with the successor company as the surviving corporation . the parties hereto are entering into this first supplemental indenture pursuant to , and in accordance with , section {num} ( a ) , section {num} and section {num} of the indenture . 
+agreement 
+now , therefore , in consideration of the premises set forth herein and for other good and valuable consideration , the receipt and sufficiency of which are hereby acknowledged by the parties hereto , the trustee and the successor company hereby agree as follows : 
+section {num} definitions . all capitalized terms used herein that are defined in the indenture , either directly or by reference therein , have the respective meanings assigned them in the indenture except as otherwise provided herein or unless the context otherwise requires . 
+section {num} interpretation . 
+{enum} in this first supplemental indenture , unless a clear contrary intention appears : 
+{enum} the singular number includes the plural number and vice versa ; 
+{enum} reference to any gender includes the other gender and the neuter ; 
+{enum} the words " herein , " " hereof , " " hereto " and " hereunder " and other words of similar import refer to this first supplemental indenture as a whole and not to any particular section or other subdivision ; 
+{enum} reference to any person includes such person's successors and assigns but , if applicable , only if such successors and assigns are permitted by this first supplemental indenture or the indenture , and reference to a person in a particular 
+capacity excludes such person in any other capacity or individually , but nothing in this clause ( iv ) is intended to authorize any assignment not otherwise permitted by this first supplemental indenture or the indenture or to modify the trustee's rights , privileges and protections under the indenture ; 
+{enum} reference to any agreement , document or instrument means such agreement , document or instrument as amended , supplemented or modified and in effect from time to time in accordance with the terms thereof and , if applicable , the terms hereof , as well as any substitution or replacement therefore and reference to any note or debenture includes modifications thereof and any note or debenture issued in extension or renewal thereof or in substitution or replacement therefor ; 
+{enum} unless otherwise noted as a reference to a section in the indenture , reference to any section means such section of this first supplemental indenture ; and 
+{enum} the word " including " ( and with correlative meaning " include " ) means including without limiting the generality of any description preceding such term . 
+{enum} no provision in this first supplemental indenture is to be interpreted or construed against any person because that person or its legal representative drafted such provision . 
+section {num} assumption of obligations . 
+{enum} pursuant to , and in compliance and accordance with , section {num} of the indenture , the successor company hereby expressly assumes the due and punctual payment of the principal of ( and premium , if any ) and interest on all of the debentures in accordance with their terms , according to their tenor , and the due and punctual performance and observance of all the covenants and conditions of the indenture to be kept or performed by the company . 
+{enum} pursuant to , and in compliance and accordance with , section {num} of the indenture , the successor company hereby succeeds to and is substituted for the company , with the same effect as if it had been named in the indenture as the company . 
+{enum} the successor company also succeeds to and is substituted for the company with the same effect as if the successor company had originally been named in ( i ) the declaration , as sponsor ( as defined in the declaration ) and ( ii ) the guarantee agreement , dated as of september {num} {num} ( the " guarantee " ) , as guarantor ( as defined in the guarantee ) . 
+section {num} representations and warranties . the successor company represents and warrants that : 
+{enum} it is a person , and it has all necessary power and authority to execute and deliver this first supplemental indenture and to perform the indenture ; 
+{enum} it is the successor by merger of the company pursuant to a valid merger effected in accordance with applicable law ; and 
+2 
+{enum} this first supplemental indenture is executed and delivered pursuant to section {num} ( a ) , section {num} and section {num} of the indenture and does not require the consent of the securityholders . 
+section {num} conditions of effectiveness . this first supplemental indenture shall be effective simultaneously with the effectiveness of the transaction when , and only when , the trustee has received : 
+{enum} an officers' certificate in accordance with section {num} and section {num} of the indenture ; 
+{enum} an opinion of counsel , in form and substance satisfactory to it , in accordance with section {num} section {num} and section {num} of the indenture ; and 
+{enum} a counterpart of this first supplemental indenture executed by the successor company and has executed a counterpart of this first supplemental indenture . 
+section {num} reference to the indenture . 
+{enum} upon the effectiveness of this first supplemental indenture , each reference in the indenture to " this indenture , " " hereunder , " " herein " or words of like import means and is a reference to the indenture , as affected , amended and supplemented hereby . 
+{enum} upon the effectiveness of this first supplemental indenture , each reference in the debentures to the indenture , including each term defined by reference to the indenture , means and is a reference to the indenture or such term , as the case may be , as affected , amended and supplemented hereby . 
+{enum} the indenture , as amended and supplemented by the amendment and supplement referred to above , remains in full force and effect and is hereby ratified and confirmed . 
+section {num} execution in counterparts . this first supplemental indenture may be executed in any number of counterparts and by different parties hereto in separate counterparts , each of which when so executed and delivered are deemed to be an original and all of which when taken together constitute one and the same instrument . 
+section {num} governing law ; binding effect . this first supplemental indenture is to be governed by and construed in accordance with the laws of the state of new york and is binding upon the parties hereto and their respective successors and assigns . 
+section {num} the trustee . the trustee is not responsible in any manner whatsoever for or in respect of the validity or sufficiency of this first supplemental indenture or the due execution thereof by the successor company . the recitals of fact contained herein are statements solely of the successor company , and the trustee assumes no responsibility for the correctness thereof . 
+signatures on following page 
+3 
+in witness whereof , the parties hereto have caused this first supplemental indenture to be executed and effective as of the date first stated herein , by their respective officers thereunto duly authorized . 
+the successor company : 
+hope bancorp , inc . 
+by : / s / kevin s . kim 
+name : kevin s . kim 
+title : president and chief executive officer 
+the trustee : 
+wilmington trust company , 
+not in its individual capacity , but solely as trustee under the indenture 
+by : / s / w . thomas morris , ii 
+name : w . thomas morris , ii 
+title : vice president 
+4 

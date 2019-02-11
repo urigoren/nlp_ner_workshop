@@ -1,0 +1,303 @@
+exhibit 
+exhibit {num} 
+greif , inc . 
+third quarter {num} earnings results conference call 
+september {num} {num} 
+corporate participants 
+matt eichmann greif , inc . - vp of ir 
+pete watson greif , inc . - president and ceo 
+larry hilsheimer greif , inc . - evp and cfo 
+conference call participants 
+adam josephson keybanc capital markets - analyst 
+chris manuel wells fargo securities , llc -analyst 
+justin bergner gabelli & company - analyst 
+steve chercover d . a . davidson & co . - analyst 
+ghansham panjabi robert w . baird & company , inc . - analyst 
+george staphos bofa merrill lynch - analyst 
+presentation 
+operator 
+good morning . my name is julie , and i will be your conference operator today . at this time , i would like to welcome everyone to the greif third-quarter earnings conference call . 
+( operator instructions ) 
+i would now like to turn the call over to matt eichmann . you may begin . 
+matt eichmann - greif , inc . - vp of ir 
+thank you , julie . good morning everyone , and welcome to the question-and-answer portion of greif's {num} third-quarter earnings conference call . yesterday after the market closed we posted a slide presentation and recorded remarks regarding our {num} third-quarter results to our website . 
+i'm now on slide {num} responding to your questions this morning are pete watson , president and chief executive officer ; and larry hilsheimer , executive vice president and chief financial officer . 
+please turn to slide {num} this morning's question-and-answer session will contain forward-looking statements . actual results or outcomes may differ materially from those that may be expressed or implied . please review our filings with the securities and exchange commission for more information regarding the factors that could cause actual results to differ materially from these projections or expectations . 
+during this question-and-answer session , certain non-gaap financial measures may be discussed , including those that exclude the impact of acquisitions and divestitures , special items such as restructuring charges and impairment charges , and acquisition-related costs . reconciliation tables are included in our earnings release and the presentation posted on www . investor . greif . com yesterday . and now , i'd like to turn the call over to pete watson , greif's president and chief executive officer , for a few brief remarks . 
+pete watson - greif , inc . - president and ceo 
+thank you , matt . good morning everyone . we appreciate your interest in greif . i'm pleased with our most recent results , as they come despite external challenges we faced during the quarter . 
+i'd like to highlight a few key items in our quarter , which include sustained operational improvement , particularly in our rigid industrial packaging segment . this is evidenced by our second consecutive quarter of achieving gross margins in excess of {num}% ; free cash flow expansion , which is a result of improved operations ; more disciplined capital spending , and improved working capital efficiencies ; continued improvement in our journey toward customer service excellence ; and we've increased and narrowed our {num} class a earnings per share guidance range . 
+1 
+our new guidance is ${num} per share to ${num} per share . we acknowledge that significant opportunities still exist in each of our strategic business segments and remain focused on unlocking additional value from our portfolio . before we start , i'd like to ask our cfo , larry hilsheimer , to make a brief comment . 
+larry hilsheimer - greif , inc . - evp and cfo 
+thank you , pete . we have reposted this morning our appendix exhibit of the impact of price , volume and foreign currency impact to net sales . we have done so to better reflect actual performance , which was previously distorted by a shift in the classification of specialty products in emea , through our ln implementation , and the mechanics of the computation for this chart . 
+this reflects the complexity of our product mix and difficult -- and different price levels . this has caused us to commit that we will modify how we report this on a go-forward basis , to provide more clarity into volume , price and fx components of our key products . 
+julie , please , if you would open the call for questions? 
+questions and answers 
+operator 
+( operator instructions ) 
+your first question comes from the line of adam josephson from keybanc . your line is open . 
+adam josephson - keybanc capital markets - analyst 
+pete , just my two will be on containerboard . are you announcing a ${num} a ton price increase , along with many of the other producers? 
+pete watson - greif , inc . - president and ceo 
+yes , we are . 
+adam josephson - keybanc capital markets - analyst 
+and can you just talk about just why , just in light of the sluggish industry conditions that have persisted all year , and given that many producers' input costs are obviously quite a bit lower than they were a couple of years ago , even occ , which has moved up by ${num} a ton in recent months , isn't any higher than it's been over the past three years or so , and year-to-date is lower than it's been in years past? so i'm just trying to understand the basis for the increase . thank you very much . 
+pete watson - greif , inc . - president and ceo 
+thanks for the question . due to the last couple weeks , if i could , why don't i start with the chain of events , and talk through what greif is going to do , if you're okay with that , adam . 
+adam josephson - keybanc capital markets - analyst 
+sure , pete . thanks . 
+pete watson - greif , inc . - president and ceo 
+as everyone knows , risi pulp and paper index several weeks ago published a reduction in the price of medium by ${num} a ton , and quite frankly , we were very surprised by that change . and the reason why is our pricing had not changed from q2 to q{num} in our view , and i think i stated this in the second quarter comment , in a broader market , we saw that the volatility on pricing had really quieted down . so the recent containerboard price increase , i'm not surprised at all . let me explain where we are in this . 
+several weeks ago , we did announce a similar ${num} a ton price increase in latin america . we just sell semi-chem medium there . we have a very small position . but the rationale for what we did and why we are announcing -- have announced a containerboard increase in the north america is the same . 
+back to your question , we have communicated and announced a ${num} a ton price increase on all containerboard grades , effective october {num} our rationale for greif , why we're increasing prices and made those two announcements , it's been well over {num} years since the last increase . overall , we have had inflationary cost eroding our earnings , and as you all know , this type of business requires significant capital spending , which we have done . 
+2 
+and our shareholders expect and deserve a better return on their investment , and my responsibility as ceo is to make actions and decisions that do that . so that's our rationale . 
+matt eichmann - greif , inc . - vp of ir 
+are you there? 
+operator 
+your next question comes from the line of chris manuel with wells fargo . your line is open . 
+chris manuel - wells fargo securities , llc - analyst 
+if i wanted to -- kind of two different topics i wanted to ask about , if i could . if i could follow up just for a second on the containerboard stuff . i know it's not as big of a piece of your business , or you're not as big of a player in the market , so maybe it makes it a little tougher to answer this , but how would you think about perhaps , pete , the efficacy of getting price within the market? do you feel that maybe it's a little easier in recycled versus kraft , as we sit today , or do you think that -- how's reception been thus far? 
+pete watson - greif , inc . - president and ceo 
+it's a little premature to talk about specifics , and we don't necessarily make any comments about our specific commentary with our customers . all that is always private between us . 
+but i don't see a distinction between our ability to get an increase , whether it's semi-chem or whether it's kraft , or whether it's recycled . i think , again , i think we feel very bullish about our increase , and i think it's needed , based on the rationale i explained . so no , i'm very bullish on what i think the result will be . 
+chris manuel - wells fargo securities , llc - analyst 
+{enum} and then if i could ask a couple other questions regarding the drum business , and then i have a question for larry as well . as we look across -- i haven't -- admittedly haven't gone and looked at your new slides yet , but it looked as though volumes were really up a lot in the emea region , and they looked down a good chunk in north america . could you maybe give us a little bit more color as to what might be happening , particularly in -- i think we understand what's happening in latin america , but perhaps what's happening in north america and europe , to what -- we're up double digits and down double digits in different regions with respect to volume . 
+larry hilsheimer - greif , inc . - evp and cfo 
+let me make a comment and then let pete address the primary question , chris . i think when you look at the reposted chart , that will address your question in emea . it was distorted by some specialty product classification , and just the computation mechanics . we tried to clean that up . it was an item that we identified yesterday , and we had the decision to make of whether to go ahead and post it yesterday . 
+i made that call , and we had been looking at it and determined it would be better to reclassify the things and show it , in a way that eliminated that distortion . so you'll see that in the reposting . but pete can talk to the results worldwide . 
+pete watson - greif , inc . - president and ceo 
+chris , if i could , i'll also make comments a little bit on what we're seeing as to the volumes , and i'll specifically talk through the volumes in each of those two regions . as you know , we indicated that the rips global revenues were up 1% when you factor out fx and divestitures , and really there's three main inputs , and then i'll go specifically . we did have a weaker ag season in both north america , predominantly california and emea , southern europe . 
+we did have some isolated weak global markets , as you indicated , and we continue our focus on trying to generate value versus volume , and it's back to the quality of the market share we're trying to achieve as opposed to quantity . i think that's indicative of the gross margin dollars are higher than a year ago . 
+but if you look at emea , there is a slowing industrial demand , and in the last four months , we've seen successive slowness in the economic data . although the pmi is still over {num} it is slowing . and i think this morning , the eurozone manufacturing data was just released , and it's consistent with that theme overall , that we are seeing a slowing eurozone . 
+in july and august , we saw an anomaly of our volumes . so the last two weeks in emea in july , we saw significant departure in volume , and that lasted until the first week of august , roughly {num} days into august . however , at this point , the volume trends are back to normal , so we should start feeling better about where we are in emea after that . 
+3 
+if you look at the discrete substrate , steel we were up a {num}% . ibcs , we continue to grow , we're up 8% in emea . plastics is the one area that we saw significant decline , we were down {num}% on our plastics business . 
+that is an area where we're seeing significant raw material increases , and we have taken a stronger position on pricing . that is also a small subset , where we have less raw material contractual pass-through , so it's an open negotiated position . 
+the other point is we have certain regions within that plastics business , specifically italy and the nordic regions , where we didn't feel that our margins were acceptable . so we are making some price and product mix decisions , along with the raw material increases , and taking certain stands and focusing on value versus volume , with some of those eroding margins . so that gives you a view , i think , of europe . 
+specifically , inside of europe , as we referenced , there's a weaker ag market , mainly around tomatoes in southern europe . that business or that segment was going well until there was sudden and extreme rain that radically stopped that crop . some other points around that globe , russia continues to exhibit really strong growth , primarily because of the alignment with some strategic customers . 
+western europe overall is -- i classify as stable across the western european geography . central europe is flat , and we're starting to see improvement in that region from august . 
+the middle east , while it's not a very big region for us , the volume is actually quite good , with the exception of saudi arabia , and that's predominantly due to some weak lube oil segment . and i go back to the final point is , in all of rips we are making pricing product mix decisions based on the quality of our market share , and making the right margin in our decisions . 
+so that gives you emea -- let me just make some comments about north america . i tell you , as you know , it is a slow growth environment , but it's one of the better and more stable markets we participate in . you've had slow improvement and slow growth , although it's not exciting . 
+overall , our steel drum consolidation , which was driven by our need a year ago , that our returns in that business were unacceptable . we completed that in august of {num} so the comparisons in q4 will be more balanced on a comparable manufacturing footprint . and also , we are taking some price product , mix management decisions , as i've referenced before . again , our gross margins in north america were significantly higher than {num} with less revenue , but we had a very , very strong performance in that business . 
+if you look at the details , ibc volumes were up over {num}% . our plastic business in north america was up a {num}% , and where our volumes were lower significantly were steel and fiber . they're about 7% to 8% lower . our reference to fiber impact was basically a slower ag system , that is typically , we get a really big bounce . 
+the steel business i referenced before , and our consolidation of that business and our activity , so specifically in the west coast ag system or season , the california tomato crops were down {num}% through industry data that we get versus prior year , and the other alarming issue in that segment was their inventory was up {num}% . and because of that , we experienced some of our larger customers destocking during that time period . 
+so you had a slower season . you had destocking , which caused lower than typical ag volume in our fiber business . 
+the one comment i'll make in north america about the chemical sector , that is a larger component of our steel drum business in north america . we feel confident we're not losing wallet share with our key customers . one big factor in the export markets in the north america chemical segments are down 8% , versus a year ago . 
+i'll also just make a short comment on apac . so the strength there is our ibcs were up 7% . our plastics business in southeast asia up 9% . our steel volumes are flat versus prior year . 
+the only comment on that economy is the region is challenging and competitive . it's got a really diverse competitive market . but i think the growth patterns are fairly stable , than what we've seen in the past few quarters . 
+so i hope that answers your question , chris . 
+chris manuel - wells fargo securities , llc - analyst 
+it does . that's very helpful . just one more follow-up along the lines of that , and then i'll jump back in the queue . but so , my apologies , i just re-looked at your new slide , with the volumes in . so that's why the question was a little off . 
+as we look forward , if you're doing some pricing actions or things in regions , perhaps that has a year or so before we anniversary some of that , but i guess really where i wanted to go then too is on an ongoing basis , will your volumes begin to track -- if you have pricing actions that are going to have a tail to them , perhaps not , but we are still growing modestly in north america and in europe . should volumes begin to -- what's your view on base level business? 
+does it begin to tick back to track more in line with the markets over the next {num} {num} {num} months , probably up modestly . or how do you envision 
+4 
+that playing out? 
+pete watson - greif , inc . - president and ceo 
+you characterized it pretty well . i think as we move forward , i think we should align more with industrial markets . but also , our focus is volume . we were impressed with our volume improvements around here for a time being , and our margins eroded . 
+volume is strictly a vehicle to profit . and so every decision we make will be toward driving value and profit . so i would agree that going forward , after q4 and on , we should be more aligned industrial markets , but we're not going to let that drive our behavior and our performance . one other comment , that's whether that's worth for your consumption or not is , there was less days in q3 than q4 -- q3 this year than q4 last year , but just as a reference point . 
+larry hilsheimer - greif , inc . - evp and cfo 
+yes , q3 to q3 was one day less this year and that will turn around in q{num} the other thing i'd add to pete's answer there is , as we've said before , chris , our focus is on really excelling in customer service and value , and our objective once we stabilize is to grow slightly better than the production . so we won't be satisfied with just continually losing market share by any stretch . 
+chris manuel - wells fargo securities , llc - analyst 
+{enum} that's helpful . i'll jump back in the queue . thank you . 
+operator 
+( operator instructions ) 
+your next question comes from the line of justin bergner with gabelli & company . your line is open . 
+justin bergner - gabelli & company - analyst 
+first off , could you just help us understand what's going on , on the tax line? what was the adjusted tax rate in the third quarter? will the reduction in the tax rate continue on into fy{num} and beyond , or were these all one-time reductions in tax? thank you . 
+larry hilsheimer - greif , inc . - evp and cfo 
+thanks , justin . tax continues to be a topic that confounds , as we have talked in prior quarters . and just the mechanics of the gaap rules and fin {num} cause a lot of distortion quarter to quarter , as we've explained . 
+out of this , the tax benefits that are related to discrete items , free-ups of some of our fin {num}s , as a result of resolutions of exams , and also the tax benefits of a rebalancing of our debt footprint worldwide , with a related tax benefit is about ${num} for the entire year , but it also fell entirely in the quarter time frame . so that drove a significant drop in the quarterly tax rate , along with what we've explained before , about how the fin {num} rules work relative to entities , legal entities within geographies , that have valuation allowances required under gaap rules because of losses without a clear path of demonstrated profitability . some of those could turn around and be beneficial in the future , as we execute on our transformation plans , and drive profitability in some of those entities . 
+justin , to your question relative to the non-gaap rate for the quarter , the difference on these things ends up being related primarily to impairment items , but it would be {num}% in the quarter . so obviously -- well , not obviously . one of the items that creates difference between tax expense for book and tax is related to impairments . 
+so as we get out of the realm of having impairments over time , that difference will mitigate , as well . and then , as the valuation allowance entities become profitable , we'll get back to a more normal picture from a tax perspective . 
+justin bergner - gabelli & company - analyst 
+{enum} thank you . so i mean , what should i think about as normal after this year's variability? 
+larry hilsheimer - greif , inc . - evp and cfo 
+in the short term , say the next year or two , i would think that our sort of normal recurring tax rate would be in the -- somewhere in the {num}% to {num}% range . it's all going to depend on tax exams , and those things impacting matters . 
+over time , i will certainly be tasking our tax group to try to drive our overall tax rates down in the {num}% to {num}% range , hopefully the lower end of that . and then the big focus for most tax items is to really figure out how your cash tax rate is lower , by entering into situations where you're employing tax strategies , that allow you to defer the time you pay the tax . 
+5 
+justin bergner - gabelli & company - analyst 
+{enum} that's helpful . 
+switching gears to some more fundamental drivers in the business , your adjusted operating profit margin climbed above {num}% in rigid packaging this quarter , and i was just trying to figure out , is that a sustainable level? are there seasonal benefits in the third quarter? are there raw material benefits? how should i think about the portion of that margin enhancement , that's sustainable going forward? 
+pete watson - greif , inc . - president and ceo 
+justin , this is pete . thanks . we believe that type of margin and operating rates are very sustainable , and that's our expectation . 
+justin bergner - gabelli & company - analyst 
+{enum} great . but it does look like the third quarter generally is a higher-margin quarter from a seasonal point of view . is that -- 
+pete watson - greif , inc . - president and ceo 
+that's fair . 
+justin bergner - gabelli & company - analyst 
+{enum} thanks . and then if i could just ask one question on containerboard pricing , clearly there's some good questions asked earlier . what will you be looking for , to see whether or not the price increase initially looks like it's going to be accepted in the market , by you and ip? 
+pete watson - greif , inc . - president and ceo 
+i can't comment on anybody other than us but the key is , come october {num} as we deliver and bill at a higher price , that's typically how you determine how it's been accepted . again , we have a large percentage of our intake is internally integrated , so i have full expectations that it will be successful . 
+justin bergner - gabelli & company - analyst 
+{enum} thanks . 
+operator 
+your next question comes from the line of steve chercover with d . a . davidson . your line is open . 
+steve chercover - d . a . davidson & co . - analyst 
+first question , you said that your divestitures should be complete by the end of this year . so should we expect restructuring costs to decline materially in {num}? 
+larry hilsheimer - greif , inc . - evp and cfo 
+we have stated that we expect our primary divestitures to occur -- obviously we continuously look at our portfolio , steve , but the elements that related to our transformation , as first laid out , your statement's correct . our restructuring charges , we indicated in our filings , that we expect those to mitigate in the first quarter of {num} as we continue to focus on how do we streamline our organization , we expect further charges at a lower level than we've been running , but through {num} 
+steve chercover - d . a . davidson & co . - analyst 
+{enum} thanks . and then again , i think there's , along the same theme , there's no material acquisitions for the rest of this year . if you hit your financial targets for {num} will you , to go back in time , re-earn your right to grow and if so , in which vertical? 
+larry hilsheimer - greif , inc . - evp and cfo 
+at the investor day conference that we had in june in the closing remarks that pete made , he shared with the team that himself and me and a very , very small group had already began focusing on , as we should , assuming we achieve our objectives , and we've re-earned the right to grow , where are we going , what are we doing , and how do we go about that . and we said at that time we'd have much more to talk about at our investor day next june , so we're focused on that . and obviously we're confident we're going to hit our transformation objectives . 
+6 
+steve chercover - d . a . davidson & co . - analyst 
+{enum} final question . is there a way that you can get away from pass-through pricing mechanisms? 
+pete watson - greif , inc . - president and ceo 
+do you have any reference to which business? because it might be a slightly different answer in each business . or are you talking about just general , steve? 
+steve chercover - d . a . davidson & co . - analyst 
+i'm talking in general , because it occurs to me that it's a slippery slope . once you start having pass-through mechanisms , you have to give rebates when input costs go down , and ultimately you just become almost like a utility . 
+pete watson - greif , inc . - president and ceo 
+yes , i think it depends on your position in the market . most customers prefer a pass-through mechanism , because it's controllable , manageable , and eliminates volatility , and actually negotiating trouble . so i think it would be hard to go entirely away from that , although there are some instances where it makes sense for both us and the customer not to have it . but broadly , i doubt whether we can holistically move away from that type of arrangement . 
+steve chercover - d . a . davidson & co . - analyst 
+i mean , would it be a nice-to-have objective? 
+pete watson - greif , inc . - president and ceo 
+depends on the business you are and your position in the market . i'm not trying to be cute , but it really just depends on the region , and your position in the market would dictate whether it's a benefit to you or not , and then whether or not you can negotiate that with your customers in the market . and the other issue you have to -- we all have to remember is , we have competitors who could cause a stir with that , as well . 
+steve chercover - d . a . davidson & co . - analyst 
+got it . okay . thank you very much . 
+operator 
+your next question comes from the line of ghansham panjabi with baird . your line is open . 
+ghansham panjabi - robert w . baird & company , inc . - analyst 
+pete , i think you said demand in europe normalized in august , after some weakness late in your q{num} i would imagine that's july . august , i would imagine is also quite a weak month with europe in general . as you look out to september and beyond , could you perhaps share what your customers seem to be indicating about european demand for the rest of the year , maybe some recent conversations , or something like that? 
+pete watson - greif , inc . - president and ceo 
+thank you , ghansham . so the slowing in july and august could be tied to the holiday season in europe . but going forward , i would expect that we will see similar trends that we've seen in the last four months . 
+we've got to remember , there's still expansion . it's just slowing . and at this point , since we've seen volumes improve in august , through the end of august , talking to our team there , we do not have any significant concerns that that trend will change . 
+ghansham panjabi - robert w . baird & company , inc . - analyst 
+{enum} and then in ibc , on the strong demand for that particular product , is that a shift away from other alternatives in your portfolio , or is it specific to a particular product or end market? just seems high , at up 8% in north america and europe . 
+pete watson - greif , inc . - president and ceo 
+two points . our customers are transitioning from some packaging mediums to ibcs . a lot of times , it's more efficient in their supply chain . and secondly , quite frankly , is our position is smaller , and so we are -- as we are growing and adding capability around the world , those increases are higher . and as we grow our footprint , those would stabilize slightly more . but in general , the growth rates for ibcs are at a 
+7 
+higher rate globally than steel drums or fiber drums or plastic drums . 
+ghansham panjabi - robert w . baird & company , inc . - analyst 
+and then one final one , maybe for larry . larry , i'm sorry if i missed this , if you covered this already , but what's driving the higher free cash flow above and beyond the capex reduction? can you just update us on working capital as well for {num}? 
+larry hilsheimer - greif , inc . - evp and cfo 
+{enum} thanks for the question . effectively , there is the element of the taxes , which is about ${num} million or so . and then we also have about $7 million on pick-up of just the midpoint of our capex range , and the balance is just a continued improvement in our working capital elements . those three items essentially total up to the move of our range . 
+on a go-forward basis , we remain committed to delivering on our transformation commitments . the operational improvements that we'll continue to deliver through next year , and also continued focus on further improvements in working capital management , will help us deliver on those commitments . 
+and we do have one bit of tailwind going into next year . we'll be refinancing our bond , and we'll have some pick-up even on interest expense cash out next year , as well . 
+ghansham panjabi - robert w . baird & company , inc . - analyst 
+{enum} thanks so much . 
+operator 
+your next question comes from the line of george staphos with bank of america . your line is open . 
+george staphos - bofa merrill lynch - analyst 
+thanks for the details . a lot of my questions have already been asked . i just want to take another track or tie on ghansham's question . can you comment at all in terms of what kind of volume year on year you're seeing midway through the fiscal fourth quarter? 
+can you talk at all about the percentage rates , what they dipped down to , what they're looking like now across some of the key geographies? obviously europe is where you saw a bit of a slowdown , or product lines . 
+pete watson - greif , inc . - president and ceo 
+{enum} so what we have is visibility , that i have visibility in probably the first three weeks of august , which is dangerous to make assumptions from three weeks . but again , in europe , we were quite pleased that we started seeing volumes trend back to more normalized volume trends across all of europe . i think i commented , there are a few weak spots . saudi arabia is one that's been weak all of q{num} although it's not necessarily material to our rips business overall . 
+i would say in north america , we don't see any dramatically different trends from the first three weeks in august , from what we saw in the third quarter . and that's one of the typical exceptions , is that fiber tends to slow down in q{num} because the large input of the ag season on the west coast , since that didn't happen , we tend to see flatter -- we'll see a flatter trend in that segment . does that answer what you were poking at , george? 
+george staphos - bofa merrill lynch - analyst 
+pete , a little bit , and i don't want to belabor it . in europe would trending back to normal rate be low single digit growth that you're seeing on an ongoing basis? i'm trying to put some sort of numbers to the verbiage . 
+pete watson - greif , inc . - president and ceo 
+in steel we've been running between 1% and {num}% to 3% throughout the year . i think that will be probably toward the lower end of that , only because what we see the trending of the manufacturing data . i think ibcs will continue to grow at a similar rate this year , and hopefully we expect next year , because of some of the additions we're making in that business . 
+in north america , i think you will start seeing year -- but mainly in steel because we'll have a fair comparison based on our consolidation efforts changed in q4 last year . so it's just a more even comparison . 
+and i think our ibc business will continue to grow in north america as well , at a rate similar to what we're seeing this year , or potentially higher . again , as we've added capability . 
+8 
+george staphos - bofa merrill lynch - analyst 
+thank you for that , pete . the next question i had , i'm guessing it's largely pass-through , and certainly your margin improvement ultimately is the most important arbiter here . but when you talk about emphasizing price if you will , or value over volume , and i then look at some of the percentage increases in price mix , either in the table in the slide deck or the table in your press release , the percentage changes are not that significant . so is there a way to divine for us how much is pass-through , and why we're not seeing a bigger pick-up in pricing , given the obvious emphasis on value? 
+pete watson - greif , inc . - president and ceo 
+so a lot of components go into the gross margin line . and from a pricing -- because we have a high pass-through mechanism , when you look at our raw materials , whether it's predominantly steel , because that's about {num}% of our substrate volume in rips . you have pass-through mechanism , when it goes up , we pass that through , when it goes down , we do the same . there's lags , and depending on the timing , so it's not always clear . 
+i think there's three big parts of what we're doing from a gross margin standpoint . it's we are making decisions on where we participate , and where we don't . and that's based on the margins we get . 
+secondly , it's supply chain and sourcing initiatives . as an example , we've got {num} to {num} different initiatives , whether it's in transportation , whether it's in sourcing that we do , whether it's indirect materials that we do constantly , to try to create value . 
+and then another big part is our operating costs and our operating execution levers . one of the biggest areas there has to do with unplanned down time in our operations , and that really speaks to improved reliability and consistency in our manufacturing operations , and there's a variety of levers that drive that . 
+i think my point on value over volume is we have to , and we are changing our culture , that volume is strictly a vehicle for profit . and we're not going to be slaves to chasing volume in competitive arenas , where the margins are eroding . 
+we have to be smart about where we participate and where we choose to participate , and with the right strategic customers . so that doesn't necessarily mean that you're always going to get high margins , because it is a competitive environment , but it's based on the decisions you make in certain circumstances that drive our behavior , which is profit first , and volume second . 
+george staphos - bofa merrill lynch - analyst 
+no , that makes sense , pete . i appreciate the thoughts on that . i don't know if there's a way to quantify , maybe an aggregate for the company , what the effect of pass-through was year on year , in the quarter? if you had it somewhere in the deck or release , i apologize for missing it . 
+larry hilsheimer - greif , inc . - evp and cfo 
+we don't have it in there , george . we've never really tried to quantify it ourselves . it's a thing that we can look at and see whether it's something we could do , but we have not yet done it . 
+george staphos - bofa merrill lynch - analyst 
+{enum} 
+pete watson - greif , inc . - president and ceo 
+the other thing , larry's talked about , we have multiple , number of pass-through mechanisms , and the question how reliable and how much time it would take to do that . we know what increases we're getting or decreases in material , and how that would behave and we track that . but to roll it up would be very challenging , and i'm not so sure would tell us a different story , and make us change what we're doing , running the business , if that makes sense to you . 
+george staphos - bofa merrill lynch - analyst 
+it does . look , margin again will be the final arbiter and again congratulations to you on your performance there . from where we sit , having that would be helpful in terms of our valuation of you , but again , we don't necessarily want to create a lot of work for you all , and the disclosures have become much better . so again , we thank you for all that . 
+my last question , i'll turn it over and come back in queue , can you talk a little about your progress in reconditioning , and how that's going , and how that's helping if at all your ibc growth? thank you . 
+9 
+pete watson - greif , inc . - president and ceo 
+that's a great question . so our belief is the biggest opportunity in rips and reconditioning is tied with ibcs , because that's more of a supply chain strategy . 
+we are in mendig , germany , we've reconfigured our manufacturing footprint for ibcs in that region , consolidated , improved it and part of that is putting an integrated new ibc reconditioned facility in one , in central germany and that is almost completed , and we are building a similar capability in the netherlands , and we have other partners around the world that we also do that . so that is our focus in reconditioning . 
+larry hilsheimer - greif , inc . - evp and cfo 
+why don't you ask your additional question now . i think we're going to just take adam and chris and end after that . so if you have an additional question we'd be happy to address it now . 
+george staphos - bofa merrill lynch - analyst 
+{enum} i mean , i guess the last question i had was just what are the next steps , recognizing you're pleased with your performance to date , or the improvement , and furthering the turnaround in flexibles , what are the next operating metrics or key mile markers? is there any next capital investment that you need to make? obviously you're working on mexico there . any thoughts there would be helpful . and with that , good luck in the quarter . 
+pete watson - greif , inc . - president and ceo 
+george , you're referencing just fps . 
+george staphos - bofa merrill lynch - analyst 
+correct , correct . 
+pete watson - greif , inc . - president and ceo 
+the next big milestone , as we've talked about is q{num} so we've -- and you can see on what we've released , is we expect to have ebitda $3 million in q{num} correction : the information that the speaker meant to disclose was that an ebitda $3 million improvement over q4 {num} is expected for q4 {num} 
+we're really pleased with the pace and activity that's happening there , both in managing our underperforming operations , and what we're doing in the market , and operationally . but that is a big milestone for us . our leader , hari kumar , is confident in the activities that are going , and everything we're doing is poised to that , as that is the next milestone . 
+george staphos - bofa merrill lynch - analyst 
+{enum} i'll turn it over . thank you . 
+operator 
+your next question comes from the line of adam josephson with keybanc . your line is open . 
+adam josephson - keybanc capital markets - analyst 
+larry , pete , thanks so much for taking my follow-ups . i'll try to make them quick . one is just back to the containerboard price increase , can you talk about what impact you expect that to have on your fy{num} financials? 
+pete watson - greif , inc . - president and ceo 
+yes , sure . so because it's a little bit convoluted right now , as you know , let me talk , if i could , real quick about this fourth quarter . 
+so our fourth quarter , as you know , is august through october . so we're going to have a balance between agreements that we have the ${num} a ton medium reduction and then plus beginning a blending of the ${num} a ton increase on containerboard . 
+so we're talking about an estimated $1 million to ${num} million impact in q4 on the negative side , depending on the timing . and in {num} and really starting in our q{num} adam , which is november to january , we expect to have the ${num} a ton increase on containerboard . 
+there might be a month delay for our corrugated product sheets , so we'll be getting that during early q{num} our q{num} which is november . and then probably -- if you just take our volume and if you can use for reference about {num} tons is medium and {num} tons is linerboard , 
+{num} 
+and do the math on the ${num} and the ${num} that will give you a fairly clear view of what we think that impact will be in {num} 
+adam josephson - keybanc capital markets - analyst 
+so by 2q {num} pete , you think you'll be at that full run rate of benefit , if you will , so call ${num} million . 
+pete watson - greif , inc . - president and ceo 
+and the key would be , as our q2 is february through april , so we will -- we should start having good run rates in our q{num} 
+adam josephson - keybanc capital markets - analyst 
+{enum} just to be clear , your annual capacity is , what , {num} tons or so? 
+pete watson - greif , inc . - president and ceo 
+we're going to expect to produce about {num} tons today . i'd just say {num} for medium and {num} for linerboard as a good reference point . 
+adam josephson - keybanc capital markets - analyst 
+{enum} thanks , pete . just two other quickies . sg&a was ${num} million in the quarter . larry , can you just remind me what you expect the eventually quarterly run rate to be? 
+larry hilsheimer - greif , inc . - evp and cfo 
+what we've said , adam , is we want our sg&a to be below {num}% of revenue , so obviously it tends to be a little bit of a moving target . but when we laid out our commitments in june , you'd be at the ${num} billion level . so obviously below ${num} million for the year . so it fluctuates a little quarter to quarter , because of some things , and you get incentive accruals that vary throughout the year . but that ballpark is where we should be . 
+adam josephson - keybanc capital markets - analyst 
+{enum} thanks , larry . just one more on the macro , pete . you talked earlier about north america , the ism pmi just for august just came out this morning . it was {num} a bit below expectations , and pointing to modest contraction . does that surprise you at all? i know you earlier talked about continued slow growth in north america . so is that a surprising number to you? 
+pete watson - greif , inc . - president and ceo 
+adam , i saw the european numbers that came out , i've not seen that , the north american one . so yes , for it actually to go down to {num} that is surprising . i haven't got a chance to look at it , so i'll leave that comment . 
+adam josephson - keybanc capital markets - analyst 
+totally understand . thank you . 
+operator 
+today's last question comes from the line of chris manuel with wells fargo . your line is open . 
+chris manuel - wells fargo securities , llc - analyst 
+i just had one follow-up for larry . i don't want him to feel neglected and feel like i didn't have a couple questions for you too . 
+larry hilsheimer - greif , inc . - evp and cfo 
+thanks , chris . 
+chris manuel - wells fargo securities , llc - analyst 
+i wanted to ask -- i know you're not going to like this question necessarily , because i'm going to ask you about {num} a little bit . but where we end up this year for free cash flow , let's say you end up toward the middle of your range . 
+{num} 
+help me perhaps walk through what some of the puts and takes are for {num} and -- i'm sorry , for {num} versus {num} and that i'm presuming it's going to be a bigger number in {num} than {num} but some of the puts and takes there . obviously , higher earnings . capex , probably in a similar range . 
+but the one i guess where i get stuck is on working capital . if you do have a paper price increase that would be a negative to working capital , even though it would help nicely on earnings . if you have steel prices are up {num}% in the last month or two , how would you think about some of the puts or takes between -- i think you said earlier , restructuring expense may be down a shade of the different pieces , {num} versus {num} for free cash flow? 
+larry hilsheimer - greif , inc . - evp and cfo 
+i'll make some comments on it , chris , but i'll just be very direct . i have not re-looked at what i think {num}'s projection would be , except to just do a gut check on , do i think we are able to get there , based on what we've looked at before? and i have absolute confidence that we will get there . 
+but if i just go to your pieces and parts , capex this year in the fourth-quarter numbers that we laid out , obviously we said down a little bit . that has to do with discipline in our process . so when we take tentative approval in our budgetary process on a project , we tell the teams when you come for real spend , you have to redo your business case with actual bids . that sometimes puts pressure in the process , where the bids delay , and some things get pushed back . 
+capex is probably slightly lower right now , than where i would expect it to be . i think i'd stay consistent with what we said before , ${num} million to ${num} million , call it ${num} million to ${num} million , somewhere in that range , so maybe slightly more on capex . but we're just beginning that process for our budget for next year , so we haven't landed on a number yet . 
+the second element would be , as i mentioned , we anticipate some element of tailwind from interest cost savings . third element is , i do expect further cost reductions in our sg&a spend , and just operating results , as you mentioned , that will drive a lot . and then working capital , we do expect to get another ${num} million to ${num} million of savings out of next year , and hopefully even more , depending on what we're able to accomplish this final quarter , as well . 
+chris manuel - wells fargo securities , llc - analyst 
+{enum} one last question . when you laid out your original -- i don't have it in front of me it was ${num} million to maybe ${num} million or something like that , run rate for free cash flow coming out of {num} did that contemplate a debt re-fi in it or not? 
+larry hilsheimer - greif , inc . - evp and cfo 
+we had contemplated that there would be some savings . we're probably looking at slightly more now than we did then . 
+chris manuel - wells fargo securities , llc - analyst 
+{enum} that's helpful . good luck . thank you . 
+operator 
+your next -- today's last question comes from the line of george staphos with bank of america . your line is open . 
+george staphos - bofa merrill lynch - analyst 
+i know you're running tight . thanks for letting me back in the queue . i had one last question i'd forgotten to ask . when we look at your decisions on pricing in containerboard , and the decision to go out with a ${num} per ton price increase effective october , it would suggest to us that from what you've seen in the business , august trends have been relatively good . otherwise , we would have expected that maybe one would have wanted to see what the data looked like middle of september . 
+so can you talk a little bit about whether that data and that industry information was relevant , or really not that relevant , in terms of how you were setting your pricing strategy? thanks , pete . thanks , larry . thanks , matt . we'll talk to you soon . 
+pete watson - greif , inc . - president and ceo 
+thank you , george . so i'll comment on what we see , and how that impacts our decisions . so actually our backlog in our mills is actually better now than it was at the beginning of q{num} which would suggest we're seeing some improved activities and our corrchoice sheet feeder system continues to have good growth . i think we're up {num}% quarter over quarter , and we still see a good growth opportunity there . 
+so again , our biggest decision on the announcement has to do with what we believe we have to do , to provide the right return for the capital 
+{num} 
+invested in the business , and offset the increased cost that we've seen over the past {num} years erode our margins . i hope that answers your question , george . 
+george staphos - bofa merrill lynch - analyst 
+yes , that's great . thanks very much . 
+operator 
+i would now like to turn the call back over to matt eichmann for closing remarks . 
+matt eichmann - greif , inc . - vp of ir 
+{enum} hey , thanks a lot , julie . that concludes our presentation today . the replay of this question-and-answer session will be available later on our website , at www . investor . greif . com . 
+we really appreciate your participation and your interest . we hope you have a great remainder of your week . thank you . 
+operator 
+this concludes today's conference call . you may now disconnect . 
+{num} 

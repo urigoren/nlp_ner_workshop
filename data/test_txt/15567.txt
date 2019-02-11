@@ -1,0 +1,31 @@
+exhibit {num} 
+on company letterhead 
+retention award 
+_______________________ 
+_______________________ 
+_______________________ 
+dear ___________ , 
+as a very valued and key member of the pier 1 imports senior executive team and as one whose continued leadership will be especially critical during the transition to a new ceo , i am delighted and pleased to inform you that the board of directors on ____________approved a cash award to you of $_____ under the terms and conditions outlined in the attached appendix . 
+on behalf of the board of directors , congratulations and thank you , not only for your past contributions , but for what you will surely contribute to the future success of our beloved company . 
+regards , 
+alex smith 
+appendix to retention award 
+the retention award described in this letter ( the " award " ) will be paid in a cash lump sum , subject to applicable federal , state , and local tax and other payroll withholding within fifteen ( {num} ) days following ____________ ( the " payment date " ) if ( i ) you remain employed by pier 1 imports , inc . ( the " company " ) or an affiliate through the payment date , or ( ii ) your employment is terminated by the company or an affiliate prior to the payment date without cause , or ( iii ) you resign for good reason prior to the payment date . 
+for purposes of this award agreement , the term : 
+" affiliate " means any entity which is controlling , controlled by , or under common control with the company . 
+" cause " means the occurrence of any of the following events : 
+{enum} refusal by you to follow a lawful direction of any superior officer of the company or an affiliate , provided the direction is not materially inconsistent with the duties or responsibilities of your position ; 
+{enum} performance deficiencies which are communicated to you in writing as part of performance reviews and / or other written communications from any superior officer of the company or an affiliate ; 
+{enum} willful misconduct or reckless disregard by you of your duties or of the interest or property of the company or its affiliates ; 
+{enum} any act by you of fraud against , material misappropriation from , or significant dishonesty to either the company or an affiliate ; or 
+{enum} conviction by you of a felony . 
+" good reason " means the occurrence of all of the events listed in either ( a ) or ( b ) below : 
+{enum} a material diminution of your responsibilities as modified by the company or an affiliate from time to time hereafter , such that you would no longer have responsibilities substantially equivalent to those of similarly situated employees at companies with similar revenues and market capitalization ; provided that you give written notice to the company of the facts and circumstances constituting such material diminution within ten ( {num} ) days following the occurrence of such event ; the company ( or affiliate ) fails to remedy such material diminution within ten ( {num} ) days following your written notice of such event ; and you terminate your employment within ten ( {num} ) days following the company's or affiliate's failure to remedy such material diminution ; or 
+{enum} the company or an affiliate materially reduces your base salary without your consent , unless the reduction is applied equally , expressed as a percentage of base salaries , to all similarly situated employees ; provided that you give written notice to the company within ten ( {num} ) days following your receipt of the notice of reduction in base salary of your objection to the reduction ; the company or affiliate fails to rescind the notice of reduction within ten ( {num} ) days following your written notice ; and you terminate your employment within ten ( {num} ) days following the company's or affiliate's failure to rescind the notice . 
+this award shall not be construed as giving you the right to be retained in the service of the company or an affiliate . you shall remain subject to discharge to the same extent as if the award had never been granted . 
+pier 1 imports , inc . 
+by : ______________________________ 
+gregory s . humenesky , evp human resources 
+agreed and accepted 
+_________________________________ 
+{enum} 

@@ -1,0 +1,84 @@
+exhibit 
+exhibit {num} 
+amendment no . 6 
+dated as of july {num} {num} 
+to 
+credit agreement 
+dated as of september {num} {num} 
+this amendment no . 6 ( " amendment " ) is made as of july {num} {num} and shall , upon satisfaction of the conditions precedent set forth in section 2 below be effective as of the date hereof ( the " amendment no . 6 effective date " ) by and among amtrust financial services , inc . , a delaware corporation ( the " borrower " ) , the financial institutions listed on the signature pages hereof and jpmorgan chase bank , n . a . , as administrative agent ( the " administrative agent " ) , under that certain credit agreement dated as of september {num} {num} by and among the borrower , the lenders and the administrative agent ( as amended , restated , supplemented or otherwise modified from time to time prior to the date hereof , the " credit agreement " ) . capitalized terms used herein and not otherwise defined herein shall have the respective meanings given to them in the credit agreement . 
+whereas , the borrower has requested that the requisite lenders and the administrative agent agree to make certain modifications to the credit agreement ; 
+whereas , the borrower , the lenders party hereto and the administrative agent have so agreed on the terms and conditions set forth herein ; 
+now , therefore , in consideration of the premises set forth above , the terms and conditions contained herein , and other good and valuable consideration , the receipt and sufficiency of which are hereby acknowledged , the borrower , the lenders party hereto and the administrative agent hereby agree to enter into this amendment . 
+{enum} amendments to credit agreement . effective as of the amendment no . 6 effective date but subject to the satisfaction of the conditions precedent set forth in section 2 below , the credit agreement is hereby amended as follows : 
+{enum} the definition of " consolidated fixed charge coverage ratio " set forth in section {num} of the credit agreement is amended , effective as of june {num} {num} by deleting it in its entirety and replacing it with the following definition : 
+" consolidated fixed charge coverage ratio " means , at any date of determination , with respect to the borrower and its subsidiaries on a consolidated basis , the ratio of ( a ) the sum of ( i ) the maximum cash dividends available to the borrower from its regulated insurance companies on such date ( without prior approval from any applicable insurance regulatory authority ) plus ( ii ) an amount equal to the service and fee ebitda of the borrower and its subsidiaries for the test period then ended to ( b ) the sum of ( i ) the aggregate amount of all scheduled principal payments on all indebtedness of the borrower and its subsidiaries for the next succeeding four fiscal quarters of the borrower ( other than any 
+balloon , bullet or similar payment which repays such indebtedness in full ) , plus ( ii ) the consolidated interest expense ( excluding consolidated interest expense attributable to permitted non-recourse secured debt ) for the test period then ended , plus ( iii ) all consolidated shareholder distributions made during the test period then ended . consolidated fixed charge coverage ratio shall be further calculated in accordance with section {num} ( g ) . 
+{enum} section {num} of the credit agreement is amended to add the following definitions thereto in the appropriate alphabetical order : 
+" amendment no . 6 effective date " means july {num} {num} 
+" service and fee ebitda " means , for any period and for any person , net income of such person for such period , produced solely from services and fees generated from product warranty registration and service , servicing carriers , management services , insurance fees , broker services , asset management services , information technology services and other similar services related to the insurance business plus , to the extent deducted from revenues in determining such net income , ( i ) interest expense , ( ii ) expense for taxes paid or accrued , ( iii ) depreciation , ( iv ) amortization , and ( v ) extraordinary losses incurred other than in the ordinary course of business , minus , to the extent included in net income , extraordinary gains realized other than in the ordinary course of business . 
+{enum} section {num} ( e ) of the credit agreement is restated in its entirety as follows : 
+{enum} the borrower may repurchase shares of its common stock in the open market or in privately negotiated transactions in the amounts permitted by the following clauses ( 1 ) or ( 2 ) so long as the board of directors of the borrower shall have authorized such repurchase and the management of the borrower shall have determined that such repurchase is in the best interest of the borrower : ( 1 ) the aggregate repurchase price to be paid by the borrower for such repurchase , taken together with the sum of all aggregate repurchase prices paid by the borrower in connection with all repurchases of its common stock since the effective date in reliance on this section {num} ( e ) ( 1 ) shall not exceed ${num} ; or ( 2 ) ( a ) the aggregate repurchase price to be paid by the borrower for such repurchase , taken together with the sum of all aggregate repurchase prices paid by the borrower in connection with all repurchases of its common stock since the amendment no . 6 effective date in reliance on this section {num} ( e ) ( 2 ) shall not exceed an amount equal to {num}% of the net proceeds received by the borrower from any sale of its own equity interests since the amendment no . 6 effective date and ( b ) notwithstanding the immediately foregoing clause ( a ) , in no event shall the aggregate repurchase price to be paid by the borrower for such repurchase , taken together with the sum of all aggregate repurchase prices paid by the borrower in connection with all repurchases of its common stock during any fiscal year of the borrower in reliance on this section {num} ( e ) ( 2 ) exceed ${num} during such fiscal year of the borrower ( it being understood and agreed that the amounts permitted by the foregoing clauses ( 1 ) and ( 2 ) are independent basket exceptions and should not be viewed as a combined basket in the aggregate ) ; 
+{enum} conditions of effectiveness . the effectiveness of this amendment is subject to the conditions precedent that the administrative agent shall have received ( a ) counterparts of this amendment duly executed by the borrower , the required lenders and the administrative agent , ( b ) for 
+2 
+the account of each lender party hereto that delivers its executed signature page to this amendment by no later than the date and time specified by the administrative agent , an amendment fee in an amount equal to ${num} and ( c ) payment and / or reimbursement of the administrative agent's and its affiliates' fees and expenses ( including , to the extent invoiced , the reasonable fees and expenses of counsel for the administrative agent ) in connection with this amendment . 
+{enum} representations and warranties of the borrower . the borrower hereby represents and warrants as follows : 
+{enum} this amendment and the credit agreement as amended hereby constitute legal , valid and binding obligations of the borrower and are enforceable against the borrower in accordance with their terms , subject to applicable bankruptcy , insolvency , reorganization , moratorium or other laws affecting creditors' rights generally and subject to general principles of equity , regardless of whether considered in a proceeding in equity or at law . 
+{enum} as of the date hereof and giving effect to the terms of this amendment , ( i ) no default or event of default shall have occurred and be continuing and ( ii ) the representations and warranties of the borrower set forth in the credit agreement , as amended hereby , are true and correct as of the date hereof . 
+{enum} reference to and effect on the credit agreement . 
+{enum} upon the effectiveness hereof , each reference to the credit agreement in the credit agreement or any other loan document shall mean and be a reference to the credit agreement as amended hereby . 
+{enum} each loan document and all other documents , instruments and agreements executed and / or delivered in connection therewith shall remain in full force and effect and are hereby ratified and confirmed . 
+{enum} except with respect to the subject matter hereof and as set forth herein , the execution , delivery and effectiveness of this amendment shall not operate as a waiver of any right , power or remedy of the administrative agent or the lenders , nor constitute a waiver of any provision of the credit agreement , the loan documents or any other documents , instruments and agreements executed and / or delivered in connection therewith . 
+{enum} this amendment shall be a loan document . 
+{enum} governing law . this amendment shall be construed in accordance with and governed by the law of the state of new york . 
+{enum} headings . section headings in this amendment are included herein for convenience of reference only and shall not constitute a part of this amendment for any other purpose . 
+{enum} counterparts . this amendment may be executed by one or more of the parties hereto on any number of separate counterparts , and all of said counterparts taken together shall be deemed to constitute one and the same instrument . 
+signature pages follow 
+3 
+in witness whereof , this amendment has been duly executed as of the day and year first above written . 
+amtrust financial services , inc . , 
+as the borrower 
+by : / s / evan greenstein 
+name : evan greenstein 
+title : vice president , treasurer 
+jpmorgan chase bank , n . a . , 
+individually as a lender , as issuing bank and as administrative agent 
+by : / s / hector j . varona 
+name : hector j . varona 
+title : executive director 
+keybank national association , 
+as a lender 
+by : / s / james cribbet 
+name : james cribbet 
+title : senior vice president 
+suntrust bank , 
+as a lender 
+by : / s / paula mueller 
+name : paula mueller 
+title : director 
+signature page to amendment no . 6 to 
+credit agreement dated as of september {num} {num} 
+amtrust financial services , inc . 
+lloyds bank plc , 
+as a lender 
+by : / s / daven popet 
+name : daven popet – p{num} 
+title : senior vice president 
+by : / s / dennis mcclellan 
+name : dennis mcclellan – m{num} 
+title : assistant vice president 
+associated bank , national association 
+as a lender 
+by : / s / edward j . chidiac 
+name : edward j . chidiac 
+title : senior vice president 
+morgan stanley bank , n . a . , as a lender 
+by : / s / cindy tse 
+name : cindy tse 
+title : managing director 
+the privatebank and trust company , as a lender 
+by : / s / austin g . love 
+name : austin g . love 
+title : associate managing director 
+signature page to amendment no . 6 to 
+credit agreement dated as of september {num} {num} 
+amtrust financial services , inc . 

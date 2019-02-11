@@ -1,0 +1,40 @@
+press release 
+exhibit {num} 
+biodelivery sciences announces randomization target reached in 
+clinical trial of clonidine topical gel 
+for the treatment of painful diabetic neuropathy 
+top-line study results available by year-end 
+raleigh , n . c . , august {num} {num} - biodelivery sciences international , inc . ( nasdaq : bdsi ) announced that it has reached its target number of subjects to be randomized in its multi-center , double-blind , placebo-controlled phase 2b study assessing the efficacy and safety of clonidine topical gel in the treatment of pain associated with painful diabetic neuropathy . based on the timing of randomization of the last patient , bdsi now expects topline results of the study will be available by the end of this year , which puts it six to eight weeks ahead of schedule . 
+bdsi initiated the phase 2b study in late december {num} to assess the efficacy and safety of clonidine topical gel in the treatment of pain associated with painful diabetic neuropathy . subjects in the study were randomized to receive either clonidine topical gel or a placebo gel . a total of approximately {num} adult subjects will be randomized into the {num}-week double-blind treatment phase of the study . 
+the u . s . food and drug administration has granted fast track designation for the program , which recognizes the need for new therapies for this serious condition . if the present study objectives are met , bdsi expects to commence a confirmatory phase 3 study in early {num} 
+about biodelivery sciences international 
+biodelivery sciences international , inc . ( nasdaq : bdsi ) is a specialty pharmaceutical company with a focus in the areas of pain management and addiction medicine . bdsi is utilizing its novel and proprietary bioerodible mucoadhesive ( bema ® ) technology and other drug delivery technologies to develop and commercialize , either on its own or in partnership with third parties , new applications of proven therapies aimed at addressing important unmet medical needs . 
+bdsi's development strategy focuses on utilization of the fda's {num} ( b ) ( 2 ) approval process . this regulatory pathway creates the potential for more timely and efficient approval of new formulations of previously approved therapeutics . 
+bdsi's particular area of focus is the development and commercialization of products in the areas of pain management and addiction . these are areas where bdsi believes its drug delivery technologies and products can best be applied to address critical unmet medical needs . bdsi's marketed products and those in development address serious and debilitating conditions such as opioid dependence , chronic pain , breakthrough cancer pain and painful diabetic neuropathy . bdsi's headquarters is located in raleigh , north carolina . 
+for more information , please visit or follow us : 
+internet : www . bdsi . com 
+facebook : facebook . com / biodeliverysi 
+twitter : @biodeliverysi 
+bdsi markets bunavail ® ( buprenorphine and naloxone ) buccal film ( ciii ) and onsolis ® ( fentanyl buccal soluble film ) ( cii ) . belbuca™ ( buprenorphine ) buccal film ( ciii ) is commercialized in the u . s . by endo pharmaceuticals pursuant to the worldwide licensing and development agreement between bdsi and endo . for full prescribing information and important safety information on bdsi products , including boxed warnings for onsolis , please visit www . bdsi . com where the company promptly posts press releases , sec filings and other important information or contact the company at ( {num} ) {num}-{num} for full prescribing and safety information on belbuca , please visit www . belbuca . com . 
+cautionary note on forward-looking statements 
+this press release and any statements of employees , representatives and partners of biodelivery sciences international , inc . ( the " company " ) related thereto ( including , without limitation , at the presentation described herein ) contain , or may contain , among other things , certain " forward-looking statements " within the meaning of the private securities litigation reform act of {num} such forward-looking statements involve significant risks and uncertainties . such statements may include , without limitation , statements with respect to the company's plans , objectives , projections , expectations and intentions and other statements identified by words such as " projects , " " may , " " will , " " could , " " would , " " should , " " believes , " " expects , " " anticipates , " " estimates , " " intends , " " plans , " " potential " or similar expressions . these statements are based upon the current beliefs and expectations of the company's management and are subject to significant risks and uncertainties , including those detailed in the company's filings with the securities and exchange commission . actual results ( including , without limitation , the timing for announcement of the results of the clinical trial described herein , and the actual timing for any subsequent clinical trials ) may differ significantly from those set forth in the forward-looking statements . these forward-looking statements involve certain risks and uncertainties that are subject to change based on various factors ( many of which are beyond the company's control ) . the company undertakes no obligation to publicly update any forward-looking statements , whether as a result of new information , future presentations or otherwise , except as required by applicable law . 
+bdsi ® , bema ® and bunavail ® are registered trademarks of biodelivery sciences international , inc . the biodelivery sciences and bunavail logos are trademarks owned by biodelivery sciences international , inc . all other trademarks and tradenames are owned by their respective owners . 
+© {num} biodelivery sciences international , inc . all rights reserved . 
+contacts 
+investors : 
+matthew p . duffy 
+managing director 
+lifesci advisors , llc 
+{num}-{num}-{num} 
+matthew@lifesciadvisors . com 
+al medwar 
+senior vice president , corporate and business development 
+biodelivery sciences international , inc . 
+{num}-{num}-{num} 
+amedwar@bdsi . com 
+media : 
+susan forman / laura radocaj 
+dian griesel int'l . 
+{num}-{num}-{num} 
+sforman@dgicomm . com 
+lradocaj@dgicomm . com 

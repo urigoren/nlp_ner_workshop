@@ -1,0 +1,89 @@
+exhibit 
+exhibit {num} 
+xlit ltd . 
+as the company 
+xl group public limited company ( in voluntary liquidation ) 
+as the released guarantor 
+xl group ltd 
+as the guarantor 
+wells fargo bank , national association 
+as the trustee 
+fourth supplemental indenture 
+dated as of august {num} {num} 
+to 
+indenture dated as of september {num} {num} 
+fourth supplemental indenture , dated as of august {num} {num} ( the " fourth supplemental indenture " ) , by and among ( i ) xlit ltd . , a cayman islands exempted company ( the " company " ) , having its principal office at xl house , 8 st . stephen's green , dublin {num} ireland , ( ii ) xl group public limited company ( in voluntary liquidation ) , an irish public limited company ( the " released guarantor " ) , having its principal office at xl house , 8 st . stephen's green , dublin {num} ireland , ( iii ) xl group ltd , a bermuda exempted company ( the " guarantor " ) , having its principal office at o'hara house , one bermudiana road , hm {num} bermuda and ( iv ) wells fargo bank , national association , a national banking association , as trustee hereunder ( the " trustee " ) . 
+whereas , pursuant to ( i ) a first supplemental indenture dated as of september {num} {num} ( the " first supplemental indenture " ) , which supplemented the base indenture ( as defined below ) , the company issued , and the released guarantor guaranteed , the {num}% senior notes due {num} ( the " {num} notes " ) and ( ii ) a second supplemental indenture dated as of november {num} {num} ( the " second supplemental indenture " ) , which supplemented the base indenture , the company issued , and the released guarantor guaranteed , the {num}% senior notes due {num} ( the " {num} notes " ) and the {num}% senior notes due {num} ( the " {num} notes " and , together with the {num} notes and the {num} notes , the " existing senior notes " ) ; 
+whereas , as at the date hereof , the existing senior notes are the only securities outstanding under the indenture ( as defined in the base indenture ) ; 
+whereas , the company , the released guarantor , the guarantor and the trustee entered into a third supplemental indenture dated as of july {num} {num} ( the " third supplemental indenture " ) , pursuant to which the guarantor provided the additional guarantee ( as defined in the third supplemental indenture ) ; 
+whereas , the released guarantor was placed into member's voluntary liquidation in accordance with the laws of ireland on august {num} {num} and eamonn richardson of kpmg , 1 stokes place , st . stephen's green , dublin 2 ( the " liquidator " ) was appointed liquidator of the released guarantor ; 
+whereas , on the date of this fourth supplemental indenture , the released guarantor has transferred its properties and assets substantially as an entirety to the guarantor and , pursuant to section {num} ( b ) of the base indenture , the released guarantor has delivered to the trustee an officers' certificate stating that such transfer has occurred and that , pursuant to section {num} ( c ) of the base indenture , the released guarantor has thereupon been released and discharged from all obligations and covenants under the indenture and the securities , and such release and discharge shall be evidenced by this fourth supplemental indenture ; 
+whereas the company , the released guarantor , the guarantor and the trustee may enter into a supplemental indenture to evidence the release and discharge of the released guarantor from all obligations and covenants under the indenture and the securities pursuant to section {num} ( c ) of the base indenture without the consent of the holders of the securities ; 
+whereas , the execution and delivery of this fourth supplemental indenture has been authorized by a resolution of the board of directors of each of the company , the released guarantor and the guarantor , or a duly authorized committee thereof ; 
+whereas , concurrently with the execution hereof , the released guarantor has ( i ) delivered an officers' certificate to the trustee and ( ii ) have caused its counsel to deliver to the trustee an opinion of counsel as to the laws of the state of new york stating that the execution of this fourth supplemental indenture is permitted by the base indenture and that the base indenture , as supplemented by this fourth supplemental indenture , is a valid , binding and enforceable obligation of the company , the released guarantor and the guarantor in accordance with its terms ; 
+whereas , all conditions and requirements of the base indenture necessary to make this fourth supplemental indenture a valid , binding and legal instrument in accordance with its terms have been performed and fulfilled by the parties hereto and the execution and delivery thereof have been in all respects duly authorized by the parties hereto ; and 
+whereas , this fourth supplemental indenture shall not result in a material modification of the existing senior notes for the purposes of compliance with the foreign accounts tax compliance act . 
+now , therefore , this fourth supplemental indenture witnesseth : 
+for and in consideration of the mutual premises and agreements herein contained , the company , the released guarantor , the guarantor and the trustee covenant and agree , for the equal and proportionate benefit of all holders of the securities as follows : 
+article i 
+definitions 
+section {num} definition of terms . 
+unless otherwise provided herein or unless the context otherwise requires : 
+{enum} a term defined in the base indenture has the same meaning when used in this fourth supplemental indenture ; 
+{enum} a term defined anywhere in this fourth supplemental indenture has the same meaning throughout ; 
+{enum} the singular includes the plural and vice versa ; 
+{enum} headings are for convenience of reference only and do not affect interpretation ; and 
+{enum} the following terms have the following meanings : 
+" base indenture " means the indenture dated as of september {num} {num} between the company , the released guarantor and the trustee ; and 
+" indenture " means the base indenture , as supplemented by the first supplemental indenture , the second supplemental indenture , the third supplemental indenture and this fourth supplemental indenture . 
+article ii 
+release and discharge of the released guarantor 
+section {num} release and discharge of the released guarantor . 
+pursuant to section {num} ( b ) of the base indenture ( as supplemented by the third supplemental indenture ) , the released guarantor is hereby released and discharged from its obligations under the indenture ( including the guarantee provided by the released guarantor ) and the securities . 
+article iii 
+miscellaneous 
+section {num} application of fourth supplemental indenture . 
+each and every term and condition contained in this fourth supplemental indenture that modifies , amends or supplements the terms and conditions of the base indenture with respect to the securities shall apply to all securities issued under the base indenture . 
+section {num} benefits of fourth supplemental indenture . 
+nothing contained in this fourth supplemental indenture shall or shall be construed to confer upon any person other than a holder of the securities , the company , the released guarantor , the guarantor and the trustee any right or interest to avail itself or himself , as the case may be , of any benefit under any provision of the base indenture or this fourth supplemental indenture . 
+section {num} amendment of fourth supplemental indenture . 
+the company , the released guarantor , the guarantor and the trustee , at any time and from time to time , may amend , modify or supplement this fourth supplemental indenture in accordance with the provisions of article ix of the base indenture . 
+section {num} liquidator 
+the parties hereto expressly acknowledge that the liquidator is executing this fourth supplemental indenture in his capacity as liquidator of the released guarantor only and for the sole purpose of releasing the released guarantor from all obligations and covenants under the indenture and the securities and the parties hereto further acknowledge that any personal liability of the liquidator and / or other partner of the liquidator's firm arising out of or in connection with the terms and provisions of this fourth supplemental indenture or any agreement or matter connected therewith is hereby excluded and the liquidator and / or any other partner of the liquidator's firm shall not be under any liability to the parties hereto affecting the assets of the liquidator or any other partner of the liquidator's firm personally and his agents or their estate . nothing contained in this fourth supplemental indenture nor any agreement or matter connected herewith shall in any way affect the estate or property of the liquidator ( or any other partner of the liquidator's firm ) , who is executing this fourth supplemental indenture solely in his capacity as liquidator of the released guarantor and in no other capacity whatsoever . 
+section {num} effective date . 
+this fourth supplemental indenture shall be effective as of the date first above written and upon the execution and delivery hereof by each of the parties hereto . 
+section {num} governing law ; waiver of jury trial ; submission to jurisdiction . 
+this fourth supplemental indenture shall be governed by , and construed in accordance with , the laws of the state of new york without giving effect to principles of conflicts of laws of such state . 
+each of the company , the released guarantor , the guarantor and the trustee hereby irrevocably waives , to the fullest extent permitted by applicable law , any and all right to trial by jury in any legal proceeding arising out of or relating to this fourth supplemental indenture , the securities or the transaction contemplated hereby . 
+each of the company , the released guarantor , the guarantor and the trustee hereby submits to the nonexclusive jurisdiction of the united states district court for the southern district of new york and of any new york state court sitting in the borough of manhattan in new york city for the purposes of all legal proceedings arising out of or relating to the securities , the indenture or the transactions contemplated thereby . the company , the released guarantor , the guarantor and the trustee irrevocably waive , to the fullest extent permitted by applicable law , any objection which they may now or hereafter have to the laying of the venue of any such proceeding brought in such a court and any claim that any such proceeding brought in such a court has been brought in an inconvenient forum . each of the company , the released guarantor and the guarantor hereby designates and appoints ct corporation system ( the " process agent " ) , as its authorized agent upon which process may be served in any legal suit , action or proceeding arising out of or relating to the indenture which may be instituted in any federal or state court in the borough of manhattan , the city of new york , new york , and agrees that service of process upon such agent , and written notice of said service to the company , the released guarantor or the guarantor , as applicable , by the person serving the same , shall be deemed in every respect effective service of process upon the company , the released guarantor or the guarantor , as applicable , in any such suit , action or proceeding and further designate its domicile , the domicile of the process agent specified above and any domicile the process agent may have in the future as its domicile to receive any notice hereunder ( including service of process ) . if for any reason the process agent ( or any successor agent for this purpose ) shall cease to act as agent for service of process as provided above , the company , the released guarantor and the guarantor will promptly appoint a successor agent for this purpose reasonably acceptable to the trustee . the company , the released guarantor and the guarantor agree to take any and all actions as may be necessary to maintain such designation and appointment of such agent in full force and effect . 
+section {num} counterparts . 
+this fourth supplemental indenture may be executed in any number of counterparts , each of which so executed shall be deemed to be an original , but all such counterparts shall together constitute but one and the same instrument . 
+section {num} ratification of base indenture . 
+the base indenture , as supplemented by this fourth supplemental indenture , is in all respects ratified and confirmed , and this fourth supplemental indenture shall be deemed part of the base indenture in the manner and to the extent herein and therein provided . 
+section {num} validity and sufficiency . 
+the trustee shall not be responsible in any manner whatsoever for or in respect of the recitals contained herein , all of which are made solely by the company , the released guarantor and the guarantor . 
+in witness whereof , each party hereto has executed this fourth supplemental indenture as of the day and year first before written . 
+xlit ltd . , as the company 
+by : / s / peter porrino 
+name : peter porrino 
+title : director 
+present when the common seal of 
+xl group plc ( in voluntary liquidation ) as the released guarantor was affixed hereto 
+/ s / eamonn richardson 
+name : eamonn richardson 
+title : liquidator 
+in the presence of 
+witness 
+/ s / bernard eyres 
+name : bernard eyres 
+address : dublin 2 
+occupation : accountant 
+xl group ltd , as the guarantor 
+by its duly authorized signatory 
+by : / s / peter porrino 
+name : peter porrino 
+title : executive vice president and chief executive officer 
+wells fargo bank , national association , as the trustee 
+by : / s / raymond delli colli 
+name : raymond delli colli 
+title : vice president 

@@ -1,0 +1,27 @@
+ex3-{num}htm 
+exhibit {num} 
+amended and restated certificate of incorporation 
+of 
+1st century bancshares , inc . 
+article i 
+the name of this corporation ( the " corporation " ) is 1st century bancshares , inc . 
+article ii 
+the address of the corporation's registered office in the state of delaware is corporation trust center , {num} orange street , wilmington , new castle county , delaware , {num} the registered agent of the corporation at such address is the corporation trust company . 
+article iii 
+the nature of the business or purposes to be conducted or promoted is to engage in any lawful act or activity for which corporations may be organized under the general corporation law of the state of delaware ( the " general corporation law " ) . 
+article iv 
+the total number of shares of capital stock that the corporation shall have authority to issue is {num} shares of common stock , ${num} par value per share . 
+article v 
+subject to any additional vote required by the certificate of incorporation or bylaws , in furtherance and not in limitation of the powers conferred by statute , the board of directors is expressly authorized to make , repeal , alter , amend and rescind any or all of the bylaws of the corporation . 
+article vi 
+the elections of directors need not be by written ballot unless the bylaws of the corporation shall so provide . 
+article vii 
+meetings of stockholders may be held within or without the state of delaware , as the bylaws of the corporation may provide . the books of the corporation may be kept outside the state of delaware at such place or places as may be designated from time to time by the board of directors or in the bylaws of the corporation . 
+article viii 
+to the fullest extent permitted by applicable law , a director of the corporation shall not be personally liable to the corporation or its stockholders for monetary damages for breach of fiduciary duty as a director . if the general corporation law is amended to authorize corporate action further eliminating or limiting the personal liability of directors , then the liability of a director of the corporation shall be eliminated or limited to the fullest extent permitted by the general corporation law as so amended . 
+any repeal or modification of the foregoing provisions of this article viii by the stockholders of the corporation shall not adversely affect any right or protection of a director of the corporation existing at the time of , or increase the liability of any director of the corporation with respect to any acts or omissions of such director occurring prior to , such repeal or modification . 
+article ix 
+subject to the provisions of this certificate of incorporation and the general corporation law , the corporation reserves the right at any time , and from time to time , to amend , alter , change or repeal any provision contained in this certificate of incorporation , in the manner now or hereafter prescribed by statute , and all rights conferred upon stockholders herein are granted subject to this reservation . 
+article x 
+to the fullest extent permitted by applicable law , this corporation is authorized to provide indemnification of ( and advancement of expenses to ) directors , officers and agents of the corporation ( and any other persons to which the general corporation law permits this corporation to provide indemnification ) through bylaw provisions , agreements with such agents or other persons , vote of stockholders or disinterested directors or otherwise , in excess of the indemnification and advancement otherwise permitted by section {num} of the general corporation law . 
+any amendment , repeal or modification of the foregoing provisions of this article x by the stockholders of the corporation shall not adversely affect any right or protection of a director , officer or other agent of the corporation existing at the time of such amendment , repeal or modification . 

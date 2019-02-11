@@ -1,0 +1,97 @@
+exhibit 
+cross reference instrument numbers {num} and {num} 
+second amendment of first amended and restated construction loan mortgage , security agreement , assignment of leases and rents and fixture financing statement 
+this second amendment of first amended and restated construction loan mortgage , security agreement , assignment of leases and rents and fixture financing statement ( this " amendment " ) is dated as of july {num} {num} is by and between cardinal ethanol , llc ( " mortgagor " ) , an indiana limited liability company whose address is {num} north {num} e , union city , indiana {num} and first national bank of omaha , a national banking association ( " mortgagee " ) , whose address is {num} dodge st . , stop {num} omaha , nebraska {num} attention : brad brummund and amends that certain first amended and restated construction loan mortgage , security agreement , assignment of leases and rents and fixture financing statement dated june {num} {num} ( as amended , the " mortgage " ) to and for the benefit of mortgagee , encumbering certain property in randolph county , indiana legally described on exhibit a attached hereto and made a part hereof , which mortgage was recorded with the randolph county recorder on june {num} {num} as instrument #{num} and which mortgage was amended by that certain first amendment of first amended and restated construction loan mortgage , security agreement , assignment of leases and rents and fixture financing statement dated july {num} {num} and recorded august {num} {num} as instrument #{num} 
+w i t n e s s e t h : 
+whereas , mortgagor and mortgagee have entered into an eighth amendment of first amended and restated construction loan agreement dated of even date herewith ( the " amendment " ) which amends that certain first amended and restated construction loan agreement dated june {num} {num} ( as amended , the " loan agreement " ) and extends the term loan to borrower in the principal amount of ${num} ; 
+1 
+{num} 
+whereas , mortgagor executed the mortgage to secure the obligations ( as defined in the mortgage ) , which included , without limitation , the repayment of loans under the loan agreement ; and 
+whereas , mortgagor and mortgagee desire to include the term loan as an obligation secured by the mortgage . 
+now , therefore , in consideration of ten dollars ( ${num} ) and other good and valuable consideration , the receipt and sufficiency of which is hereby acknowledged , the parties agree as follows : 
+{enum} each of the recitals set forth above are incorporated herein as if set forth verbatim . 
+{enum} the term " mortgage " , as defined in the mortgage , shall be deemed to mean the mortgage as amended by this amendment , as the same may be hereafter further amended , supplemented , restated or modified from time to time . capitalized terms not otherwise defined herein shall have the meaning given to such terms in the loan agreement . 
+{enum} the first sentence of recital a of the mortgage is hereby amended by inserting new subsection ( v ) after the end of subsection ( iv ) after the clause " between mortgagor and mortgagee " as follows : " and ( v ) a term loan in the principal amount of ${num} " . the defined terms " loans " and " obligations " in the mortgage are hereby amended to include the term loan . 
+{enum} the mortgage , as amended by this amendment , shall remain in full force and effect as originally executed and delivered by mortgagor , except as expressly modified and amended herein . mortgagor hereby confirms and reaffirms all of its obligations under the mortgage , as modified and amended by this amendment . 
+{enum} in the event any provision of this amendment shall be held invalid or unenforceable by any court of competent jurisdiction , such holding shall not invalidate or render unenforceable any other provision hereof . 
+{enum} this amendment may be executed in any number of counterparts with the same effect as if all of the parties hereto had signed the same document . all counterparts shall be construed together and shall constitute one instrument . 
+signature page follows 
+2 
+{num} 
+in witness whereof , mortgagor and mortgagee have executed and delivered this amendment as of the date first written above . 
+important : read before signing . the terms of this agreement should be read carefully because only those terms in writing are enforceable . no other terms or oral promises not contained in this written contract may be legally enforced . you may change the terms of this agreement only by another written agreement . 
+mortgagor : 
+cardinal ethanol , llc , an indiana limited liability company 
+by : 
+/ s / william dartt 
+title : 
+chief financial officer and treasurer 
+first national bank of omaha 
+by : 
+/ s / chris kalokowski 
+title : 
+vice president 
+prepared by and after recording return to : 
+james m . pfeffer 
+abrahams kaslow & cassman llp 
+{num} west dodge road , suite {num} 
+omaha , nebraska {num} 
+i affirm , under penalties for perjury that i have taken reasonable care to redact each social security number in this document , unless required by law . 
+__________________________ 
+james m . pfeffer 
+3 
+{num} 
+certificate of acknowledgment 
+state of indiana ) 
+) ss . 
+county of randolph ) 
+before me , the undersigned , a notary public in and for the county aforesaid , on this {num} st day of july , {num} personally appeared september {num} {num} , to me known personally , and who , being by me duly sworn , deposes and says that he is the cfo of cardinal ethanol , llc , an indiana limited liability company , and that said instrument was signed on behalf of said limited liability company by authority of its board of directors and members , and said officer acknowledged said instrument to be the free act and deed of said limited liability company . 
+/ s / jacqueline suzanne peed 
+notary public 
+my commission expires : 
+{enum} {num} {num} 
+my county of residence : randolph 
+4 
+{num} 
+certificate of acknowledgment 
+state of nebraska ) 
+) ss . 
+county of douglas ) 
+before me , the undersigned , a notary public in and for the county aforesaid , on this {num} st day of july , {num} personally appeared christopher kalkowski , to me known personally , and who , being by me duly sworn , deposes and says that he is a vice president of first national bank of omaha , a national banking association , and that said instrument was signed on behalf of said association by authority of its board of directors , and said officer acknowledged said instrument to be the free act and deed of said association . 
+/ s / catherine a . kienow 
+notary public 
+my commission expires : 
+september {num} {num} 
+my county of residence : sarpy 
+5 
+{num} 
+exhibit a 
+legal description 
+tract i , containing {num} acres 
+situated in the northeast and southeast quarters , both being in section {num} township {num} north , range {num} east , wayne township , randolph county , indiana , being more particularly described as follows : 
+beginning at a mag nail found at the southeast corner of the southeast quarter in indiana state highway no . {num} ; 
+thence north {num}°{num}'{num} " west {num} feet ( bearing base established from state plan coordinates ) along the south line of said southeast quarter , indiana state highway no . {num} to a mag nail set , witness an iron rod set north {num}°{num}'{num} " east {num} feet ( all iron rods set are 5 / 8 " rebar with plastic cap stamped " rls {num} " ) ; 
+thence north {num}°{num}'{num} " east {num} feet , to an iron rod set ; 
+thence north {num}°{num}'{num} " west {num} feet , to an iron rod set ; 
+thence south {num}°{num}'{num} " west {num} feet , to a mag nail set on the south line of said southeast quarter , witness an iron rod set north {num}°{num}'{num} " east {num} feet ; 
+thence north {num}°{num}'{num} " west {num} feet , along said south line , in said highway , to a mag nail found at said southwest corner of said southeast quarter , witness a concrete post found north {num}°{num}'{num} " east {num} feet ; 
+thence north {num}°{num}'{num} " east {num} feet along the west line of said southeast quarter , to an iron rod set at the northwest corner of said quarter ( all iron rods set are 5 / 8 " rebar with plastic cap stamped " rls {num} " ) ; 
+thence north {num}°{num}'{num} " east {num} feet along the west line of said northeast quarter , to an iron rod set on the south right-of-way of the new york central lines railroad ; 
+6 
+{num} 
+thence north {num}°{num}'{num} " east {num} feet along said south right-of-way , to a mag nail set on the east line of said northeast quarter , in randolph county road {num} east , witness a concrete end post found south {num}°{num}'{num} " west {num} feet ; 
+thence south {num}°{num}'{num} " west {num} feet along the east line of said northeast quarter , in said county road to an iron rod found at the southeast corner of said northeast quarter ; 
+thence south {num}°{num}'{num} " west {num} feet along the east line of said southeast quarter , in said road , to the point of beginning , containing {num} acres , more or less , there being {num} acres , more or less , in the northeast quarter and {num} acres , more or less , in the southeast quarter . 
+tract ii , containing {num} acres 
+situated in the northwest and southwest quarters , both in section {num} township {num} north , range {num} east , wayne township , randolph county , indiana , being more particularly described as follows : 
+beginning at a mag nail found at the southeast corner of the southwest quarter , in indiana state highway no . {num} witness a concrete end post found north {num}°{num}'{num} " east {num} feet ; 
+thence north {num}°{num}'{num} " west {num} feet ( bearing base established from state plan coordinates ) along the south line of said southwest quarter , in said state highway , to a mag nail set at the southeast corner of a {num} acre tract as recorded in instrument {num} witness a concrete end post found north {num}°{num}'{num} " east {num} feet ; 
+thence north {num}°{num}'{num} " east {num} feet along the east line of said {num} acre tract , to an iron rod set on the north line of said southwest quarter ; 
+thence north {num}°{num}'{num} " east {num} feet , entering into the northwest quarter , to an iron rod set on the south right-of-way of the new york central lines railroad ( all iron rods set with plastic cap stamped {num} ) ; 
+thence north {num}°{num}'{num} " east {num} feet along said right-of-way , to an iron rod set on the east line of said northwest quarter ; 
+thence south {num}°{num}'{num} " west {num} feet along the east line of said northwest quarter , to an iron rod set at the southeast corner of said quarter ; 
+7 
+{num} 
+thence south {num}°{num}'{num} " west {num} feet along the east line of said southwest quarter , to the point of beginning , containing {num} acres , more or less , there being {num} acres , more or less , in the southwest quarter and {num} acres , more or less , in the northwest quarter . 
+8 
+{num} 

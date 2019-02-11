@@ -1,0 +1,23 @@
+exhibit 
+certificate of amendment 
+of 
+bylaws 
+of 
+hope bancorp , inc . 
+the undersigned , kevin s . kim , hereby certifies that : 
+{enum} he is the duly elected and acting president and chief executive officer of hope bancorp , inc . , a delaware corporation formerly known as bbcn bancorp , inc . ( the " corporation " ) . 
+{enum} effective at the close of business on july {num} {num} each reference in the amended and restated bylaws of the corporation , dated as february {num} {num} ( the " bylaws " ) , to " bbcn bancorp , inc . " is hereby amended to refer to the corporation's new name , " hope bancorp , inc . " 
+{enum} effective at the close of business on july {num} {num} t he bylaws are hereby further amended to add the following new article ii , section 9 : 
+section {num} board composition and other governance matters at merger effective time 
+{num} the board of directors has resolved that the governance and other provisions set forth in this article ii , section 9 shall apply and become effective at the effective time ( as defined in the agreement and plan of merger , dated as of december {num} {num} by and between the corporation and wilshire bancorp , inc . ( " wibc " ) , as may be amended from time to time ( the " merger agreement " ) ) . 
+{num} the board of directors shall consist of {num} members . prior to the earlier of ( i ) the first anniversary of the effective date or ( ii ) the first regularly scheduled annual meeting of the corporation's stockholders held after the effective date , the size of the board may not be increased or decreased except as provided in section {num} of this article ii . effective as of the effective time , nine members of the board of directors shall be current members of the board of directors designated by the corporation ( such nine persons being referred to in this article ii , section 9 as the " continuing bbcn directors " ) , and seven members of the board of directors shall be current members of the board of directors of wibc designated by wibc ( such seven persons being referred to in this article ii , section 9 as the " continuing wibc directors " ) . 
+{num} effective as of the effective time , mr . steven koh shall serve as chairman of the board of directors . 
+{num} effective as of the effective time , mr . steven koh shall serve as chairman of the board of directors of bbcn bank . 
+{num} subject to any independence and expertise requirements under applicable legal requirements , at the effective time ( i ) the nomination and governance committee shall be chaired by a continuing bbcn director , ( ii ) the human resources and compensation committee of the board of directors shall be chaired by a continuing bbcn director , ( iii ) the lead independent director of the board of directors shall be a continuing bbcn director and ( iv ) the executive committee of the board of directors shall be chaired by a continuing wibc director . 
+{num} this article ii , section 9 may not be modified , amended or repealed , and any provision of these bylaws inconsistent with the provisions of this article ii , section 9 may not be adopted , unless in each case such action has been approved by at least a majority of the continuing bbcn directors and a majority of the continuing wibc directors , in addition to any other approvals which may be required by these bylaws , the corporation's certificate of incorporation and applicable law . in the event of any inconsistency between any provision of this article ii , section 9 and any other provision of the certificate of incorporation or these bylaws , the provisions of this article ii , section 9 shall govern and control . 
+{num} whenever it is stated in this article ii , section 9 that a specified action shall require the affirmative vote of a specified percentage of the full board of directors , if the application of such percentage does not result in a whole number of required votes , the vote required to approve , adopt or ratify any such action shall be the next highest whole number . 
+{enum} the foregoing amendments of the corporation's bylaws were duly approved by the board of directors of the corporation on july {num} {num} and subsequently ratified by the board of directors of the corporation on august {num} {num} and shall be filed by the undersigned with the corporate records of the corporation . 
+in witness whereof , the undersigned has executed this certificate of amendment of bylaws as of this 1st day of august , {num} 
+/ s / kevin s . kim 
+kevin s . kim 
+president & chief executive officer 

@@ -1,0 +1,71 @@
+exhibit {num} 
+exhibit {num} 
+agreement and plan of merger 
+this agreement and plan of merger ( this " merger agreement " ) is entered into as of the 8 th day of august , {num} by and between new jersey mining company , an idaho corporation ( the " surviving corporation " ) , and g f & h company , an idaho corporation ( " merging corporation " ) . surviving corporation and merging corporation are sometimes collectively referred to hereinafter as the " constituent corporations . " 
+recitals 
+whereas , surviving corporation is a corporation organized and existing under the laws of the state of idaho and who owns approximately eight-four percent ( {num}% ) of the merging corporation ; 
+whereas , merging corporation is a corporation organized and existing under the laws of the state of idaho ; and 
+whereas , surviving corporation and merging corporation and their respective boards of directors deem it advisable and in the best interests of the corporations and their respective stockholders to merge merging corporation with and into surviving corporation pursuant to the idaho business corporation act and upon the terms and conditions set forth herein ; 
+now therefore , in consideration of the premises , the mutual covenants , herein contained , and other valuable consideration the receipt and sufficiency of which is hereby acknowledged , the parties hereto agree that merging corporation shall be merged with and into surviving corporation ( the " merger " ) pursuant to the terms and conditions set forth herein . 
+agreement 
+{enum} 
+{enum} 
+{num} 
+the merger . on the effective date ( as herein defined ) of the merger , merging corporation shall be merged with and into surviving corporation and the separate existence of merging corporation shall cease and surviving corporation shall survive such merger . 
+{num} 
+certificate of incorporation and bylaws . the certificate of incorporation of surviving corporation as in effect immediately prior to the effective date shall be the certificate of incorporation of surviving corporation after consummation of the merger . the bylaws of surviving corporation as in effect immediately prior to the effective date shall be the bylaws of surviving corporation after consummation of the merger . 
+{num} 
+directors and officers . the directors and officers of merging corporation shall , from and after the effective date , be the directors and officers of surviving corporation , until the earlier of their resignation or removal or until their respective successors are duly elected or appointed and qualified . 
+{num} 
+property and liabilities of constituent corporations . on the effective date , the separate existence of merging corporation shall cease and merging corporation shall be merged into surviving corporation . surviving corporation , from and after the effective date , shall possess all the rights , privileges , powers and franchises of whatsoever nature and description , of a public as well as of a private nature , and be subject to all the restrictions , disabilities and duties of each of the constituent corporations . all rights , privileges , powers and franchises of each of the constituent corporations , and all property , real , personal and mixed , of and debts due to either of the constituent corporations on whatever account , as well for stock subscriptions , as all other things in action or belonging to each of the constituent corporations shall be vested in surviving corporation . all property , rights , privileges , powers and franchises , and all other interests shall be thereafter as effectually the property of surviving corporation as they were of the several and respective constituent corporations and the title to any real estate vested by deed or otherwise in either of the constituent corporations shall not revert or be in any way impaired by reason of the merger . all rights of creditors and all liens upon the property of the constituent corporations shall be preserved unimpaired , and all debts , liabilities and duties of the constituent corporations thenceforth shall attach to surviving corporation , and may be enforced against it to the same extent as if said debts , liabilities and duties had been incurred or contracted by it . any existing claim , or pending action or proceeding , whether civil , criminal or administrative , by or against either constituent corporation may be prosecuted to judgment or decree as if the merger had not taken place , or surviving corporation may be substituted in such claim , action or proceeding . 
+{num} 
+further assurances . merging corporation agrees that , at any time , or from time to time , as and when requested by surviving corporation , or by its successors and assigns , it will execute and deliver , or cause to be executed and delivered , in its name by its last acting officers , or by the corresponding officers of surviving corporation , all such conveyances , assignments , transfers , deeds or other instruments , and will take or cause to be taken such further or other action as surviving corporation , its successors or assigns may deem necessary or desirable in order to evidence the transfer , vesting or devolution of any property , right , privilege or franchise or to vest or perfect in or confirm to surviving corporation , its successors and assigns , title to and possession of all the property , rights , privileges , powers , franchises and interests referred to in this section 1 and / or to otherwise carry out the intent and purposes hereof . 
+{num} 
+effective date . the merger shall become effective on the date on which an executed copy of articles of merger are filed with the secretary of state of the 
+state of idaho in the manner required by the idaho business corporation act ( the " effective date " ) . 
+{enum} 
+conversion of securities on merger . 
+{num} 
+effect of merger on capital stock . each share of merging corporation's common stock , ${num} par value per share ( other than shares ( " dissenting shares " ) that are owned by shareholders ( " dissenting shareholders " ) that are entitled to and properly exercise appraisal rights pursuant to sections {num}-{num}-{num} through {num}-{num}-{num} of the idaho business corporation act ) , issued and outstanding immediately before the effective date shall , by virtue of the merger and without any action on the part of the holder thereof , be converted into and become eighteen thousand eight hundred sixty-eight ( {num} ) validly issued , fully paid and non-assessable shares of surviving corporation's common stock , no par value per share ( the " surviving corporation stock " ) . the merger shall not affect the shares of surviving corporation's common stock issued and outstanding immediately before the effective date of the merger . 
+{num} 
+{enum} at and after the effective date , all of the outstanding certificates , which immediately prior thereto represented shares of merging corporation stock ( other than dissenting shares ) , or options , warrants or other securities of the merging corporation , shall be deemed for all purposes to evidence ownership of and to represent the shares of surviving corporation stock , or options , warrants or other securities of surviving corporation , as the case may be , into which the shares of merging corporation stock , or options , warrants or other securities of the surviving corporation , as the case may be , represented by such certificates have been converted as herein provided and shall be so registered on the books and records of the surviving corporation or its transfer agent . the registered owner of any such outstanding certificate shall , until such certificate shall have been surrendered for transfer or otherwise accounted for to the surviving corporation or its transfer agent , have and be entitled to exercise any voting and other rights with respect to , and to receive any dividends and other distributions upon , the shares of surviving corporation stock , or options , warrants or other securities of surviving corporation , as the case may be , evidenced by such outstanding certificate , as provided above . 
+{num} 
+appraisal rights . no dissenting shareholder shall be entitled to shares of surviving corporation stock hereunder unless and until the holder thereof shall have failed to perfect or shall have effectively withdrawn or lost such holder's right to appraisal under the idaho business corporation act , and any dissenting shareholder shall be entitled to receive only the payment provided by the idaho business corporation act with respect to dissenting shares owned by such dissenting shareholder . if any person or entity who otherwise would be deemed a dissenting shareholder shall have failed to properly perfect or shall have effectively withdrawn or lost the right to appraisal with respect to any shares which would be dissenting shares but for that failure to perfect or withdrawal or 
+loss of the right to appraisal , such dissenting shares shall thereupon be treated as though such dissenting shares had been converted into shares of surviving corporation stock . 
+{enum} 
+conditions to the obligations of the constituent corporations to effect the merger . 
+{num} 
+approval by stockholders . the stockholders of merging corporation shall have approved the merger and this merger agreement in accordance with idaho law . 
+{num} 
+governmental approvals ; no restraints . no statute , rule , regulation , executive order , decree , ruling , injunction or other order ( whether temporary , preliminary or permanent ) shall have been enacted , entered , promulgated or enforced by any court or governmental authority of competent jurisdiction that prohibits , restrains , enjoins or restricts the consummation of the merger . 
+{enum} 
+{enum} the respective boards of directors of the constituent corporations may amend this merger agreement at any time prior to the effective date , provided that an amendment made subsequent to the approval of the merger by the stockholders of merging corporation shall not ( a ) alter or change the amount or kind of shares , securities , cash , property or rights to be received under this merger agreement by the shareholders of merging corporation ; ( b ) alter or change any term of the certificate of incorporation of surviving corporation ; or ( c ) alter or change any of the terms and conditions of this merger agreement if such alteration or change would adversely affect the shareholders of merging corporation . 
+{enum} 
+{enum} 
+{num} 
+{enum} this merger agreement may be executed in any number of counterparts and via facsimile or other similar electronic transmission , each of which shall be deemed to be an original , and all of which taken together shall constitute one merger agreement . 
+{num} 
+{enum} this merger agreement may be terminated and the merger abandoned at any time prior to the effective date , whether before or after stockholder approval of this merger agreement , by the consent of the board of directors of either of the constituent corporations . 
+{num} 
+governing law . the merger and this merger agreement shall be governed by , and construed in accordance with , the laws of the state of idaho . 
+{num} 
+no third party beneficiaries . this merger agreement is for the sole benefit of the parties hereto and is not intended to and shall not confer upon any person other than the parties hereto any rights or remedies hereunder . 
+{num} 
+{enum} if any provision of this merger agreement ( or any portion thereof ) or the application of any such provision ( or any portion thereof ) to any person or circumstance shall be held invalid , illegal or unenforceable in any respect by a court of competent jurisdiction , such invalidity , illegality or unenforceability shall not affect any other provision hereof ( or the remaining portion thereof ) or the application of such provision ( or the remaining portion thereof ) to any other person or circumstances . 
+in witness whereof , the constituent corporations have executed this merger agreement as of the date and year first above written . 
+merging corporation : 
+g f & h company , 
+an idaho corporation , 
+po box {num} 
+kellogg , id {num} 
+/ s / grant brackebusch 
+by : grant brackebusch 
+its : president 
+surviving corporation : 
+new jersey mining company , 
+an idaho corporation , 
+{num} n . 3 rd street 
+coeur d'alene , idaho {num} 
+/ s / del steiner 
+by : del steiner 
+its : ceo 

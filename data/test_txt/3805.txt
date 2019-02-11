@@ -1,0 +1,44 @@
+ex{num}-{num}_{num}htm 
+assignment of oil and gas lease 
+megawest energy missouri corp . , a wholly owned subsidiary of petro river oil corp . ( " assignor " ) and paluca petroleum , inc . ( " assignee " ) agree that : 
+identity of lease 
+whereas , assignor is the owner of a certain number of leases of which a specific land so described , all of the west half ( w ½ ) of section sixteen ( {num} ) , township thirty five north ( {num}n ) , range {num} west ( {num}w ) , vernon county missouri , consisting of approximately {num} net acres , of an {num}% nri , located in missouri , grassy creek , and all equipment , personal property and fixtures thereon ( see exhibit a ) . the lease agreement that incorporates this land description , titled release of certain oil and gas leases and ratification of other oil and gas leases , between the assignor and the original grantor ( s ) ( see exhibit b ) as executed on the day of july {num}th , {num} covering the real property in the county of vernon , missouri . 
+whereas , that lease is duly recorded as instrument {num}r{num} in book {num} at page {num} through page {num} of the official records of the county of vernon , missouri : 
+assignment 
+now , therefore , in consideration for good and valuable consideration , receipt of which is hereby acknowledged , assignor does hereby sell , assign , transfer , and convey to assignee , all of assignor's right , title , and interest in the lease specific to the land description stated above and the real property , personal property and fixtures , covered by the lease , on the following terms and conditions : 
+override royalty 
+{enum} there is excepted from the above assignment and conveyance and reserved and retained in assignor an overriding royalty equal to 4% of the value of all oil and gas produced and removed under the lease and the net proceeds received by assignee from the sale of all gas and casing head gasoline produced and sold under the lease . 
+{enum} the overriding royalty reserved and retained by assignor shall be payable to assignor at the same time , and shall be computed in the same manner , as is provided in the lease for the payment , and computation , of royalties payable under it to original lessor . 
+assignee to perform lease 
+{enum} assignee accepts , on the terms and conditions specified in this document , this assignment of lease and agree to truly and fully perform all of the terms and conditions of the lease to be performed under the lease agreement . 
+indemnity agreement 
+{enum} assignee shall indemnify and hold assignor and the property of assignor , including assignor's interest under this instrument , free and harmless from all claims , liability , loss , damage , or expense resulting from assignee's performance of the lease , assignee's occupation of any part of the real property covered by the lease , or the exploration for , or extraction by assignee under the lease of , any oil , gas , or other hydrocarbon substances . 
+modification and extension of lease 
+{enum} assignee shall have the right to obtain from lessor under the lease , or lessor's successor in interest as lessor under the lease , any modifications or extensions of the lease assignee may desire , as long as the modifications or extensions do not reduce in any way the overriding royalty reserved and retained by assignor under this instrument or otherwise infringe on any rights of assignor under this instrument . 
+assignor's warranties 
+{enum} assignor makes no warranty of title with respect to the land covered by the lease , but assignor does warrant and represent to assignee that : 
+( a ) the rights and interest conveyed to assignee by this instrument are free and clear of all liens , charges , and encumbrances created by assignor ; 
+{enum} assignor has the right to make the transfer and conveyance effectuated by this instrument ; 
+{enum} no default or defaults now exist or have been declared under the lease ; and 
+{enum} the lease is now in good standing and in full force and effect . 
+notices 
+{enum} all notices or other communications required or permitted by this instrument , the lease , or by law to be served on or given to either party to this agreement , assignor or assignee , by the other party shall be in writing and shall be deemed duly served when personally delivered to the party to whom it is directed as addressed to assignor at {num} 5 th avenue , suite {num} new york , ny {num} or to assignee at paluca petroleum , {num} kingsberry road , post office box {num} holdenville , ok {num} either party , assignor or assignee , may change its address for the purpose of this paragraph by giving written notice of that change to the other party in the manner provided in this paragraph . 
+attorney's fees 
+{enum} on or prior to the execution of this assignment , assignee shall pay counsel of assignor , its legal and transaction expenses relating to this assignment . should any litigation be commenced between the parties to this instrument concerning the assignment and transfer made by it , the lease , or the rights or duties of either party in relation to the lease or to this instrument , the party , assignor or assignee , prevailing in that litigation shall be entitled , in addition to such other relief as may be granted , to a reasonable sum as attorney's fees in the litigation , which shall be determined by the court in the litigation or in a separate action brought for that purpose . 
+binding on heirs 
+{enum} all of the terms and provisions of this instrument shall inure to the benefit of and shall be binding on the heirs , executors , administrators , representatives , successors , and assigns of each of the parties to this agreement . 
+option agreement 
+{enum} this assignment is made subject to that certain option agreement dated march {num} {num} between assignor and assignee ( the " agreement " ) , which shall not merge into this assignment and shall survive the execution and delivery hereof as provided therein . in the event of a conflict between this assignment and the agreement , the terms of the agreement shall control . capitalized terms used herein but not defined shall have the meaning ascribed to them in the agreement . 
+{enum} 
+{enum} this assignment may be executed in one or more counterparts ( including by facsimile or portable document format ( . pdf ) ) for the convenience of the parties hereto , each of which will be deemed an original , but all of which together will constitute one and the same instrument . upon the execution of this assignment by both parties , assignor agrees to execute and deliver to assignee a memorandum of assignment of oil and gas lease that is acceptable to assignee and in a format that can be recorded in vernon county , missouri . 
+law governing ; jurisdiction 
+{enum} this agreement shall be governed by and construed in accordance with the laws of the state of missouri , without regard to any conflict of law's provisions thereof . each party hereby irrevocably submits to the personal jurisdiction of the state of missouri over any suit , action or proceeding arising out of or relating to this agreement . 
+executed on this day {num}th of july {num} at vernon county , missouri . 
+assignor : 
+/ s / scot cohen signature 
+scot cohen , mega west energy missouri corp . , 
+assignee : 
+/ s / doug humphreys signature 
+doug humphreys , paluca petroleum , inc . 
+2 
+assignment of oil and gas lease 

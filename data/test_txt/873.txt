@@ -1,0 +1,48 @@
+forward gold purchase agreement 
+exhibit {num} 
+forward gold purchase agreement 
+the undersigned ( the " purchaser " ) hereby irrevocably subscribes for and agrees to purchase from golden chest llc ( the " seller " ) , a subsidiary of new jersey mining company ( the " issuer " ) , ounces of forward gold production of the seller as represented below at a price of ${num} per ounce of gold for an aggregate purchase price of $ ( the " aggregate purchase price " ) . the purchaser agrees to be bound by the agreements set forth in this forward gold purchase agreement , the subscription agreement , schedule a " security of the forward gold purchase agreement , " and schedule b " accredited investor questionnaire " , which documents , along with the private placement memorandum ( " ppm " ) , are attached hereto and form part of this forward gold purchase agreement . the seller shall deliver ounces of . {num} gold on a quarterly basis over eight quarters with the first payment beginning december {num} {num} for a total of ______ounces of . {num} gold , in the following quarterly amounts : 
+{enum} 
+______ ounces of . {num} gold on or before december {num} {num} ; 
+{enum} 
+______ ounces of . {num} gold on or before march {num} {num} ; 
+{enum} 
+______ ounces of . {num} gold on or before june {num} {num} ; 
+{enum} 
+______ ounces of . {num} gold on or before september {num} {num} ; 
+{enum} 
+______ ounces of . {num} gold on or before december {num} {num} ; 
+{enum} 
+______ ounces of . {num} gold on or before march {num} {num} ; 
+{enum} 
+______ ounces of . {num} gold on or before june {num} {num} ; and 
+{enum} 
+______ ounces of . {num} gold on or before september {num} {num} 
+purchaser 
+deliver the gold to : 
+signature of purchaser 
+attention – full name 
+name of purchaser ( printed ) 
+street address 
+purchaser's street address 
+city , state and postal code 
+city , state and postal code 
+telephone number 
+penalty upon default and convertibility 
+failure of the seller to meet minimum monthly gold distribution schedules will result in a penalty premium to be paid to the purchaser equal to {num}% interest per annum on the remaining balance of distributable gold , to be calculated over such quarterly period . for any particular quarterly period and upon {num}-days notice to the seller , purchaser may convert the amount due for the quarter into cash equal to the value of the gold , which shall be calculated by using the average of the london pm fix prices during such quarter . 
+the seller hereby accepts the subscription as set forth above on the terms and conditions contained in this forward gold purchase agreement ( including the ppm , subscription agreement and accredited investor questionnaire attached hereto ) as of this ___ day of , {num} 
+golden chest llc 
+new jersey mining company 
+a subsidiary of new jersey mining company 
+issuer and parent company 
+per : 
+per : 
+grant brackebusch , manager 
+del steiner , ceo 
+address : {num} n . 3rd street 
+{num} n . 3rd street 
+coeur d'alene , idaho {num} 
+coeur d'alene , idaho {num} 
+email : gbrack@newjerseymining . com 
+email : gbrack@newjerseymining . com 
+1 

@@ -1,0 +1,42 @@
+ex{num}-{num}htm 
+exhibit {num} 
+mike : 
+thank you , ___________ , and welcome everyone to national research corporation's {num} second quarter conference call . my name is mike hays , the company's ceo . joining me on the call today is kevin karas , our chief financial officer . 
+before we continue , i would ask kevin to review conditions related to any forward-looking statements that may be made as part of today's call . 
+{enum} 
+kevin : 
+thank you , mike . 
+this conference call includes forward-looking statements related to the company that involve risks and uncertainties that could cause actual results or outcomes to differ materially from those currently anticipated . these forward-looking statements are made pursuant to the safe harbor provisions of the private securities litigation reform act of {num} for further information about the facts that could affect the company's future results , please see the company's filings with the securities and exchange commission . with that , i'll turn it back to you , mike . 
+mike : 
+thank you , kevin . and again , welcome everyone . 
+we are beginning to see a real movement from the most progressive healthcare organizations in how they think about their customers and the importance placed on customer loyalty to drive both for-fee-for-service revenue and the more progressive value-based arrangements . 
+before commenting on how we are responding to these emerging trends , i will turn the call over to kevin to review our financial performance . 
+kevin 
+kevin 
+thank you , mike . 
+net new sales of ${num} million were added in the second quarter , comprised entirely of organic growth from adding new clients and increasing contract value for existing clients . total contract value at the end of the second quarter {num} was ${num} million , an increase of 8% in total contract value compared to the end of the second quarter {num} after adjusting for the sale of our clinical workflow tool . contract value growth was driven by new sales and consistent strong contract renewal rates . subscription-based revenue agreements at the end of the second quarter {num} represented {num}% of the total recurring contract value . 
+2 
+second quarter {num} revenue was ${num} million , an increase of 7% over the second quarter {num} revenue for the second quarter {num} adjusted for the sale of our clinical workflow solution , grew at a 9% rate over the second quarter of {num} 
+consolidated operating income for the second quarter {num} was ${num} million or {num}% of revenue , compared to ${num} million , or {num}% of revenue for the same period last year . 
+total operating expenses for the second quarter {num} were ${num} million compared to ${num} million in the second quarter of {num} 
+direct expenses increased to ${num} million for the second quarter {num} compared to ${num} million for the same period {num} direct expenses as a percent of revenue for the second quarter were {num}% in {num} compared to {num}% in {num} 
+the increase in direct expenses in {num} is attributed to incremental variable cost of product expenses from revenue growth in the quarter , which were partially offset by increased efficiencies in survey operations . for the full year {num} direct expenses are expected to be {num}% of revenue . 
+3 
+selling , general and administrative expenses increased to ${num} million or {num}% of revenue for the second quarter {num} compared to ${num} million or {num}% of revenue for the same period in {num} 
+the increase in sg&a expenses is primarily a result of increased share-based compensation and marketing expenses . sg&a expenses are expected to be {num}% of revenue for the full year {num} 
+depreciation and amortization expense for the second quarter increased from ${num} million in {num} compared to ${num} million in {num} as a result of increased technology investments in {num} depreciation and amortization expense as a percent of revenue is expected to be 4% of revenue for the full year {num} 
+the provision for income taxes totaled ${num} million for the second quarter {num} compared to ${num} million for the same period in {num} the effective tax rate was {num}% for the second quarter {num} compared to {num}% for the second quarter {num} this decrease was primarily due to the reduction in income tax expense from the adoption of asu {num}-{num} the effective income tax rate is expected to be {num} to {num}% for the full year {num} 
+4 
+net income for the second quarter was ${num} million in {num} compared to ${num} million in {num} combined non-gaap diluted earnings per share was ${num} for the second quarter {num} compared to ${num} in {num} 
+with that i'll turn the call back to mike . 
+mike : 
+thank you , kevin . 
+the increasing importance being placed on understanding and enhancing customer loyalty has being timely given our investments over the past few years . 
+bundling voice of the customer use cases across service settings thus creating enterprise-wide value has shifted our product mix and expanded our margins while , most importantly , adding incremental value to our clients--clearly a win-win . 
+the outcome of more focus being placed on customer loyalty , we believe , will impact traditional spend for single-point solutions such as patient satisfaction measurement . that spend will be increasingly redeployed to more contemporary approaches that improve service quality , drive revenue and ensure customer loyalty for our client organizations . 
+5 
+as this trend accelerates , we are well-served by our recurring revenue business model which drives excellent cash flows for continued investment in technology , people and growth opportunities . all of this will be necessary as we shift the organization to create a very different way healthcare listens and responds to what's most important to its customers . 
+_______________ , i would now like to open the call to questions . 
+closing statement – mike : 
+thank you for your time today . we look forward to reporting our progress next quarter . 
+6 

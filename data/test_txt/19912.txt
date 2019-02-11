@@ -1,0 +1,15 @@
+exhibit {num} 
+first amendment to nonqualified stock option award agreement 
+( performance-based vesting ) 
+tuesday morning corporation 
+{num} long-term incentive plan 
+this first amendment to nonqualified stock option award agreement ( this " amendmen t " ) is entered into between tuesday morning corporation , a delaware corporation ( the " company " ) and steven r . becker ( the " participant " ) for purposes of amending that certain nonqualified stock option agreement dated february {num} {num} by and between the company and the participant ( the " agreement " ) . any terms used in this amendment that are not specifically defined herein shall have the meaning specified in the tuesday morning corporation {num} long-term incentive plan , as amended ( the " plan " ) and the agreement . 
+whereas , on february {num} {num} the committee approved the grant of certain performance-based nonqualified stock options to the participant relating to {num} shares of common stock of the company , ${num} value per share ( the " common stock " ) ; 
+whereas , the committee's approval on february {num} {num} did not include the grant of an additional {num} shares of common stock ( the " stretch shares " ) as required by that certain employment agreement by and between the participant and the company dated december {num} {num} and as specifically described in the agreement ; and 
+whereas , the committee approved the grant of the stretch shares on september {num} {num} and the parties now desire to amend the agreement to reflect the grant and provide that the exercise price for the stretch shares equals the closing price of the common stock on september {num} {num} ; now , therefore 
+it is agreed : 
+{enum} section 1 of the agreement is hereby amended by deleting said section in its entirety and substituting in lieu thereof the following : 
+grant of option . subject to the terms of the plan and this agreement , on february {num} {num} ( the " date of grant " ) , the company granted to the participant an option to purchase {num} shares ( the " target options " ) of the common stock of the company , ${num} par value per share ( " common stock " ) with an exercise price of ${num} ( the " target share option price " ) and on september {num} {num} the company granted to the participant an option to purchase an additional {num} shares of common stock ( the " stretch options , " collectively referred to herein with the target options as , the " option " ) , at a price of ${num} per share ( the " stretch share option price , " collectively referred to herein with the target share option price as the " option price " ) , subject to adjustment as provided in the plan . 
+{enum} except as expressly amended by this amendment , the agreement shall continue in full force and effect in accordance with the provisions thereof . 
+{enum} in the event of a conflict between the agreement and this amendment , this amendment shall govern . 
+the participant and the company agree that this amendment may be accepted , executed and approved by each party electronically . 

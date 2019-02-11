@@ -1,0 +1,93 @@
+converted by edgarwiz 
+stock and mineral lease purchase agreement 
+this stock and mineral lease purchase agreement ( this " agreement " ) is entered into as of the {num}th day of august , {num} by and between fieldpoint petroleum corp . , a colorado corporation ( the " company " ) , and hft enterprises , llc , a nevada corporation ( together with his permitted successors and assigns , the " buyer " ) . 
+witnesseth : 
+whereas , the company wishes to sell , and the buyer wishes to purchase , certain shares of common stock of the company ; and 
+whereas , the company wishes to sell , and the buyer wishes to purchase , certain interests in oil and gas mineral leases , as set forth below . 
+now , therefore , in consideration of the premises and the mutual agreements hereinafter set forth , the parties hereby agree as follows : 
+{enum} 
+purchase and sale of shares . subject to the terms and conditions of this agreement , on september {num} {num} or such earlier date as buyer and the company may agree ( the " closing date " ) , company shall issue and sell to buyer , and buyer shall purchase in two equal tranches , a number of newly-issued shares of common stock of the company equal to a total of {num}% of the total number of issued and outstanding shares of common stock of the company , as measured on the date of this agreement , for a price of ${num} per share ( the shares to be purchased , the " shares " ) . the first tranche will be purchased at the closing date and the second tranche must be purchased by december {num} {num} 
+{enum} 
+purchase and sale of oil and gas mineral lease . on the closing date , the company shall give the buyer , the right to purchase , an undivided {num}% working interest on or before december {num} {num} ( the " lease interest " ) in the company's elkhorn and jc kinney leases in the big muddy oil field in converse county , wyoming for a purchase price of ${num} 
+{enum} 
+registration rights . the holders of the shares ( if purchased ) will be entitled to " piggyback " registration rights on all registration statements of the company . the shares to be registered on behalf of such holders will be reduced in any such registration only after all other stockholders' shares are reduced . 
+{enum} 
+due diligence . the company will cooperate in supporting buyer's due diligence activities , including permitting buyer and its representatives and affiliates access to the company's books and records , facilities , key personnel , customers , suppliers and other business relations and independent accountants in connection with his review of the company's operations at reasonable times , upon reasonable notice and in such a manner as does not unreasonably interfere with the operations of the company . 
+1 
+{enum} 
+representations and warranties of the company . the company represents and warrants to buyer that : 
+{num} 
+the company has all requisite power and authority to enter into and perform this agreement and to consummate the transactions contemplated hereby . the company has duly and validly authorized , executed , and delivered this agreement . all corporate action required to be taken by the company's board of directors and stockholders in order to authorize the company to enter into the transactions contemplated hereby has been taken or will be taken prior to the closing date . 
+{num} 
+this agreement constitutes a valid and binding agreement of the company , enforceable against the company in accordance with its terms , except as enforceability may be limited by ( i ) applicable bankruptcy , insolvency , reorganization , moratorium , fraudulent conveyance or other similar laws relating to or affecting creditors' rights generally and ( ii ) general principles of equity ( regardless of whether such enforceability is considered in a proceeding in equity or at law ) . 
+{num} 
+the shares will be , upon issuance , validly issued , fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under applicable state and federal securities laws . 
+{enum} 
+representations and warranties of buyer . buyer represents and warrants to the company that : 
+{num} 
+buyer has all requisite power and authority and has taken all required action on its part necessary to permit it to execute and deliver and to carry out the terms of this agreement , and to take all other actions required to be taken by it pursuant to the provisions hereof . buyer has duly and validly authorized , executed , and delivered this agreement . buyer is duly organized , validly existing and in good standing under the laws of the state of its formation . 
+{num} 
+this agreement is the valid and binding obligation of buyer , enforceable against buyer in accordance with its terms , except as enforceability may be limited by ( i ) applicable bankruptcy , insolvency , reorganization , moratorium , fraudulent conveyance or other similar laws relating to or affecting creditors' rights generally and ( ii ) general principles of equity ( regardless of whether such enforceability is considered in a proceeding in equity or at law ) . 
+{num} 
+buyer hereby confirms that the shares will be acquired for investment for buyer's own account , not as a nominee or agent , and not with a view to the resale or distribution of any part thereof , and that buyer has no present intention of selling , granting any participation in , or otherwise distributing the same . by executing this agreement , buyer further represents that buyer does not presently have any contract , undertaking , agreement or arrangement with any person or unrelated entity to sell , transfer or grant participations to such person or unrelated entity or to any third party , with respect to any of such shares . the buyer reserves the right to transfer shares to a related entity . 
+2 
+{num} 
+buyer has had an opportunity to discuss the company's business , management , financial affairs and the terms and conditions of the offering of the shares with the company's management and has had an opportunity to review the company's facilities . 
+{num} 
+buyer understands that the shares have not been , and will not initially be , registered under the securities act of {num} as amended ( the " securities act " ) , by reason of a specific exemption from the registration provisions of the securities act which depends upon , among other things , the bona fide nature of the investment intent and the accuracy of buyer's representations as expressed herein . buyer understands that the shares are " restricted securities " under applicable u . s . federal and state securities laws and that , pursuant to these laws , buyer must hold the shares indefinitely unless they are registered with the securities and exchange commission and qualified by state authorities , or an exemption from such registration and qualification requirements is available . buyer understands that certificates for the shares will be notated with restrictive legends necessitated by federal and state securities laws . 
+{num} 
+buyer is an accredited investor as defined in rule {num} ( a ) of regulation d promulgated under the securities act . 
+{enum} 
+conditions to buyer's obligations at closing . the obligations of buyer to purchase the shares and the lease interest on the closing date is subject to the fulfillment , on or before the closing date , of each of the following conditions , unless otherwise waived : 
+{num} 
+buyer shall have completed its diligence review of the company and the lease interest and any related matters on or before august {num} {num} to buyer's complete satisfaction . if buyer does not notify the company on or before august {num} {num} that buyer is not satisfied with its diligence review , then this item {num} shall automatically be deemed waived . 
+{num} 
+the company shall have confirmed to the buyer , and the buyer shall be satisfied , that all proceeds from the sale of the lease interest will be used to pay down the company's indebtedness owed to citibank . 
+{num} 
+citibank shall have agreed with the company , in a written document satisfactory in form and substance to buyer , that citibank will extend until december {num} {num} with interest payments due only and no principal payments due during such period , the company's current indebtedness owed to citibank . 
+{num} 
+citibank shall have provided a written payoff letter satisfactory to buyer that indicates that citibank will release any and all liens with respect to the company's elkhorn and jc kinney leases in the big muddy oil field in converse county , wyoming , upon receipt of the proceeds from the sale of the shares and the lease interest pursuant to this agreement . 
+{num} 
+the company shall have made arrangements satisfactory to buyer providing that buyer will have the right to nominate one member of the board of directors of the company to stand for election at or with respect to any meeting held or consent solicited for the election of the full slate of directors . 
+3 
+{num} 
+the company shall have obtained such consents as are necessary to enable the company to perform its obligations hereunder , including but not limited to board and stockholder consents , to the extent applicable , and shall have provided to buyer evidence satisfactory to buyer of same . 
+{enum} 
+miscellaneous . 
+{num} 
+confidentiality . the parties agree that they shall keep all terms of this agreement confidential , except to the extent otherwise required by law , provided that each party shall be entitled to disclose the terms of this agreement to their legal and financial advisors , and with respect to the company , to the new york stock exchange . 
+{num} 
+successors and assigns . the terms and conditions of this agreement shall inure to the benefit of and be binding upon the respective successors and assigns of the parties . buyer shall be entitled to assign all or any portion of its rights and obligations hereunder to any person or entity at any time and from time to time , so long as such person or entity confirms in writing that it makes the representations contained in section 6 hereof as of the date of such assignment . the company shall not be entitled to assign any portion or all of its rights and obligations hereunder to any party . nothing in this agreement , express or implied , is intended to confer upon any party other than the parties hereto or their respective successors and assigns any rights , remedies , obligations , or liabilities under or by reason of this agreement , except as expressly provided in this agreement . 
+{num} 
+governing law . this agreement and any controversy arising out of or relating to this agreement shall be governed by and construed in accordance with the internal laws of the state of colorado , without regard to conflict of law or other principles that would result in the application of any law other than the law of the state of colorado . 
+{num} 
+counterparts . this agreement may be executed and delivered by facsimile signature and in two or more counterparts , each of which shall be deemed an original , but all of which together shall constitute one and the same instrument . counterpart signature pages to this agreement transmitted by facsimile transmission , by electronic mail in " portable document format " ( " pdf " ) form , or by any other electronic means intended to preserve the original graphic and pictorial appearance of a document , will have the same effect as physical delivery of the paper document bearing an original signature . 
+{num} 
+titles and subtitles . the titles and subtitles used in this agreement are used for convenience only and are not to be considered in construing or interpreting this agreement . 
+{num} 
+fees and expenses . each party shall bear its own expenses in connection with the transactions contemplated by this agreement . 
+{num} 
+delays or omissions . no delay or omission to exercise any right , power or remedy accruing to any party under this agreement , upon any breach or default of any other party under this agreement , shall impair any such right , power or remedy of such non-breaching or non-defaulting party nor shall it be construed to be a waiver of any such breach or default , or 
+4 
+an acquiescence therein , or of or in any similar breach or default thereafter occurring ; nor shall any waiver of any single breach or default be deemed a waiver of any other breach or default theretofore or thereafter occurring . any waiver , permit , consent or approval of any kind or character on the part of any party of any breach or default under this agreement , or any waiver on the part of any party of any provisions or conditions of this agreement , must be in writing and shall be effective only to the extent specifically set forth in such writing . all remedies , either under this agreement or by law or otherwise afforded to any party , shall be cumulative and not alternative . 
+{num} 
+entire agreement . this agreement constitutes the full and entire understanding and agreement between the parties with respect to the subject matter hereof , and any other written or oral agreement relating to the subject matter hereof existing between the parties are expressly canceled . 
+{num} 
+further assurances . the company and buyer each agree to do , execute , acknowledge and deliver all such further acts , instruments and assurances , and to take all such further action before or after the date hereof , as shall be necessary or desirable to carry out this agreement and to consummate and effect the transactions con­templated hereby . 
+signature page follows . 
+5 
+in witness whereof , the parties hereto have executed this agreement as of the day and year first above written . 
+company : 
+fieldpoint petroleum corp . 
+by : / s / phillip h . roberson 
+name : 
+phillip h . roberson 
+title : 
+president 
+buyer : hft enterprises , llc 
+by : / s / benjamin herman 
+name : 
+benjamin herman 
+title : 
+president 
+signature page to stock and mineral lease purchase agreement 

@@ -1,0 +1,141 @@
+ex{num}-{num}_{num}htm 
+executive employment agreement 
+this executive employment agreement ( " agreement " ) is made and effective this date of september {num} {num} by and between track group , inc . , a delaware corporation ( " company " ) and mark a . attarian , an individual resident of the commonwealth of massachusetts ( " executive " ) . 
+whereas , the parties previously entered into an executive employment agreement dated {num} july {num} under which executive has served as the company ' s chief administrative officer beginning july {num} {num} until the present ( the " july {num} agreement " ) ; 
+whereas , the company desires that executive transition into the role of chief financial officer for the company and executive is willing to accept such a transition and new role ; 
+whereas , the parties hereto have agreed that the terms of the july {num} agreement shall remain unchanged except for the executive ' s title and duties as set forth in paragraphs 1 and {num} and the commencement date of this agreement in paragraph 5a . 
+now , therefore , the parties hereto agree as follows : 
+{enum} 
+{enum} company hereby agrees to employ executive as its chief financial officer and executive hereby accepts such employment in accordance with the terms of this agreement and the terms of employment applicable to regular employees of company . in the event of any conflict or ambiguity between the terms of this agreement and terms of employment applicable to regular employees , the terms of this agreement shall be definitive . executive ' s duties shall be performed at the company ' s offices in salt lake city , utah and romeoville , illinois . the parties acknowledge that executive will be required to travel in connection with the performance of his duties . 
+{enum} 
+duties of executive . during the employment term as defined in paragraph {num} executive will perform his duties faithfully and to the best of his ability and will devote his full business efforts and time during normal working hours to the company . notwithstanding the foregoing , executive shall be permitted to serve as a director on the boards of up to two companies , so long as such service does not interfere or conflict with executive ' s obligations hereunder and such directorships are not with competitors of the company . furthermore , executive shall notify the company ' s board of directors at least forty-five ( {num} ) days prior to becoming a director of any other entity . executive will report to the chief executive officer of the company . executive shall be responsible for duties typical of the office held by the executive and as set out in article v , section {num} ( f ) of the company ' s bylaws , attached hereto as exhibit " a " , and shall perform such other duties and projects as may be assigned by the chief executive officer of the company or the board of directors of the company that are consistent with his position . the board of directors shall grant the executive all authorities necessary to perform and fulfill his responsibilities . 
+{enum} 
+{enum} executive shall be paid compensation during the employment term as follows : 
+{enum} 
+a base salary of ${num} per calendar year , payable in installments according to the company ' s regular payroll schedule . 
+{enum} 
+subject to the approval of the board of directors , you will be granted an incentive stock option / warrant to purchase one hundred and twenty-five thousand ( {num} ) registered shares of company common stock issued pursuant to the company ' s {num} equity compensation plan . the option / warrant will be issued at an exercise price equal to either : ( i ) the per share sale price ( in usd ) of any underwritten public offering of company common stock occurring between the date of this agreement and december {num} {num} ( the " public offering " ) ; or ( ii ) in the event the public 
+page 1 of {num} 
+employment agreement 
+offering does not occur between the date of this agreement and december {num} {num} the exercise price shall be equal to the average of the closing price of the company ' s common stock on the market or exchange on which it is then listed on the thirty ( {num} ) trading days immediately preceding december {num} {num} the option will be subject to the terms and conditions of the warrant agreement , a copy of which is attached hereto as exhibit " b " , and the company ' s {num} equity compensation plan , which will include , among other things , a vesting schedule . vesting shall be as follows : twenty-five percent ( {num}% ) of the options shall vest on december {num} {num} and the remaining options shall vest in equal monthly installments on the last day of each month over the following thirty-six ( {num} ) months . the warrant agreement shall contain a cashless exercise provision and piggyback registrations rights . in the event of executive ' s death , vested options / warrants shall be exercisable by executive ' s estate . 
+{enum} 
+as from october {num} {num} executive shall be a full participant in any employee bonus plan and any equity compensation plan instituted by the company ( " the plans " ) . such plans shall allow executive to earn : ( i ) a variable cash bonus based on individual and company performance and achieving specific company milestones , and ( ii ) additional restricted shares / units of the company common stock based on individual performance and achieving specific company milestones . details the plans are set forth on exhibit " c " attached hereto . 
+{enum} 
+{enum} 
+{enum} 
+holidays and personal time . executive shall be entitled to paid holidays and personal time off in accordance with the company ' s holiday and personal time off policies but not less than twenty ( {num} ) days of each calendar year during the employment term , ( as prorated for partial years ) with the time and duration of any specific personal time off mutually and reasonably agreed to by the parties hereto . 
+{enum} 
+medical , dental and group life insurance . company agrees to include executive in the group medical , dental and hospital plan of the company and provide group life insurance for executive . these practices and procedures are subject to change upon mutual agreement . 
+{enum} 
+expense reimbursement . executive shall be entitled to reimbursement for all reasonable expenses , including travel , temporary housing , and entertainment , incurred by executive in the performance of executive ' s duties , including pre-employment travel expenses relating to interviewing that have been submitted to the company . executive will maintain records and written receipts and shall follow all company policies and procedures for reimbursement of expenses . 
+{enum} 
+term , termination and severance . 
+{enum} 
+employment term of agreement . the employment term of this agreement shall commence on september {num} {num} and shall continue in effect for a period of twenty-four ( {num} ) months . thereafter , the agreement shall automatically be renewed for additional consecutive extension terms of twelve ( {num} ) months unless either party gives the other thirty ( {num} ) days ' written notice prior to the expiration of the then current term of that party ' s intent to not renew the term . 
+{enum} 
+termination and severance : 
+{enum} 
+definitions : 
+{enum} 
+page 2 of {num} 
+employment agreement 
+{enum} for purposes of this agreement , " cause " shall mean ( a ) executive ' s continued violations of executive ' s obligations which are demonstrably willful or deliberate on executive ' s part after there has been delivered to executive a written demand for performance from the company which describes the basis for the company ' s belief that executive has not substantially performed his / her duties , ( b ) executive ' s engagement in willful misconduct which is injurious to the company or its subsidiaries , ( c ) executive ' s commission of a felony , an act of fraud against or the misappropriation of property belonging to the company or its subsidiaries , ( d ) executive ' s breaching in any material respect , the terms of any confidentiality or proprietary information agreement between executive and the company , or ( e ) executive ' s commission of a material violation of the company ' s standards of employee conduct . 
+{enum} 
+involuntary termination other than for cause . " involuntary termination other than for cause " shall mean ( a ) without the executive ' s express written consent , a reduction in executive ' s job title or reporting relationships , ( b ) without the executive ' s express written consent a substantial reduction in executive ' s duties , authority and responsibilities , as determined immediately prior to such reduction or removal of the executive from such position and responsibilities , unless the executive is provided with a comparable position ( i . e . , a position of equal or greater organization level , title , reporting relationship , duties , authority , compensation and status ; ( c ) without the executive ' s express written consent , a substantial reduction in the executive ' s base salary , bonus or equity compensation , or benefits , of greater than ten percent ( {num}% ) compared to executive ' s base salary , bonus or equity compensation , or benefits , in effect immediately prior to such reduction ; ( e ) any termination of the executive by the company without cause or any purported termination for which the grounds relied upon by the company are not valid ; ( f ) the failure of the company to obtain the assumption of this agreement by any successors of the company ; ( g ) the expiration of , or decision of the company , to not renew the employment term or any extension term ; or ( h ) in the event of a " change of control , " which shall have the same meaning as that term is defined in the company ' s {num} equity compensation plan except that the acquisition by any person or any group of persons , acting together in any transaction or related series of transactions , of such quantity of the company ' s voting securities as causes such person , or group of persons , to own beneficially , directly or indirectly , as of the time immediately after such transaction or series of transactions , fifty percent ( {num}% ) or more of the combined voting power of the voting securities of the company shall not constitute a change of control if the acquisition is by existing shareholders who own beneficially , directly or indirectly fifty percent ( {num}% ) or more of the company ' s outstanding voting securities as of the date of this agreement . 
+{enum} 
+if executive ' s employment with the company terminates as a result of an involuntary termination other than for cause , in addition to accrued obligations as defined below , the executive shall be entitled to receive the following severance and other benefits . 
+{enum} 
+restricted stock , warrants and option vesting . all restricted stock , warrants and options shall become one hundred percent ( {num}% ) vested and fully exercisable and the company shall have no repurchase right . all restricted stock , warrants and options shall contain a cashless exercise provision for executive ' s acquisition of the stock , warrants and / or options , and piggyback registrations rights . 
+{enum} 
+severance payment . executive shall receive a cash payment equal to twelve ( {num} ) months of executive ' s base annual salary ( at the executive ' s highest base annual salary ) plus annual bonus compensation , at the time of the executive ' s highest compensation level , if such bonus is earned prior to his employment with the company terminating . any such severance payment shall be paid in cash by the company to executive within ninety ( {num} ) days of the effective date of executive ' s termination . 
+{enum} 
+cobra benefits . " cobra " as used herein shall mean the consolidated omnibus budget reconciliation act of {num} as amended . executive shall receive a lump sum payment in an amount equal to the cost of cobra continuation for a period of not less than twelve ( {num} ) months . 
+accrued obligations means ( i ) any base salary earned but not paid through the date of termination ; ( ii ) any compensation deferred by executive prior to his termination of employment and not paid by the company ( all of which will be paid in accordance with the terms of and at the time provided in the underlying deferral arrangement ) ; ( iii ) any amounts or benefits owing to executive under the then applicable benefit plans of the company ; ( iv ) any bonus compensation earned , but not yet paid ; and ( v ) any amounts owing to executive for reimbursement of expenses properly incurred by executive prior to the date of termination and which are reimbursable in accordance with paragraph 4 ( c ) . 
+{enum} 
+voluntary termination ; termination for cause . if executive ' s employment with the company terminates voluntarily by executive or for cause by the company , then executive is not eligible for any benefits under this agreement ( except as to accrued obligations and amounts already earned and / or stock options , warrants and / or restricted stock already vested at that time ) . if executive voluntarily terminates his employment with the company , he shall provide written notice to the company chief executive officer at least forty-five ( {num} ) days prior to terminating such employment . 
+{enum} 
+disability ; death . if executive's employment terminates by reason of the executive's death , or by reason of executive's disability , then executive ' s estate or heirs shall be entitled to receive the accrued obligations and severance payment and other benefits set forth in paragraph 5 herein . 
+{enum} 
+proprietary information . during the term of this agreement and thereafter , executive shall not , without the prior written consent of the company ' s board of directors , disclose or use for any purpose ( except in the course of his / her employment under this agreement and in furtherance of the business of the company or its subsidiaries ) any confidential information or proprietary data of the company . as an express condition of the executive ' s employment with the company , the executive agrees to execute the confidentiality agreement attached hereto as exhibit " d " . 
+{enum} 
+non-competition . executive acknowledges that the nature of the company ' s business is such that if executive were to become employed by , or substantially involved in , the business of a competitor the company during the twelve ( {num} ) months following the termination of executive ' s employment , would cause substantial and irreparable harm to the company . thus , to protect the company ' s goodwill , trade secrets and confidential information , executive agrees and acknowledges that executive will not directly or indirectly engage in ( whether as an employee , consultant , agent , proprietor , principal , partner , stockholder , corporate officer , director or otherwise ) , nor have any ownership interest in or participation in the financing , operation , management or control of , consulting with , any firm , corporation or business that competes with the company in the electronic , gps or alcohol monitoring of people within the corrections or law enforcement sectors , such competitors include but are not limited to , the following entities and their respective subsidiaries : the geo group , inc . , numerex corp . , 3m company , corrisoft llc , outreach smartphone monitoring , llc , and securus technologies . for this purpose , ownership of no more than one-half of one percent ( . 5% ) of the outstanding voting stock of a publicly traded corporation shall not constitute a violation of this provision . 
+{enum} 
+right to advice of counsel / compliance with code section {num}a . the executive acknowledges that he has consulted with counsel and / or tax advisors and is fully aware of his / her rights and obligations under this agreement . notwithstanding any provision in this agreement to the contrary : ( i ) the relevant 
+page 3 of {num} 
+employment agreement 
+provisions of this agreement shall be construed in a manner so as to be exempt from or to comply with section {num}a of the internal revenue code of {num} as amended from time to time , and regulations and other interpretative guidance issued thereunder , including without limitation any regulations or other guidance that may be issued after the date of this agreement . to the extent required to carry out such intent : 
+{enum} 
+the terms used herein will be interpreted to comply with the requirements of section {num}a , including ( without limitation ) that a termination of employment must constitute a " separation from service , " as such term is defined in section {num}a . 
+{enum} 
+neither the company nor executive shall have the right to accelerate or defer the delivery of payments except in accordance with section {num}a . 
+{enum} 
+executive ' s right to receive installment payments will be treated as a right to receive a series of separate and distinct payments . 
+{enum} 
+with regard to any provision herein that provides for reimbursement of costs and expenses or in-kind benefits ( i ) the right to reimbursement or in-kind benefits shall not be subject to liquidation or exchange for another benefit , ( ii ) the amount of expenses eligible for reimbursement , or in-kind benefits , provided during any taxable year shall not affect the expenses eligible for reimbursement , or in-kind benefits to be provided , in any other taxable year , and ( iii ) such payments shall be made on or before the last day of the taxable year following the taxable year in which the expense was incurred . 
+{enum} 
+no payment shall be subject to offset by any other payment unless otherwise permitted by section {num}a . 
+{enum} 
+notwithstanding any other payment schedule provided herein , if executive is identified on the date of termination as a " specified employee " within the meaning of section {num}a ( a ) ( 2 ) ( b ) , then any payment that is considered nonqualified deferred compensation subject to section {num}a , and payable on account of a " separation from service , " will be made on the date that is the earlier of ( a ) the expiration of the six ( 6 ) -month period beginning on the date of executive ' s " separation from service " , and ( b ) executive ' s death ( the " delay period " ) to the extent required under section {num}a . upon the expiration of the delay period , all payments delayed pursuant to this subsection ( whether they would have otherwise been payable in a single sum or in installments in the absence of such delay ) will be paid to executive in a lump sum , and all remaining payments due under this agreement will be paid or provided in accordance with the normal payment dates specified for them herein . for purposes of section {num}a , executive ' s right to receive any installment payment pursuant to this agreement will be treated as a right to receive a series of separate and distinct payments . 
+{enum} 
+{enum} this agreement and all rights under this agreement shall be binding upon , inure to the benefit of , and be enforceable by the parties hereto and their respective personal or legal representatives , executors , administrators , heirs , distributes , devisees , legatees , successors and assigns . this agreement is personal in nature , and neither of the parties to this agreement shall , without consent of the other ( which consent will not be unreasonably withheld ) , assign or transfer this agreement or any right or obligation under this agreement to any other person or entity . if the executive should die while any amounts are still payable to the executive hereunder , all such amounts shall be paid in accordance with the terms of this agreement to executive ' s devisee , legatee , or other designee or , if there be no such designee , to the executive ' s estate . 
+page 4 of {num} 
+employment agreement 
+{enum} 
+{enum} all notices , requests , demands and other communications called for hereunder shall be in writing and shall be deemed given ( i ) on the date of delivery , or if earlier ( ii ) one ( 1 ) day after being sent by a well-established commercial overnight service , or ( iii ) three ( 3 ) days after being mailed by registered or certified mail , return receipt requested , prepaid and addressed to the parties or their successors at the following addresses , or at such other addresses as the parties may later designate in writing : 
+if to the executive : 
+mark a . attarian 
+{num} johnson road 
+andover , massachusetts {num} 
+if to the company : 
+attn : chief executive officer 
+track group , inc . 
+{num} s . main street , suite {num} 
+salt lake city , utah {num} 
+or such other addresses or to the attention of such other person as the recipient party has previously furnished to the other party in writing in accordance with this paragraph . 
+{enum} 
+notice of termination by the company . any termination by the company of executive ' s employment with the company shall be communicated by a notice of termination to executive at least forty-five ( {num} ) days prior to the date of such termination . such notice shall indicate the specific termination provision or provision in this agreement relied upon ( if any ) , shall set forth in reasonable detail the facts and circumstances claimed to provide a basis for termination under the indicated provisions , and shall specify the termination date , and shall specify the amounts and type of compensation and benefits to be provided to executive as a result of the termination . 
+{enum} 
+{enum} failure or delay on the part of either party hereto to enforce any right , power , or privilege hereunder shall not be deemed to constitute a waiver thereof . additionally , a waiver by either party or a breach of any promise hereof by the other party shall not operate as or be construed to constitute a waiver of any subsequent waiver by such other party . 
+{enum} 
+{enum} whenever possible , each provision of this agreement will be interpreted in such manner as to be effective and valid under applicable law , but if any provision of this agreement is held to be invalid , illegal or unenforceable in any respect under any applicable law or rule in any jurisdiction , such invalidity , illegality or unenforceability will not affect any other provision or any other jurisdiction , but this agreement will be reformed , construed and enforced in such jurisdiction as if such invalid , illegal or unenforceable provision had never been contained herein . 
+{enum} 
+{enum} this agreement , together with any attached stock agreements and any intellectual property agreement , represents the entire agreement and understanding between the parties as to the subject matter herein and supersedes all prior or contemporaneous agreements whether written or oral . no waiver , alteration , or modification of any provision of this agreement will be binding unless in writing and signed by duly authorized representatives of the parties hereto . 
+{enum} 
+{enum} the headings of the paragraphs contained in this agreement are for reference purposes only and shall not in any way affect the meaning or interpretation of any provision of this agreement . 
+{enum} 
+applicable law and dispute resolution . this agreement shall be governed by and construed in accordance with the internal and substantive laws , and not the choice of law rules , of the state of delaware . any controversy or claim arising out of relating to this agreement which cannot be settled by good faith negotiation between the parties shall be settled by binding arbitration administered by the american 
+page 5 of {num} 
+employment agreement 
+arbitration association ( " aaa " ) under its employment arbitration rules and procedures ( such rules and procedures being incorporated herein by reference ) . such arbitration shall be submitted to a single arbitrator appointed by the aaa . such arbitrator must be an attorney with a minimum of {num} years of experience in employment matters . the prevailing party in the arbitration shall be entitled to recover its reasonable costs , attorney fees and out of pocket expenses relating to the arbitration . both parties agree that the procedures outlined in this paragraph are the exclusive methods of dispute resolution . unless otherwise agreed by the parties any arbitration shall be held in the chicago , illinois metro area . 
+{enum} 
+{enum} this agreement may be executed in one or more counterparts , none of which need contain the signature of more than one party hereto , and each of which shall be deemed to be an original , and all of which together shall constitute a single agreement . 
+{enum} 
+tax withholding . all payments made pursuant to this agreement will be subject to withholding of applicable taxes so long as such withholding is reasonable and consistent with the company ' s normal practices . 
+in witness whereof , each of the parties has executed this agreement , in the case of the company by their duly authorized officers , as of the day and year first above written . 
+track group , inc . 
+executive 
+by : _ / s / guy dubois __________ 
+by : __ / s / mark a . attarian ______ 
+guy dubois 
+mark a . attarian 
+chairman of the board 
+date : __ september {num} {num} ____ 
+date : _ september {num} {num} ______ 
+page 6 of {num} 
+employment agreement 
+exhibit " a " 
+company ' s bylaws 
+page 7 of {num} 
+employment agreement 
+exhibit " b " 
+warrant agreement form 
+page 8 of {num} 
+employment agreement 
+exhibit " c " 
+executive bonus formula 
+page 9 of {num} 
+employment agreement 
+exhibit " d " 
+confidentiality agreement 
+page {num} of {num} 
+employment agreement 

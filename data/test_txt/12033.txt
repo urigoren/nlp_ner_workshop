@@ -1,0 +1,41 @@
+exhibit {num} 
+amendment number one to 
+stock purchase and sale agreement 
+this amendment number one to stock purchase and sale agreement is made and entered into this {num} th day of june {num} by and between hispanica international delights of america , inc . , a delaware corporation ( hereinafter referred to as the " buyer " ) , greg graham , jose castaneda and sunny sandhu ( hereinafter referred to collectively as the " sellers " ) , and energy source distributors , a california subchapter s corporation ( hereinafter referred to as the " company " ) . 
+witnesseth : 
+whereas , buyer , sellers and the company entered into that certain stock purchase and sale agreement dated march {num} {num} ( the " agreement " ) ; and 
+whereas , buyer , sellers and the company desire to amend the agreement as set forth herein ; 
+now , therefore , buyer , sellers and the company agree as follows : 
+{enum} defined terms : 
+unless otherwise defined herein , all capitalized terms shall have the meanings defined in the agreement . 
+{enum} purchase price : 
+section 2 ( a ) of the agreement is amended and restated to read as follows : 
+the total purchase price for the purchased stock ( the " purchase price " ) shall be four hundred and fifty thousand dollars ( ${num} ) . 
+{enum} inventory : 
+section 2 ( d ) of the agreement is amended and restated to read as follows : 
+{enum} on the closing date , sellers shall provide buyer with an itemized list of all inventory ( the " inventory " ) on hand for which payment has been made by sellers . as of the closing date , the inventory will be distributed by the company to the sellers and the inventory will remain the sole and exclusive property of sellers , the inventory will be warehoused at the company's gilroy facility for a period not to exceed ninety ( {num} ) days from the closing date , after which buyer's consent will be required , which consent will be in buyer's absolute discretion . 
+{enum} buyer will have the exclusive right to purchase the inventory from sellers , and buyer shall purchase all of buyer's requirements for goods in the inventory from sellers , for a period of ninety ( {num} ) days following the closing date ( the " exclusive period " ) . during the exclusive period , sellers agree not to sell , transfer , assign , convey or otherwise dispose or encumber the inventory , in whole or in part , without the prior written consent of buyer . from time to time , buyer will deliver to sellers written purchase orders for selected products comprising the inventory . the purchase price for the inventory ( the " inventory cost " ) will be the seller's cost which will be paid by buyer on terms of net {num} days . in the event that the payment of the inventory cost is {num} days past due , buyer will pay sellers a late payment penalty of {num}% of the late payment plus collection fees , if any . for clarity , buyer may fulfill selected inventory items from other sources in the event said items no longer comprise any part of the inventory . 
+{num} assets as of the closing date : 
+the first sentence of section 3 ( c ) of the agreement is amended and restated to read as follows : 
+on the closing date , all of the assets of the company other than cash , ar and the inventory , ( the " assets " ) shall remain with the company . 
+{enum} escrow : 
+section 4 ( a ) of the agreement is amended and restated to read as follows : 
+the closing date for this sale shall be three ( 3 ) business days following the satisfaction or waiver of the conditions to the obligations of buyer , as per section {num} below , and shall be effective as of the close of business on the closing date . the parties will close the transaction through such escrow as is established for buyer's financing of the purchase price with __________________ ( the " escrow " ) in accordance with such escrow instructions as are mutually approved by buyer , sellers and the company . prior to the closing date , the company will surrender the company's california department of alcoholic beverage control , no . {num} ( the " license " ) whereupon the company will cease all sales requiring such license . following the closing date , buyer will establish an escrow as is required for the transfer of the license . sellers will cooperate with buyer's efforts to transfer the license , but all risk that the license transfer is not approved shall be buyer's risks . 
+{enum} no other amendments : 
+except as expressly set forth herein , the agreement is in full force and effect and is not amended . 
+the parties have executed this agreement as of the date first written above . 
+buyer : 
+hispanica international delights of america , inc . , a delaware corporation 
+by : / s / fernando oswalso leonzo 
+fernando oswaldo leonzo 
+sellers : 
+/ s / greg graham 
+greg graham 
+/ s / jose castaneda 
+jose castaneda 
+/ s / sunny sandhu 
+sunny sandhu 
+company : 
+energy source distributors , a california s corporation 
+by : / s / greg graham 
+greg graham , president 

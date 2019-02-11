@@ -1,0 +1,23 @@
+exhibit {num} 
+amendment to 
+unsecured promissory note 
+this amendment ( this " amendment " ) to that ${num} unsecured promissory note dated as of march {num} {num} ( the " note " ) , by and between vaccinogen , inc . , a maryland corporation ( " vaccinogen " ) and dolphin offshore partners , lp , a limited partnership formed under the laws of delaware ( the " lender " ) , is effective as of june {num} {num} 
+whereas , vaccinogen and the lender would like to extend the maturity of the note to august {num} {num} subject to the terms and conditions set forth herein and in the note ; 
+now therfore , in consideration of the mutual covenants , agreements , representations and warranties set forth herein , the parties hereby agree as follows : 
+agreement 
+{enum} maturity . section 3 of the note is hereby amended and restated in its entirety as follows : 
+maturity . the entire principal amount and all accrued interest shall become fully due and payable on august {num} {num} ( the " maturity date " ) ; provided that , at any time before the maturity date , the lender may elect to convert part or all of the outstanding principal and any interest due and payable under the promissory note at such time into shares of vaccinogen's common stock , par value ${num} per share ( the " common stock " ) , at a rate of ${num} per share by providing written notice to vaccinogen of such election ( the " conversion right " ) . upon receipt of such written notice , vaccinogen shall issue the corresponding whole number of shares to the lender within a commercially reasonable period of time . for the avoidance of doubt , an issuance of the common stock pursuant to this paragraph shall not constitute a default under this note . 
+{enum} defined terms . capitalized terms used but not otherwise defined herein shall have the meanings ascribed thereto in the note . 
+{enum} effect on the note . except as expressly amended or modified by this agreement , all terms , conditions and covenants contained in the note remain in full force and effect . 
+{enum} counterparts . this amendment may be executed by the parties hereto in separate counterparts , each of which when so executed and delivered shall be deemed to be an original , but all such counterparts shall together constitute one and the same instrument . each counterpart may consist of a number of copies hereof each signed by less than all , but together signed by all , of the parties hereto . 
+{enum} governing law . this note and all actions arising out of or in connection with this note shall be governed by and construed in accordance with the laws of the state of maryland . 
+in witness whereof , the parties hereto have caused this amendment to be executed on their respective behalves by their duly authorized signatories as of july {num} {num} 
+vaccinogen , inc . 
+by : / s / andrew l . tussing 
+name : andrew l . tussing 
+title : chairman and chief executive officer 
+agreed to and acknowledged 
+dolphin offshore partners , lp 
+by : / s / peter salas 
+name : peter salas 
+title : general partner 

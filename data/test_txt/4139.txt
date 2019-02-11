@@ -1,0 +1,264 @@
+ex{num}-{num}htm 
+exhibit {num} 
+execution version 
+fourth amendment and consent to the amended and restated 
+credit and guaranty agreement 
+this fourth amendment and consent to the amended and restated credit and guaranty agreement dated as of august {num} {num} ( this " agreement " ) is entered into among the providence service corporation , a delaware corporation ( the " borrower " ) , the guarantors , the lenders party hereto and bank of america , n . a . , as administrative agent . all capitalized terms used herein and not otherwise defined herein shall have the meanings given to such terms in the credit agreement ( as defined below ) . 
+recitals 
+whereas , the borrower , the guarantors , the lenders and bank of america , n . a . , as administrative agent , entered into that certain amended and restated credit and guaranty agreement dated as of august {num} {num} ( as amended by that certain first amendment dated as of may {num} {num} by that certain second amendment and consent dated october {num} {num} and by that certain third amendment and consent dated september {num} {num} the " credit agreement " ) ; 
+whereas , ( a ) cchn group holdings , inc . , a delaware corporation ( " cchn holdings " ) , intends to issue equity interests ( the " subscription " ) to mercury fortuna buyer , llc , a delaware limited liability company ( the " subscriber " ) , pursuant to that certain stock subscription agreement , dated as of the date hereof , by and among cchn holdings , the borrower and the subscriber , such that , following the subscription , the subscriber shall own a majority of cchn holdings , ( b ) in connection with the subscription , cchn holdings will incur new indebtedness , a portion of the proceeds of which will be transferred to the borrower , ( c ) the borrower and the subscriber intend to form a domestic limited liability company ( the " mercury joint venture " ) , and ( d ) the borrower intends to contribute ( the " contribution " ) the equity interests owned by the borrower in cchn holdings to the mercury joint venture , such that , following the contribution , ( i ) the borrower shall own a minority interest in the mercury joint venture , and ( ii ) the mercury joint venture shall own one hundred percent ( {num}% ) of cchn holdings ( the subscription , the contribution and all transactions relating thereto collectively referred to herein as the " transaction " ) ; 
+whereas , the transaction would constitute a violation of section {num} ( b ) of the credit agreement because the aggregate net book value of assets disposed exceeds the permitted ${num} threshold for dispositions ; and 
+whereas , the borrower has requested that the lenders ( a ) consent to the transactions notwithstanding the requirements of section {num} ( b ) of the credit agreement or any other provision of the credit agreement or any other loan document and ( b ) amend the credit agreement as set forth below ( the credit agreement , as amended as set forth below , the " amended credit agreement " ) . 
+now , therefore , in consideration of the premises and the mutual covenants contained herein , and for other good and valuable consideration , the receipt and sufficiency of which are hereby acknowledged , the parties hereto agree as follows : 
+{enum} consent . the required lenders hereby consent to the transactions ; provided , that , the net cash proceeds received by the borrower in connection with the transaction shall be applied within three ( 3 ) business days of the consummation of the subscription first , to the term a1 loan and term a2 loan ( on a pro rata basis ratably to the remaining principal amortization payments of the term a1 loan and the term a2 loan ) , and second , after the term a1 loan and the term a2 loan have been paid in full , to the outstanding revolving loans ( on a pro rata basis ) , it being understood and agreed that any net cash proceeds remaining following the repayment in full of the term loans and the outstanding revolving loans may be used by the borrower for any other purpose not prohibited by the credit agreement or any law . the failure to apply the net cash proceeds as set forth in the preceding sentence shall result in an event of default under the credit agreement . the consent set forth in this section 1 shall not modify or affect the loan parties' obligations to comply fully with the terms of the amended credit agreement or any other duty , term , condition or covenant contained in the amended credit agreement or any other loan document in the future . the consent is limited solely to the specific consent identified above and nothing contained in this agreement shall be deemed to constitute a future waiver of any other rights or remedies the administrative agent or any lender may have under the credit agreement or any other loan document or under applicable law . 
+1 
+{enum} amendments to credit agreement . 
+{enum} section {num} . 
+{enum} the definition of " consolidated net leverage ratio " in section {num} of the credit agreement is hereby amended to read as follows : 
+" consolidated net leverage ratio " means , as of any date of determination , the ratio of ( a ) the remainder of ( i ) consolidated funded indebtedness as of such date , minus ( ii ) unrestricted cash and cash equivalents of the loan parties on the consolidated balance sheet of the borrower and its subsidiaries as of such date in an amount not exceeding ${num} to ( b ) consolidated adjusted ebitda for the period of the four fiscal quarters most recently ended . 
+{enum} clause ( d ) of the definition of " defaulting lender " in section {num} of the credit agreement is hereby amended to read as follows : 
+{enum} has , or has a direct or indirect parent company that has , ( i ) become the subject of a proceeding under any debtor relief law , ( ii ) had appointed for it a receiver , custodian , conservator , trustee , administrator , assignee for the benefit of creditors or similar person charged with reorganization or liquidation of its business or assets , including the federal deposit insurance corporation or any other state or federal regulatory authority acting in such a capacity , or ( iii ) become the subject of a bail-in action ; provided , that , a lender shall not be a defaulting lender solely by virtue of the ownership or acquisition of any equity interests in that lender or any direct or indirect parent company thereof by a governmental authority so long as such ownership interest does not result in or provide such lender with immunity from the jurisdiction of courts within the united states or from the enforcement of judgments or writs of attachment on its assets or permit such lender ( or such governmental authority ) to reject , repudiate , disavow or disaffirm any contracts or agreements made with such lender . 
+{enum} clause ( d ) in the definition of " excluded property " in section {num} of the credit agreement is hereby amended to read as follows : 
+{enum} the equity interests of ( i ) any captive insurance subsidiary and ( ii ) the mercury joint venture , 
+2 
+{enum} the definition of " mlpf&s " in section {num} of the credit agreement is hereby amended to read as follows : 
+" mlpf&s " means merrill lynch , pierce , fenner & smith incorporated ( or any other registered broker-dealer wholly-owned by bank of america corporation to which all or substantially all of bank of america corporation's or any of its subsidiaries' investment banking , commercial lending services or related businesses may be transferred following the fourth amendment effective date ) , in its capacity as joint lead arranger and bookrunner . 
+{enum} clause ( v ) of the definition of " permitted acquisitions " in section {num} of the credit agreement is hereby amended to read as follows : 
+{enum} upon giving effect to such acquisition on a pro forma basis , the consolidated net leverage ratio shall not exceed {num} to {num} as of the most recent fiscal quarter for which the borrower was required to deliver financial statements pursuant to section {num} ( a ) or ( b ) and , if such acquisition is in an amount greater than ${num} the borrower shall have delivered to the administrative agent a pro forma compliance certificate so demonstrating such compliance on a pro forma basis , 
+{enum} clause ( ii ) of the definition of " pro forma basis " in section {num} of the credit agreement is hereby amended to read as follows : 
+{enum} any indebtedness incurred or assumed by the borrower or any subsidiary ( including the person or property acquired ) or permanently repaid , returned , redeemed or extinguished ( excluding normal fluctuations in revolving indebtedness incurred for working capital purposes ) in connection with such transaction ( a ) shall be deemed to have been incurred or repaid , returned , redeemed or extinguished as of the first day of the applicable period and ( b ) if such indebtedness has a floating or formula rate , shall have an implied rate of interest for the applicable period for purposes of this definition determined by utilizing the rate which is or would be in effect with respect to such indebtedness as at the relevant date of determination . 
+{enum} the following sentence is hereby added to the end of the definition of " pro forma basis " in section {num} of the credit agreement to read as follows : 
+for the avoidance of doubt , for any period of four fiscal quarters including the date of the mercury transaction , the financial covenants will be determined after giving pro forma effect to the use of proceeds of the mercury transaction . 
+{enum} the following definitions are hereby added to section {num} of the credit agreement in the appropriate alphabetical order to read as follows : 
+" bail-in action " means the exercise of any write-down and conversion powers by the applicable eea resolution authority in respect of any liability of an eea financial institution . 
+" bail-in legislation " means , with respect to any eea member country implementing article {num} of directive {num} / {num} / eu of the european parliament and of the council of the european union , the implementing law for such eea member country from time to time which is described in the eu bail-in legislation schedule . 
+3 
+" cchn holdings " means cchn group holdings , inc . , a delaware corporation . 
+" consolidated interest coverage ratio " means , as of any date of determination , the ratio of ( a ) consolidated adjusted ebitda for the period of four fiscal quarters most recently ended , to ( b ) consolidated interest charges paid in cash for the period of four fiscal quarters most recently ended . 
+" eea financial institution " means ( a ) any credit institution or investment firm established in any eea member country which is subject to the supervision of an eea resolution authority , ( b ) any entity established in an eea member country which is a parent of an institution described in clause ( a ) of this definition , or ( c ) any financial institution established in an eea member country which is a subsidiary of an institution described in clauses ( a ) or ( b ) of this definition and is subject to consolidated supervision with its parent . 
+" eea member country " means any of the member states of the european union , iceland , liechtenstein , and norway . 
+" eea resolution authority " means any public administrative authority or any person entrusted with public administrative authority of any eea member country ( including any delegee ) having responsibility for the resolution of any eea financial institution . 
+" eu bail-in legislation schedule " means the eu bail-in legislation schedule published by the loan market association ( or any successor person ) , as in effect from time to time . 
+" fourth amendment effective date " means the date on which the conditions precedent set forth in section 4 ( b ) of that certain fourth amendment and consent to the amended and restated credit and guaranty agreement , dated as of august {num} {num} among the borrower , the guarantors , the lenders party thereto and the administrative agent , are satisfied . 
+" mercury joint venture " means any limited liability company that owns {num}% of the issued and outstanding equity interests of cchn group holdings , inc . , a delaware corporation . 
+" mercury transaction " means the following : ( a ) the issuance by cchn holdings of equity interests ( the " subscription " ) to mercury fortuna buyer , llc , a delaware limited liability company ( the " subscriber " ) , pursuant to that certain stock subscription agreement , dated as of august {num} {num} by and among cchn holdings , the borrower and the subscriber , such that , following the subscription , the subscriber shall own a majority of cchn holdings , ( b ) in connection with the subscription , the incurrence of new indebtedness by cchn holdings , a portion of the proceeds of which will be transferred to the borrower , ( c ) the formation by the borrower and the subscriber of the mercury joint venture , and ( d ) the contribution by the borrower of the equity interests owned by the borrower in cchn holdings to the mercury joint venture , such that , following such contribution , ( i ) the borrower shall own a minority interest in the mercury joint venture , and ( ii ) the mercury joint venture shall own one hundred percent ( {num}% ) of cchn holdings . 
+4 
+" write-down and conversion powers " means , with respect to any eea resolution authority , the write-down and conversion powers of such eea resolution authority from time to time under the bail-in legislation for the applicable eea member country , which write-down and conversion powers are described in the eu bail-in legislation schedule . 
+{enum} the following definitions are hereby deleted from section {num} of the credit agreement : consolidated fixed charge coverage ratio and consolidated fixed charges . 
+{enum} section {num} . the following sentence is hereby added to the end of section {num} ( b ) of the credit agreement to read as follows : 
+on the fourth amendment effective date , the aggregate revolving a commitments shall be automatically reduced to ${num} and the aggregate revolving b commitments shall be automatically reduced to ${num} 
+{enum} section {num} . the last sentence of section {num} ( a ) ( iv ) of the credit agreement is hereby amended to read as follows : 
+subject to section {num} , no reallocation hereunder shall constitute a waiver or release of any claim of any party hereunder against a defaulting lender arising from that lender having become a defaulting lender , including any claim of a non-defaulting lender as a result of such non-defaulting lender's increased exposure following such reallocation . 
+{enum} a new section {num} is hereby added to the credit agreement to read as follows : 
+{num} eea financial institutions . 
+no loan party is an eea financial institution . 
+{enum} section {num} . section {num} of the credit agreement is hereby amended to ( i ) delete the " and " at the end of clause ( s ) thereof , ( ii ) replace the " . " at the end of clause ( t ) thereof with a " ; " , and ( iii ) add the following new clauses ( u ) and ( v ) to read as follows : 
+{enum} other investments ; provided , that , after giving effect to such investment on a pro forma basis , the consolidated net leverage ratio shall not exceed {num} to {num} as of the most recent fiscal quarter for which the borrower was required to deliver financial statements pursuant to section {num} ( a ) or ( b ) ; and 
+{enum} other investments ; provided , that , the aggregate amount of such investments outstanding , when taken together with the aggregate amount of restricted payments made pursuant to section {num} ( n ) , shall not exceed ${num} at any time . 
+{enum} section {num} . 
+5 
+{enum} section {num} of the credit agreement is hereby amended to ( x ) delete the " and " at the end of clause ( a ) thereof , ( y ) replace the " . " at the end of clause ( b ) thereof with " ; and " and ( z ) to add the following new clause ( c ) to section {num} to read as follows : 
+{enum} dispositions of the loan parties' interest in the mercury joint venture so long as solely in the case of a disposition made to any bona fide third party ( excluding , for the avoidance of doubt , existing holders of interest in the mercury joint venture ) , ( x ) no less than {num}% of the consideration paid to the loan parties in connection therewith shall be cash or cash equivalents paid contemporaneous with consummation of the transaction and ( y ) such sale is for fair market value ; provided that notwithstanding the foregoing the loan parties may make dispositions of the loan parties' interest in the mercury joint venture pursuant to ( i ) the exercise of drag-along rights by the other parties to the mercury joint venture , ( ii ) any disposition , directly or indirectly , of all or substantially all of the equity interests or assets of the mercury joint venture , ( iii ) any initial public offering of equity interests in the mercury joint venture or any special purpose vehicle create in contemplation of such initial public offering , ( iv ) any internal reorganization , restructuring or recapitalization of the equity securities or organizational structure of the mercury joint venture ( provided that any successor interests held by the loan parties following such reorganization or recapitalization shall remain subject to the terms of this section {num} ( c ) ) . for the avoidance of doubt , any disposition of the loan parties' interest in the mercury joint venture made in accordance clauses ( i ) through ( iii ) of the proviso to the immediately preceding sentence of this section {num} ( c ) shall be free and clear , and any and all direct or indirect encumbrances , rights or restrictions the administrative agent or the lenders have in respect of the loan parties' interest in the mercury joint venture or the equity interests therein ( or successor thereto ) ( including , without limitation , the restrictions provided for in this section {num} ( c ) ) shall be deemed terminated and of no further force and effect immediately prior to the consummation of such disposition without any action or consent of the administrative agent , any lender or other person . 
+{enum} the lead in of the last paragraph of section {num} of the credit agreement is hereby amended to read as follows : 
+for purposes of section {num} ( b ) ( i ) and {num} ( c ) ( i ) , each of the following shall be deemed to be " cash " : 
+{enum} section {num} section {num} of the credit agreement is hereby amended to ( i ) delete the " and " at the end of clause ( k ) thereof , ( ii ) replace the " . " at the end of clause ( l ) thereof with a " ; " , and ( iii ) add the following new clauses ( m ) and ( n ) to read as follows : 
+{enum} the borrower may make other restricted payments ; provided , that , after giving effect to such restricted payment ( or the obligation ( contingent or otherwise ) to incur such restricted payment ) on a pro forma basis , the consolidated net leverage ratio shall not exceed {num} to {num} as of the most recent fiscal quarter for which the borrower was required to deliver financial statements pursuant to section {num} ( a ) or ( b ) ; and 
+{enum} the borrower may make other restricted payments ; provided , that , the aggregate amount of such restricted payments made , when taken together with the aggregate amount of investments outstanding pursuant to section {num} ( v ) , shall not exceed ${num} at any time . 
+{enum} section {num} 
+{enum} section {num} ( a ) of the credit agreement is hereby amended to read as follows : 
+{enum} consolidated net leverage ratio . permit the consolidated net leverage ratio as of the end of any fiscal quarter of the borrower to be greater than {num} to {num} 
+{enum} section {num} ( b ) of the credit agreement is hereby amended to read as follows : 
+{enum} consolidated interest coverage ratio . permit the consolidated interest coverage ratio as of the end of any fiscal quarter of the borrower to be less than {num} to {num} 
+{enum} a new section {num} is hereby added to the credit agreement to read as follows : 
+{num} acknowledgement and consent to bail-in of eea financial institution . 
+solely to the extent any lender or the l / c issuer that is an eea financial institution is a party to this agreement and notwithstanding anything to the contrary in any loan document or in any other agreement , arrangement or understanding among any such parties , each party hereto acknowledges that any liability of any lender or the l / c issuer that is an eea financial institution arising under any loan document , to the extent such liability is unsecured , may be subject to the write-down and conversion powers of an eea resolution authority and agrees and consents to , and acknowledges and agrees to be bound by : ( a ) the application of any write-down and conversion powers by an eea resolution authority to any such liabilities arising hereunder which may be payable to it by any lender or the l / c issuer that is an eea financial institution ; and ( b ) the effects of any bail-in action on any such liability , including , if applicable , ( i ) a reduction in full or in part or cancellation of any such liability ; ( ii ) a conversion of all , or a portion of , such liability into shares or other instruments of ownership in such eea financial institution , its parent undertaking , or a bridge institution that may be issued to it or otherwise conferred on it , and that such shares or other instruments of ownership will be accepted by it in lieu of any rights with respect to any such liability under this agreement or any other loan document ; or ( iii ) the variation of the terms of such liability in connection with the exercise of the write-down and conversion powers of any eea resolution authority . 
+{enum} release . 
+7 
+{enum} the required lenders hereby authorize the administrative agent to ( i ) release each of the entities listed on schedule 1 hereto as guarantors under the credit agreement and ( ii ) release any liens granted by or on such entities ( including on the equity interests of such entities ) and their property ( such collateral , collectively , the " released collateral " ) in favor of the administrative agent pursuant to the credit agreement , in each case , upon the consummation of the subscription . 
+{enum} upon the consummation of the subscription , the administrative agent , on behalf of itself and the lenders and in accordance with the foregoing clause ( a ) , hereby ( i ) releases each of the entities listed on schedule 1 hereto as guarantors under the credit agreement , ( ii ) releases the liens in favor of the administrative agent in or on the released collateral arising or created under the loan documents , and ( iii ) agrees to execute and deliver to the borrower , at the sole expense of the borrower , all documents or instruments reasonably requested by the borrower in connection therewith . 
+{enum} the borrower hereby acknowledges that the releases in clause ( b ) above are being made without recourse to , or any representation or warranty by , the administrative agent . 
+{enum} conditions precedent . ( a ) this agreement ( other than the amendments set forth in section 2 of this agreement ) shall be effective upon ( i ) execution and delivery of counterparts hereof by the borrower , the guarantors , the required lenders and the administrative agent and ( ii ) the loan parties having paid the reasonable and invoiced out-of-pocket costs and expenses of the administrative agent , including , without limitation , the reasonable and invoiced fees and expenses of moore & van allen , pllc and ( b ) the amendments set forth in section 2 of this agreement shall become effective upon ( i ) the application of the net cash proceeds received by the borrower in connection with the transaction to the term a1 loan , the term a2 loan and the revolving loans as required by section 1 of this agreement , with the term loans being repaid in full and ( ii ) the borrower having paid , or causing to be paid , to the administrative agent for the account of each lender that consents to this agreement by execution and delivery of counterparts hereof , an amendment consent fee of {num}% of the aggregate principal amount of such lender's revolving commitment ( after giving effect to this agreement ) . 
+{enum} mis cellaneous . 
+{enum} the credit agreement and the obligations of the loan parties thereunder and under the other loan documents are hereby ratified and confirmed and shall remain in full force and effect according to their terms . this agreement is a loan document . 
+{enum} each guarantor ( i ) acknowledges and consents to all of the terms and conditions of this agreement , ( ii ) affirms all of its obligations under the loan documents , and ( iii ) agrees that this agreement and all documents executed in connection herewith do not operate to reduce or discharge its obligations under the credit agreement or the other loan documents . 
+{enum} the borrower and the guarantors hereby represent and warrant as follows : 
+{enum} each loan party has taken all necessary action to authorize the execution , delivery and performance of this agreement . 
+{enum} this agreement has been duly executed and delivered by the loan parties and constitutes each of the loan parties' legal , valid and binding obligations , enforceable in accordance with its terms , except as such enforceability may be limited by debtor relief laws and by general principles of equity and principles of good faith and fair dealing . 
+8 
+{enum} no approval , consent , exemption , authorization or other action by , or notice to , or filing with , any governmental authority or any other person is necessary or required in connection with the execution , delivery or performance by , or enforcement against , any loan party of this agreement other than ( a ) those approvals , consents , exemptions , authorizations or other actions , notices or filings , that have already been obtained , taken , given or made and are in full force and effect , ( b ) filings and recordings necessary to perfect and continue certain liens on the collateral created by the collateral documents and ( c ) recording of the transfer of registrations and applications for ip rights upon foreclosure . 
+{enum} the loan parties represent and warrant to the lenders that ( i ) the representations and warranties of the loan parties set forth in article vi of the credit agreement and in each other loan document are true and correct in all material respects as of the date hereof with the same effect as if made on and as of the date hereof , except to the extent that such representations and warranties specifically refer to an earlier date in which case they shall be true and correct in all material respects as of such earlier date and ( ii ) no event has occurred and is continuing which constitutes a default or an event of default . 
+{enum} this agreement may be executed in counterparts ( and by different parties hereto in different counterparts ) , each of which shall constitute an original but all of which when taken together shall constitute a single contract . delivery of an executed counterpart of a signature page of this agreement by telecopy or other electronic imaging means shall be effective as delivery of a manually executed counterpart of this agreement . 
+{enum} this agreement and the rights and obligations of the parties hereunder shall be governed by , and construed in accordance with , the laws of the state of new york . 
+{enum} each party hereto agrees as set forth in section {num} of the credit agreement as if such section were set forth in full herein . 
+signature pages follow 
+9 
+in witness whereof , the parties hereto have caused this agreement to be duly executed as of the date first above written . 
+borrower : the providence service corporation 
+by : / s / james lindstrom 
+name : james lindstrom 
+title : chief executive officer , president & assistant secretary 
+guarantors : provado technologies , llc 
+by : / s / herman schwarz 
+name : herman schwarz 
+title : manager 
+logisticare solutions , llc 
+by : / s / herman schwarz 
+name : herman schwarz 
+title : president , ceo & manager 
+logisticare solutions independent practice 
+association , llc 
+by : logisticare solutions , llc , as sole member 
+by : / s / herman schwarz 
+name : herman schwarz 
+title : president , ceo & manager 
+health trans , inc . 
+red top transportation , inc . 
+ride plus , llc 
+by : / s / herman schwarz 
+name : herman schwarz 
+title : president 
+pinnacle acquisitions , llc 
+by : / s / james lindstrom 
+name : james lindstrom 
+title : manager 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+ross innovative employment solutions corp . 
+by : / s / david shackelton 
+name : david shackelton 
+title : chief financial officer 
+cchn group holdings , inc . 
+cchn holdings , inc . 
+community care health network , inc . 
+ascender software , inc . 
+mmnra , llc 
+votiva health , llc 
+mission medical group of alabama llc 
+matrix medical network of arizona , llc 
+matrix medical network of colorado , llc 
+matrix medical network of florida , llc 
+matrix medical network of georgia , llc 
+matrix medical network of kentucky , llc 
+mission medical group of louisiana , l . l . c . 
+matrix medical network of missouri , llc 
+matrix medical network of nevada , llc 
+matrix medical network of new mexico , llc 
+matrix medical network of oklahoma , llc 
+matrix medical network of oregon , llc 
+matrix medical network of utah , llc 
+matrix medical network of virginia , llc 
+matrix medical network of washington , llc 
+by : / s / walter w . cooper 
+name : walter w . cooper 
+title : president & chief executive officer 
+administrative agent : bank of america , n . a . , 
+as administrative agent 
+by : / s / anthea del bianco 
+name : anthea del bianco 
+title : vice president 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+lenders : bank of america , n . a . , 
+as a lender , swing line lender and l / c issuer 
+by : / s / heath lipson 
+name : heath lipson 
+title : svp 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+suntrust bank , 
+as a lender 
+by : / s / jared cohen 
+name : jared cohen 
+title : vice president 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+hsbc bank usa , national association , 
+as a lender 
+by : / s / steven f . larsen 
+name : steven f . larsen 
+title : vice president 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+bmo harris bank , n . a . 
+as a lender 
+by : / s / brian harbin 
+name : brian harbin 
+title : director 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+mufg union bank , n . a . , 
+as a lender 
+by : / s / teuta ghilaga 
+name : teuta ghilaga 
+title : director 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+capital one , national association , 
+as a lender 
+by : / s / kevin blitz 
+name : kevin s . blitz 
+title : duly authorized signatory 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+citizens bank , n . a . , 
+as a lender 
+by : / s / doug cornett 
+name : doug cornett 
+title : managing director 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+healthcare financial solutions , llc , 
+as a lender 
+by : / s / kevin blitz 
+name : kevin s . blitz 
+title : duly authorized signatory 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+bank of the west , 
+as a lender 
+by : / s / kevin r . gillette 
+name : kevin r . gillette 
+title : director 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+bokf , n . a . , d / b / a bank of arizona , 
+as a lender 
+by : / s / margaret delbrocco 
+name : margaret delbrocco 
+title : senior vice president 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+regions bank , 
+as a lender 
+by : / s / joseph a . miller 
+name : joseph a . miller 
+title : managing director 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+vist bank , 
+as a lender 
+by : / s / joseph n . butto 
+name : joseph n . butto 
+title : senior vice president 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+brown brothers harriman & co . , 
+as a lender 
+by : / s / jared keyes 
+name : jared keyes 
+title : partner 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+western alliance bank , 
+as a lender 
+by : / s / victor j . napolitano 
+name : victor j . napolitano 
+title : senior vice president 
+signature page to fourth amendment and consent to amended and restated credit and guaranty agreement 
+schedule 1 
+cchn group holdings , inc . 
+cchn holdings , inc . 
+community care health network , inc . 
+ascender software , inc . 
+mmnra , llc 
+votiva health , llc 
+mission medical group of alabama llc 
+matrix medical network of arizona , llc 
+matrix medical network of colorado , llc 
+matrix medical network of florida , llc 
+matrix medical network of georgia , llc 
+matrix medical network of kentucky , llc 
+mission medical group of louisiana , l . l . c . 
+matrix medical network of missouri , llc 
+matrix medical network of nevada , llc 
+matrix medical network of new mexico , llc 
+matrix medical network of oklahoma , llc 
+matrix medical network of oregon , llc 
+matrix medical network of utah , llc 
+matrix medical network of virginia , llc 
+matrix medical network of washington , llc 

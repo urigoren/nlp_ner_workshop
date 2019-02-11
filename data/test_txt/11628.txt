@@ -1,0 +1,41 @@
+exhibit 
+exhibit {num} 
+second amendment 
+to 
+agreement for the 
+purchase and sale of property 
+this second amendment to agreement for the purchase and sale of property ( " amendment " ) , is made effective as of june {num} {num} by and between hawaii funding llc , a delaware limited liability company ( the " seller " ) , diamond resorts kona development , llc , a delaware limited liability company ( the " buyer " ) , and diamond resorts international , inc . , a delaware corporation ( the " co-acquirer " ) . 
+recitals : 
+whereas , seller , buyer and co-acquirer entered into that certain agreement for the purchase and sale of property with an effective date ( as defined therein ) of july {num} {num} ( the " agreement " ) , as amended by that certain first amendment to agreement for the purchase and sale of property dated as of february {num} {num} ( the " first amendment " ) ; 
+whereas , the agreement provides for a feasibility period within which buyer and seller are to perform certain matters in connection with development of the project ; 
+whereas , the first amendment extended the original feasibility period by approximately three months ; 
+whereas , seller and buyer are aware of the status of the development of the project and wish to extend the feasibility period ; and 
+whereas , the parties now desire to modify , amend and supplement the terms of the agreement as provided herein . 
+now , therefore , for and in consideration of these premises and the mutual covenants hereinafter set forth and other good and valuable consideration , the receipt and sufficiency of which are hereby acknowledged , the parties agree as follows : 
+{enum} defined terms . capitalized terms not otherwise defined in this amendment shall have the meanings assigned to them in the agreement . 
+{enum} extension of feasibility period . the " feasibility period " as defined in section {num} of the agreement is hereby extended to august {num} {num} accordingly , the term " feasibility period " as used in the agreement shall now mean and refer to the period of time commencing on the effective date and ending on august {num} {num} 
+{enum} extension of termination outside date . the " termination outside date " as defined in section {num} of the agreement is hereby extended to august {num} {num} 
+cr-{num} v1 
+{num} 
+{enum} extension fee . as a condition to the effectiveness of this amendment , and as additional consideration for the extensions of the feasibility periods hereunder and pursuant to the first amendment , buyer shall pay seller a fee of ${num} within five ( 5 ) business days of the date of this amendment , which fee shall be deemed unconditionally earned in full by seller as of the date hereof in consideration of the extension of the feasibility period and the other terms and conditions contained herein , and notwithstanding anything to the contrary contained in the agreement , shall not be refundable to buyer for any reason . 
+{enum} sunstone kona psa . buyer acknowledges and agrees that ( a ) the outside closing date ( as defined in the sunstone kona psa ) is july {num} {num} and ( b ) that seller has no obligation to extend the outside closing date beyond july {num} {num} but may extend the outside closing date in seller's sole and absolute discretion . seller shall promptly inform buyer in the event the outside closing date is extended . 
+{enum} counterparts and facsimile signatures . this amendment may be executed in counterparts , each of which shall be deemed an original . facsimile copies or pdf copies sent by email of this amendment and any signatures thereon shall be considered for all purposes as originals . 
+{enum} miscellaneous . except as expressly modified by this amendment and the first amendment , the agreement remains unmodified and in full force and effect . this amendment along with the agreement and the first amendment is the entire agreement between the parties hereto with respect to the subject matter hereof and supersedes all prior agreements and understandings , whether oral or written , between the parties with respect to such matters . any future reference to the agreement shall be deemed to be a reference to the agreement , as amended by the first amendment and this amendment . this amendment may not be modified or terminated orally or in any manner other than by an agreement in writing signed by all the parties hereto or their respective successors in interest . the foregoing recitals are hereby incorporated into the agreement . 
+remainder of page intentionally left blank ; signatures follow . 
+in witness whereof , the parties hereto have caused this amendment to be duly executed in duplicate and their respective seals to be affixed hereunto as of the day , month and year first above written . 
+buyer : 
+diamond resorts kona development , llc , a delaware limited liability company 
+by : / s / howard s . lanznar 
+name : howard s . lanznar 
+title : evp and chief administrative officer 
+co-acquirer : 
+diamond resorts international , inc . , a delaware corporation 
+by : / s / howard s . lanznar 
+name : howard s . lanznar 
+title : evp and chief administrative officer 
+seller : 
+hawaii funding llc , 
+a delaware limited liability company 
+by : / s / steven e . orbuch 
+name : steven e . orbuch 
+title : authorized person 

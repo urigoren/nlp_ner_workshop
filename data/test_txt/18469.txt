@@ -1,0 +1,22 @@
+exhibit 
+exhibit {num} 
+staples letterhead 
+september {num} {num} 
+delivered by hand 
+john b . wilson 
+po box {num} 
+hyannis port , ma {num} 
+dear john : 
+as discussed , you and staples inc . have mutually agreed to end our employment relationship . in addition to the severance and other benefits you will receive , you will also be eligible for a one time termination payment ( the " termination payment " ) equivalent to the amount you would have otherwise received under the company's amended and restated executive officer incentive plan ( the " eoip " ) if you had remained employed through the end of fiscal year {num} pro-rated to account for the time you were actually employed . the calculation of the termination payment is dependent on the level of achievement of the company-wide performance objectives under the eoip , which will be determined by the company in its sole discretion on or around march {num} {num} for clarity , assuming your last day of employment is october {num} {num} and the company-wide performance objectives ( including budgeted earnings per share ( eps ) , beyond office supply sales ( bo$$ ) growth and gross margin $ ) are achieved at target levels , the amount of the termination payment will be equivalent to three-quarters ( 3 / 4 ) of {num}% of your annual base salary ; subject to adjustment in accordance with the methodology for determining payouts under the eoip , including any threshold or maximum amounts . the termination payment , minus mandatory withholdings , will be paid in a lump sum by march {num} {num} and will be subject to any right of recovery set forth in the eoip . 
+in addition , the company will pay you a monthly housing allowance of euro {num} per month plus reasonable utility expenses for the period beginning the day after your last day of employment and ending on february {num} {num} nothing in this paragraph imposes an obligation on the company to extend the work and / or residence permit of you or your family in the netherlands ; you assume the responsibility to comply with the immigration laws of the netherlands if you elect to remain in the country after your last day of employment . 
+to be eligible to receive the termination payment and housing allowance set forth herein , you must remain employed through your effective termination date , execute and return the signed staples severance letter agreement , and honor all obligations in the latter agreement . 
+sincerely , 
+regis mulot 
+regis mulot 
+executive vice president human resources 
+staples , inc . 
+acknowledgement : 
+i , the undersigned , john b . wilson , acknowledge receipt of the above letter and agree to its terms . 
+_ / s / john b . wilson_______________ 
+john b . wilson 
+date : 9-{num}-{num} 

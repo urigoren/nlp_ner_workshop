@@ -1,0 +1,29 @@
+exhibit 
+exhibit {num} 
+bouvet stockholm announces acquisition of ciber sweden 
+oslo , norway , september {num} {num} – bouvet stockholm ab , a service provider of information technology , digital communication and enterprise management , today announced an agreement with ciber , inc . ( nyse : cbr ) , a leading global information technology consulting , services and outsourcing company , to acquire its business in sweden . ciber sweden includes {num} employees that will transition to bouvet upon closing , which pending regulatory consideration , is expected to occur in september {num} 
+" i am happy to welcome ciber sweden to bouvet . together ciber and bouvet have a strong client base and have matching competencies and culture . this will strengthen our delivery capacity for development of digital solutions in stockholm " , said bouvet sverige chief executive officer jonna nordén . 
+the acquisition of ciber sweden further strengthens bouvet's focused regional model . as a turnkey supplier for clients with local operations , the company maintains a strong presence in norway and sweden , where it has {num} local offices . 
+" this acquisition is highly complementary to our regional model and represents a strong fit for our strategy to expand in the attractive swedish market , " said bouvet chief executive officer sverre hurum . " bouvet is building expertise in scandinavia and emphasizes our strong local presence including a deep understanding of our customer's language , culture and business . " 
+" we are continuing to execute our strategy of streamlining operations and focusing on core strengths , " said ciber president and chief executive officer michael boustridge . " we are confident that bouvet's deep roots in the market will help provide our valued ciber sweden customers and employees with a seamless transition . " 
+about bouvet asa 
+bouvet is a scandinavian consultancy with {num} employees , which delivers advisory , and development services within the field of information technology and digital communications . bouvet is listed on the oslo stock exchange . 
+for more information , visit www . bouvet . no / www . bouvet . se 
+about ciber , inc . 
+ciber is a global it consulting company with approximately {num} employees in north america , europe and asia / pacific . ciber partners with organizations to develop technology strategies and solutions that deliver tangible business value . founded in {num} the company trades on the new york stock exchange ( nyse : cbr ) . for more information , visit www . ciber . com and follow us on twitter , linkedin , facebook , google plus and our blog . 
+forward looking statements 
+this press release contains forward-looking statements within the meaning of the private securities litigation reform act of {num} relating to ciber's operations , results of operations and other matters that are based on ciber's current expectations , estimates , forecasts and projections . words , such as " anticipate , " " believe , " " could , " " expect , " " estimate , " " intend , " " may , " " opportunity , " " plan , " " positioned , " " potential , " " project , " " should , " and " will " and similar expressions , are intended to identify these forward-looking statements . these statements are not guarantees of future performance and involve risks , uncertainties and assumptions that are difficult to predict . forward-looking statements are based on assumptions as to future events that may not prove to be accurate . for a more detailed discussion of these risks , see the information under the " risk factors " heading in ciber's annual report on form {num}-k for the year ended december {num} {num} and ciber's quarterly report on form {num}-q for the three months ended june {num} {num} and other documents filed with or furnished to the securities and exchange commission . other than as required by law , ciber undertakes no obligation to publicly update any forward-looking statements in light of new information or future events . readers are cautioned not to put undue reliance on forward-looking statements . 
+### 
+contact 
+sverre hurum , 
+bouvet asa , ceo 
+tel : +{num} {num} {num} {num} {num} 
+e-mail : sverre . hurum@bouvet . no 
+jonna nordén 
+bouvet sverige ab , ceo 
+tel : +{num} {num}-{num} {num} {num} 
+e-mail : jonna . norden@bouvet . se 
+scott kozak 
+ciber , global communications , investor and industry relations 
+tel : {num}-{num}-{num} 
+e-mail : skozak@ciber . com 

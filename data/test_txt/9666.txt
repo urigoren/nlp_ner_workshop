@@ -1,0 +1,62 @@
+ex-{num} 
+rescission agreement and mutual release 
+this rescission agreement and mutual release ( the " agreement " ) is made and entered into as _____________ , {num} by and among grogenesis , inc . , a nevada corporation , ( " grogenesis " or the " company " ) and stephen moseley , an individual , ( " moseley " ) . grogenesis and moseley are sometimes referred to herein as the " parties " collectively or a " party " individually . 
+whereas , grogenesis and moseley had collaborated on certain business matters for which moseley received {num} shares of common stock of the company ( the " common stock " ) ; 
+whereas , the parties now desire to unwind any such collaboration ; and 
+whereas , to accomplish the unwinding , moseley desires to return the common stock to grogenesis . 
+now , therefore , the parties hereby agree as follows : 
+{enum} 
+rescission of business collaboration and common stock . on the terms and subject to the conditions of this agreement , grogenesis and moseley each agrees to rescind any business agreement , whether verbal or in writing , including that certain consulting agreement dated september {num} {num} between grogenesis and moseley ( the " business agreements " ) , and in conjunction with such rescission , moseley agrees to surrender and return the common stock to grogenesis for cancellation and grogenesis wishes to accept such return of common stock for cancellation . 
+{enum} 
+mutual representations and warranties ; covenants . each party represents and warrants to the other party that : 
+{num} 
+{enum} all action on the part of the respective party and its nominees , officers , directors and shareholders necessary for the authorization , execution and delivery of this agreement and the performance of all obligations of the respective party hereunder has been taken . this agreement constitutes a valid and legally binding obligation of the parties , enforceable in accordance with its respective terms . moseley has not sold , assigned , conveyed , transferred , mortgaged , hypothecated , pledged or encumbered or otherwise permitted any lien to be incurred with respect to the common stock , or any portion thereof . 
+{num} 
+corporate organization of the company . grogenesis is a corporation duly organized , validly existing and in good standing under the laws of the state of nevada and has full corporate power and authority to carry on its business as it is now being conducted and to own the properties and assets it now owns . 
+{num} 
+agreement not in contravention . neither the execution and delivery of this agreement , nor the consummation of the transactions provided for herein will ( i ) result in the material breach of or constitute a material default or give rise to any right of termination , cancellation or acceleration under any of the terms , conditions , or provisions of any lease , license , promissory note , contract , agreement , mortgage , deed of trust or other instrument or document to which each of the parties is a party , or ( ii ) violate any order , writ , injunction , decree , law , statute , rule or regulation applicable to any of the parties . 
+{num} 
+information and statements . no representation or warranty made by or on behalf of the parties with respect to any business collaboration contains any untrue statement of a material fact or omits to state a material fact necessary in order to make the statements so made , in light of the circumstances under which they are made , not misleading . 
+{enum} 
+mutual release . each party on behalf of itself and its respective partners , agents , assigns , heirs , officers , directors , employees executors , and attorneys ( " affiliates " ) hereby forever and finally releases , relieves , acquits , absolves and discharges the other party and their affiliates from any and all losses , claims , debts , liabilities , demands , obligations , promises , acts , omissions , agreements , costs and expenses , damages , injuries , suits , actions and causes of action , of whatever kind or nature , whether known or unknown , suspected or unsuspected , contingent or fixed , that they may have against the other party and their affiliates , including without limitation claims for indemnification , based upon , related to , or by reason of any matter , cause , fact , act or omission occurring or arising at any moment out of the business agreements . 
+{num} 
+each party acknowledges that this mutual release does not constitute any admission of liability whatsoever on the part of any of the undersigned . 
+{num} 
+each party represents and warrants that there has been no assignment or transfer of or giving of a security interest in or encumbrance upon any interest in any claim which he / it or his / its affiliates may have against any other party . each of the parties further represents that such party : ( i ) has carefully read this agreement ; ( ii ) knows the contents of this agreement ; ( iii ) has had the advice of counsel of such party's choosing in connection with the subject matter hereof , and the advice thereof is reflected in the provisions of this agreement ; and ( iv ) has not been influenced to any extent whatsoever in doing so by any other party or by any other person or entity , except for those representations , statements and promises expressly set forth herein . 
+{enum} 
+the closing . 
+{num} 
+this agreement shall become effective when executed and delivered by all of the parties hereto ( the " closing " ) . 
+{num} 
+as soon as practicable after the closing , moseley shall return and deliver to grogenesis the endorsed share certificates representing the common stock . 
+{enum} 
+{enum} each party shall defend , indemnify , and hold the other harmless from and against any and all losses , damages , liabilities and expenses ( including penalties and attorneys' fees ) which are incurred or suffered by or imposed upon the other party arising out of or relating to ( i ) any failure or breach by the party to perform any of its covenants , agreements or obligations under this agreement , or ( ii ) any inaccuracy or incompleteness of any of the representations and warranties of the party contained in this agreement or in any exhibit delivered in connection with this agreement . 
+{enum} 
+{enum} 
+{num} 
+{enum} this agreement may be executed in any number of counterparts , including facsimiles thereof , each of which shall be an original , but such counterparts together shall constitute one and the same instrument . 
+{num} 
+entire agreement . unless otherwise specifically agreed in writing , this agreement represents the entire understanding of the parties with reference to the transactions set forth herein and supersede all prior warranties , understandings and agreements heretofore made by the parties , and neither this agreement nor any provisions hereof may be amended , waived , modified or discharged except by an agreement in writing signed by the party against whom the enforcement of any amendment , waiver , change or discharge is sought . 
+2 
+{num} 
+specific performance . the parties agree that irreparable damage would occur in the event any provision of this agreement was not performed in accordance with the terms thereof and that , prior to the termination of this agreement pursuant to its terms , the parties shall be entitled to specific performance of the terms hereof , in addition to any other remedy at law or equity . 
+{num} 
+assignment of agreement . this agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs , successors and assigns . no party may assign either this agreement or any of its rights , interests or obligations hereunder without the prior written approval of the other party . 
+{num} 
+governing law and attorneys' fees . this agreement shall be governed by and construed in accordance with the laws of the state of nevada . in the event of any action at law or suit in equity in relation to this agreement or any exhibit or other instrument or agreement required hereunder , the prevailing party in such action or suit shall be entitled to receive its or his attorneys' fees and all other costs and expenses of such action or suit . 
+{num} 
+further action . in case at any time after the closing any further action is necessary or desirable to carry out the purposes of this agreement , the appropriate person or persons shall take such action as promptly as practicable . 
+{num} 
+{enum} all representations , warranties , covenants and agreements of the parties contained in this agreement , or in any instrument , certificate , opinion or other writing provided for herein , shall survive the closing . 
+{num} 
+{enum} any term or provision of this agreement that is invalid or unenforceable in any situation in any jurisdiction shall not affect the validity or enforceability of the remaining terms and provisions hereof or the validity or enforceability of the offending term or provision in any other situation or in any other jurisdiction . 
+{num} 
+waiver of jury trial . each of the parties hereby irrevocably waives all right to trial by jury in any action , proceeding or counterclaim ( whether based on contract , tort or otherwise ) arising out of or relating to this agreement or the transactions contemplated hereby or the actions of the parties in the negotiation , administration , performance and enforcement of this agreement . 
+in witness whereof , the parties hereto have caused this agreement to be executed as of the day and year first above written . 
+grogenesis , inc . 
+by : __________________________ 
+richard kamolvathin , ceo 
+stephen moseley 
+by : __________________________ 
+stephen moseley 
+3 

@@ -1,0 +1,73 @@
+ex-{num} 
+release agreement 
+this agreement is dated as of the {num} day of july , {num} ( the " effective date " ) . 
+between : 
+vgrab communications inc . , of {num} - {num} west pender street , vancouver , bc v6c 1h2 
+( the " company " ) 
+of the first part 
+and : 
+nelson da silva . , of {num} - {num} west pender street , vancouver , bc v6c 1h2 
+. 
+( " director " ) 
+of the second part 
+whereas : 
+{enum} 
+the director has served as a director of the company since may {num} ( the " term " ) ; 
+{enum} 
+the company wishes that the director resign as a director of the company and , in consideration of which , the company has agreed to issue {num} common shares to the director ; and 
+{enum} 
+the parties have negotiated a complete resolution of any and all disputes , claims or potential claims arising between them during the term on the terms and conditions set out below . 
+now , therefore , in consideration of the recitals state above , which all parties agree are accurate and complete , the agreements , promises and warranties set forth below and other good and valuable consideration , receipt of which is hereby acknowledged , the parties agree as follows : 
+{enum} 
+share issuance 
+{num} 
+in consideration of the director release ( as defined below ) , the company shall issue {num} common shares of the company on the effective date . 
+{enum} 
+release and discharge 
+{num} 
+in consideration of the director release ( hereinafter defined ) , the company hereby agrees to completely release and forever discharge the director from any and all past , present or future claims , demands , obligations , actions , causes of action , rights , damages , costs , loss of services , expenses and compensation which the company has had , now has , or which may hereafter accrue or otherwise be acquired by the company against the director with respect to any matter relating to the term ( the " company release " ) . 
+{num} 
+in consideration of the company release , the director agrees to completely release and forever discharge the company from any and all past , present or future claims , demands , obligations , actions , causes of action , rights , damages , costs , loss of services , expenses and compensation which the director has had , now has , or which may hereafter accrue or otherwise be acquired by the director against the company with respect to any matter relating to the term ( the " director release " ) . 
+1 
+{enum} 
+entire agreement and successors in interest 
+{num} 
+this agreement contains the entire agreement between the parties with regard to the matters set forth herein and shall be binding upon and inure to the benefit of the executors , administrators , personal representatives , heirs , successors and assigns of each . 
+{enum} 
+independent legal advice 
+{num} 
+this agreement has been prepared by northwest law group acting solely on behalf of the company . the director acknowledges that they have been advised to obtain independent legal advice . 
+{enum} 
+governing law 
+{num} 
+this agreement shall be governed by and construed in accordance with the laws of the province of british columbia and each party hereto adjourns to the jurisdiction of the courts of the province of british columbia . 
+{enum} 
+additional documents 
+{num} 
+all parties agree to cooperate fully and execute any and all supplementary documents and to take all additional actions which may be necessary or appropriate to give full force and effect to the basic terms and intent of this agreement . 
+{enum} 
+effectiveness 
+{num} 
+this agreement shall become effective on execution . 
+{enum} 
+miscellaneous 
+{num} 
+this agreement supersedes any prior written or oral agreements or understandings between the parties relating to the subject matter hereof . 
+{num} 
+no modification or amendment of this agreement shall be valid unless in writing and signed by or on behalf of the parties hereto . 
+{num} 
+a waiver of the breach of any term or condition of this agreement shall not be deemed to constitute a waiver of any subsequent breach of the same or any other term or condition . 
+{num} 
+this agreement is intended to be performed in accordance with , and only to the extent permitted by , all applicable laws , ordinances , rules and regulations . if any provision of this agreement , or the application thereof to any person or circumstance , shall , for any reason and to any extent , be held invalid or unenforceable , such invalidity and unenforceability shall not affect the remaining provisions hereof and the application of such provisions to other persons or circumstances , all of which shall be enforced to the greatest extent permitted by law . 
+{num} 
+the headings in this agreement are inserted for convenience of reference only and shall not be a part of or control or affect the meaning of any provision hereof . 
+{num} 
+this agreement may be executed in one or more counter-parts , each of which so executed shall constitute an original and all of which together shall constitute one and the same agreement . 
+2 
+in witness whereof , the parties have duly executed and delivered this agreement as of the date first written above . 
+vgrab communications inc . 
+/ s / jacek skurtys 
+jacek skurtys 
+/ s / nelson da silva 
+nelson da silva 
+3 

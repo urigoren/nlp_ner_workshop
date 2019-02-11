@@ -1,0 +1,178 @@
+exhibit 
+intercreditor agreement 
+this intercreditor agreement ( this " agreement " ) dated as of july {num} {num} among sillerman investment company iii , llc , a delaware limited liability company ( " sillerman iii " ) , sillerman investment company iv , llc , a delaware limited liability company ( " sillerman iv " ) , sillerman investment company vi llc , a delaware limited liability company ( " sillerman vi ; " jointly with sillerman iii and sillerman iv , the " existing lenders " ) , rant , inc . , a delaware corporation ( the " new lender " ) , and function ( x ) inc . ( formerly known as draftday fantasy sports inc . ) , a delaware corporation ( " borrower " ) . 
+w i t n e s s e t h : 
+whereas , the borrower has loans currently outstanding , evidenced by secured convertible promissory notes from borrower in favor of the existing lenders ( the " existing notes " ) , and which are secured by a first priority lien and security interest in all of the assets of the borrower as described in schedule 1 hereto ; 
+whereas , concurrently with the execution and delivery of this agreement , new lender will make a loan in the amount of ${num} to the borrower pursuant to the new convertible promissory note dated as of the date hereof ( the " new note " ) in the form of exhibit a attached hereto , which shall be by a first priority lien and security interest pari passu with the repayment of existing notes in all of the assets of the borrower ; 
+whereas , in order to induce the existing lenders and new lender to extend or maintain their separate credit facilities pursuant to each of their respective loan documents , the existing lender and the new lender desire to coordinate and provide for the priority of amounts received from the borrower on the terms and conditions set forth in this agreement ; 
+whereas , the existing lenders may make additional loans to the borrower in the future on similar terms to the existing notes , including interest rate and maturity , which shall be secured by a lien and security interest on the assets of the borrower pari passu with the existing notes and the new note ( for the purposes of this agreement , such additional loans shall be treated on the same basis as the existing notes for the purposes of rank and priority , security interest and rights and remedies of the lenders , and the documents relating thereto shall be deemed loan documents ( as defined herein ) ; and 
+whereas , if the existing lenders make additional loans to the borrower in the future , the new lender , and any of its designees or assigns , shall have the right to participate and make additional loans to the borrower for an amount pro-rata to the existing notes and new note amounts . 
+now , therefore , in consideration of the premises and intending to be legally bound hereby , the parties hereto agree as follows : 
+{enum} definitions . 
+the following terms shall have the meanings set forth herein : 
+" collateral " means all of the borrower's assets , whether now owned or hereafter acquired , as defined in the loan documents . 
+" collateral agent " means the designee appointed in accordance with this agreement , not in his individual capacity but as collateral agent for the existing lenders and the new lender in connection with the loan documents . 
+" event of default " means either ( i ) an " event of default " as defined in any of the existing notes , or ( ii ) an " event of default " as defined in the new note . 
+" lenders " means collectively , and " lender " means individually , the existing lenders and the new lender , together with their respective successors and permitted assigns . 
+" loan documents " means the existing lenders' loan documents and the new lender's loan documents including , but not limited to , the existing notes , new note and respective note and security agreements . 
+" new lender " means rant , inc . and its successors and assigns who will be bound by this agreement as if such parties shall have executed this agreement directly , provided , however , all decisions affecting the rights of the new lender under this agreement or the rights to any collateral shall be made by holders of the notes who own , collectively {num}% of the then outstanding principal amount of the notes , and collateral agent shall in all respects be bound by the decisions and determinations thereof . 
+" notes " means the existing notes and the new note and any notes issued thereafter to the lenders . 
+{enum} lien priorities and security interests . 
+{enum} 
+seniority of liens securing existing lender obligations . notwithstanding any contrary priority established by ( a ) the filing dates of their respective financing statements , ( b ) the recording dates of any other security perfection documents , or ( c ) which lender has possession of any of the collateral , the parties agree that the lien of each lender in the collateral perfected or to be perfected by such lender's loan documents shall be of equal rank and priority to the other lender's liens in the same collateral , and the lien of each lender in the collateral shall be deemed an undivided pro rata security interest in all items of collateral . the equality in priority and pari passu nature of the lenders' liens specified in this agreement are applicable irrespective of : the time or order of attachment or perfection of security interests ; the time or order of filing of any security documents ; or the time of giving or failure to give notice of the acquisition or expected acquisition of purchase money or other security interests . this agreement applies only to liens held by lenders to secure the loans and other obligations made under the loan documents . 
+{enum} 
+prohibition on contesting liens . each existing lender and the new lender shall be solely responsible for perfecting and maintaining the perfection of its lien on each item constituting the collateral . this agreement is intended solely to govern the respective lien priorities as between the existing lenders and the new lender and shall not impose on the collateral agent ( of any ) or any existing lenders or the new lender any obligations in respect of the disposition of proceeds of foreclosure of any collateral which would conflict with prior perfected claims thereon in favor of any other person or any order or decree of any court or other governmental authority or any applicable law . 
+{enum} 
+agreement to release liens . notwithstanding anything to the contrary contained in any agreement between the existing lenders or the new lender and the borrower , there shall be no right to restrict or permit , or approve or disapprove , the sale , transfer , release or other disposition of the collateral or take any action with respect to the collateral without the unanimous approval of the existing lenders and the new lender . in the event the new lender assigns , sells , or transfer the new note , any approval or waiver required herein shall require only that percentage or amount required in the assignment , sale or transfer for approval of any matter hereunder , including without limitation , any lien release , and each such new note holder shall be entitled to the pro-rata rights and benefits of the new lender provided herein as if named herein directly . in the event that a collateral agent is appointed and the collateral agent releases or agrees to release any of its liens or security interests in any portion of the collateral in connection with the sale or other disposition thereof , or any of the collateral is sold or retained pursuant to a foreclosure or similar action , the lenders shall promptly consent to such sale or other disposition and promptly execute and deliver to the collateral agent such consent to such sale other disposition , termination statements and releases as the collateral agent shall reasonably request to effect the release of the liens and security interests of the lenders in such collateral . in the event of any sale , transfer , or other disposition ( including a casualty loss or taking through eminent domain ) of the collateral , the proceeds resulting therefrom ( including insurance proceeds ) shall be applied in accordance with the terms of the loan documents and this agreement . 
+{enum} 
+effect of lender's nonperfection . the agreement herein as to the equality in priority of lenders' liens is expressly conditioned upon the perfection and nonavoidability of the lien of each lender . if the lien of any lender is ( i ) determined by a court of competent jurisdiction to be avoidable for any reason , or ( ii ) such lender fails to timely perfect its lien with respect to all or any portion of the collateral ( or such perfection is not maintained without lapse ) and as a result thereof the priority of such lender's lien becomes subordinate or junior to a perfected lien in favor of a third party under the uniform commercial code or other applicable law , ( such lender being referred to as an " affected lender " ) , then all losses by affected lender from the collateral ( a " loss " ) resulting from such failure to timely perfect or maintain perfection or from such avoidability shall be borne solely by the affected lender . in the event of any dispute between the lenders as to the amount of the loss , the amount determined by the perfected lender shall be presumed correct unless and until rebutted by competent evidence presented by the affected lender . the affected lender shall bear the burden of persuasion . notwithstanding anything to the contrary in this section 1 ( d ) , if any lenders' liens are perfected as to particular collateral on the same day , then the agreement herein as to the equality in priority of their liens shall apply to such collateral . 
+{enum} 
+notices of equal priority . at the request of any lender , each security document under the loan documents naming an individual lender as a secured party , collateral assignee or mortgagee shall contain an unqualified statement in substantially the following form : 
+" the security interests of one lender and its successors and assigns described herein are subject to a certain intercreditor agreement dated july {num} {num} by and among function ( x ) inc . and lenders . " 
+each lender agrees to execute any and all financing statements , financing statement amendments , notices and other documents reasonably deemed necessary by another lender to establish and maintain the relative priority agreement made herein as a matter of public record . any financing statement in favor of an individual lender with respect to the collateral shall include a statement substantially as follows : 
+" the secured party's security interest in the collateral covered by this financing statement is subject to the intercreditor agreement dated july {num} {num} by and among function ( x ) inc . and lenders . " 
+within thirty days of the date hereof , new lender shall file a financing statement evidencing its security interest as described herein . 
+{enum} modification of loan documents and assignment of obligations . 
+{enum} the lenders agree between themselves ( but not with , or for the benefit of the borrower ) that : 
+{enum} anything contained in any loan documents to the contrary notwithstanding , each lender agrees that it shall promptly notify the other lenders of any amendment to any loan document to which it is a party and provide the other lenders with copies thereof ; provided ; however , that no such amendment , or any restatement , supplement , addition , refinancing or other change to any such loan document shall result in or be for the purpose of increasing the amount of the obligations due thereunder . 
+{enum} each lender agrees that it will not assign or otherwise transfer any obligation or any right in respect thereof , or any note or other instrument evidencing any obligation , except where its assignee or transferee executes a supplement and thereby expressly agrees with the other lenders for the benefit of the other lenders , to be bound by and comply with the provisions of this agreement and of the agreement under which such obligation was created , other than a pro-rata assignment by the new lender to its note holders , as successors , in which case such assignees shall succeed to all the rights and obligations of new lender hereunder . 
+{enum} the lenders acknowledge and agree that the existing lenders may convert all or a portion of their debt to shares of the common stock of the borrower on such terms and conditions as such existing lenders may require and deem acceptable . nothing contained herein shall limit the existing lenders' ability to do so and in the event of such conversion , the existing lenders shall confirm the amount , if any , remaining outstanding under their note thereafter . 
+{enum} the lenders acknowledge and agree that the new lender may convert all or a portion of its debt to shares of the common stock of the borrower on such terms and conditions as may be contained in the new note . nothing contained herein shall limit the new lender's ability to do so and in the event of such conversion , the new lender shall confirm the amount , if any , remaining outstanding under its notes thereafter . 
+{enum} representations of lenders . 
+{enum} 
+each existing lender hereby severally represents and warrants new lender as follows : 
+{enum} 
+except as set forth in the existing loan documents ( including , if there are any additional loans made by the existing lenders , the loan documents with respect thereto ) , there are no other liens on or security interests in any property of the borrower in favor of any of the existing lenders securing payment of their respective obligations . 
+{enum} 
+as of the date hereof , to the knowledge of each existing lender , no event of default or , any event that , with the giving of time or the passage of time or both , would constitute an event of default under or in respect of such existing lender's loan or loans , as the case may be . 
+{enum} 
+this agreement has been duly authorized ( to the extent applicable to such existing lender ) , executed and delivered , and is a legal , valid and binding obligation of each existing lender enforceable against it in accordance with its terms , except as the same may be limited by bankruptcy , insolvency , reorganization , moratorium or other laws relating to or affecting the enforcement of creditors' rights generally and except to the extent that the enforceability thereof may be limited by the application of general principles of equity . 
+{enum} 
+this agreement has been duly authorized ( and will be to the extent applicable to any additional loan from such existing lender ) , executed and delivered , and is ( and will be ) a legal , valid and binding obligation of the existing lender enforceable against it in accordance with its terms , except as the same may be limited by bankruptcy , insolvency , reorganization , moratorium or other laws relating to or affecting the enforcement of creditors' rights generally and except to the extent that the enforceability thereof may be limited by the application of general principles of equity . 
+{enum} 
+the existing lenders shall not agree to or provide to any party any waiver , modification or amendment of any agreement with regard to any default or breach of any agreement or understanding , or modification of any inter-creditor agreement in effect or in the future entered into with any other lender not a party to this agreement , which would modify or reduce in any way the protections of new lender or rights to the security afforded to new lender in the collateral , without the written consent of the new lender representing {num}% of the then outstanding principal amount of the loans held by the new lender ( including any successors or assigns ) . 
+{enum} 
+the new lender hereby severally represents and warrants to each other lender ( but not the borrower ) as follows : 
+{enum} 
+the new lender has provided to each other lender true , correct and complete copies of its respective new lender loan documents , including all amendments thereto . 
+{enum} 
+except as set forth in the existing loan documents , there are no other liens on or security interests in any property of the borrower in favor of the new lender securing payment of the new lender's obligations . 
+{enum} 
+as of the date hereof , to the knowledge of new lender , no event of default or , any event that , with the giving of time or the passage of time or both , would constitute an event of default under or in respect of the new lender's obligations . 
+{enum} 
+this agreement has been duly authorized ( to the extent applicable to such new lender ) , executed and delivered , and is a legal , valid and binding obligation of such new lender enforceable against it in accordance with its terms , except as the same may be limited by bankruptcy , insolvency , reorganization , moratorium or other laws relating to or affecting the enforcement of creditors' rights generally and except to the extent that the enforceability thereof may be limited by the application of general principles of equity . 
+{enum} 
+all of the representations and warranties set forth in the new lender's loan documents as to the new lender are true and correct after giving effect to this agreement . 
+{enum} 
+the new lender hereby represents and warrants on behalf of itself to each other lender and to the borrower that it : 
+{enum} 
+has made and shall continue to make its own independent investigation of the creditworthiness , financial condition and affairs of the borrower and related entities in connection with the making and continuance of its extensions of credit with respect to the obligations due the new lender under the new lender loan documents , and that based upon such documents and information as it has deemed and may deem appropriate , it has made and shall continue to make its own decisions regarding extensions of credit made or to be made by it and actions taken or to be taken by it with respect thereto ; and 
+{enum} 
+has had a full opportunity to review the existing lender loan documents , has had the opportunity to discuss the existing lender loan documents with the management of the borrower , and has conducted its own investigation and due diligence of such loan documents as it deemed necessary in connection with making its extension of credit to the borrower and entering into this agreement . 
+{enum} 
+each lender acknowledges it has executed a subordination agreement that provides its loan is subordinate to the convertible debentures issued by company in the amount of ${num} 
+{enum} covenants . 
+in the event that any lender receives any payment or other form of credit on or with respect to any obligation due any other lender under any loan document from the borrower or out of its property , including without limitation from the collateral , contrary to the provisions of this agreement , such payment or other form of credit shall be held by the recipient lender in trust for the benefit of all other lenders , segregated from other funds and property held by the recipient lender , and shall be paid over and delivered forthwith in accordance with the provisions of section1hereof . 
+{enum} collateral agent . 
+upon the occurrence of an event of default under the existing note or the new note , the parties hereby agree to appoint a trust company , bank or other financial institution or other partyreasonably acceptable to new lender as collateral agent , and prior thereto rfxs will serve as collateral agent . the form of collateral agency agreement or such other agreement the collateral agent shall reasonably require shall be the agreement pursuant to which the collateral agent is retained , but shall be substantially in the form attached hereto as schedule {num} if any party does not agree to act as collateral agent , then the collateral agent appointed as provided herein shall become the collateral agent under this agreement , provided that such party shall be independent of either the existing lenders and the new lender . 
+{enum} miscellaneous . 
+{enum} 
+this agreement is solely for the benefit of the lenders and their respective successors and assigns , and neither the borrower nor its successors or assigns , or any other person , shall have any right , benefit , priority or interest under , or because of the existence of , this agreement . 
+{enum} 
+this agreement supersedes and replaces all previous subordination arrangements between and / or among borrower , existing lenders and / or new lenders , as the case may be . 
+{enum} 
+all notices , requests and demands will be given to or made upon the respective parties hereto at their respective addresses specified on the signature page of this agreement , or as to any party , at such other address as may be designated by it in a written notice to all other parties . written notice may be delivered by hand or by recognized overnight delivery service , sent by certified mail , return receipt requested , or by confirmed facsimile transmission , and unless otherwise specified herein , notice shall be deemed effective when delivered if delivered by hand or by recognized overnight deli very service or sent by confirmed facsimile transmission during regular business hours on any business day , and five ( 5 ) days following the date such notice is duly deposited in the mail if sent by mail . 
+{enum} 
+this agreement may be executed in any number of counterparts , all of which taken together shall constitute one and the same instrument , and any party hereto may execute this agreement by signing any such counterpart . 
+{enum} 
+this agreement shall be construed in accordance with and governed by the laws of the state of new york , without reference to principles of conflicts of laws . 
+{enum} 
+this agreement shall remain in effect with respect to any such lender until written notice is given to the other parties hereto of the satisfaction of any lender's obligations due to such lender under its respective loan document . no termination , however , shall impair the rights or priorities created or acquired hereunder by any of the parties hereto prior to the effective date of such termination . no modifications unless in writing and signed by all parties hereto . 
+{enum} 
+if any provision of this agreement is held to be illegal , invalid or unenforceable , ( i ) the legality , validity and enforceability of the remaining provisions of this agreement shall not be affected or impaired thereby and ( ii ) the parties shall endeavor in good faith negotiations to replace the illegal , invalid or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the illegal , invalid or unenforceable provisions . the invalidity of a provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction . 
+( signature page follows ) 
+in witness thereof , each of the undersigned has caused this inter-creditor agreement to be duly executed as of the date first above written . 
+function ( x ) inc . 
+by : ____________________________ 
+name : mitchell j . nelson 
+title : executive vice president 
+sillerman investment company iii , llc 
+by : ____________________________ 
+name : robert f . x . sillerman 
+title : manager 
+sillerman investment company iv , llc 
+by : ____________________________ 
+name : robert f . x . sillerman 
+title : manager 
+sillerman investment company vi llc 
+by : ___________________________ 
+name : robert f . x . sillerman 
+title : manager 
+rant , inc . 
+by : ___________________________ 
+name : brett rosin 
+title : chief executive officer 
+collateral agent : 
+____________________________________ 
+collateral agent 
+address for notices to borrower : 
+{num} broadway , {num} th floor 
+new york , ny {num} 
+attention : mitchell j . nelson 
+tel : {num}-{num}-{num} 
+fax : {num}-{num}-{num} 
+email : mitchell@functionxinc . com 
+address for notices to sillerman investment company iii llc : 
+{num} broadway , {num} th floor 
+new york , ny {num} 
+attention : robert f . x . sillerman 
+tel : {num}-{num}-{num} 
+fax : {num}-{num}-{num} 
+email : __________________________ 
+address for notices to sillerman investment company iv llc : 
+{num} broadway , {num} th floor 
+new york , ny {num} 
+attention : robert f . x . sillerman 
+tel : {num}-{num}-{num} 
+fax : {num}-{num}-{num} 
+email : __________________________ 
+address for notices to sillerman investment company vi llc : 
+{num} broadway , {num} th floor 
+new york , ny {num} 
+attention : robert f . x . sillerman 
+tel : {num}-{num}-{num} 
+fax : {num}-{num}-{num} 
+email : __________________________ 
+address for notices to rant , inc . : 
+4 park plaza , suite {num} 
+irvine , california {num} 
+attention : brett rosin , ceo 
+tel : ____________________________ 
+fax : ____________________________ 
+email : brett . rosin@rantmn . com 
+with a copy to : 
+sichenzia ross friedman ference llp 
+{num} broadway , {num} nd floor 
+new york , ny {num} 
+attention : harvey kesner , esq . 
+tel : {num}-{num}-{num} 
+fax : {num}-{num}-{num} 
+email : hkesner@srff . com 
+address for notices to collateral agent : 
+____________________________ 
+____________________________ 
+attention : 
+tel : ____________________________ 
+fax : ____________________________ 
+email : __________________________ 
+schedule 1 
+existing notes 
+lender date principal amount 
+sillerman investment company iii , llc {num} / {num} / {num} ${num} 
+sillerman investment company iv , llc 6 / {num} / {num} ${num} 
+sillerman investment company vi , llc 1 / {num} / {num} ${num} 
+sillerman investment company vi , llc 3 / {num} / {num} ${num} 
+sillerman investment company vi , llc 4 / {num} / {num} ${num} 
+sillerman investment company vi , llc 5 / {num} / {num} ${num} 
+sillerman investment company vi , llc 6 / {num} / {num} ${num} 
+1 

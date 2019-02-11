@@ -1,0 +1,148 @@
+ex-{num} 
+exhibit {num} 
+c o r p o r a t e p a r t i c i p a n t s 
+brooks o'neil , white oaks investor relations 
+stanton nelson , chief executive officer 
+hubert king , chief financial officer 
+c o n f e r e n c e c a l l p a r t i c i p a n t s 
+scott henry , roth capital 
+bill sutherland , emerging growth equities 
+p r e s e n t a t i o n 
+operator : 
+good afternoon , and welcome to the foundation healthcare second quarter {num} financial results conference call . all participants will be in listen-only mode . should you need assistance , please signal a conference specialist by pressing the star key , followed by zero . after today's presentation , there will be an opportunity to ask questions . to ask a question , you may press star , then one on your telephone keypad . to withdraw your question , please press star , then two . please note that this event is being recorded . as a reminder , all lines will be listen-only mode unless prompted for a question . 
+i would now like to turn the conference over to brooks o'neil , managing partner at white oaks investor relations , who is foundation's primary investor contact . please go ahead . 
+brooks o'neil : 
+good afternoon and thank you for joining us on this call today . the purpose of this call is to review foundation healthcare's financial results for the second quarter of {num} we will also provide some additional color on the business . with me on the line are foundation healthcare's ceo stanton nelson ; and foundation cfo , hugh king . after i read our cautionary statement , both stanton and hugh will make some brief comments , after which we'll be happy to take your questions . 
+our comments today may include forward-looking statements . all statements other than statements of historical fact , including , without limitation , statements regarding the future plans and objectives of foundation healthcare or the corporation , are forward-looking statements . these involve various risks , assumptions , estimates and uncertainties . these statements reflect the current projections , expectations or beliefs of foundation healthcare and are based on information currently available to the corporation . there can be no assurance that such statements will prove to be accurate and actual results and future events could differ materially from those anticipated in such statements . all forward-looking statements made on this call are qualified by these cautionary statements and the risk factors described in the company's published financial statements on file with the sec . all such statements are made as of today , and foundation healthcare assumes no obligation to update or revise these statements . 
+with that , let me turn the call over to stanton . 
+stanton nelson : 
+thank you , brooks . good afternoon and thank you for joining our call . today we will discuss foundation's second quarter {num} results and provide some additional color on the business . patient care is foundation's number one priority and we continue to deliver patient care at the highest level . patient satisfaction scores exceeded {num}% once again at all of our hospitals , which speaks volumes about the care our clinical teams are providing to our patients . our new hospital in houston increased their patient satisfaction scores to {num}% in the second quarter , which is a huge improvement from the {num}% it averaged in {num} prior to foundation's ownership . our el paso hospital received the orthopedic center for excellence in the second quarter , which is a big honor for the hospital . 
+financially , it was a disappointing quarter . the company reported one-time revenue write-downs totaling ${num} million in the quarter . one million of the write-down was related to a {num} electronic health record payment . also , changes in the payment codes for our reference lab in el paso resulted in a ${num} million revenue write-down in the second quarter . even without the write-downs , it was still a tough quarter . our houston hospital is behind budget and the syndication to recruit new physicians is taking longer than we expected . as you know , we have been successful in many syndications in the past and remain confident we will be in houston . 
+i believe one of the factors that has led to the challenging environment in houston was the failure of three health systems in houston over the past {num} months . these include victory health , forest park and university general . in addition , foundation had to overcome the previous reputation of the hospital and that has taken longer than we estimated but feel we have turned the corner . in fact , june service volumes in houston were up {num}% compared to the average of the first five months of {num} we remain confident that houston will be our most profitable asset over time . 
+i'd be remised if i didn't acknowledge that we are in default on our loan covenants with our bank group as a result of some of the items we mentioned previously . as you might imagine , we have been in regular contact with the banks and we feel quite confident we can quickly negotiate waivers that will allow us to continue to do business as usual . we appreciate the support of our banks and we look forward to continuing working with them going forward . 
+on the bright side , our el paso hospital added four new imaging facilities that should generate ${num} million of net income annually . in addition , the acquisition of {num} healthcare management adds to our growth strategy . a core foundation value is the need to partner with physicians to align goals , optimize quality of care and improve efficiency and profitability . it has also been increasingly feared that insurance payers are seeking platforms like ours to provide their customers a lower cost option while delivering outstanding patient care . we believe this platform will enable us to meet their needs . ninety nine management has developed a clinically and financially integrated multi-specialty physician practice model which can increase our participating physician's revenue by {num}% to {num}% . 
+ninety nine management is headquartered in dallas and now serves nearly {num} physicians in the texas market . we believe {num} will assist our physician partners in all markets which will allow them to see more patients and allow {num} to manage the back office . nearly all of our assessments performed on our partners' practices have resulted in increased revenue or expense savings which is a big help to our physician partners . 
+in summary , the quarter had some bright spots but also had some significant financial challenges . while i'm disappointed in the results , i still remain confident in our business model and optimistic that the one-time events are behind us . i'm excited about the future of foundation in the last half of {num} 
+i'll turn the call over to hugh king to discuss our financials for the second quarter . hugh? 
+1 
+hubert king : 
+thank you stanton , and good afternoon everyone . net revenues and equity and earnings of affiliates for the second quarter of {num} were collectively ${num} million , down {num}% from the ${num} million reported in the second quarter of {num} 
+our net revenues are composed of patient services , management fees from affiliates , other revenue , and income from minority-owned investments and minority-owned affiliates , less our provision for doubtful accounts . patient service revenue net of the provision for doubtful accounts decreased ${num} million or {num}% to ${num} million during the three months ended june {num} {num} as compared to ${num} million in the same period of {num} the decrease is largely due to ${num} million of receivables write-down related to the toxicology lab in el paso which was offset by revenues at our houston hospital . 
+in the last half of {num} the american medical association released new definitions for toxicology lab testing codes . these codes became effective on january {num} {num} the medicare program which uses a modified version of the ama codes waivered for several months on whether to recognize the revised codes ; finally deciding to implement a modified version also effective on january {num} {num} there was no change in the test performed , just changes in the definitions and the code . third party insurers decided to recognize the medicare codes but were unable to update their coding systems and established rates until april 1 of {num} since the new codes were not recognized by the insurance companies' systems , they were being automatically denied even though the coding accurately reflected the new codes on the bill . accordingly , foundation stopped billing for toxicology lab services in february and began accruing revenue based on the rates paid under the previous codes . foundation once again began billing for toxicology services performed in april and march once the new codes were recognized by the third party payer payment systems in april . third party payers have certain flexibilities in their contracts related to new codes and even though the tests performed were the same as the tests performed before the new codes , they established significantly lower rates for the revised codes . once payment rates were established , foundation had to adjust its outstanding receivables to the new payment rates . 
+the impact of this adjustment was a ${num} million reduction in revenues with an offsetting ${num} million reduction in accrued expenses for the laboratory services . foundation also received notification from medicare that the el paso hospital had been overpaid $1 million in the second quarter of {num} prior to the time foundation became public . this overpayment related to the implementation of an electronic health record system under the american reinvestment and recovery act . the liability was recorded as an adjustment to other operating revenues in the second quarter of {num} operating expenses for the second quarter of {num} were ${num} million compared to ${num} million in the second quarter of {num} the increase is due to operating expenses incurred at our new hospital in houston . since january {num} the houston management team has reduced staffing , restructured supply chain management and optimized contracted services with a resulting $7 million reduction in annual expenses . 
+during the quarter , foundation also saw the minority interest in summit medical center for ${num} million . our operations resulted in a net loss attributable to foundation healthcare common stock of ${num} million during the second quarter of {num} compared to a gain of ${num} million during the second quarter of {num} net loss attributable to foundation common stock from continuing operations was a loss of ${num} per share for the second quarter of {num} compared to a ${num} gain for the second quarter of {num} adjusted ebitda was a negative $6 million for {num} second quarter compared to ${num} million in the second quarter of {num} as a result of foundation's financial performance in the second quarter , it did not meet several of senior debt lender—senior lender debt covenants . accordingly , all senior debt in the attached financial statements is classified as a current liability . foundation is working with its senior lenders to obtain waivers and restructure its covenants . management is confident that waivers and loan modifications can be obtained . 
+as to year-to-date results , net revenues and equity and earnings of affiliates for the six months ended june {num} {num} were ${num} million , up {num}% from the ${num} million reported in the first six months of {num} patient service revenues net of provision for doubtful accounts increased ${num} million or {num}% to ${num} million during the first six months of {num} compared to ${num} million in the same period of {num} the increase is primarily due to revenue at the new hospital , houston hospital , reduced by ${num} million write-down 
+2 
+in toxicology receivables at the el paso hospital . operating expenses for the first six months of {num} were ${num} million compared to ${num} million in the first six months of {num} the increase is primarily due to expenses at the houston hospital acquired on december {num} {num} 
+our operations including the ${num} million gain on sale of our minority interest in the oklahoma city hospital resulted in a net loss attributable to foundation common stock of ${num} million during the first six months of {num} compared to a net gain of ${num} million during the first half of {num} our operations resulted in a net loss to foundation healthcare common stock . year-to-date adjusted ebitda as of june {num} {num} was ${num} million compared to ${num} million in the first six months of {num} net loss attributable to foundation common stock from continuing operations was a negative ${num} per share for the first six months of {num} compared to a ${num} per share loss for the same period of june—six months into june {num} {num} at june {num} {num} cash and cash equivalents totaled ${num} million compared to ${num} million at december {num} {num} 
+stanton , i'll turn it back over to you . 
+stanton nelson : 
+thank you hugh . operator , we're ready to take questions . 
+operator : 
+we will now begin the question-and-answer session . to ask a question , you may press star , then one on your touchtone phone . if you are using a speakerphone , please pick up your handset before pressing the keys . to withdraw your question , please press star , and two . at this time , we will pause momentarily to assemble our roster . 
+our first question comes from scott henry of roth capital . please go ahead . 
+scott henry : 
+thank you , and good afternoon . i do have a few questions . for starters , just for clarification , how much of the debt is at risk here? i know it's " senior debt . " just trying to get a sense is it—it's all the debt on the balance sheet or what that number is . then perhaps if you could just give me a couple of examples of some of the loan covenants that you're on default on . 
+hubert king : 
+{enum} well the total debt , senior debt is ${num} million and the debt covenants includes things like the ebitda—or debt service , debt to ebitda ratio , the senior debt service to ebitda ratio , debt service coverage ratios , the general earnings versus debt calculations . 
+scott henry : 
+{enum} now if you add back some of the one-time stuff , really ${num} million in what's probably one-time event , would you still be in default? 
+hubert king : 
+{enum} we did not have a strong a quarter as we would have expected and we added debt at the end of last year related to the acquisition of the houston hospital . to give you some color as to the events . if we took all of the unusual events that occurred in the second quarter , patient service revenues would have been ${num} million this year compared to ${num} million last year which would have been a ${num} million increase or 9% . year-to-date , it would have been ${num} million of normalized patient service revenue compared to ${num} million last year or a ${num} million increase for {num}% . not as strong as we had planned when we acquired houston . as stanton said , that hospital has not developed at the pace that we had expected . 
+3 
+scott henry : 
+so , leading into that next question , what were the ugh revenues in the quarter , approximately? 
+hubert king : 
+we typically don't go over the details of revenues at the individual hospitals . same thing with hsa , chs , etc . 
+scott henry : 
+well , i guess then i'll kind of dance around that . was it a decline from the first quarter? i would think it would be . 
+hubert king : 
+no , it wasn't a decline but—the normalized number was not a decline . i think the expectation was that we would see growth in the second quarter . we had initially expected the syndication at houston to be completed by june {num} and typically that's preceded by physicians who are joining the syndication or becoming owners beginning to admit their patients in april , may and june prior to the closing of the syndication . as stanton said , we had a number of issues . i don't know , scott , you're not in the dallas or the texas area , but there were heavy rainstorms and flooding in houston and i believe it made the national news in april and then immediately after that , the county and the city without communicating with each other started road construction , major road construction on the roads on either side of the hospital and then we've had because of the failures , the bankruptcies and the closures of some of the forest park hospitals and victory ( phon ) a slower physician investment than we would normally have expected . so , the houston revenues were below budget for the second quarter but not significantly below what we had recorded in the first quarter . 
+scott henry : 
+yes , because that would be my interpretation . if it was sequentially flat in houston then the bigger miss was the base business . 
+hubert king : 
+yes , we took a big hit in el paso… 
+scott henry : 
+even if you add back {num} ( phon ) million . 
+hubert king : 
+{enum} the el paso hospital did not perform up to expectations . the single biggest hit was related to the toxicology revenues . but as stanton said , one of the things that we're very encouraged by—in this business , every five or six years , you have an anomaly where a new technology comes in to do a service that becomes in demand and it takes a while for the insurance companies to kind of adjust their rates to the new technology . the addition of the imaging centers and the expansion of our imaging business which is a traditional more standardized ancillary services for hospitals we think is going to provide a much steadier growth pattern for the future than we had with toxicology . 
+scott henry : 
+{enum} so , the ${num} million would have been in patient services . the $1 million for the electronic issue , were would—would that have been in—where was that hit? was that in other revenue line? 
+4 
+hubert king : 
+that's in other operating revenue . as you'll notice , there's a fairly significant swing from last year to this year and it's the total amount is about $2 million . part of that was last year you'll remember that we sold our minority interest in the hospital in houston , houston orthopedic and spine hospital , and received a distribution of around a million dollars for that , and then this year we took a million dollar hit because of the ehr repayment to the medicare program so that's a $2 million swing during the one-year period . 
+scott henry : 
+okay , and just i wanted to slip one more question in before i change the topic . with regards to loan covenant , how's that process work from here? what are our data points that we should be looking at for clarity on how this is being cleared up? 
+hubert king : 
+{enum} well , we are working with the banks and we've asked them and at this point they've been amenable to working with us to one , waive the defaults that occurred as of the end of the second quarter , but also to work with us , to use a term , the banks have used to rebuild ebitda so that rather than looking at {num} trailing months , our trailing {num} months that we will start with the third quarter , use—set a target number for the third quarter , target number for the fourth quarter , the first quarter and the second quarter of next year and they will use that as their measurement as opposed to the historical debt covenants , and then beginning in the third quarter of next year they'll go back to the current debt covenants . 
+scott henry : 
+{enum} 
+hubert king : 
+so ( inaudible ) 
+scott henry : 
+so , i guess leading into that , the next question would be , do you expect ebitda to be positive in third quarter , and really just a general question is , is this a v-shaped recovery or is this a u? i mean are you going to be bounce back in q3 or is it going to be a steady trip back? i'm just trying to get an idea of how this plays out going forward . 
+hubert king : 
+we believe the second quarter was an absolute anomaly . i've been in this business for {num} years and have seen the ehr transactions since {num} and this is the first time i've seen it take back this large and when we talked with the fiscal intermediary it was the largest one they'd ever seen too . the toxicology program again was a relatively new program . we've been in it for just about two years ; less than two years when they adjusted the codes . so , it was a pretty big hit for a one quarter timeframe . so , we believe that with those things behind us , especially with the addition of the new imaging centers in el paso , that we'll see our ebitda and profitability to return to more normal numbers in the third and fourth quarter . 
+scott henry : 
+okay , so you do expect to be ebitda positive in q{num} 
+5 
+stanton nelson : 
+yes we do . scott , as you know , the third and fourth quarters are traditionally our strongest , so yes , we absolutely believe that we'll have positive ebitda and it'll be normalized than traditionally what you've been seeing . 
+scott henry : 
+{enum} great . thank you very much guys for taking the questions . that was helpful . 
+stanton nelson : 
+thank you . 
+hubert king : 
+thanks scott . 
+operator : 
+again , if you have a question , please press star , then one . 
+our next question comes from bill sutherland of the emerging growth equities . please go ahead . 
+bill sutherland : 
+thanks operator . hey stanton . 
+stanton nelson : 
+hey bill . how are you? 
+bill sutherland : 
+can you give us a little more color on san antonio and el paso patient revenue , and from the perspective of i know you were adding some important surgeons and that kind of thing? 
+stanton nelson : 
+yes , well san antonio has been flatter than we expected it to . as you know , we constructed the new operating room and there was a great deal of demand in the third and fourth quarter last year for additional time surgeons wanted to schedule cases and we literally did not have the capacity to handle it , so we've expanded that capacity . it's taken a little longer than we expected for the surgeons to take advantage of that , but again san antonio is a relatively normalized operation and we expect that we'll see those revenues grow as we go forward . el paso has been—was down a little bit more than we had thought it would be in the second quarter . we do have three new physicians . they are beginning to practice . they opened their practices in april , two of them in april and one of them opened his practice in june , so we're starting to see their case volume . we expect that it would take them about {num} to {num} days—i mean , i'm sorry , three to six months to ramp-up their practices and from all indications is we will see significant increases in volume in the third and fourth quarter . 
+bill sutherland : 
+{enum} not to get too fine here , but were these two hospitals up sequentially? hello? 
+6 
+hubert king : 
+they were—if you take—neither one of them were up compared to the second quarter of last year . 
+bill sutherland : 
+then quarter-on-quarter , hugh? 
+hubert king : 
+but there were improvements first quarter to—first quarter of last year to first quarter of this year . the big hit came in the second quarter . 
+bill sutherland : 
+then just one other thing on the income statement . the expense ratio—the salary and benefits ( inaudible ) , just the problem of leverage here with revenue , particularly in houston coming in light . 
+hubert king : 
+{enum} 
+bill sutherland : 
+{enum} on the balance sheet in terms of availability , where are things at this point? 
+hubert king : 
+are you speaking in terms of cash or? 
+bill sutherland : 
+well you told me the cash—you said the cash was just over $1 million… 
+hubert king : 
+{enum} 
+bill sutherland : 
+… and just wondering about other availability on a line and so forth . 
+hubert king : 
+well we are—again we're working with the banks . one of the things that we have done historically was to we work with the banks to sell non-core assets to generate additional cash when it was needed , and while we can't go into specifics we do have some options there that we're exploring . 
+bill sutherland : 
+{enum} so , are you changing anything about your financial plan for the near term based on kind of what's happened with—on the financial condition side? 
+7 
+hubert king : 
+not really . we—as stanton said , we believe the business model is a solid business model . we had a tough second quarter . we believe that we will rebound from that . we're going to have to manage cash closely over the next two quarters but we are doing that , and again we're working with our banks to constantly measure and we do have options to improve liquidity if necessary . 
+bill sutherland : 
+{enum} all right , i think that kind of covers my questions . thanks hugh . 
+hubert king : 
+thank you . 
+operator : 
+this concludes our question-and-answer session . i would like the conference back over to stanton nelson for any closing remarks . 
+stanton nelson : 
+thank you again for joining the call today , and we certainly look forward to speaking with you to discuss the third quarter results as soon as they're available . thank you . 
+operator : 
+the conference has now concluded . thank you for attending today's presentation . you may now disconnect . 
+8 

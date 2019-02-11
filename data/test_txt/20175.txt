@@ -1,0 +1,126 @@
+exhibit {num} 
+the boston scientific corporation 
+executive retirement plan 
+as amended and restated effective august {num} {num} 
+section 1—nature and purpose 
+boston scientific corporation maintains the boston scientific corporation executive retirement plan , which is an unfunded , nonqualified deferred compensation plan for a select group of management and highly compensated employees . the plan is intended to be construed and administered in accordance with the section {num}a standards . the plan's purpose is to provide a consistent formula and system for making supplemental retirement payments to eligible participants upon their retirement from covered positions ( or other eligible classifications ) . this document reflects the terms of the plan in effect as of august {num} {num} and it replaces and supersedes any prior plan document . 
+the glossary in section {num} defines the capitalized terms used in the plan ( or tells you where in this document to find a term's meaning ) . when you see a capitalized term , turn to the glossary to find its meaning . 
+section 2—participants and eligibility classifications 
+you will be a participant in the plan only if you are a regular employee who satisfies all of the requirements of one of the following eligibility classifications : 
+· you are serving in a covered position , which is any position on the executive committee , immediately preceding your retirement and have consecutively served in a covered position for the one-year period immediately prior to your retirement ; or 
+· you are serving in a transitional position immediately preceding your retirement and have consecutively served in a covered position for the one-year period immediately prior to serving in the transitional position ; or 
+· you are serving in a division president position not on the executive committee immediately preceding your retirement and have consecutively served in that position since a date prior to august {num} {num} ; or 
+· you are a grandfathered individual , which means that you satisfy all of the following conditions : 
+· you have completed at least {num} continuous years of service prior to your retirement date , and 
+· immediately prior to your retirement , you are serving in a special assignment , which is a regular position that you assume , at the express written request of the chief executive officer or his or her designee , immediately following a period of at least five ( 5 ) consecutive years of service in a covered position ( the " five-year covered position period " ) , and 
+· the compensation committee , in its sole discretion , expressly approves your inclusion in an eligibility classification under the plan as a grandfathered individual in connection with your acceptance of the special assignment . 
+for purposes of determining whether you have served in a covered position for either of the required one-year periods specified in the first two classifications above ( each a " one-year covered position period " ) , your consecutive service in two covered positions during the one-year period will be combined . similarly , for purposes of determining whether you have served in a covered position for a 
+1 
+five-year covered position period , your consecutive service in two or more covered positions during the period will be combined . 
+section 3—retirement and conditions for receipt of benefits 
+for purposes of the plan , retirement ( or to retire ) means your separation from service with the company and all of its affiliates , other than a termination of your employment by bsc for cause , after you have satisfied all of the following conditions : 
+· the sum of your age and number of your years of service exceeds {num} ; 
+· you are at least age {num} and have completed at least five ( 5 ) continuous years of service ; and 
+· you have been continuously employed by boston scientific during the 5-year period immediately preceding your separation from service . for this purpose , " boston scientific " does not include any business entity that was acquired by or otherwise became an affiliate of the company during that 5-year period . 
+upon your retirement , you will not be entitled to a benefit under this plan unless all of the following conditions are satisfied : 
+· you qualify as a participant under the terms of section {num} 
+· you timely sign , and do not timely revoke , a separation agreement . the separation agreement will be a written agreement , in a form determined by the company , that will contain , among other things , a release of employment claims against bsc and certain related entities and individuals , the restrictive covenants described in section {num} and agreements by you not to use or disclose confidential information or make detrimental communications , to cooperate in litigation and other proceedings , and to return all bsc property . 
+· you comply with the restrictive covenants described in section {num} and included in your separation agreement . you will be required to repay your plan benefit if you breach these covenants . see section {num} for details . 
+section 4—years of service 
+for purposes of the plan , except as otherwise provided in this section {num} your years of service will be calculated from your date of hire with bsc through your last day worked in a regular position prior to your retirement . partially completed years of service will be pro-rated based on calendar days , and calculated to the second decimal point . if your date of hire originated at a predecessor or acquired company of bsc that has been accepted by bsc during your employment as part of any " bridge-of-service " or related policy , your service with the predecessor or acquired company will count as employment with bsc for purposes of calculating your total years of service ( subject to the non-duplication provision in the last paragraph of section 5 ) . 
+notwithstanding any other provision of the plan , the following will not be included , and will be disregarded , in calculating your years of service for purposes of the plan : 
+· service to bsc other than in a regular position ( for example , service as an independent contractor or other non-employee capacity under a consulting or similar arrangement ) ; 
+· service to bsc in a transitional position ; and 
+2 
+· any vacation accrued , but not taken , at the time of retirement . 
+if you are on long-term disability status immediately prior to your retirement , your years of service will be calculated to your last day on regular bsc payroll under the terms of bsc's short-term disability plan . 
+section 5—amount of benefit 
+if you qualify as a participant who retires under the plan and you satisfy the conditions specified in section {num} you will be eligible to receive the following supplemental retirement benefit : 
+· if you have been serving as an executive committee member for the entire one-year covered position period , the gross amount of your benefit will be equal to {num} months of your base salary , multiplied by the number of your years of service , to a maximum benefit of {num} months of base salary . 
+· if you are a grandfathered individual serving in a special assignment immediately prior to your retirement date , the gross amount of your benefit will be equal to {num} months of your base salary , multiplied by the number of your years of service , to a maximum benefit of {num} months of base salary 
+· if you are not a grandfathered individual and you have not been serving as an executive committee member for the entire one-year covered position period , the gross amount of your benefit will be equal to {num} months of your base salary , multiplied by the number of your years of service , to a maximum benefit of {num} months of base salary . 
+if you serve in a transitional position immediately prior to your retirement , then for purposes of calculating your benefit , your base salary will be your base salary in effect immediately prior to your assumption of the transitional position . 
+if you are a grandfathered individual serving in a special assignment immediately prior to your retirement , then for purposes of calculating your benefit , your base salary will be the greater of ( 1 ) your base salary in effect immediately prior to your retirement , or ( 2 ) your base salary in effect immediately prior to your assumption of the special assignment . 
+non-duplication provision : benefits are not cumulative . for example , if you retire more than once from bsc , in calculating the benefit due you upon each retirement , only your years of service accumulated since your most recent prior retirement will be considered . 
+section 6—form and timing of benefit payment 
+if you are entitled to a supplemental retirement benefit under section {num} your benefit will be paid to you in a single lump sum payment in the first payroll period after the last day of the 6-month period following your actual retirement date . no annuity or other periodic or irregular partial payments will be made under the plan . payment will be made from the same payroll and in the same currency in which your base salary was paid immediately prior to your retirement . 
+section 7—death-in-service 
+if you die while employed by bsc , and you would have been a participant under section 2 if you had retired on the date of your death , then a death benefit will be payable to your designated beneficiary ( ies ) as nominated under bsc's group term life insurance plan , unless you have made a separate beneficiary designation for this plan . in the absence of any beneficiary designation , the benefit will be paid to your estate . the gross amount of the death benefit payment will be equal to the gross amount of the supplemental retirement benefit that would have been payable to you under section 5 had 
+3 
+you retired on the date of your death and satisfied all of the conditions specified in section {num} payment will be made in a lump sum in cash within {num} days following your death and will be paid in the same currency in which your base salary was last paid prior to your death . 
+section 8—no integration with other retirement benefits 
+the benefits described in the plan are not reduced , offset , or otherwise integrated with any other retirement benefits to which you may be entitled . this includes , but is not limited to , benefits payable under bsc's {num} ( k ) plan , or u . s . social security payments . notwithstanding the foregoing , if you become eligible to receive a benefit under this plan , you will not be eligible for any payments or benefits under any existing bsc severance plan or layoff notification plan ( such as , by way of example and without limitation , severance pay , outplacement assistance , cobra subsidies or other coverage continuation or assistance , and any other benefit providing transition assistance to separated employees ) . 
+section 9—plan assets and tax status 
+the plan is a non-qualified retirement plan for tax purposes . accordingly , as a participant you will not have any vested right in any benefits until such time as they are paid . the plan is not externally funded or insured , and no individual participant accounts are maintained . for financial accounting purposes , a book reserve is made for the projected liability of this plan ; however , all amounts are unsecured and unsegregated . as such , they are subject to the claims of bsc's creditors in case of bankruptcy or other legal action . 
+section {num}—loans and in-service withdrawals prohibited 
+no loans or other advance withdrawals may be made with respect to of any portion of the benefits described in this plan . 
+section {num}—withholding of tax 
+notwithstanding anything to the contrary in this plan , all payments required to be made by bsc under the plan to you ; your estate or beneficiaries ; or the estate of any of your beneficiaries will be subject to the withholding of such amounts as bsc may reasonably determine that it is required to withhold pursuant to applicable federal , state or local law or regulation . 
+section {num}—restrictive covenants 
+as a condition of receiving benefits under the plan , you must comply with the following restrictive covenants , which will be expressly included in your separation agreement : 
+a ) during the {num}-month period beginning as of your retirement date ( or such other period as is specified in your employment agreement ) , you cannot engage in solicitation of customers or employees of boston scientific , as defined in the employment agreement , unless the chief executive officer or his or her designee gives prior written approval . in the absence of an employment agreement defining these terms , the separation agreement shall set forth the definition of solicitation and of bsc customers and employees as set forth in boston scientific's then current form of employment agreement for similar level employees . 
+b ) during the {num}-month period beginning as of your retirement date ( or such other period as is specified in your employment agreement ) , you cannot directly or indirectly , engage in unfair competition with boston scientific , as defined in the employment agreement unless the chief executive officer or his or her designee gives prior written approval . in the absence of an employment agreement defining these terms , the separation agreement shall set forth the definition of unfair competition as set forth in boston scientific's then current form of employment agreement for similar level employees . 
+4 
+c ) in the event you breach any of the provisions of this section {num} you must repay to the company all of the amounts paid under this plan , and you will also be liable for any damages that a court may determine , and you will be subject to injunctive relief and any other relief that a court may award as set forth in boston scientific's then current form of employment agreement for similar level employees . 
+section {num}—administration and modification of the plan 
+the plan is administered by the senior human resources officer ( the " administrator " ) at the company's headquarters , {num} boston scientific way , marlborough , massachusetts {num} 
+the company reserves the right , by action of the board or its designee , to amend , modify , change or eliminate the plan , upon notice to participants prior to their retirement , at the board's sole discretion . 
+section {num}—claims procedure 
+if you ( or your beneficiary ) believe that you are entitled to a plan benefit that has not been provided or to a greater or different benefit than has been provided , or if you disagree with any other action taken by the administrator , then you ( or your beneficiary ) or your authorized representative may file a claim by writing to the administrator . the administrator will notify you of its decision on your claim within {num} days a fter the administrator receives the claim . 
+if special circumstances require an extension of the {num}-day decision period , the administrator may extend the period by up to an additional {num} days , by notifying you , in writing , of the extension , the reason for it , and the date by which the administrator expects to render a decision on the claim . if the administrator denies the claim , in whole or in part , the administrator's written notice of its decision will include the following : 
+· the specific reason ( s ) for denying the claim ; 
+· specific reference to the plan provision ( s ) on which the denial is based ; 
+· a description of any additional material or information that you may need to provide with respect to the claim , with an explanation of why the material or information is necessary ; and 
+· an explanation of your right to appeal the claim denial under the plan's review procedures and your right to bring a civil court action following any further denial of your claim on review . 
+if your claim is denied , in whole or in part , you may appeal to the administrator for a full and fair review of the denial . for these purposes , you may consider your claim to have been denied if the administrator does not respond to your claim within {num} days of having received it . the following rules apply to your right of appeal : 
+· you or your duly authorized representative must file a written request for review with the administrator within {num} days after you receive the administrator's written denial of your claim or within {num} days after the administrator received your claim if you have not received a written response . 
+· your written request for review must be signed by you or your authorized representative . 
+5 
+· upon reasonable request and free of charge , you may review , or obtain copies of , records , documents , or other information in the administrator's possession or control relevant to your claim . 
+· you may also submit issues , arguments , and other comments in writing to the administrator , along with any documentary evidence in support of your claim . 
+· you may have representation throughout the appeal procedure . 
+in its review of your claim , the administrator will take into account all comments , document , records , and other information you submit , regardless of whether the information was submitted or considered in the initial claim decision . the administrator will give you its decision on your appeal , in writing , within {num} days after it receives your written request for review . if special circumstances require extension of the {num}-day period , the administrator may extend the period for an additional {num} days by notifying you , in writing , of the extension , the reason for it , and the date by which you nay expect a decision . 
+if the administrator again denies your claim on appeal , in whole or in part , it will notify you , in writing , and the notice will include the following : 
+· the specific reason ( s ) for the denial ; 
+· specific references to the plan provision ( s ) on which the denial is based ; 
+· a description of your right to receive , upon request and free of charge , reasonable access to , and copies of , all documents , records , and other information in the administrator's possession or control relating to your claim ; . and 
+· an explanation of your right to bring a civil court action under section {num} ( a ) of erisa . 
+section {num}— glossary 
+when used in this document , the following words and terms have the following meanings , unless the context clearly indicates a different meaning . 
+administrator has the meaning given in section {num} 
+affiliate means any corporation , trade or business that is considered to be a single employer with the company under code sections {num} ( b ) , ( c ) , ( m ) , or ( o ) , such as a wholly-owned ( or at least {num}%-owned ) subsidiary of the company . 
+beneficiary means the person who , under the provisions of section {num} may be entitled to receive a benefit under this plan in the event you die while employed by bsc and satisfy the other applicable conditions imposed by the plan . 
+board means the board of directors of the company . 
+boston scientific means the ( 1 ) company and ( 2 ) its affiliates other than any business entity that was acquired by , merged into , or otherwise became an affiliate of the company within the 5-year period immediately preceding your separation from service . 
+bsc means the company and its affiliates . 
+cause means , with respect to you , ( a ) your conviction of , or your failure to contest prosecution for , a felony , or ( b ) your misconduct or dishonesty that is harmful to bsc's business or reputation . 
+6 
+chief executive officer means either the chief executive officer of the company or the chief executive officer and president of the company . 
+code means the internal revenue code of {num} as amended , and its interpretive regulations . 
+company means boston scientific corporation . 
+compensation committee means the executive compensation and human resources committee of the board . 
+covered position means any position on the executive committee . 
+division president means the highest non-executive committee president position within a global division , region or country and that is included in salary grade {num} ( example titles include division president , region president , country president , division / region president , senior vice president and president ) . 
+employment agreement means the boston scientific agreement concerning employment for u . s . employees ( ace ) , or if you have not acknowledged the ace , your contract of employment or other written employment contract or offer letter attachment governing and setting forth the terms and conditions of your employment with bsc . 
+erisa means the employee retirement income security act of {num} as amended , and interpretive rules and regulations . 
+executive committee means the executive committee of the company ( or a successor to that committee ) . 
+five-year covered position period is defined in section {num} 
+grandfathered individual is defined in section {num} 
+one-year covered position period is defined in section {num} 
+participant has the meaning given in section {num} 
+plan means the boston scientific executive retirement plan , as set forth in this document and as amended from time to time . 
+regular employee means a common law employee of bsc who is hired for an indefinite term and serving in a regular position . 
+regular position means a position classified by the company as a regular full-time or regular part time common law employee of bsc regularly scheduled to work at least {num} hours per week . a regular position does not include any position not classified as a common law employee ( such as a consultant , independent contractor , or leased employee ) or any position not regularly scheduled to work at least {num} hours per week . 
+retirement / retire is defined in section {num} 
+section {num}a standards means the applicable requirements and standards for nonqualified deferred compensation plans established by code section {num}a . 
+senior human resources officer means the company's highest-ranking human resources executive . 
+7 
+separation agreement is defined in section {num} 
+separation from service means , with respect to you , your termination of employment ( other than by reason of your death ) with the company and all affiliates and other entities , if any , that would be treated as a single " service recipient " with the company under the section {num}a standards , including §{num}a-1 ( h ) ( 3 ) . whether your separation from service has occurred will be determined in accordance with the section {num}a standard , including §{num}a- ( h ) . the administrator may , but need not , elect in writing , subject to the applicable limitations under the section {num}a standards , any of the special elective rules prescribed in §{num}a- ( h ) for purposes of determining whether a separation from service has occurred . any such written election will be deemed to be part of the plan . 
+special assignment is defined in section {num} 
+transitional position means a regular position that satisfies all of the following conditions with respect to you : 
+· you serve as a member of the executive committee immediately prior to your service in the position ; 
+· the company , at its own initiative and in its sole discretion , and with the express approval of the compensation committee , asks you to serve in the position for the purpose of effecting an orderly transition of responsibilities to your successor ; and 
+· you serve in the position for a limited period of not greater than {num} months . 
+years of service is defined in section {num} 
+8 

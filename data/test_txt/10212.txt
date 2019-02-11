@@ -1,0 +1,62 @@
+converted by edgarwiz 
+agreement and plan of merger 
+this agreement and plan of merger ( the " agreement " ) is made and entered into this 1 st day of july , {num} by and among gulf+western industries , inc . , a nevada corporation ( " g+w " ) ; magellan gold corporation , a nevada corporation ( " magellan " ) ; and magellan merger sub , inc . a nevada wholly-owned subsidiary of magellan ( " msub " ) . g+w , magellan and msub are hereinafter sometimes individually referred to as a " party " and collectively as the " parties " . 
+witneseth : 
+whereas , magellan is the owner in the aggregate of one hundred ( {num} ) shares ( the " shares " ) of the issued and outstanding common stock of msub , $ . {num} par value per share , representing all the issued and outstanding shares of the capital stock of msub ; 
+whereas , for federal income tax purposes , the merger of msub and g+w is intended to qualify as a tax-free reorganization pursuant to section {num} of the internal revenue code of {num} as amended ( the " code " ) ; and 
+whereas , the parties hereto desire to set forth certain representations , warranties and covenants under which a merger of msub and g+w will occur . 
+now , therefore , for and in consideration of the premises , the mutual representations , warranties and covenants herein contained and other good and valuable consideration , the receipt and sufficiency of which are hereby acknowledged , the parties hereby covenant and agree as follows : 
+section 1 : the merger 
+{num} 
+the merger . subject to the terms and conditions of this agreement , at the effective time ( as defined in section {num} herein ) , msub shall be merged ( the " merger " ) with and into g+w upon the terms and conditions set forth herein as permitted by and in accordance with the nevada revised statutes ( " nrs " ) . thereupon , the separate existence of msub shall cease , and g+w , as the surviving corporation in the merger ( the " surviving corporation " ) , shall continue to exist under and be governed by the nrs , with all its purposes , objects , rights , privileges , immunities , powers and franchises continuing unaffected and unimpaired by the merger . the name of the surviving corporation remain the same . 
+{num} 
+filing . as soon as practicable and provided that this agreement has not been terminated pursuant to section 6 hereof , msub and g+w will cause a short form of articles of merger , in a form approved by all of the parties , to be executed , acknowledged and filed with the secretary of state of nevada as provided in applicable provisions of the nrs and obtain a copy of the articles of merger , certified by the nevada secretary of state . 
+{num} 
+effective time of the merger . the merger shall become effective july {num} {num} the date and time of the completion of such filings is herein sometimes referred to as the " effective time " . 
+{num} 
+closing : closing date . subject to the terms and conditions set forth in the agreement , the consummation of the transactions referenced above shall take place at such time date and place as g+w and msub shall designate ( the " closing date " ) . 
+section 2 : approvals 
+{num} 
+magellan approval . the board of directors of magellan has adopted resolutions approving this merger agreement and the transactions contemplated hereby in accordance with nevada revised statutes 
+{num} 
+msub approval . the board of directors and the shareholders of msub have adopted resolutions approving this merger agreement and the transactions contemplated hereby in accordance with nevada revised statutes . 
+{num} 
+g+w approval . the board of directors of g+w has adopted resolutions approving this merger agreement and the transactions contemplated hereby in accordance with nevada revised statutes . 
+{num} . 
+it is intended , for federal tax purposes , that the merger accomplished by the merger agreement will qualify as a tax-free reorganization within the meaning of section {num} ( a ) ( 1 ) ( a ) of the internal revenue code . 
+section 3 : conversion or cancellation of shares 
+{num} 
+conversion or cancellation of shares . at the effective time , the issued and outstanding shares of common stock , $ . {num} par value , of g+w , other than the outstanding shares of g+w currently held by magellan ( " g+w common stock " ) shall , by virtue of the merger , be cancelled and converted into the right to receive shares of the capital stock of magellan , as follows : 
+{enum} 
+the shares of g+w common stock issued and outstanding immediately prior to the effective time , excluding any such shares currently held by magellan , shall be converted into the right to receive {num} shares of common stock of magellan , $ . {num} par value per share ( the " magellan common stock " ) . such right may be exercised by the surrender of the certificate ( s ) representing such shares of g+w common stock . 
+{enum} 
+each share of magellan common stock , issued under paragraph ( a ) above shall be restricted securities pursuant to rule {num} promulgated under the securities act . 
+{enum} 
+at the effective time , all outstanding shares of msub shall be cancelled and no payment shall be made in respect thereof . 
+s ection 4 : certain effects of merger 
+{num} 
+effect of merger . upon the effective date , the separate existence of msub shall cease and g+w , as the surviving corporation : ( i ) shall continue to possess all of its assets , rights , powers and property as constituted immediately prior to the effective date ; ( ii ) shall be subject to all actions previously taken by its and msub's boards of directors ; ( iii ) shall succeed , without other transfer , to all of the assets , rights , powers and property of msub in the manner as set forth in the applicable provisions of nevada revised statutes ; ( iv ) shall continue to be subject to all of the debts , liabilities and obligations of msub as constituted immediately prior to the effective date ; and ( v ) shall succeed , without other transfer , to all of the debts , liabilities and obligations of msub in the same manner as if g+w had itself incurred them , all as more fully provided under the applicable provisions of nevada revised statutes 
+{num} 
+further assurances . if at any time after the effective time the surviving corporation shall consider any further deeds , assignments or assurances in law or any other action necessary , desirable or proper ( a ) to vest , perfect or confirm , of record or otherwise , in the surviving corporation the title to any property or rights of msub acquired or to be acquired by reason of , or as a result of , the merger , or ( b ) otherwise to carry out the intents and purposes of this agreement , msub and magellan agree that it and its proper officers and directors shall and will execute and deliver , or cause to be executed and delivered , all such property , deeds , assignments and assurances in law and take all other action necessary , desirable or proper to vest , perfect or confirm title to such property or right in the surviving corporation and otherwise to carry out the purposes of this agreement . 
+section 5 : charter documents ; directors and officers 
+section {num} 
+articles of incorporation and bylaws . the articles of incorporation of g+w and the bylaws of g+w as in effect immediately prior to the effective date shall continue in full force and effect as the articles of incorporation and bylaws of the surviving corporation until duly amended in accordance with the provisions thereof and applicable law . 
+section {num} 
+directors and officers . the directors and officers of g+w immediately prior to the effective date shall be the directors and officers of the surviving corporation until their respective successors are duly elected or appointed and qualified or until as otherwise provided by law , or by the articles of incorporation and bylaws of the surviving corporation . 
+section {num} 
+general 
+section {num} 
+abandonment . at any time before the effective date , this merger agreement may be terminated and the merger contemplated hereby may be abandoned by the board of directors of any of the parties . 
+section {num} 
+counterparts . this merger agreement may be executed in one or more counterparts , each of which shall be deemed an original , but all of which together shall constitute one and the same instrument . 
+in witness whereof , this merger agreement is hereby executed on behalf of each of such two corporations and attested by their respective officers thereunto duly authorized . 
+magellan gold corporation , a nevada corporation 
+/ s / w . pierce carson 
+{enum} pierce carson , president 
+magellan merger sub , inc . , a nevada corporation 
+/ s / john c . power 
+john c . power , president 
+gulf+western industries , inc . , 
+a nevada corporation 
+/ s / w . pierce carson 
+{enum} pierce carson , president 

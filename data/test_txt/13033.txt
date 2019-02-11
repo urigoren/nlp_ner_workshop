@@ -1,0 +1,22 @@
+exhibit 
+pangaea logistics solutions provides business update 
+newport , ri - july {num} {num} - pangaea logistics solutions , ltd . ( " pangaea " or the " company " ) ( nasdaq : panl ) , a global provider of comprehensive maritime logistics solutions , today announced several recent developments in their business activities including the addition of new vessels to its fleet and new and expanded contracts of affreighment ( " coas " ) . 
+first , the company has bolstered its fleet with the addition of two supramax vessels that it will manage technically and commercially under a profit sharing arrangement with the owner , a u . s . based investment fund . the vessels are the m / v bulk power ( ex m / v fantastic ) and the m / v bulk progress ( ex m / v amazing ) , both of which were built from {num}-{num} in china . the vessels have been delivered and their initial employment has been arranged . the company expects this arrangement to be accretive to earnings . 
+commenting on the fleet expansion ed coll , chief executive officer of pangaea logistics solutions , noted " this arrangement allows pangaea to grow its fleet with modern , versatile vessels , thus expanding our business , on a relatively low risk basis . additionally , this continues our track record of serving as a go-to partner in the maritime logistics space for leading global financial institutions , which we view as a key growth area for our business . " 
+additionally , pangaea has amended a coa in the gulf of mexico that is scheduled to commence in september . the contract , which is with a major european steel company , has been increased from {num} metric tons per annum to {num} metric tons per annum for the coming year , with the potential for the increase to continue for the remainder of the five-year term of the coa . this coa will contribute approximately ${num} million in gross revenue over the five-year period , and has the potential to produce approximately ${num} million in revenue if amended for the full term . 
+the company also announced a new logistics based coa wherein it will provide for the transportation of approximately {num} million tons of construction material to a major port on the united states' east coast . this contract will commence in september and is expected to generate approximately ${num} million in gross revenue over {num} months . the coa will be profitably serviced by four ultramax vessels . 
+" we are extremely pleased to announce these two new pieces of business that leverage our unmatched expertise in providing solutions to unique logistics challenges , " said mr . coll . " they will not only contribute directly to our continued growth but they will also serve as strong platforms for further expansion into strategic geographic areas and new types of business for the company . " 
+finally , the company announced the first arrival of the year under its coa servicing the baffinland iron mine above the arctic circle in northern canada , where the company has nine ice-class vessels scheduled to arrive this year . " our unmatched ice-class capabilities continue to differentiate pangaea from our competitors and we are thrilled to be able to service the unique needs of this contract , " mr . coll concluded . 
+about pangaea logistics solutions , ltd . 
+pangaea logistics solutions ltd . provides logistics services to a broad base of industrial customers who require the transportation of a wide variety of dry bulk cargoes , including grains , pig iron , hot briquetted iron , bauxite , alumina , cement clinker , dolomite , and limestone . the company addresses the transportation needs of its customers with a comprehensive set of services and activities , including cargo loading , cargo discharge , vessel chartering , and voyage planning . learn more at www . pangaeals . com . 
+contact : 
+investor relations : 
+prosek partners 
+thomas rozycki 
+managing director 
+{enum} {num}-{num} x{num} 
+trozycki@prosek . com 
+josh clarkson 
+account supervisor 
+{enum} {num}-{num} x{num} 
+jclarkson@prosek . com 

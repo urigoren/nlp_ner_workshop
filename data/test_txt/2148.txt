@@ -1,0 +1,38 @@
+exhibit {num} 
+fourth amendment to the 
+unrestricted and open line of credit 
+this fourth amendment to the unrestricted and open line of credit ( the " amendment " ) is made and effective as of july {num} {num} ( " amendment effective date " ) by and between flux power , inc . , a california corporation ( the " borrower " ) , and esenjay investments , llc ( the " lender " ) . 
+pursuant to the terms and conditions hereof , the amendment is hereby incorporated into the {num} loan ( as defined below ) as if fully set forth therein . capitalized terms used herein and not otherwise defined shall have the meaning assigned in the {num} loan ( as defined below ) . 
+recitals 
+whereas , borrower and lender have entered into that certain unrestricted and open line of credit dated september {num} {num} as subsequently amended by first amendment to the unrestricted and open line of credit dated october {num} {num} the second amendment dated december {num} {num} and the third amendment to the unrestricted and open line of credit effective as of march {num} {num} ( as amended the " {num} loan " ) for aggregate line of credit in the amount of ${num} ; 
+whereas , as of the amendment effective date , lender has advanced to the borrower an aggregate of ${num} under the {num} loan ; 
+whereas , the parties desires to amend the {num} loan pursuant to the terms and conditions of this amendment to extend the maturity date to january {num} {num} 
+agreement 
+now , therefore , in consideration of the foregoing premises , the mutual agreements set forth below , and other good and valuable consideration , the receipt and sufficiency of which is hereby acknowledged , the parties hereto agree as follows : 
+{enum} maturity date . the maturity date referenced in the {num} loan is hereby deleted in its entirety and shall , as of the amendment effective date , be amended to read in its entirety as follows : 
+" maturity date : january {num} {num} " 
+{enum} except as amended hereby , all the terms of the {num} loan , as amended , are hereby ratified and acknowledged as being in full force and effect . 
+{enum} this amendment may be executed in two counterparts , each of which shall constitute an original and which , together , shall constitute one and the same instrument . the parties may execute facsimile copies of this amendment and delivery by facsimile shall be deemed to be delivery of an executed amendment . 
+1 
+fourth amendment to the unrestricted and open line of credit 
+in witness whereof , the parties have caused this amendment to be executed by its authorized representative as of the date set forth above . 
+borrower 
+flux power , inc . , 
+a california corporation 
+/ s / ronald dutt 
+by : ronald dutt 
+title : chief executive officer 
+lender 
+esenjay investments , llc , 
+/ s / howard williams 
+by : howard williams 
+title : treasurer 
+agreed and consented . 
+flux power holdings , inc . , 
+a nevada corporation 
+/ s / ronald dutt 
+by : ronald dutt 
+title : chief executive officer 
+dated : july {num} {num} 
+2 
+fourth amendment to the unrestricted and open line of credit 

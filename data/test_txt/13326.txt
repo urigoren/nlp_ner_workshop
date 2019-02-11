@@ -1,0 +1,37 @@
+exhibit {num} 
+second amended and restated 
+certificate of incorporation 
+of 
+symmetry surgical inc . 
+symmetry surgical inc . , a corporation organized and existing under and by virtue of the provisions of the general corporation law of the state of delaware . 
+does hereby certify : 
+first : that the corporation was originally incorporated pursuant to the general corporation law of the state of delaware on july {num} {num} under the name " racecar spinco , inc . " 
+second : that the certificate of incorporation of the corporation was amended and restated and the name of the corporation was changed to " symmetry surgical inc . " on october {num} {num} ( the " amended and restated certificate of incorporation " ) . 
+third : that the board of directors and stockholders of the corporation have duly adopted this second amended and restated certificate of incorporation of the corporation pursuant to sections {num} and {num} of the general corporation law of the state of delaware . 
+fourth : that the amended and restated certificate of incorporation of the corporation is amended and restated in its entirety as follows : 
+article i 
+name of corporation 
+the name of the corporation ( the " corporation " ) is : 
+symmetry surgical inc . 
+article ii 
+registered office 
+the address of the registered office of the corporation in the state of delaware is corporation service company {num} centerville road , suite {num} wilmington , delaware {num} new castle county , and the name of its registered agent at that address is corporation service company . 
+article iii 
+purpose 
+the purpose of the corporation is to engage in any lawful act or activity for which corporations may be organized under the general corporation law of the state of delaware . 
+article iv 
+authorized capital stock 
+the corporation shall be authorized to issue one class of stock to be designated common stock ; the total number of shares which the corporation shall have authority to issue is {num} and each such share shall have a par value of ${num} 
+article v 
+board power regarding bylaws 
+in furtherance and not in limitation of the powers conferred by statute , the board of directors is expressly authorized to make , repeal , alter , amend and rescind the bylaws of the corporation . 
+article vi 
+election of directors 
+elections of directors need not be by written ballot unless the bylaws of the corporation shall so provide . 
+article vii 
+liability 
+the corporation shall indemnify , in accordance with and to the full extent now or hereafter permitted by law , any person who was or is a party or is threatened to be made a party to any threatened , pending or completed action , suit or proceeding , whether civil , criminal , administrative or investigative ( including , without limitation , an action by or in the right of the corporation ) , by reason of his acting as a director of the corporation ( and the corporation , in the discretion of the board of directors , may so indemnify a person by reason of the fact that he is or was an officer or employee of the corporation or is or was serving at the request of the corporation in any other capacity for or on behalf of the corporation ) against any liability or expense actually or reasonably incurred by such person in respect thereof ; provided , however , that the corporation shall not be obligated to indemnify any such person : ( i ) with respect to proceedings , claims or actions initiated or brought voluntarily without the authorization or consent of the corporation by such person and not by way of defense ; or ( ii ) for any amounts paid in settlement of an action effected without the prior written consent of the corporation to such settlement . such indemnification is not exclusive of any other right of indemnification provided by law , agreement or otherwise . 
+article viii 
+corporate power 
+the corporation reserves the right to amend , alter , change or repeal any provision contained in this second amended and restated certificate of incorporation , in the manner now or hereafter prescribed by statute , and all rights conferred on stockholders herein are granted subject to this reservation . 
+the remainder of this page has been intentionally left blank . 

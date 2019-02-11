@@ -1,0 +1,31 @@
+exhibit {num} 
+contract to transfer the contractual rights and obligations 
+party a : wuhan lianfuda investment management co . , ltd . 
+address : room {num} junan apartment , dongting street , jiang'an district , wuhan 
+party b : wuhan kingold jewelry co . , ltd . 
+address : te no . {num} huangpu science park , jiang'an district , wuhan 
+whereas : 
+{enum} party b signed acquisition agreement with wuhan wansheng house purchasing limited on {num}% of the stock rights of wuhan huayuan science and technology development limited company held by wuhan wansheng house purchasing limited on october {num} rd , {num} in which the aforementioned {num}% stock rights was appointed to be purchased by party b . 
+{enum} according to the aforementioned acquisition agreement , party b shall purchase the aforementioned {num}% stock rights , and meanwhile authorize wuhan wansheng house purchasing limited to build the shanghai creative industry park project . 
+{enum} according to the aforementioned acquisition agreement , the stock right transfer fee and the construction fees ( lump sum price ) are totally rmb 1 billion ( including the construction fees rmb {num} million ) . 
+{enum} at present , party b has paid a total of rmb {num} million for the share acquisition fees and the construction fees while wuhan wansheng house purchasing limited has transferred {num}% of the stock rights of wuhan huayuan science and technology development limited company to party b . 
+{enum} the project progress of shanghai creative industry park project constructed by wuhan wansheng house purchasing limited is as following : the project has been completed and the inspection and acceptance of the elevators , firefighting and civil air defense has also been finished . the project is in the process of final inspection , acceptance and filing for the record . 
+now therefore , party a intends to take over all the rights and obligations of party b in the aforementioned acquisition agreement . through equal and friendly negotiation of the two parties , they have reached the following agreement in witness whereof each party to comply with : 
+{enum} party b shall transfer all the rights and obligations in the aforementioned acquisition agreement , which was signed with wuhan wansheng house purchasing limited , to party a . party a agrees to receive all the rights and obligations in the aforementioned acquisition agreement . 
+{enum} after this agreement comes into force , party a shall not only enjoy all the contractual rights and pay corresponding contractual rights transfer fees , but also comply with the payment obligation according to the payment amount and payment method stipulated in the acquisition agreement . 
+{enum} on the day that this agreement is signed , party a shall pay a total of {num} million for the share acquisition fees and the construction fees to party b , which has been paid by party b . 
+party b shall transfer the funds belonging to wuhan huayuan science and technology development limited company to the account of wuhan huayuan science and technology development limited company . 
+within fifteen days after the agreement comes into force , party a shall pay rmb {num} million for contractual rights transfer fees to party b . as soon as receiving the transfer fees , party b shall help party a transfer and register the {num}% of the stock rights held by party b of wuhan huayuan science and technology development limited company to party a . 
+{enum} party b shall guarantee all the materials provided to party a when signing the agreement are true and lawful , including but not limited to the contract and related materials of party b purchasing the {num}% stock rights , the evidence of payment of the share acquisition fees and construction fees paid by party b ; the financial situation , the production and operation situation , the industrial and commercial registration situation , the project development situation , the tax payment of wuhan huayuan science and technology development limited company , as well as the external guaranty situation of both the company and the shareholders . 
+{enum} both parties promise and guarantee the contract was signed according to both parties' true meaning , and there are no misrepresentations or obviously unfair situation . 
+{enum} after the agreement comes into force , both parties will voluntarily comply with the provisions on the confidential issues stipulated in the aforementioned acquisition agreement . 
+{enum} after the agreement comes into force , both parties shall perform all the contractual obligations according to this agreement and the aforementioned acquisition agreement . the party who breaks the contract shall bear the corresponding liability for breach of contract and compensate for all the economic loss of the complying party . 
+{enum} matters not covered in this agreement shall be settled through friendly negotiation between the parties . if negotiation fails , either party can file a law suit to a competent people's court where the contract was signed . 
+{enum} the agreement shall come into force as soon as the both parties sign or sealed and get the written permission or confirmation of each party of the aforementioned acquisition agreement . 
+{enum} the agreement is signed in jiang'an district , wuhan . 
+{enum} the agreement is in quadruplicate , with equal legal effect , and both parties of the agreement hold two copies . 
+----no text---- 
+party a ( seal ) : 
+date : june {num} {num} 
+party a ( seal ) : 
+date : june {num} {num} 

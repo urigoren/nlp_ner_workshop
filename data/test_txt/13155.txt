@@ -1,0 +1,29 @@
+ex-{num} 
+exhibit {num} 
+inc research announces transition of ceo role from jamie macdonald 
+to coo alistair macdonald effective oct . {num} {num} 
+raleigh , n . c . , july {num} {num} ( globe newswire ) — inc research holdings , inc . ( nasdaq : incr ) , a leading , global phase i to iv contract research organization , today announced that chief executive officer jamie macdonald will transition his role as ceo of the company effective oct . {num} {num} to inc research's current president and coo alistair macdonald . mr . alistair macdonald , who has served as inc's president and coo since january {num} and held various other leadership roles at the company since {num} will become a member of the company's board of directors on oct . {num} mr . jamie macdonald will step down from the board of directors at that time and will continue as vice chairman to assist in the transition of his ceo responsibilities until feb . {num} {num} reporting to the chairman of the board of directors . 
+" alistair macdonald brings strong leadership , a proven track record of success and strategic vision that we believe will guide the future growth and success of inc research , " said david norton , chairman of the board . " as coo , alistair has demonstrated outstanding leadership in strengthening inc's operations globally and we believe will drive increased opportunities for the company . we're delighted to have such a strong successor to jamie . " 
+{enum} norton also thanked jamie macdonald for leading inc research as ceo since {num} " jamie has guided inc and been a strong partner to our board over the last five years . during that time , he led the company through its successful ipo in {num} and subsequent strong operational and market performance , and has been a leader in every sense . since jamie became ceo in {num} inc has delivered industry-leading growth and margins . we are delighted that jamie will be working with alistair and the board to ensure a smooth transition . " 
+jamie macdonald added , " this year marks my 5 th year anniversary with inc research and it has been an exciting , rewarding and successful time . i committed to myself that i would re-evaluate my priorities at this time and am fortunate that inc has in place a strong internal leadership team and successor to allow me to do that . i am proud to have led the company through a significant period of growth and look forward to assisting alistair and the board with the transition as vice chair . " 
+-more- 
+{enum} norton continued , " we respect jamie's decision to step away at this time and commend his commitment to his family and community , and want to thank him for supporting alistair and the company through its transition . " 
+commenting on his new role , mr . alistair macdonald added , " i am pleased to be appointed ceo of inc research and look forward to working with jamie and the board over the transition period to support all of inc's stakeholders moving forward . we have a strong leadership team in place and i look forward to continuing to enhance inc's position as a top-tier cro providing global phase i to phase iv clinical development services . i want to personally thank jamie for his leadership over the last five years . " 
+prior to assuming his current role as coo , alistair macdonald was president , clinical development services for inc research . alistair has more than {num} years' of experience in the pharmaceutical industry and is based at the company's european headquarters in camberley , united kingdom . 
+about inc research 
+inc research ( nasdaq : incr ) is a leading global contract research organization ( " cro " ) providing the full range of phase i to phase iv clinical development services for the biopharmaceutical and medical device industries . leveraging the breadth of our service offerings and the depth of our therapeutic expertise across multiple patient populations , inc research connects customers , clinical research sites and patients to accelerate the delivery of new medicines to market . the company was named " best contract research organization " in december {num} by an independent panel for scrip intelligence , and ranked " top cro to work with " among large global cros in the {num} centerwatch global investigative site relationship survey . inc research is headquartered in raleigh , nc , with operations across six continents and experience spanning more than {num} countries . for more information , please visit www . incresearch . com and connect with us on linkedin and twitter @ inc_research . 
+except for historical information , all of the statements , expectations , and assumptions contained in this press release are forward-looking statements . actual results might differ materially from those explicit or implicit in the forward-looking statements . important factors that could cause actual results to differ materially include : reliance on key personnel ; our board and corporate governance transition as a relatively new public company that has recently lost its " controlled company " status ; the costs and distraction of being 
+-more- 
+a public company ; risks associated with our business ; and the other risk factors set forth from time to time in our form {num}-k for the year ended december {num} {num} form {num}-q for the quarter ended june {num} {num} and other sec filings , copies of which are available free of charge on our website at www . incresearch . com . inc research assumes no obligation and does not intend to update these forward-looking statements , except as required by law . 
+### 
+contact : 
+investor relations contact : 
+ronnie speight 
+vice president , investor relations 
+phone : +1 ( {num} ) {num}-{num} 
+email : investor . relations@incresearch . com 
+press / media contact : 
+lori dorer 
+senior director , corporate communications 
+phone : +1 ( {num} ) {num}-{num} 
+email : corporate . communications@incresearch . com 

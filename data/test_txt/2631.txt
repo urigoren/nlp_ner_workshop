@@ -1,0 +1,34 @@
+exhibit 
+exhibit {num} 
+dasan zhone technologies , inc . 
+september {num} {num} 
+james norrod 
+dasan zhone technologies , inc . 
+{num} oakport street 
+oakland , ca {num} 
+dear jim : 
+dasan zhone solutions , inc . ( " dasan zhone " ) values your contributions . you have been selected to receive a one-time cash bonus ( the " transaction bonus " ) as a result of the successful consummation of the transaction between dasan zhone , dasan networks , inc . ( " dasan " ) , dasan network solutions , inc . ( " dns " ) and dragon acquisition corporation ( " merger sub " ) , as described further below . 
+pursuant to that certain agreement and plan of merger , by and among dasan zhone , dasan , dns and merger sub , dated april {num} {num} ( the " merger agreement " ) , zhone has acquired dns from dasan pursuant to a merger of merger sub with and into dns , with dns surviving as a wholly owned subsidiary of dasan zhone ( the " merger " ) . 
+this letter agreement summarizes your transaction bonus amount , the terms of payment of the transaction bonus and other key aspects of the transaction bonus . 
+{enum} transaction bonus amount and terms of payment 
+as a result of the consummation of the merger , you are eligible to receive a transaction bonus in the amount of ${num} this transaction bonus would be payable to you in a one lump-sum cash payment prior to march {num} {num} your eligibility for the transaction bonus is not subject to your continued employment through the date of payment . 
+{enum} relationship to other compensation 
+the transaction bonus described herein is independent of all other compensation . you will remain eligible for severance payments under any applicable severance agreement between you and dasan zhone . 
+{enum} tax and other deductions 
+the transaction bonus will be subject to all applicable federal , state and local tax withholding by dasan zhone . 
+{enum} employment at will 
+this letter agreement does not affect your employment relationship with dasan zhone ; that is , employment with dasan zhone remains at-will unless otherwise expressly agreed in a separate written contract between you and dasan zhone . 
+{enum} section {num}a of the internal revenue code 
+this letter agreement is not intended to provide for any deferral of compensation subject to section {num}a of the internal revenue code of {num} as amended ( the " code " ) . to the extent applicable , this letter agreement shall be interpreted in accordance with section {num}a of the code and any department of treasury regulations and other interpretive guidance issued thereunder . 
+{enum} miscellaneous 
+this letter agreement shall be binding upon and inure to the benefit of the successors of dasan zhone . this letter agreement will not give any rights or remedies to any person other than the undersigned employee and dasan zhone and its successors . this letter agreement will be governed by the laws of the state of california , excluding any that mandate the use of another jurisdiction's laws . this letter agreement may only be amended with the written consent of an executive officer of dasan zhone and you . you shall have no rights under this letter agreement other than as an unsecured general creditor of dasan zhone . 
+this letter agreement reflects the importance of your contributions and our desire to retain you as a key member of our team . thank you for your dedication . we are confident that we can look to you to continue the important work that you are doing for the organization . 
+sincerely , 
+/ s / min woo nam _________________ 
+min woo nam 
+chairman of the board 
+employee acknowledgement : 
+i acknowledge that i understand and agree to abide by the provisions set forth in the above stated letter agreement . 
+employee signature : / s / james norrod 
+print name : james norrod 
+date : september {num} {num} ______________ 

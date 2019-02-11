@@ -1,0 +1,51 @@
+exhibit 
+third amendment to agreement of sale and purchase 
+this third amendment to agreement of sale and purchase ( this " amendment " ) is made as of this {num} th day of july , {num} by and between hr venture properties i llc , a delaware limited liability company ( hereinafter referred to as " seller " ) , and new market properties , llc , a maryland limited liability company ( hereinafter referred to as " purchaser " ) . 
+w i t n e s s e t h t h a t : 
+whereas , purchaser and seller entered into that certain agreement of sale and purchase dated as of june {num} {num} ( as amended to date , the " contract " ) , with respect to certain property as more particularly described in the contract ( the " property " ) ; 
+whereas , purchaser and seller desire to amend the contract as set forth below ; 
+now , therefore , for and in consideration of the premises and other good and valuable consideration , the receipt and sufficiency of which is hereby acknowledged , purchaser and seller hereby agree as follows : 
+{enum} defined terms . capitalized terms used but not defined herein shall have the meanings set forth in the contract . 
+{enum} contingency date . notwithstanding anything to the contrary provided in the contract , purchaser and seller hereby acknowledge and agree that the " contingency date " shall mean july {num} {num} 
+{enum} section {num} . notwithstanding anything to the contrary provided in the contract , purchaser and seller hereby acknowledge and agree that section {num} of the contract shall be deleted in its entirety and the following provision shall be inserted in lieu thereof : 
+" section {num} property approval period . through the earlier of closing or the termination of this agreement , purchaser shall have the right to review and investigate the property and the items set forth in sections {num} and {num} above ( collectively , the ‘ due diligence items ' ) . notwithstanding anything to the contrary provided in this agreement , purchaser hereby acknowledges that the property approval period has expired with respect to the oak park property ( as defined in section {num} hereof ) , but purchaser shall have the right to terminate this agreement prior to the expiration of the property approval period with respect to the champions property ( as defined in section {num} ) as provided below in this section {num} furthermore , notwithstanding anything to the contrary provided in this agreement , ( i ) purchaser and the licensee parties shall have the right to conduct a phase ii environmental site assessment ( the ‘ phase ii ' ) with respect to the champions property , and ( ii ) unless required by federal , state or local law or ordinance , or unless requested in writing by seller , purchaser shall not disclose the results of the phase ii to seller . purchaser acknowledges and agrees that purchaser shall have no right to terminate this agreement pursuant to this section {num} unless purchaser is not satisfied with the results of the final phase ii for any reason or no reason in its sole discretion during the property approval period . accordingly , purchaser may terminate this agreement pursuant to the previous sentence by delivering written notice thereof to seller and the title company no later than the expiration of the property approval period , and title company shall return to purchaser the earnest money deposit pursuant to the terms of section {num} hereof . following such termination , purchaser shall pay any cancellation fees or charges of title company , and except for the termination surviving obligations , the parties shall have no further rights or obligations to one another under this agreement . if purchaser fails to terminate this agreement pursuant to this section {num} purchaser shall be deemed to have waived its right to terminate this agreement as provided in this section {num} if purchaser elects to terminate this agreement pursuant to this section {num} the other property agreements shall also terminate in accordance with section {num} hereof . " 
+{enum} section {num} ( e ) . notwithstanding anything to the contrary provided in the contract , purchaser and seller hereby acknowledge and agree that the following sentence shall be inserted into the contract as the last sentence of section {num} ( e ) : " purchaser and seller acknowledge and agree that purchaser shall receive a credit at closing against the purchase price for the champions property for the items described on exhibit g-1 attached hereto . " 
+{enum} exhibit " g-1 " . notwithstanding anything to the contrary provided in the contract , purchaser and seller hereby acknowledge and agree that exhibit g-1 attached to this amendment shall be attached to the contract as exhibit g-1 thereto . 
+{enum} section {num} ( g ) . notwithstanding anything to the contrary provided in the contract , purchaser and seller hereby acknowledge and agree that the following provision shall be inserted into the contract as section {num} ( g ) : 
+" ( g ) furthermore , with respect to the proposed tenant lease for ‘first watch' for a portion of the champions village improvements as generally described in the draft letter of intent attached hereto as schedule {num} ( g ) and incorporated herein by this reference ( the ‘ first watch tenant lease' ) , purchaser and seller acknowledge that : 
+{enum} notwithstanding anything to the contrary provided in this contract , seller shall pay all leasing costs in connection with the first watch tenant lease including , but not limited to , all tenant improvement allowances ( estimated as of the date hereof to be ${num} ) and all leasing commissions ( estimated as of the date hereof to be ${num} ) ; accordingly , pursuant to section {num} ( e ) ( iv ) of the contract , to the extent any portion of such leasing costs remains unpaid as of the champions closing date , purchaser shall receive a credit therefor against the purchase price for the champions property at the closing , and purchaser shall be responsible thereafter for paying such leasing costs for which purchaser received such a credit ; and 
+{enum} if the first watch tenant lease has not been fully executed as of the champions closing date , then purchaser shall receive a credit at closing against the purchase price for the champions village property in an amount equal to five hundred ninety five thousand and no / {num} dollars ( ${num} ) , which seller and purchaser acknowledge includes the estimated amounts payable for the tenant improvement allowances and leasing commissions described in subparagraph ( i ) above and therefore , in such event , seller shall not be obligated to pay any leasing costs under the first watch tenant lease if such lease is executed following the champions closing date . " 
+{enum} schedule {num} ( g ) . notwithstanding anything to the contrary provided in the contract , purchaser and seller hereby acknowledge and agree that schedule {num} ( g ) attached to this amendment shall be attached to the contract as schedule {num} ( g ) thereto . 
+{enum} section {num} ( e ) . notwithstanding anything to the contrary provided in the contract , purchaser and seller hereby acknowledge and agree that the following provision shall be inserted into the contract as section {num} ( e ) : 
+" ( e ) purchaser shall have received from barnes & noble booksellers , inc . ( ‘ barnes & noble ' ) , as tenant under the barnes & noble tenant lease for a portion of the champions village improvements , a written waiver whereby barnes & noble waives any and all rights under the barnes & noble tenant lease including , but not limited to , any and all rights arising under section {num} thereof , ( i ) to prohibit landlord from leasing a portion of the champions village improvements to linh ngo and phong d . nguyen d / b / a champions dry cleaning ( ‘ champions dry cleaning ' ) for dry cleaning and / or laundering services in the location occupied by champions dry cleaning as of the effective date , or ( ii ) to otherwise claim a default by , or remedies from , the landlord under the barnes & noble tenant lease due to the existence of the champions dry cleaning tenant lease . " 
+{enum} ratification . except as expressly modified hereby , the contract shall remain unamended and in full force and effect and is hereby ratified and confirmed by the parties hereto . 
+{enum} counterparts . this amendment may be executed in multiple counterparts , each of which shall constitute an original and all of which taken together shall constitute one and the same instrument . 
+{enum} facsimile or e-mail . the faxed or e-mailed signature of any party shall be binding upon such party . 
+remainder of page intentionally left blank 
+in witness whereof , purchaser and seller have hereunto set their hands and seals as of the date indicated below . 
+seller : 
+hr venture properties i llc , a delaware limited liability company 
+by : hr retail venture i llc , a delaware 
+limited liability company , its sole member 
+by : hines reit retail holdings llc , 
+a delaware limited liability 
+company , its sole member 
+by : / s / kevin l . mcmeans 
+name : kevin l . mcmeans 
+title : manager 
+purchaser : 
+new market properties , llc , a maryland 
+limited liability company 
+by : / s / joel t . murphy 
+name : joel t . murphy 
+title : chief executive officer 
+exhibit g-1 
+due diligence credits 
+property item cost 
+champions village roof ${num} 
+champions village parking lot ${num} 
+champions village miscellaneous items ${num} 
+total ${num} 
+schedule {num} ( g ) 
+letter of intent for first watch 
+on file with the company 

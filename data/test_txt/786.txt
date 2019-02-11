@@ -1,0 +1,90 @@
+este-ex{num}_{num}htm 
+execution version 
+third amendment and limited waiver to credit agreement 
+this third amendment and limited waiver to credit agreement ( this " amendment " ) entered into on july {num} {num} is among earthstone energy , inc . , a delaware corporation ( " borrower " ) , earthstone operating , llc , a texas limited liability company ( " eo " ) , ef non-op , llc , a texas limited liability company ( " ef " ) , sabine river energy , llc , a texas limited liability company ( " sabine " ) , basic petroleum services , inc . , a texas corporation ( " basic " ) , lynden energy corp . , a company existing under the laws of british columbia ( " le " ) , and lynden usa , inc . , a utah corporation ( " lusa " ) , as guarantors ( eo , ef , sabine , basic , le and lusa , each a " guarantor " and collectively , the " guarantors " ) ; each lender ( defined below ) who is a signatory hereto and bokf , na dba bank of texas , a national banking association , as administrative agent ( " agent " ) for the lenders . the party or parties are sometimes individually referred to herein as a " party " or collectively referred to as " parties . " 
+r e c i t a l s 
+whereas , borrower , agent and the lenders from time to time party thereto ( each a " lender " and collectively , the " lenders " ) are parties to that certain credit agreement dated as of december {num} {num} as amended by that certain first amendment to credit agreement dated as of december {num} {num} and that certain second amendment to credit agreement ( the " second amendment " ) dated as of may {num} {num} ( as may be further amended , modified or restated from time to time , the " credit agreement " ) , whereby the lenders agreed to make available to borrower a credit facility upon the terms and conditions set forth therein ; and 
+whereas , borrower has requested that agent and the lenders amend and waive certain provisions of the credit agreement as provided herein ; and 
+whereas , subject to the terms hereof , the agent and the lenders are willing to agree to the amendment to and waiver of certain provisions of the credit agreement as set forth herein . 
+now , therefore , for and in consideration of the mutual covenants and agreements contained herein , and other good and valuable consideration , the parties to this amendment hereby agree as follows : 
+section {num} defined terms . except as may otherwise be provided herein , all capitalized terms which are defined in the credit agreement shall have the same meaning herein as therein , all of such terms and their definitions being incorporated herein by reference . 
+section {num} amendment to credit agreement . subject to the conditions precedent set forth in section 4 hereof : 
+{enum} section {num} of the credit agreement is hereby amended by inserting the following as a new definition : 
+" nabors promissory note " means that certain promissory note , dated as of july {num} {num} from borrower to nabors drilling technologies usa , inc . , as in effect on july {num} {num} 
+{enum} section {num} of the credit agreement is hereby amended by ( i ) inserting the following as a new subsection ( g ) : " ( g ) debt under the nabors promissory note in a principal amount not to exceed ${num} " and ( ii ) renumbering the existing subsection ( g ) to subsection ( h ) . 
+h-{num}v2 
+section {num} limited waiver . subject to the conditions precedent set forth in section 4 hereof , agent and the lenders hereby waive any default or event of default existing pursuant to section {num} {num} of the credit agreement , but to the extent and only to the extent such default or event of default is exclusively attributable to borrower's incurrence of debt under the nabors promissory note ( as defined in section 2 ( a ) of this amendment ) on july {num} {num} ( the " specified default " ) . except as expressly set forth in the preceding sentence , nothing in this amendment shall be deemed to be ( a ) a waiver of any default or event of default which exists or may exist other than the specified default or ( b ) a waiver of ( or an agreement to forbear from exercising ) any rights or remedies that agent or the lenders have pursuant to the agreement and applicable law by reason of any default or event of default . except as expressly set forth in this section 3 , nothing in this amendment shall be deemed to imply any obligation on the part of agent or the lenders , and neither agent nor the lenders shall be obligated , at any time , to grant further amendments , consents or waivers . 
+section {num} conditions of effectiveness . the obligations of agent and the lenders to amend the credit agreement and grant the waiver of the specified default as provided herein are subject to the fulfillment of the following conditions precedent : 
+{enum} agent shall have received counterparts of this amendment , which shall have been executed by the lenders , borrower and the guarantors . 
+{enum} borrower shall have made payment of all fees and expenses due and owing under the credit agreement including such fees and expenses specified in section 8 . 
+{enum} all representations and warranties set forth in each of the loan documents shall be true and correct . 
+{enum} no material adverse effect shall have occurred . 
+{enum} after giving effect to the waiver of the specified default , no default or event of default shall have occurred . 
+section {num} second amendment post-closing condition . section 5 ( b ) of the second amendment requires that within sixty ( {num} ) business days after the date of the second amendment , agent shall be satisfied that borrower has entered into hedging agreements for ( a ) sixty percent ( {num}% ) of its anticipated monthly production from its pdp reserves for the months of january {num} through december {num} with a strike price of not less than ${num} per barrel and ( b ) fifty percent ( {num}% ) of its anticipated monthly production from its pdp reserves for the months of january {num} through december {num} with a strike price of not less than ${num} per barrel . the parties to this amendment hereby agree that the deadline set forth in section 5 ( b ) of the second amendment shall be extended from sixty ( {num} ) business days after the date of the second amendment to ninety ( {num} ) business days after the date of the second amendment . 
+section {num} representations and warranties . borrower and each guarantor represents and warrants to agent and the lenders , with full knowledge that agent and the lenders are relying on the following representations and warranties in executing this amendment , as follows : 
+{enum} it has the power and authority to execute , deliver and perform this amendment , and all organizational action on the part of itself , as applicable , requisite for the due execution , delivery and performance of this amendment has been duly and effectively taken . 
+{enum} this amendment and each other document executed and delivered in connection herewith constitute its legal , valid and binding obligation , to the extent it is a party thereto , enforceable against it in 
+h-{num}v2 2 
+accordance with their respective terms , except as enforceability may be limited by applicable bankruptcy , insolvency , or similar laws affecting the enforcement of creditors' rights generally or by equitable principles relating to enforceability . 
+{enum} this amendment does not and will not violate any provisions of ( i ) its charter documents ; ( ii ) any contract , agreement , or instrument to which it is a party ; or ( iii ) any requirement of any governmental authority to which it is subject . its execution of this amendment will not result in the creation or imposition of any lien upon its properties other than those permitted by the credit agreement and this amendment . 
+{enum} its execution , delivery and performance of this amendment does not require the consent or approval of any other person , including , without limitation , any regulatory authority or governmental body of the united states of america or any state thereof or any political subdivision of the united states of america or any state thereof . 
+{enum} as of the date of this amendment , it is solvent and has taken no action such as may invoke applicable bankruptcy , insolvency , or similar laws affecting the enforcement of creditors' rights generally or by equitable principles relating to enforceability . 
+{enum} upon giving effect to this amendment , no default or event of default exists , and all of the representations and warranties made by it contained in the credit agreement are true and correct in all material respects on and as of this date other than those which have been disclosed to lenders in writing ( except to the extent such representations and warranties expressly refer to an earlier or other date , in which case they shall be true and correct as of such earlier or other date ) . 
+except to the extent expressly set forth herein to the contrary , nothing in this section 6 is intended to amend any of the representations or warranties contained in the agreement . 
+section {num} reference to and effect on the credit agreement . 
+{enum} upon and after the execution of this amendment by each of the parties hereto , each reference in the credit agreement to " this agreement " , " hereunder " , " hereof " or words of like import referring to the credit agreement , and each reference in the other loan documents to " the credit agreement " , " thereunder " , " thereof " or words of like import referring to the credit agreement , shall mean and be a reference to the credit agreement as modified hereby . this amendment shall constitute a loan document . 
+{enum} except as specifically amended by this amendment , the credit agreement shall remain in full force and effect and is hereby ratified and confirmed . 
+section {num} fees , cost , expenses and taxes . borrower agrees to pay all reasonable legal fees and expenses to be incurred in connection with the preparation , reproduction , execution and delivery of this amendment and the other instruments and documents to be delivered in connection with the transactions associated herewith , including reasonable attorneys' fees and out-of-pocket expenses of agent and the lenders , and agrees to save agent and the lenders harmless from and against any and all liabilities with respect to or resulting from any delay in paying or omission to pay such fees . 
+section {num} extent of amendment . except as otherwise expressly provided herein , neither the credit agreement nor the other loan documents are amended , modified or affected by this amendment . borrower and each guarantor hereby ratifies and confirms that ( i ) except as expressly amended or waived hereby , all of the terms , conditions , covenants , representations , warranties and all other provisions of the 
+h-{num}v2 3 
+credit agreement , as applicable , remain in full force and effect , ( ii ) each of the other loan documents to which it is a party are and remain in full force and effect in accordance with their respective terms , and ( iii ) the collateral granted by it is unimpaired by this amendment . 
+nothing contained in this amendment nor any past indulgence by agent and / or the lenders , nor any other action or inaction on behalf of agent and / or the lenders ( i ) shall constitute or be deemed to constitute a waiver of any unknown or future defaults or events of default which may now or in the future exist under the credit agreement or the other loan documents ( other than the specified default ) , or ( ii ) shall constitute or be deemed to constitute an election of remedies by agent and / or the lenders or a waiver of any of the rights or remedies of agent and / or the lenders provided in the credit agreement or the other loan documents or otherwise afforded at law or in equity . 
+section {num} grant and affirmation of security interest . borrower and each guarantor hereby confirms and agrees that ( i ) any and all liens , security interests and other security or collateral granted by it and now or hereafter held by lenders as security for payment and performance of the obligations are hereby renewed and carried forth to secure payment and performance of all of the obligations , and ( ii ) the loan documents , as such may be amended in accordance herewith , are and remain legal , valid and binding obligations , enforceable in accordance with their respective terms , except as enforceability may be limited by applicable bankruptcy , insolvency , or similar laws affecting the enforcement of creditors' rights generally or by equitable principles relating to enforceability . 
+section {num} claims ; release . as additional consideration to the execution , delivery , and performance of this amendment by the parties hereto and to induce agent and the lenders to enter into this amendment , borrower and each guarantor hereby represents and warrants that it does not know of any defenses , counterclaims or rights of setoff to the payment of any obligations of borrower or any guarantor to agent and / or the lenders . in consideration of the amendments contained herein , borrower and each guarantor hereby waives and releases each of the lenders and agent from any and all claims and defenses , known or unknown , with respect to the credit agreement and the other loan documents and the transactions contemplated thereby . 
+section {num} execution and counterparts . this amendment may be executed in any number of counterparts and by different parties hereto in separate counterparts , each of which when so executed and delivered shall be deemed to be an original and all of which taken together shall constitute but one and the same instrument . delivery of an executed counterpart of this amendment by facsimile or other electronic transmission ( such as portable document format ) and other loan documents shall be equally as effective as delivery of a manually executed counterpart of this amendment and such other loan documents . 
+section {num} governing law . this amendment shall be governed by and construed in accordance with the laws of the state of texas . 
+section {num} headings . section headings in this amendment are included herein for convenience and reference only and shall not constitute a part of this amendment for any other purpose . 
+section {num} no oral agreements . the rights and obligations of each of the parties to the loan documents shall be determined solely from written agreements , documents , and instruments , and any prior oral agreements between such parties are superseded by and merged into such writings . this amendment and the other written loan documents executed by borrower , guarantor , agent and / or the lenders ( together with any fee letters as they relate to the payment of fees after the closing date ) represent the final agreement between such parties , and may not be contradicted by evidence of prior , 
+h-{num}v2 4 
+contemporaneous , or subsequent oral agreements by such parties . there are no unwritten oral agreements between such parties . 
+signature pages to follow 
+h-{num}v2 5 
+in witness whereof , the parties hereto have caused this amendment to be duly executed and delivered by their proper and duly authorized officers as of the effective date . 
+borrower : 
+earthstone energy , inc . 
+a delaware corporation 
+by : / s / christopher e . cottrell __ 
+christopher e . cottrell 
+executive vice president , land and marketing , 
+and corporate secretary 
+guarantors : 
+earthstone operating , llc , 
+a texas limited liability company 
+ef non-op , llc , 
+a texas limited liability company 
+sabine river energy , llc , 
+a texas limited liability company 
+basic petroleum services , inc . , 
+a texas corporation 
+lynden energy corp . , 
+a company existing under the laws of british columbia 
+lynden usa , inc . , 
+a utah corporation 
+each by : / s / christopher e . cottrell ____________ 
+christopher e . cottrell 
+executive vice president , land and marketing , and corporate secretary 
+signature page to third amendment and limited waiver to credit agreement ( earthstone energy , inc . ) 
+lender and agent : 
+bokf , na dba bank of texas , 
+as agent and lender 
+by : / s / mari salazar 
+mari salazar 
+senior vice president 
+signature page to third amendment and limited waiver to credit agreement ( earthstone energy , inc . ) 
+lender : 
+wells fargo bank , national association , 
+as lender 
+by : / s / matthew denkler 
+name : matthew denkler 
+title : vice president 
+signature page to third amendment and limited waiver to credit agreement ( earthstone energy , inc . ) 

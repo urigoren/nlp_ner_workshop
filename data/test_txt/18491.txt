@@ -1,0 +1,29 @@
+exhibit {num} 
+astec industries , inc . 
+{num} shepherd road | chattanooga , tn {num} | phone ( {num} ) {num}-{num} | fax {num}-{num} 
+news release 
+astec industries , inc . to acquire power flame 
+chattanooga , tennessee , ( july {num} {num} ) . astec industries , inc . ( nasdaq : aste ) today announced that it has entered into a definitive agreement to acquire substantially all of the assets and certain liabilities of power flame , inc . ( " pfi " ) . the transaction closing is subject to final due diligence and customary closing conditions . the aggregate purchase price for the assets is ${num} million dollars , subject to certain closing adjustments . 
+pfi , based in parsons , kansas , manufactures gas , oil and combination gas / oil burners and combustion control systems designed for commercial , industrial and process applications . pfi began in {num} and was acquired by bill and louisa wiener in {num} 
+commenting on the announcement , benjamin g . brock , president and ceo , said , " we are very pleased to welcome power flame to the astec industries family of companies . our companies have known each other for over thirty years . we are a match culturally and in our approach to business . power flame is a successful , profitable company with strong market share in each industry it serves . power flame also leads with innovative technology and dependable quality products . we thank mr . bill wiener and his wife louisa , the owners of power flame for {num} years , for their collaborative effort on this acquisition , and we are happy that bill will remain with us as president of power flame . " 
+continuing , mr . brock said , " power flame joining our family of companies reflects our stated strategy to continue focused growth both organically and through acquisitions of strong companies that serve the infrastructure , aggregate and mining , and energy industries . power flame will continue to operate as power flame , inc . in parsons , kansas and will join our energy group . we expect the transaction to close early in the third quarter . more information on power flame and its products can be found at www . powerflame . com . " 
+astec industries , inc . is a manufacturer of specialized equipment for asphalt road building ; aggregate processing ; oil , gas and water well drilling ; and wood processing . astec's manufacturing operations are divided into three primary business segments : road building and related equipment ( infrastructure group ) ; aggregate processing and mining equipment ( aggregate and mining group ) ; and equipment for the extraction and production of fuels , biomass production , and water drilling equipment ( energy group ) . 
+the information contained in this press release contains " forward-looking statements " ( within the meaning of the private securities litigation reform act of {num} ) regarding the future performance of the company , including statements about future performance of power flame and improvements to existing power flame business operations . these forward-looking statements reflect management's expectations and are based upon currently available information , and the company undertakes no obligation to update or revise such statements . these statements are not guarantees of performance and are inherently subject to risks and uncertainties , many of which cannot be predicted or anticipated . future events and actual results , financial or otherwise , could differ materially from those expressed in or implied by the forward-looking statements . 
+for additional information contact : 
+benjamin g . brock 
+chief executive officer 
+phone : ( {num} ) {num}-{num} 
+fax : ( {num} ) {num}-{num} 
+e-mail : bbrock@astecindustries . com 
+or 
+david c . silvious 
+vice president and chief financial officer 
+phone : ( {num} ) {num}-{num} 
+fax : ( {num} ) {num}-{num} 
+e-mail : dsilvious@astecindustries . com 
+or 
+stephen c . anderson 
+vice president , director of investor relations & corporate secretary 
+phone : ( {num} ) {num}-{num} 
+fax : ( {num} ) {num}-{num} 
+e-mail : sanderson@astecindustries . com 

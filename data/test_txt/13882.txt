@@ -1,0 +1,197 @@
+exhibit 
+exhibit {num} 
+amendment no . 4 to credit agreement 
+amendment no . 4 ( this " amendment " ) , dated as of september {num} {num} by and among surgery center holdings , inc . , a delaware corporation ( the " borrower " ) , sp holdco i , inc . ( " holdings " ) , the other guarantors party hereto , the lenders party hereto and jefferies finance llc , as administrative agent for the lenders ( in such capacity , the " administrative agent " ) and as collateral agent for the secured parties ( in such capacity , the " collateral agent " or , as administrative agent or collateral agent , " agent " ) . 
+w i t n e s s e t h : 
+whereas , the borrower , holdings , each other guarantor , lenders and agent , among others , are parties to that certain first lien credit agreement , dated as of november {num} {num} ( as the same may be amended , restated , amended and restated , supplemented or otherwise modified from time to time prior to the date hereof , the " existing credit agreement " ) ; 
+whereas , the borrower has requested that the lenders amend certain terms of the existing credit agreement as hereinafter provided to , among other things , reduce the applicable margin and add call protection with respect to the term loans ; and 
+whereas , agent and lenders party hereto are willing , on the terms and subject to the conditions set forth below , to consent to all amendments , modifications and agreements set forth in this amendment . 
+now , therefore , in consideration of the premises and the mutual agreements herein contained and other good and valuable consideration , the sufficiency and receipt of which are hereby acknowledged , the parties hereto , intending to be legally bound hereby , agree as follows : 
+{enum} defined terms . unless otherwise defined herein , capitalized terms used herein shall have the respective meanings ascribed thereto in the existing credit agreement , as amended hereby ( the " amended credit agreement " ) . 
+{enum} amendments . subject to the satisfaction of the conditions precedent set forth in section 5 below , the borrower , holdings , the lenders party hereto and agent hereby agree as follows : 
+{enum} section {num} of the existing credit agreement is hereby amended by adding the following defined terms in correct alphabetical order : 
+" fourth amendment " means that certain amendment no . 4 to credit agreement dated as of september {num} {num} by and among the borrower , holdings , the other guarantors party thereto , the lenders party thereto , the administrative agent and the collateral agent . 
+" fourth amendment effective date " shall mean the " effective date " as defined in the fourth amendment . 
+{enum} section {num} of the existing credit agreement is hereby amended to amend and restate the definition of " applicable margin " to read in its entirety as follows : 
+" applicable margin " shall mean , for any day ( a ) with respect to term loans , ( i ) with respect to any eurodollar term loan , {num}% per annum and ( ii ) with respect to any abr term loan , {num}% per annum and ( b ) with respect to revolving loans , ( i ) with respect to any eurodollar revolving loan , {num}% per annum and ( ii ) with respect to any abr revolving loan , {num}% per annum . for the avoidance of doubt , the " applicable margin " as in effect for all dates occurring prior to the fourth amendment effective date shall be the " applicable margin " as defined in this agreement immediately prior to giving effect to the fourth amendment . 
+{enum} section {num} ( a ) of the existing credit agreement is hereby amended and restated to read in its entirety as follows : 
+" ( a ) ( i ) the borrower shall repay to the administrative agent for the ratable account of the applicable term lenders ( a ) on the last business day of each march , june , september and december , commencing with september {num} {num} an amount equal to {num}% of the aggregate principal amount of the term loans outstanding on the fourth amendment effective date ( which , for the avoidance of doubt , shall include the initial term loans and the {num} incremental term loans ) ( which payments shall be reduced as a result of the application of prepayments in accordance with the order of priority set forth in sections {num} and {num} or , if applicable , section {num} ( m ) ( vi ) and as a result of the 
+conversion of such term loans to extended term loans or the refinancing of such term loans with credit agreement refinancing indebtedness ) and ( b ) on the term loan maturity date for the initial term loans and the {num} incremental term loans , the aggregate principal amount of all initial term loans and all {num} incremental term loans outstanding on such date , together with , in the case of each of clauses ( a ) and ( b ) , accrued and unpaid interest on the principal amount to be paid to but excluding the date of such payment . upon the conversion of such term loans to extended term loans or the refinancing of such term loans with credit agreement refinancing indebtedness , all amortization payments shall be reduced ratably by the aggregate principal amount of such term loans so converted or refinanced . 
+{enum} the borrower shall repay incremental term loans ( other than the {num} incremental term loans ) , extended term loans and other term loans in such amounts and on such date or dates as shall be specified therefor in the applicable incremental amendment , term loan extension offer or refinancing amendment . " 
+{enum} section {num} ( d ) of the existing credit agreement is hereby amended and restated to read in its entirety as follows : 
+" ( d ) in the event that a repricing event becomes effective following the fourth amendment effective date but on or prior to the one-year anniversary of the fourth amendment effective date , the borrower shall pay to the administrative agent , for the ratable account of each lender holding all or any portion of term loans that are subject to such repricing event a prepayment premium of {num}% of the aggregate principal amount of all such term loans . such amounts shall be due and payable on the date of such repricing event . for the avoidance of doubt , any lender that is forced to assign any term loan following the failure of such lender to consent to any repricing event that becomes effective following the fourth amendment effective date but on or prior to the one-year anniversary of the fourth amendment effective date shall be entitled to receive the prepayment premium on the principal amount of the term loans so assigned upon the occurrence of the repricing event . " 
+{enum} section {num} ( a ) of the credit agreement is hereby amended by replacing " ${num} " therein with " ${num} ( excluding the amount of any incremental term loans funded prior to the fourth amendment effective date ) " . 
+{enum} section {num} ( bb ) of the credit agreement is hereby amended and restated to read in its entirety as follows : 
+" ( bb ) other liens with respect to property or assets of the borrower or any of its restricted subsidiaries securing obligations in an aggregate principal amount outstanding at any time not to exceed ${num} ; " 
+{enum} section {num} ( e ) of the credit agreement is hereby amended by replacing " ${num} " therein with " ${num} " . 
+{enum} section {num} ( m ) of the credit agreement is hereby amended and restated to read in its entirety as follows : 
+" ( m ) indebtedness of the borrower or any subsidiary guarantors , in an aggregate principal amount at any time outstanding not to exceed ${num} ; " 
+{enum} section {num} ( s ) of the credit agreement is hereby amended by replacing " ${num} " therein with " ${num} ( excluding the amount of any incremental term loans funded prior to the fourth amendment effective date ) " . 
+{enum} section {num} ( bb ) of the credit agreement is hereby amended and restated to read in its entirety as follows : 
+" ( bb ) indebtedness under the gari note in an aggregate outstanding principal amount not to exceed at any time ${num} to the extent subordinated to the obligations pursuant to the gari subordination agreement . " 
+{enum} additional agreements . each person that executes and delivers a signature page to this amendment in the capacity of an assuming lender ( as defined below ) irrevocably consents to the terms of this amendment and the amended credit agreement . 
+{enum} representations and warranties . in order to induce the other parties hereto to enter into this amendment in the manner provided herein , each of holdings , the borrower and each other guarantor represents and warrants to the other parties hereto that the following statements are true and correct in all material respects ( provided that any representation and warranty that is qualified by " materiality , " " material adverse effect " or similar language shall be true and correct in all respects ( after giving effect to any such qualification therein ) ) : 
+{enum} each of the representations and warranties contained in article 5 of the existing credit agreement and in all other loan documents are true and correct in all material respects ( provided that any representation and warranty that is qualified by " materiality , " " material adverse effect " or similar language is true and correct in all respects ( after giving effect to any such qualification therein ) ) on and as of the effective date ( as defined below ) with the same effect as though made on and as 
+of the effective date , except to the extent such representations and warranties expressly relate to an earlier date ( in which case such representations and warranties are true and correct in all material respects ( or if any such representation and warranty is qualified by " materiality , " " material adverse effect " or similar language , such representation and warranty is true and correct in all respects ( after giving effect to any such qualification therein ) ) on and as of such earlier date ) ; 
+{enum} the transactions contemplated by this amendment are within each of holdings' , the borrower's and each other guarantor's powers and have been duly authorized by all necessary corporate or other organizational action on the part of such party . this amendment has been duly executed and delivered by holdings , the borrower and each other guarantor and , when executed and delivered by such party , will constitute a legal , valid and binding obligation of such party , enforceable in accordance with its terms , subject to applicable bankruptcy , insolvency , reorganization , moratorium or other similar laws affecting creditors' rights generally and subject to general principles of equity , regardless of whether considered in a proceeding in equity or at law ; 
+{enum} the transactions contemplated by this amendment ( a ) do not require any consent or approval of , registration or filing with , or any other action by , any governmental authority , except ( i ) such as have been obtained or made and are in full force and effect , ( ii ) filings necessary to perfect or maintain the perfection or priority of the liens created by the collateral documents and ( iii ) consents , approvals , registrations , filings , permits or actions the failure of which to obtain or perform could not reasonably be expected to result in a material adverse effect , ( b ) will not violate the organization documents of holdings , the borrower or any other guarantor , ( c ) will not violate or result in a default or require any consent or approval under ( x ) any indenture , agreement , or other instrument binding upon holdings , the borrower or any other guarantor or such party's property or to which holdings , the borrower or any other guarantor or such party's property is subject , or give rise to a right thereunder to require any payment to be made by such party , except for violations , defaults or the creation of such rights that could not reasonably be expected to result in a material adverse effect and , or ( y ) any organization document , ( d ) will not violate any material legal requirement in any material respect and ( e ) will not result in the creation or imposition of any lien on any property of holdings , the borrower or any other guarantor ; and 
+{enum} as of the date hereof and immediately after giving effect to this amendment , no default or event of default has occurred and is continuing . 
+{enum} conditions to effectiveness . the effectiveness of this amendment is subject to the satisfaction ( or waiver by the required lenders ) of the following conditions ( the time at which all such conditions are so satisfied ( or so waived ) is referred to herein as the " effective date " ) : 
+{enum} the agent shall have received a certificate of a responsible officer of the borrower , certifying that as of the effective date , ( i ) each of the representations and warranties made by the loan parties set forth in this amendment , in article 5 of the existing credit agreement and in all other loan documents are true and correct in all material respects ( provided that any representation and warranty that is qualified by " materiality , " " material adverse effect " or similar language shall be true and correct in all respects ( after giving effect to any such qualification therein ) ) on and as of the effective date with the same effect as though made on and as of the effective date , except to the extent such representations and warranties expressly relate to an earlier date ( in which case such representations and warranties shall be true and correct in all material respects ( or if any such representation and warranty is qualified by " materiality , " " material adverse effect " or similar language , shall be true and correct in all respects ( after giving effect to any such qualification therein ) ) on and as of such earlier date ) and ( ii ) no default exists or would result after giving effect to this amendment ; 
+{enum} holdings and the borrower shall have paid to the agent all costs and expenses due and payable ; 
+{enum} agent shall have received counterparts of this amendment duly executed by ( i ) holdings , the borrower , each other guarantor , the administrative agent , the collateral agent , required lenders and required term lenders , and ( ii ) each of the term lenders ( including each assuming lender ) ; and 
+{enum} borrower shall have paid to the administrative agent , for distribution to each term lender , all interest on the outstanding term loans that has accrued through but excluding the effective date ( as calculated in accordance with the existing credit agreement ) . 
+{enum} acknowledgement . 
+{enum} the borrower , holdings and each other guarantor hereby confirm that each loan document to which it is a party or otherwise bound and all collateral encumbered thereby will continue to guarantee or secure , as the case may be , to the fullest extent possible in accordance with the loan documents the payment and performance of all obligations and secured obligations under each of the loan documents to which it is a party ( in each case as such terms are defined in the applicable loan document ) . 
+{enum} the borrower , holdings and each other guarantor acknowledge and agree that any of the loan documents to which it is a party or otherwise bound shall continue in full force and effect and that all of its obligations thereunder shall be valid and enforceable and shall not be impaired or limited by the execution or effectiveness of this amendment . 
+{enum} each of the borrower , holdings and each other guarantor hereby acknowledges that it has reviewed the terms and provisions of this amendment and consents to the amendment of the existing credit agreement effected pursuant to this amendment and acknowledges and agrees that each assuming lender is a " lender " and a " secured party " for all purposes under the loan documents to which the borrower or such guarantor is a party . 
+{enum} each guarantor acknowledges and agrees that ( i ) notwithstanding the conditions to effectiveness set forth in this amendment , such guarantor is not required by the terms of the existing credit agreement or any other loan document to consent to the amendments to the existing credit agreement effected pursuant to this amendment and ( ii ) nothing in the existing credit agreement , this amendment or any other loan document shall be deemed to require the consent of such guarantor to any future amendments to the amended credit agreement . 
+{enum} this amendment shall constitute a loan document . 
+{enum} governing law and waiver of jury trial . 
+{enum} this amendment and any claims , controversy , dispute or cause of action ( whether sounding in contract , tort or otherwise ) based upon , arising out of or relating to this amendment and the transactions contemplated hereby shall be governed by , and construed in accordance with , the law of the state of new york without giving effect to any choice of law principles that would apply the laws of another jurisdiction . 
+{enum} each party hereto hereby waives , to the fullest extent permitted by applicable law , any right it may have to a trial by jury in any legal proceeding directly or indirectly arising out of or relating to this amendment and the transactions contemplated hereby ( whether based on contract , tort or otherwise ) . each party hereto ( a ) certifies that no representative , agent or attorney of any other party has represented , expressly or otherwise , that such other party would not , in the event of litigation , seek to enforce the foregoing waiver and ( b ) acknowledges that it and the other parties hereto have been induced to enter into this amendment , by , among other things , the mutual waivers and certifications in this section 7 ( b ) . 
+{enum} counterparts . this amendment may be executed in counterparts ( and by different parties hereto on different counterparts ) , each of which shall constitute an original , but all of which when taken together shall constitute a single contract . delivery of an executed counterpart of a signature page to this amendment by facsimile or other electronic imaging transmission shall be as effective as delivery of a manually executed counterpart of this amendment . 
+{enum} reference to and limited effect on the credit agreement and the other loan documents . 
+{enum} on and after the effective date , ( x ) each reference in the amended credit agreement to " this agreement " , " hereunder " , " hereof " , " herein " or words of like import referring to the existing credit agreement , and ( b ) each reference in the other loan documents to the " credit agreement " , " thereunder " , " thereof " , " therein " or words of like import referring to the existing credit agreement , in each case shall mean and be a reference to the amended credit agreement . 
+{enum} except as specifically amended by this amendment , the loan documents shall remain in full force and effect and are hereby ratified and confirmed . 
+{enum} the execution , delivery and performance of this amendment shall not constitute a waiver of any provision of , or operate as a waiver of any right , power or remedy of the agent or lender under , the amended credit agreement or any of the other loan documents . 
+{enum} each of holdings , the borrower and each other guarantor hereby ( i ) ratifies , confirms and reaffirms its liabilities , its payment and performance obligations ( contingent or otherwise ) and its agreements under the existing credit agreement , the amended credit agreement and the other loan documents and ( ii ) acknowledges , ratifies and confirms that such liabilities , obligations and agreements constitute valid and existing obligations under the amended credit agreement , in each case , to the extent holdings , the borrower or such guarantor , as applicable , is a party thereto . in addition , each of holdings , the borrower and each guarantor hereby ratifies , confirms and reaffirms ( i ) the liens and security interests granted , created and perfected under the collateral documents and any other loan documents and ( ii ) that each of the collateral documents to which it is a party remain in full force and effect notwithstanding the effectiveness of this amendment . without limiting the generality of the 
+foregoing , each of holdings , the borrower and each other guarantor further agrees ( a ) that any reference to " obligations " contained in any collateral documents shall include , without limitation , the " obligations " as such term is defined in the amended credit agreement and ( b ) that the related guarantees and grants of security contained in such collateral documents shall include and extend to such obligations . this amendment shall not constitute a modification of the existing credit agreement , except as specified under section 2 hereto , or a course of dealing with agent or any lender at variance with the existing credit agreement such as to require further notice by agent or any lender to require strict compliance with the terms of the amended credit agreement and the other loan documents in the future , except as expressly set forth herein . this amendment contains the entire agreement among holdings , the borrower , the other guarantors and the lenders party hereto contemplated by this amendment . neither holdings nor the borrower nor any other guarantor has any knowledge of any challenge to agent's or any lender's claims arising under the loan documents or the effectiveness of the loan documents . agent and lenders reserve all rights , privileges and remedies under the loan documents . nothing in this amendment is intended , or shall be construed , to constitute a novation or an accord and satisfaction of any of the obligations or to modify , affect or impair the perfection , priority or continuation of the security interests in , security titles to or other liens on any collateral for the obligations . 
+{enum} expenses . the borrower and holdings agree , jointly and severally , to pay on demand all reasonable out-of-pocket costs and expenses incurred by the administrative agent in connection with the preparation , negotiation and execution of this amendment , including , without limitation , all attorney costs . 
+{enum} severability . in the event any one or more of the provisions contained in this amendment should be held invalid , illegal or unenforceable in any respect , the validity , legality and enforceability of the remaining provisions contained herein and therein shall not in any way be affected or impaired thereby ( it being understood that the invalidity of a particular provision in a particular jurisdiction shall not in and of itself affect the validity of such provision in any other jurisdiction ) . the parties shall endeavor in good-faith negotiations to replace the invalid , illegal or unenforceable provisions with valid provisions the economic effect of which comes as close as possible to that of the invalid , illegal or unenforceable provisions . 
+{enum} headings . section headings used herein are for convenience of reference only , are not part of this amendment and shall not affect the construction of , or to be taken into consideration in interpreting , this amendment . 
+{enum} conflicts . in the event of any conflict between the terms of this amendment and the terms of the amended credit agreement or any of the other loan documents , the terms of this amendment shall govern . 
+{enum} lender consents . if any term lender under the existing credit agreement has failed to consent to this amendment prior to {num} : {num} p . m . ( new york city time ) on september {num} {num} and lenders constituting the required lenders have so consented ( each such non-consenting lender , a " non-consenting lender " ) , then the borrower shall exercise its rights to replace each such non-consenting lender in accordance with sections {num} and {num} ( b ) of the existing credit agreement , and each such non-consenting lender upon receipt of an amount equal to the principal amount of and accrued interest with respect to the outstanding term loans of such non-consenting lender shall be deemed to have assigned all of its rights and obligations under the existing credit agreement to one or more eligible assignees ( each of whom shall have consented to this amendment by delivering a signature page hereto prior to {num} : {num} p . m . ( new york city time ) on september {num} {num} ( each such lender , to the extent of such assigned interest , an " assuming lender " ) ) . each lender party hereto hereby waives any requirement of the borrower to deliver any notice to administrative agent and / or any lender in connection with any assignment contemplated herein pursuant to section {num} or {num} ( b ) of the existing credit agreement . 
+{enum} non-reliance on agent . each lender acknowledges that it has , independently and without reliance upon the agent or any other lender or any of their related parties and based on such documents and information as it has deemed appropriate , made its own credit analysis and decision to enter into this amendment . each lender also acknowledges that it will , independently and without reliance upon either the agent or any other lender or any of their related parties and based on such documents and information as it shall from time to time deem appropriate , continue to make its own decisions in taking or not taking action under or based upon this amendment , the amended credit agreement , any other loan document or related agreement or any document furnished hereunder or thereunder . except for notices , reports and other documents expressly required to be furnished to the lenders by the administrative agent herein , the administrative agent shall not have any duty or responsibility to provide any lender with any credit or other information concerning the business , prospects , operations , property , financial and other condition or creditworthiness of any of the loan parties or any of their respective affiliates which may come into the possession of the administrative agent or its related parties . 
+{enum} tax treatment . the borrower shall determine the issue price of the deemed new term loans and provide the information to the lenders in accordance with section {num}-2 ( f ) ( 9 ) of the u . s . treasury regulations . for purposes of determining withholding taxes imposed under fatca , the borrower and the administrative agent shall treat ( and the lenders hereby authorize the administrative agent to treat ) the term loans as not qualifying as " grandfathered obligations " within the meaning of treasury 
+regulation section {num}-2 ( b ) ( 2 ) ( i ) . upon the effectiveness of this amendment , the initial term loans and the {num} incremental term loans shall , to the extent permitted by applicable tax rules and regulations , be treated as the same issue . 
+signature pages follow 
+in witness whereof , the parties hereto have caused this amendment to be duly executed and delivered by their respective proper and duly authorized officers as of the day and year first above written . 
+surgery center holdings , inc . , as borrower 
+by / s / teresa f . sparks 
+name : teresa f . sparks 
+title : chief financial officer and executive vice president 
+sp holdco i , inc . , as holdings 
+by / s / teresa f . sparks 
+name : teresa f . sparks 
+title : chief financial officer and executive vice president 
+ambulatory resource centres investment company , llc 
+ambulatory resource centres of washington , inc . 
+ambulatory resource centres of wilmington , inc . 
+anesthesiology professional services , inc . 
+aps of bradenton , llc 
+aps of merritt island , llc 
+arc development corporation 
+arc financial services corporation 
+asc of new albany , llc 
+austin surgical holdings , llc 
+by / s / teresa f . sparks 
+name : teresa f . sparks 
+title : chief financial officer and executive vice president 
+business it solutions of tampa , inc . 
+logan laboratories , llc 
+lubbock surgicenter , inc . 
+medical billing solutions , llc 
+midwest uncuts , inc . 
+neospine surgery of puyallup , llc 
+neospine surgery , llc 
+novamed acquisition company , inc . 
+novamed alliance , inc . 
+novamed management of kansas city , inc . 
+novamed management services , llc 
+novamed of bethlehem , inc . 
+novamed of dallas , inc . 
+novamed of lebanon , inc . 
+novamed of san antonio , inc . 
+novamed of texas , inc . 
+novamed of wisconsin , inc . 
+novamed , inc . 
+patient education concepts inc . 
+physicians surgical care , inc . 
+psc development company , llc 
+psc operating company , llc 
+rehabilitation medical group , inc . 
+riverside spine & pain physicians , llc 
+riverside billing and management company , llc 
+by / s / teresa f . sparks 
+name : teresa f . sparks 
+title : chief financial officer and executive vice president 
+riverside anesthesia services , llc 
+saint thomas compounding llc 
+sarasota anesthesia services , llc 
+sarc / asheville , inc . 
+sarc / circleville , inc . 
+sarc / ft . myers , inc . 
+sarc / georgia , inc . 
+sarc / jacksonville , inc . 
+sarc / kent , llc 
+sarc / largo endoscopy , inc . 
+sarc / largo , inc . 
+sarc / providence , llc 
+sarc / st . charles , inc . 
+sarc / vincennes , inc . 
+smbi docs , llc 
+smbi great falls , llc 
+smbi havertown , llc 
+smbi idaho , llc 
+smbi jackson , llc 
+smbi lhh , llc 
+smbi portsmouth , llc 
+smbi stlwsc , llc 
+smbims birmingham , inc . 
+smbims durango , llc 
+smbims florida i , llc 
+smbims greenville , llc 
+smbims kirkwood , llc 
+smbims orange city , llc 
+by / s / teresa f . sparks 
+name : teresa f . sparks 
+title : chief financial officer and executive vice president 
+smbims steubenville , inc . 
+smbims wichita , llc 
+smbiss beverly hills , llc 
+smbiss chesterfield , llc 
+smbiss encino , llc 
+smbiss irvine , llc 
+smbiss thousand oaks , llc 
+surgery partners acquisition company , inc . 
+surgery partners of coral gables , llc 
+surgery partners of lake mary , llc 
+surgery partners of lake worth , llc 
+surgery partners of merritt island , llc 
+surgery partners of millenia , llc 
+surgery partners of new tampa , llc 
+surgery partners of park place , llc 
+surgery partners of sarasota , llc 
+surgery partners of suncoast , llc 
+surgery partners of west kendall , l . l . c . 
+surgery partners of westchase , llc 
+surgery partners , llc 
+symbion ambulatory resource centres , inc . 
+by / s / teresa f . sparks 
+name : teresa f . sparks 
+title : chief financial officer and executive vice president 
+symbion anesthesia services , llc 
+symbion holdings corporation 
+symbion , inc . 
+sp management services , inc . 
+sp georgia management , llc 
+sp north dakota , llc 
+sp practice management , llc 
+tampa pain relief center , inc . 
+texarkana surgery center gp , inc . 
+uniphy healthcare of johnson city vi , llc 
+uniphy healthcare of maine i , inc . 
+vasc , inc . 
+village surgicenter , inc . 
+by / s / teresa f . sparks 
+name : teresa f . sparks 
+title : chief financial officer and executive vice president 
+jefferies finance llc , as administrative agent and collateral agent 
+by / s / j paul mcdonnell 
+name : j paul mcdonnell 
+title : managing director 
+jefferies finance llc , as lender 
+by / s / j paul mcdonnell 
+name : j paul mcdonnell 
+title : managing director 

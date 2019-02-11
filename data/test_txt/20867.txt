@@ -1,0 +1,242 @@
+exhibit {num} 
+lexington realty trust – unedited transcript 
+q2 {num} earnings call 
+company participants : 
+{enum} wilson eglin , chief executive officer and president 
+patrick carroll , chief financial officer 
+heather gentry , senior vice president of investor relations 
+operator : 
+good morning , and welcome to the lexington realty trust second-quarter earnings {num} webcast and conference call . please also note that this event is being recorded . i would now like to turn the conference over to heather gentry . please go ahead . 
+heather gentry : 
+thank you . hello , and welcome to the lexington realty trust second-quarter {num} conference call . the earnings press release was distributed this morning , and the release and supplemental disclosure package will be furnished on a form 8-k . in the press release and supplemental package , lexington has reconciled all non-gaap financial measures to the most directly comparable gaap measure in accordance with reg g requirements . if you did not receive a copy , these documents are available on lexington's website at www . lxp . com in the investors section . additionally , we're hosting a live webcast of today's call , which you can access in the same section . 
+at this time , we would like to inform you that certain statements made during this call , which are not historical , may constitute forward-looking statements within the meaning of the private securities litigation reform act of {num} although lexington believes the expectations reflected in any forward-looking statements are based on reasonable assumptions , lexington can give no assurance that its expectations will be obtained . 
+factors and risks that could cause actual results to differ materially from those expressed or implied by forward-looking statements are detailed in today's press release , and from time to time in lexington's filings with the sec , and include a successful consummation of any lease , acquisition , build to suit , financing , disposition , or other transaction , or the final terms of any such transaction . except as required by law , lexington does not undertake a duty to update any forward-looking statements . 
+references to adjusted company ffo refer to adjusted company ffo available to all equityholders and unitholders on a fully diluted basis . this was previously referred to as company ffo in the most recent earnings press release and earnings conference call . 
+operating performance measures of an individual investment are not presented or intended to be viewed as liquidity or performance measures that present a numerical measure of lexington's historical or future financial performance , financial position , or cash flow . 
+joining me today to discuss lexington's second-quarter {num} results are will eglin , chief executive officer ; pat carroll , chief financial officer ; and other executive members of management . with that , i will now turn the call over to will . 
+will eglin : 
+thanks , heather . good morning , everyone , and thank you for joining our call today . we delivered solid performance during the second quarter as we continued to remain very active in all areas of our business , particularly with our sales program and leasing activity . net income for the quarter was ${num} per diluted share and adjusted company ffo was ${num} per diluted share for the quarter , representing a more than 7% increase year over year . 
+we sold approximately ${num} million of assets at an average cap rate of {num}% and leased {num} million square feet , of which more than {num} square feet was attributable to {num} and {num} expirations . we have signed a contract to sell the remaining new york city land parcels and we are currently working through closing conditions , including mortgage assumptions . our projections assume the sale closes sometime late in the third quarter at a sub {num}% cap rate . primarily as a result of the timing of the sale , we are increasing our {num} adjusted company ffo guidance to a range of ${num} to ${num} per diluted share , from ${num} to ${num} per diluted share . please keep in mind that the closing of this transaction is subject to certain conditions , and we can't guarantee that the transaction will close or that it will close on the terms or by the time period i've given . 
+during the quarter , we were able to enhance our balance sheet flexibility as we retired approximately ${num} million of mortgage debt and received an upgrade in our long-term issuer rating to bbb- from a bb+ by standard & poor's . 
+finally , following the end of the quarter , we closed on a ${num} million long-term nonrecourse mortgage loan at a {num}% fixed interest rate secured by our ${num} million build-to-suit project with dow chemical in lake jackson , texas . this financing is a good example of how we can selectively use secured financing to monetize assets , lock in gains , and replace shorter-term debt with longer-term debt . 
+moving on to investments , during the quarter , we completed a previously announced {num} million-square-foot industrial build-to-suit project in anderson , south carolina , for an initial basis of approximately ${num} million . initial gaap and cash yields for the asset are {num}% and 6% , respectively , and the property is {num}% leased to one world technologies , inc . for a {num}-year term . 
+we also signed an agreement to fund construction on a {num}-square-foot industrial facility in opelika , alabama , for a maximum commitment of ${num} million at an initial cash cap rate of {num}% . the property will be net leased to golden state foods for a {num}-year term , with 2% annual rent bumps . 
+during the quarter , we invested approximately ${num} million in our four ongoing build-to-suit projects , which includes the opelika industrial asset . consistent with our long-term lease investment strategy , these assets will have a weighted-average lease term of approximately {num} years . the last of these projects should be completed by the second quarter of {num} as of june {num} {num} we had investment commitments of ${num} million . more detail on build-to-suit funding projections can be found on page {num} of the supplement . 
+we're focused on adding to our {num} pipeline and have currently committed to about ${num} million in build-to-suit projects to be completed in {num} there is no shortage of build-to-suit opportunities in the marketplace and , while pricing is competitive , in most cases pricing still remains better relative to acquisitions of comparable quality , in our view . 
+we continue to be very active in looking for the right opportunities , but are mindful of overpaying for assets in this low cap-rate , low interest-rate environment . our intent is to remain selective and disciplined , but nevertheless , our cost of capital has improved in recent months , which would allow us to be more flexible on the investment front should we choose to be . 
+our disposition plan is moving along well . we sold six properties during the quarter , including the new york city {num}th street land investment for gross proceeds of roughly ${num} million , at a weighted-average capitalization rate of {num}% . in addition to the land investment , which we sold for gross proceeds of ${num} million at a {num}% cap rate , we sold two office buildings and three industrial assets . gains generated from the sales totaled ${num} million . 
+year-to-date gross distribution proceeds total ${num} million , which includes ${num} million of wholly owned assets at an average cap rate of {num}% . these sales , in addition to the sale of the remaining new york city land parcels , would bring us close to achieving our disposition plan target of ${num} million to ${num} million , at an average cap-rate range of {num}% to {num}% . this range has been lowered from our previous cap-rate guidance range of {num}% to {num}% . 
+turning to leasing , overall in the first half of the year , we have completed approximately {num} million square feet of new leases and lease extensions , raising gaap rents by {num}% and cash rents by {num}% on renewals . leasing for the quarter totaled {num} million square feet . approximately {num} square feet of this related to a one-year lease extension with bell sports inc . , whose original lease expired in {num} we executed one new lease and {num} lease extensions to end the quarter at {num}% leased . our occupancy declined {num} basis points versus last quarter as a result of recent asset sales and two {num} lease expirations . while this number may shift quarter to quarter depending on leasing activity and the timing of sales , we expect occupancy to be around {num}% at year end . leasing spreads were down {num}% on a gaap basis and {num}% on a cash basis during the quarter . the decline is primarily attributable to a {num}-year lease extension we signed with time in tampa , florida . and while there was a reduction in overall rent on the lease renewal , the full occupancy and longer lease term provides for a better outcome as we look to sell the property . we have worked through the majority of our {num} lease expirations and currently have about {num} million square feet of single tenant expirations in {num} with our temperance , michigan , industrial property being the bulk of this number . this property's lease expired at the end of july , and we are currently in preliminary discussions with a new user to fill approximately half of the {num}-square-foot space . overall , our remaining {num} expirations only represent approximately {num}% of our gaap revenue . we also have approximately {num} million square feet of vacant space to lease or sell . while we don't anticipate much more leasing volume for our remaining {num} expirations , we have active lease negotiations in process on {num} million square feet and we continue to successfully complete early renewals for leases expiring in {num} and beyond . our weighted-average lease term at the end of the quarter was approximately {num} years on a cash basis and {num} years on a cash basis after adjusting for our new york city ground investments lease terms to their first portfolio purchase option date . we remain very focused on managing down our shorter-term leases and our overall lease maturity schedule continues to be well staggered , with about {num}% of our revenue from leases with built-in escalations . 
+in summary , we are very pleased with our progress to date . we believe we are on target to complete our disposition program at an attractive average cap rate , leasing volume remains strong , and we've been able to retire much of our near-term mortgage debt with additional mortgage debt leaving the balance sheet in connection with the new york city land sale later this year . 
+we remain active on the investment front , but remain disciplined and focused on achieving attractive returns . our {num} business plan contemplated adding ${num} million to ${num} million of long-term debt , which was accomplished with the attractive financing of the dow chemical build to suit . by obtaining financing that was ${num} million over our maximum construction costs , we created substantial immediate value for our shareholders , while successfully executing our build-to-suit strategy . 
+as a result of our sales program , we expect to have ample cash on our balance sheet , a net debt to ebitda of under 6 times , and a higher-quality portfolio at year end . we believe this will position us to further grow our portfolio , both organically and through investments , and generate meaningful adjusted company ffo per share in relation to our dividend and share price . 
+now i'll turn the call over to pat , who will review our financial results in more detail . 
+patrick carroll : 
+thanks , will . good morning , everyone . gross revenues for the quarter ended june {num} {num} totaled ${num} million . this represents a slight decrease of {num}% , compared to gross revenues of ${num} million in the second quarter of {num} the decrease is primarily a result of {num} and {num} property sales and changes in occupancy at certain properties , offset by revenue generated from property , acquisitions , and lease termination income . 
+net income attributable to common shareholders for the quarter was ${num} million , or ${num} per diluted share , compared with ${num} million , or ${num} per diluted share , for the second quarter of {num} our {num} guidance for net income attributable to common shareholders is an expected range of ${num} to ${num} per diluted common share . 
+during the quarter , we generated adjusted company ffo of ${num} million , or ${num} per diluted common share , compared to ${num} million , or ${num} per diluted common share , for the quarter ended june {num} {num} as will mentioned earlier , adjusted company ffo guidance was adjusted upward to ${num} to ${num} per diluted share , from ${num} to ${num} per diluted share , primarily as a result of the expected timing of the sale of the remaining new york city land parcels . keep in mind this guidance is forward-looking , excludes the impact of certain items , and is based on current expectations . 
+for the quarter ended june {num} {num} gaap rents were in excess of cash rents by approximately ${num} million . and for the six months ended june {num} {num} gaap rents were in excess of cash rents by approximately ${num} million . this relates primarily to our new york city land investments . as a reminder , on page {num} of the supplement , we have included our estimates of both gaap and cash rents for the remainder of {num} and {num} for leases in place at june {num} {num} this disclosure does not assume any tenant releasing of vacant space , tenant lease extensions on properties with scheduled lease expirations , property sales , or property acquisitions . 
+same-store net operating income was ${num} million for the six months ended june {num} {num} which represents a decrease of approximately 1% , compared to the same time period in {num} in {num} we had two tenants that paid rent semiannually . and , in {num} one of these tenants now pays rent monthly and one property is vacant . these changes primarily resulted in the decrease . 
+property operating cost decreased ${num} million for the quarter , compared to the second quarter of {num} and decreased ${num} million the first half of the year , compared to the same time period in {num} primarily due to the sale of various multi-tenanted properties . g&a expenses were approximately ${num} million for the second quarter of {num} and ${num} million for the first half of the year , marginally lower compared to the same time periods last year . we are projecting that g&a for the balance of {num} will be comparable to the first half of the year . 
+now moving on to discuss our balance sheet , we had ${num} million of cash at quarter end , including cash classified as restricted , restricted cash balances primarily related to money held with lenders as escrow deposits on mortgages . for the quarter ended june {num} {num} we had ${num} billion of consolidated debt outstanding , which had a weighted-average interest rate of {num}% , of which approximately {num}% is at fixed rates , including debt covered currently by interest rate swap agreements . 
+our fixed-charge coverage was approximately {num} times , and net debt to adjusted ebitda was approximately {num} times as of june {num} {num} we are targeting a net debt to adjusted ebitda of under 6 times at the end of {num} our debt maturities remain balanced . as of june {num} {num} we have approximately ${num} million of balloon mortgage payments , with an average interest rate of {num}% coming due this year . we expect to retire all of this in connection with dispositions , cash from dispositions , and financing proceeds . as of june {num} {num} our unencumbered asset base was approximately ${num} billion , or {num}% of our noi . 
+subsequent to quarter end , in july , we obtained ${num} million {num}-year nonrecourse financing secured by our build-to-suit project in lake jackson , texas . we committed to fund up to approximately ${num} million for the project in {num} and have an investment balance of ${num} million as of june {num} {num} the loan bears interest at a fixed rate of {num}% and provides for an ${num} million balloon payment at maturity . as a result of this financing , we retired credit facility borrowings and extended our weighted-average debt maturity . this financing remains consistent with our balance sheet strategy of adding approximately ${num} million to ${num} million of long-term fixed rate debt to the balance sheet this year . we will continue to retire shorter-term maturities over the course of the year , including the {num} maturing mortgage debt and amounts outstanding under our revolving credit facility . to date , we have retired ${num} million of secured debt , which includes the ${num} million retired during the quarter , and we have ${num} million outstanding on our revolver , compared to ${num} million at the beginning of {num} also in july , we retired all ${num} million that was outstanding on our 6% notes . 
+during the quarter ended june {num} {num} we paid approximately ${num} million in lease costs and tenant improvements . we expect our ti and leasing cost budgets for the remainder of {num} to range between ${num} million and ${num} million . 
+now i'd like to turn the call back over to will . 
+will eglin : 
+thanks , pat . operator , i have no further comments at this time . so we are ready for you to conduct the question and answer portion of the call . 
+operator 
+we will now begin the question-and-answer session . 
+our first question comes from craig mailman of keybanc capital markets . please go ahead . 
+craig mailman , keybanc capital markets : 
+hello , good morning , guys . just wanted to double check . the lease term fee in the quarter was pretty sizable . is that expected in the guidance or is that something that wasn't previously in there? 
+pat carroll : 
+no , it was expected in the guidance . with the lease terminate , a lot of it was the lease termination that we received on td auto trade , which we talked about last quarter . but also $1 million of it relates to the dubuque , iowa property that we sold . the tenant in the property terminated the lease concurrent with our sale of the property to a third party , so about $1 million of that came in in the second quarter . 
+craig mailman : 
+actually , that was mcgraw-hill , right? 
+will eglin : 
+exactly right . 
+craig mailman : 
+{enum} 
+pat carroll : 
+so we sold the property to a third party vacant , but it was concurrent with the lease termination at the time of sale . 
+craig mailman : 
+got you . okay . and then , on the land sale , is there anything with the assumption in the mortgage that is troubling or is it just documentation and other things the lender is trying to get that's delaying everything? 
+will eglin : 
+no , just documentation . it's a life insurance company so it's just a little bit of a slow process . 
+craig mailman : 
+got you . and then , just lastly , will , you made the point , your cost of capital is improving here and it's allowing you to potentially get a little bit more aggressive on the acquisition front . i guess just relative to competitors and kind of where you guys have been in the bidding process , i mean , do you guys feel like this cost to capital improvement allows you to get aggressive enough to get into that kind of last round where you could win more of that than maybe you were six months ago? and kind of just talk about your return hurdles and other things with the slightly better cost of capital . 
+will eglin : 
+yes , craig , it is different for us compared to six months ago . so i think that puts us in a good position to the extent we want to add acquisitions to supplement our build to suit activity . just based on executing the disposition program , we would end up with probably cash at the end of the year of over ${num} million on balance sheet , which is in excess of our funding obligations next year and our debt maturities . so we are heading toward a good position of liquidity with respect to looking at new investments . 
+and since we'll probably bring the disposition program in at a lower cap rate than we thought , we can certainly reinvest the money at a cap rate north of where we think we'll be able to bring the disposition plan in , so that bodes well for us being able to pick off some acquisitions , especially in the industrial area . 
+craig mailman : 
+do you guys have anything under loi at this point or is it just you guys are , the opportunity set's better? 
+will eglin : 
+no , i think the opportunity set is better . we do have a lot of letters of intent outstanding right now , but our policy is not to have been talking about acquisitions on a speculatory basis , but waiting until opportunities are actually under contract before discussing them publicly . 
+craig mailman : 
+{enum} thanks , guys . 
+will eglin : 
+thank you . 
+operator : 
+our next question comes from anthony paolone from jpmorgan . please go ahead . 
+anthony paolone - jpmorgan : 
+thank you . good morning . so just following up on the competitive landscape for build to suits . can you put some numbers around just where industrial is versus say office or investment grade , non-investment grade right now? 
+will eglin : 
+yes , i think most of the build to suit industrial that we're looking at tends to be in the low sixes . and office , probably {num} to {num} basis points wide of that , but a lot of that is a function of credit and length of lease commitment and how far forward we would be committing . 
+anthony paolone : 
+all right . 
+will eglin : 
+so , we are looking at a lot of transactions , tony . there was , i think , an opportunity earlier in the year where cap rates had started to move up pretty nicely for forwards , but things have settled back down and cap rates have become more compressed again . 
+anothony paolone : 
+{enum} and then on the disposition side , you guys get through your ${num} million to ${num} million this year . is there another wave that you would anticipate as we look out to next year or does this largely get you through the repositioning that you want? 
+will eglin : 
+i would say it puts us in a very good position from a number of aspects . our leverage will have come way down . we will have made meaningful progress with respect to what we're trying to do with the office portfolio , which is to reduce its footprint and focus on roughly {num} markets where we have multiple buildings . i would say that there's still arguably a little bit less than {num}% of our gross assets in the retail portfolio or in office properties that are single buildings in one-off markets . and then we have the buildings in our multi-tenant for portfolio , which are being transitioned from either vacant or low occupancy to higher occupancy . so , could that number be roughly ${num} million of assets that we would look to trade out of over time? that seems to be about the rights number . 
+so it's a much , if you're thinking in terms of what's non-core to us , once we get to the end of this year , i would say it's about ${num} million or so . so , much smaller than it's been in the past , but there's still a piece of the portfolio that we'd like to keep working to maximize the value in . 
+anthony paolone : 
+{enum} and then just last question . just , you may have addressed this , i think , in the past , but just an early look on the larger {num} expirations , i think like transocean , roche , and hp , i think , are some of the bigger ones . any color on those? 
+will eglin : 
+{enum} on transocean , we've got a very good prospect to take {num}% of that space . and a very good prospect to take {num}% of the space on the roche property . if i look at the balance of the {num} major office renewals , we are in discussions with all the tenants right now so that i think the year sets up pretty well . 
+on the hp space , hp is leaving , but we've got a good prospect for a significant piece of that building . so far , {num} looks pretty good to us . 
+anthony paolone : 
+{enum} great . thank you . 
+operator : 
+our next question comes from john peterson from jefferies . please go ahead . 
+john peterson - jefferies & company : 
+{enum} thank you . just a quick question maybe for pat on debt maturities over the next couple of years . so , we've seen , i know you guys , your balance sheet is in pretty good order and you're expecting to have more cash at the end of the year , but we've seen a lot of unsecured debt offerings at extremely attractive rates recently and preferred offerings . 
+so just kind of curious , your high-level thoughts as you look at some of your peers doing these deals on whether you might look to raise unsecured debt or something like that to payoff some debt you have maturing through the end of this year and into {num} 
+patrick carroll : 
+right now , we're not looking at that , to be perfectly frank . the debt maturities over the next couple of years on a secured basis just aren't that significant and we don't see a reason to build up leverage and the cash position for a bond offering when we're still in the process of doing our dispositions . between dispositions and cash flow from ops , our mortgages are covered i think quite comfortably in the next couple of years . 
+will eglin : 
+{enum} and we're all aware , we're ${num} million out on the revolver right now , so there's no debt that we could prepay at par beyond that . so we really don't have an interest in paying yield maintenance . 
+john peterson : 
+got you . i assume , though , that when you guys talk about your cost to capital getting better , this is kind of be factored in when you talk about being more aggressive in terms certain acquisitions below the potential lower debt cost? 
+will eglin : 
+{enum} 
+john peterson : 
+alright , fair enough . thanks . 
+operator : 
+our next question comes from erin aslakson from stifel . please go ahead . . 
+erin aslakson - stifel nicolaus : 
+good morning , guys . thanks for taking the question . you mentioned the weighted average lease term of the portfolio , but i think that was including the new york land assets . what's the weighted average lease term post those asset sales? 
+pat carroll : 
+if you assume that the new york city land portfolio is sold , the weighted average lease term in the portfolios is about {num} years . 
+erin aslakson : 
+{enum} thank you . and then you also mentioned the gaap rents in excess of cash was about ${num} million , you said , largely because of the land investments . what does that number fall to once the land investments are sold? 
+pat carroll : 
+of that ${num} million , the new york city land deals are ${num} million of it . 
+erin aslakson : 
+{enum} thank you . and so , it looks like with the increased guidance , second half {num} ffo is expected to be about ${num} per share at the midpoint . should we -- i would assume because you are looking at the land sales later this quarter , the third quarter should be a little bit higher in terms of ffo . would you agree with that? 
+pat carroll : 
+{enum} the modeling that we put out has the sale of three land being sold at the end of the third quarter . 
+erin aslakson : 
+yes , that make sense , then . and then the investment in lake jackson is interesting , given the ${num} million loan commitment on your ${num} million basis . do you have any idea what the lender's strategy or thought process was on that deal? 
+pat carroll : 
+well , it's principally based on underwriting the credit of the lease . in other words , this was a credit tenant lease financing where the lenders were essentially buying that bond-like stream of rent . so the way i would explain it , erin , is if you looked at the irr of the transaction without factoring in any residual value , our return just from the lease itself , add our construction cost , it was about {num}% . 
+but we were able to monetize that stream at a {num}-year fixed interest rate of {num}% because the lenders were essentially investing in the transaction and looking at it specifically as a dow chemical bond versus a mortgage on a piece of real estate . 
+erin aslakson : 
+{enum} 
+pat carroll : 
+and even after debt service on the facility , the monthly cash flow to us is about ${num} to ${num} per month . most of it , obviously , most of the rent will be going to debt service . 
+erin aslakson : 
+{enum} right , exactly . okay . 
+will eglin : 
+the value of our lease increased substantially during the construction period and that was reflected in the financing that we were able to get . 
+erin aslakson : 
+yes , i mean , it looks like the lender agrees with that statement . so it looks like the hotel land build that was sold about a 4% cap rate on the cash noi . is that correct? 
+will eglin : 
+about {num}% , yes . 
+erin aslakson : 
+and what was different with that deal versus the others? 
+will eglin : 
+we acquired it about a year later and , as a result , we were able to get over {num}% loan to value financing on the second transaction . and on the first transaction , we leveraged it at about {num}% loan to value . so it was really the value of the leverage that drove the cap rate on that compared to our expectation for the other three parcels . 
+erin aslakson : 
+{enum} so it was really a matter of timing and the ability to lever that asset up . 
+will eglin : 
+{enum} 
+erin aslakson : 
+made it more salable . okay . and then you were just saying the other three are going to be sold this quarter . 
+will eglin : 
+the model has them being sold at the end of the third quarter , yes . 
+erin aslakson : 
+all right . and then i think just the last question was regarding the {num} lease terminations that you know are already vacating . do either of those assets carry mortgages? 
+pat carroll : 
+some of them do . we list out on the property chart , erin , that's found on page {num} we list out which ones are levered . 
+will eglin : 
+on roche and transocean , we hold those free and clear , if that was the question . 
+erin aslakson : 
+yes , that was the question pretty much . okay . 
+will eglin : 
+so , in {num} we have the memphis property that has a mortgage due on it . so none of our {num} office roll-overs have mortgages on them . 
+erin aslakson : 
+{enum} great . thank you very much . that was the last for me . 
+operator : 
+our next question comes from daniel donlan from ladenburg thalmann . please go ahead . 
+john masoca : 
+{enum} this is actually john masoca on for dan . good morning , everyone . 
+will eglin : 
+{enum} 
+john masoca : 
+i just wanted to make sure i heard you guys correctly that your currently expecting ${num} million to ${num} million of tis and lcs this year? 
+pat carroll : 
+for the remainder . 
+john masoca : 
+oh , the remainder . all right . and so that's still on par pretty much with the ${num} million you're guiding to for total {num} last quarter? 
+pat carroll : 
+well for the six months , we have spent -- yes , it's coming in a little less , but it really depends on how much the leasing activity may be ramping up in the six months . it is a little less than what we said . 
+john masoca : 
+okay and what's driving the kind of better ti and lc number in 1h , if you don't mind? 
+pat carroll : 
+well , in the first half of the year , actually in the last quarter , we had two tenants reimburse us for tis that we had put out prior in the year , so it was about ${num} million of cash that we received back . so that kind of has lowered the amount of tis and lease commissions we expect to spend for the year because we got the reimbursement . 
+john masoca : 
+was that expected or was that something where they might have had like credit issues? 
+pat carroll - lexington realty trust - cfo 
+no , no credit issues . it was the united states government . they decided to pay back the tis instead paying rent on it . but no , i did not expect that when i did the modeling . 
+john masoca : 
+{enum} makes a lot of sense . that's it for me . thanks very much , guys . 
+pat carroll : 
+thank you . 
+operator : 
+our next question comes from william siegel from development association inc . please go ahead . 
+william siegel - development association inc . : 
+thank you , gentlemen . you're hopefully moving more to build to suit and less to acquisition . are you finding , of course you'd take on the construction cost risk . costs relatively stable and manageable around the country? 
+will eglin : 
+could you repeat the question? i didn't hear you . 
+william siegel : 
+you are moving more to a build to suit and less from acquisition . you're obviously taking the construction cost risk . are costs -- 
+will eglin : 
+no , i mean , we enter into maximum guarantee contracts . the leases are , all the properties were fully leased prior to our taking any type of responsibility , so we feel we're covered pretty well from a construction standpoint . we use reputable builders , reputable developers , in many cases we'll have bonds , we'll have personal guarantees . so we're not taking , there's no spec building and we don't feel we're taking any excessive risk . 
+william siegel : 
+so you're able to get manageable people around the country and good firms . the new york land proposition was i guess something that came along opportunistically and not in your usual business line . once you dispose of that , do you expect to ever enter into that sort of thing again or there's no way of telling? 
+will eglin : 
+well , the investments were opportunistic for us and we will have done well with them and , at the same time , by selling them , we'll end up shedding a lot of leverage from the balance sheet , which i think should work well for the share price . so there's nothing that we are contemplating that has a similar economic profile going forward . 
+william siegel : 
+two others . what percentage of your portfolio remains in the multi-tenant category? 
+will eglin : 
+multi-tenant from a revenue standpoint is down to less than 3% . 
+william siegel : 
+{enum} 
+pat carroll : 
+it's {num}% through the six months . 
+william siegel : 
+{enum} lastly , you're seeing numbers of companies change there profile to a reit structure . some of those are very specialized , but any changing , is it making it a more competitive landscape or are those companies just very specifically changing their reits for their own reasons? 
+will eglin : 
+i would say that those companies that have sort of a unique focus on one specific asset type or niche are not especially competitive to us . but look , our net lease sector has become very large over the last three or four years , so it is a more competitive landscape in general . 
+william siegel : 
+thanks , gentlemen . 
+will eglin : 
+{enum} 
+operator : 
+our next question comes from liam o'brien from cutler capital management . please go ahead . 
+liam o'brien - cutler capital management : 
+good morning . thank you for taking my question . given the improvements in the financials , where do you stand on the dividend? 
+will eglin : 
+our commentary around the dividend has been consistent this year , which is that we've been managing the company with a view toward reviewing the dividend sometime in the later half of the year with a bias toward increasing it . 
+liam o'brien : 
+all right . thank you . 
+operator : 
+there appear to be no further questions . this concludes our question-and-answer session . i would like to turn the conference back over to will eglin for any closing remarks . 
+will eglin : 
+thanks to all of you again for joining us this morning . we were very pleased with our results in the second quarter and we continue to be excited about the progress we've made year-to-date and our prospects for good execution through year-end . we continue to appreciate your participation and support . 
+if you would like to receive our quarterly supplemental package , please contact heather gentry or you can find additional information on our company at our website , www . lxp . com , and in addition , as always , you may contact me or the other members of our senior management team with any questions . thanks again and have a good day . 
+operator : 
+the conference has now concluded . thank you for attending today's presentation . you may now disconnect the lines . 

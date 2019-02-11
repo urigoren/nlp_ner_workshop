@@ -1,0 +1,31 @@
+converted by edgarwiz 
+license royalty agreement 
+effective august {num} {num} ( the " effective date " ) la frontera community solutions , inc . , an 
+arizona nonprofit corporation , with offices at {num} w {num} th , tucson , az . {num} ( " licensor " ) and 
+qolpom , inc , an arizona corporation with offices at p . o . box {num}vail , az , {num} united states 
+( " licensee " ) , for good and valuable consideration , the receipt and sufficiency of which are hereby 
+acknowledged , enter into this agreement ( this " agreement " ) as set forth below : 
+article i 
+background 
+section {num} licensor is a nonprofit corporation that links job-seeking persons with disabilities 
+with potential employers , and in furtherance thereof , licensor has developed a web-based job search 
+platform ( the " platform " ) that contributes importantly to the accomplishment of licensor ' s tax-exempt 
+{enum} 
+section {num} licensor is the owner of certain intellectual property rights ( as defined below ) in 
+the platform and other aspects of its business , including its trademarks and service marks . 
+section {num} licensee is engaged in the development of software products for use in the job 
+search field , and desires to use certain aspects of the platform and licensee ' s intellectual property in the 
+development of licensee ' s software applications , and use certain trademarks and service marks of 
+licensor in the promotion thereof . 
+section {num} licensee desires to obtain from licensor licenses under aspects of licensor ' s 
+intellectual property for the development of integrated applications ( as defined herein ) in the field in the 
+territory , as provided herein , and licensor is willing to grant those licenses under the terms and 
+conditions of this agreement . 
+article ii 
+definitions 
+in addition to the terms defined elsewhere in this agreement , the following terms have the 
+following meanings : 
+" documentation " means the documentation , materials , and manuals associated with the platform 
+provided by licensor to licensee under this agreement . 
+" field " means the development and use of software products in the provision of job search 
+services on the internet for persons with disabiliõ 

@@ -1,0 +1,39 @@
+exhibit 
+exhibit {num} 
+amendment to the first amended and restated tax receivable agreement 
+effective as of september {num} {num} 
+this amendment ( this " amendment " ) to the first amended and restated tax receivable agreement among parent , the corporation , holdings , the operating group entities and the partners dated as of january {num} {num} ( the " existing agreement " and , as amended , restated , supplemented or otherwise modified , including by this amendment , the " agreement " ) is made by and among the undersigned parties . all capitalized terms used but not otherwise defined herein shall have the meanings ascribed to them in the agreement . 
+r e c i t a l s 
+whereas , the corporation acquired operating partnership units from certain partners in the initial sale and subsequent exchanges ; 
+whereas , the corporation may owe certain tax benefit payments to such partners with respect to such initial sale and subsequent exchanges pursuant to the agreement ; 
+whereas , pursuant to section {num} of the agreement , the agreement may generally be amended by parent , the corporation and holdings , on behalf of themselves and the respective partnerships they control , together with original partners who would be entitled to receive at least two-thirds of the early termination payments payable to all original partners as calculated in accordance with such section {num} ; and 
+whereas , the parties hereto desire to amend the agreement as set forth below . 
+now , therefore , in consideration of the mutual promises and agreements herein made and intending to be legally bound hereby , the parties hereto hereby agree as follows : 
+article i 
+amendment of the agreement 
+the agreement is hereby amended to provide that no tax benefit payments shall be owed , due or payable pursuant to section {num} of the agreement for either of the {num} taxable year or the {num} taxable year of the corporation and no tax benefit schedule shall be required pursuant to section {num} of the agreement with respect to the filing of the u . s . federal income tax return of the corporation for either of such taxable years . 
+article ii 
+miscellaneous 
+{enum} entire agreement . together with the existing agreement , this amendment constitutes the entire understanding among the parties with respect to the subject matter thereof and hereof , and supersedes any prior agreement or understanding among them with respect to such subject matter . except as expressly amended hereby , the agreement remains in full force and effect . 
+1 
+{enum} choice of law . this amendment shall be governed by the laws of the state of new york , without regard to its principles of conflict of laws . 
+{enum} section references . section titles and references used in this amendment shall be without substantive meaning or content of any kind whatsoever and are not a part of the agreements among the parties hereto evidenced hereby . 
+{enum} counterparts . this amendment may be executed in one or more counterparts , each of which shall be deemed an original , but all of which together shall constitute one and the same instrument . 
+( signature pages follow ) 
+2 
+in witness whereof , the parties hereto have executed and unconditionally delivered this amendment in multiple counterparts as of the date first written above , and each of such counterparts , when taken together , shall constitute one and the same instrument . 
+och-ziff capital management group llc 
+by : / s / joel m . frank 
+name : joel m . frank 
+title : chief financial officer 
+och-ziff holding corporation , 
+for itself and on behalf of oz management lp 
+and oz advisors lp 
+by : / s / joel m . frank 
+name : joel m . frank 
+title : chief financial officer 
+och-ziff holding llc , 
+for itself and on behalf of oz advisors ii lp 
+by : / s / joel m . frank 
+name : joel m . frank 
+title : chief financial officer 

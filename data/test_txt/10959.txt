@@ -1,0 +1,20 @@
+tbk-ex{num}_{num}htm 
+exhibit {num} 
+triumph bancorp , inc . announces completion of its acquisition of coloeast bankshares , inc . 
+dallas , august {num} {num} – ( globe newswire ) – triumph bancorp , inc . ( nasdaq : tbk ) ( the " company " ) , the parent company of tbk bank , ssb , today announced the completion of its acquisition of coloeast bankshares , inc . ( " coloeast " ) . simultaneously with the closing of the acquisition , coloeast's wholly-owned bank subsidiary , colorado east bank & trust , merged with and into the company's wholly-owned bank subsidiary , tbk bank , ssb . at june {num} {num} coloeast had approximately ${num} million of total assets , ${num} million of loans and ${num} million of deposits . 
+pursuant to the terms of the definitive agreement , the company paid ${num} million in cash for the outstanding common stock of coloeast . the transaction is expected to be immediately accretive to the company's diluted earnings per common share . 
+" we are pleased to complete the acquisition of coloeast , " aaron p . graft , vice chairman and chief executive officer of triumph bancorp , inc . , stated . " we are proud to expand our operations into colorado and western kansas , while gaining a large number of talented bankers with expertise that will enhance our community banking operations . this acquisition will improve our deposit mix , materially increase our operational efficiency , deploy our excess capital , and diversify our loan portfolio . " 
+about triumph 
+headquartered in dallas , texas , triumph bancorp , inc . ( nasdaq : tbk ) is a financial holding company with a diversified line of community banking , commercial finance and asset management activities . www . triumphbancorp . com 
+forward-looking statements 
+this press release may contain forward-looking statements within the meaning of the federal securities laws . investors are cautioned that such statements , including statements with respect to the expected benefits of the transaction , are predictions and that actual events or results may differ materially . these forward-looking statements are not guarantees of future results and are subject to factors that could cause actual results to differ materially from those we may expect , including , but not limited to : economic , political and market conditions and fluctuations ; competition ; the possibility that the expected benefits related to the transaction may not materialize as expected ; the possibility that we will be unable to successfully implement integration strategies or to achieve expected synergies and operating efficiencies within the expected time-frames or at all ; and other factors identified in our filings with the securities and exchange commission ( the " sec " ) . for a discussion of such risks and uncertainties , which could cause actual results to differ from those contained in the forward-looking statements , see " risk factors " and the forward-looking statement disclosure contained in triumph bancorp , inc . 's annual report on form {num}-k , filed with the sec on february {num} {num} forward-looking statements speak only as of the date made and triumph undertakes no duty to update such information . 
+source : triumph bancorp , inc . 
+### 
+investor relations : 
+luke wyse 
+vice president , finance & investor relations 
+lwyse@triumphllc . com | {num}-{num}-{num} 
+media contact : 
+amanda tavackoli 
+vice president , marketing & communication 
+atavackoli@triumphllc . com | {num}-{num}-{num} 

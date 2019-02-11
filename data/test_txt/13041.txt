@@ -1,0 +1,87 @@
+amended and restated articles of incorporation 
+amended and restated 
+articles of incorporation 
+of 
+elite books , inc . 
+pursuant to nrs {num} under nevada general corporation law ( title {num} chapter {num} of the nevada revised statutes ) , elite books , inc . , a nevada corporation ( the " corporation " ) , entity number e{num}-{num} hereby amends and restates its articles of incorporation as follows : 
+article i 
+the name of the corporation is elite group , inc . ( the " corporation " ) . 
+article ii 
+the address of the corporation's commercial registered agent is {num} west nevso dr . suite {num} las vegas , nv . {num} and the name of its registered agent at such address is registered agent solutions , inc . 
+article iii 
+the corporation is organized for the purpose of engaging in any business , trade or activity which may be lawfully conducted or permitted by a corporation organized under nevada general corporation law , chapter {num} of the nevada revised statutes . the corporation also shall have the authority to engage in any and all such activities as are incidental or conducive to the attainment of the purpose or purposes of this corporation . 
+article iv 
+the total number of shares of common stock which this corporation shall have authority to issue is {num} consisting of ( i ) {num} shares of common stock , par value ${num} per share ( the " common stock " ) and ( ii ) {num} shares of preferred stock , par value ${num} per share ( the " preferred stock " ) . 
+{enum} 
+common stock . the common stock shall be subject to the express terms of the preferred stock and any series thereof . each share of common stock shall be equal to each other share of common stock . except as may be provided in these articles of incorporation or in a preferred stock designation , the holders of shares of common stock shall be entitled to one vote for each such share upon all questions presented to the stockholders . 
+{enum} 
+preferred stock . preferred stock may be issued from time to time in one or more series . the board of directors is hereby authorized to provide for the issuance of shares of preferred stock in series and , by filing a certificate pursuant to the nevada revised statutes ( " n . r . s . " ) ( hereinafter , along with any similar designation relating to any other class of stock that may hereafter be authorized , referred to as a " preferred stock designation " ) , to establish from time to time the number of shares to be included in each such series , and to fix the 
+- 1 - 
+designation , powers , preferences and rights of the shares of each such series and the qualifications , limitations and restrictions thereof . the authority of the board of directors with respect to each series shall include , but not be limited to , determination of the following : 
+{enum} 
+the designation of the series , which may be by distinguishing number , letter or title ; 
+{enum} 
+the number of shares of the series , which number the board of directors may thereafter ( except where otherwise provided in the preferred stock designation ) increase or decrease ( but not below the number of shares thereof then outstanding ) ; 
+{enum} 
+the amounts payable on , and the preferences , if any , of shares of the series in respect of dividends , and whether such dividends , if any , shall be cumulative or noncumulative ; 
+{enum} dates on which dividends , if any , shall be payable ; 
+{enum} 
+the redemption rights and price or prices , if any , for shares of the series ; 
+{enum} 
+the terms and amount of any sinking fund provided for the purchase or redemption of shares of the series ; 
+{enum} 
+the amounts payable on and the preferences , if any , of shares of the series in the event of any voluntary or involuntary liquidation , dissolution or winding up of the affairs of the corporation ; 
+{enum} 
+whether the shares of the series shall be convertible into or exchangeable for shares of any other class or series , or any other security , of the corporation or any other corporation , and , if so , the specification of such other class or series of such other security , the conversion or exchange price or prices or rate or rates , any adjustments thereof , the date or dates at which such shares shall be convertible or exchangeable and all other terms and conditions upon which such conversion or exchange may be made ; 
+{enum} 
+restrictions on the issuance of shares of the same series or of any other class or series ; 
+{enum} 
+the voting rights , if any , of the holders of shares of the series . 
+{enum} 
+the restrictions and conditions , if any , upon the issuance or reissuance of any additional preferred stock ranking or a part with or prior to such shares as to dividends or upon distribution ; and 
+{enum} 
+any other preferences , limitations or relative rights of shares of such class or series consistent with this article iii , the general corporation law of the state of nevada , and applicable law . 
+article v 
+- 2 - 
+the board of directors is hereby authorized to create and issue , whether or not in connection with the issuance and sale of any of stock or other securities or property of the corporation , rights entitling the holders thereof to purchase from the corporation shares of stock or other securities of the corporation or any other corporation . the times at which and the terms upon which such rights are to be issued will be determined by the board of directors and set forth in the contracts or instruments that evidence such rights . the authority of the board of directors with respect to such rights shall include , but not be limited to , determination of the following : 
+{enum} 
+the initial purchase price per share or other unit of the stock or other securities or property to be purchased upon exercise of such rights . 
+{enum} 
+provisions relating to the times at which and the circumstances under which such rights may be exercised or sold or otherwise transferred , either together with or separately from , any other stock or other securities of the corporation . 
+{enum} 
+provisions that adjust the number or exercise price of such rights or amount or nature of the stock or other securities or property receivable upon exercise of such rights in the event of a combination , split or recapitalization of any stock of the corporation , a change in ownership of the corporation's stock or other securities or a reorganization , merger , consolidation , sale of assets or other occurrence relating to the corporation or any stock of the corporation , and provisions restricting the ability of the corporation to enter into any such transaction absent an assumption by the other party or parties thereto of the obligations of the corporation under such rights . 
+{enum} 
+provisions that deny the holder of a specified percentage of the outstanding stock or other securities of the corporation the right to exercise such rights and / or cause the rights held by such holder to become void . 
+{enum} 
+provisions that permit the corporation to redeem or exchange such rights . 
+{enum} 
+the appointment of a rights agent with respect to such rights . 
+article vi 
+{enum} 
+subject to the rights of the holders of any series of preferred stock or any other series or class of stock as set forth in these articles of incorporation , to elect additional directors under specified circumstances , the number of directors of the corporation shall be fixed by the by-laws of the corporation and may be increased or decreased from time to time in such a manner as may be prescribed by the by-laws . 
+{enum} 
+unless and except to the extent that the by-laws of the corporation shall so require , the election of directors of the corporation need not be by written ballot . 
+- 3 - 
+article vii 
+the corporation may in its by-laws confer powers upon the board of directors in addition to the foregoing and in addition to the powers and authorities expressly conferred upon the board of directors by applicable law . 
+article viii 
+{enum} 
+each person who is or was or had agreed to become a director or officer of the corporation , or each such person who is or was serving or who had agreed to serve at the request of the board of directors or an officer of the corporation as a director , officer or trustee of another corporation , partnership , joint venture , trust or other enterprise ( including the heirs , executor , administrators or estate of such person ) , shall be indemnified by the corporation , in accordance with the by-laws of the corporation , to the fullest extent permitted from time to time by the n . r . s . as the same exists or may hereafter be amended ( but , in the case of any such amendment , only to the extent that such amendment permits the corporation to provide broader indemnification rights than said law permitted the corporation to provide prior to such amendment ) or any other applicable laws as presently or hereafter in effect . 
+{enum} 
+the corporation may , by action of the board of directors or through the adoption of by-laws , provide indemnification to employees and agents of the corporation , and to persons serving as employees or agents of another corporation , partnership , joint venture , trust or other enterprise , at the request of the corporation , with the same scope and effect as the foregoing indemnification of directors and officers . the corporation shall be required to indemnify any person seeking indemnification in connection with a proceeding ( or part thereof ) initiated by such person only if such proceeding ( or part thereof ) was authorized by the board of directors or is a proceeding to enforce such person's claim to indemnification pursuant to the rights granted by these amended articles of incorporation or otherwise by the corporation . 
+{enum} 
+the right to indemnification conferred in this article viii shall be a contract right and shall include the right to be paid by the corporation the expenses incurred in defending any such proceeding in advance of its final disposition , such advances to be paid by the corporation within twenty ( {num} ) days after the receipt by the corporation of a statement or statements from the claimant requesting such advance or advances from time to time ; provided , however , that if the n . r . s . requires , the payment of such expenses incurred by such a person in his or her capacity as such a director or officer of the corporation in advance of the final disposition of a proceeding , shall be made only upon delivery to the corporation of an undertaking by or on behalf of such director or officer , to repay all amounts so advanced if it shall ultimately be determined that such director or officer is not entitled to be indemnified under this article viii or otherwise . 
+{enum} 
+without limiting the generality or the effect of the foregoing , the corporation may enter into one or more agreements with any person that provide for indemnification greater or different than that provided in this article viii . 
+- 4 - 
+{enum} 
+neither any amendment or repeal of any section of this article viii , nor the adoption of any provision of these articles of incorporation or the by-laws of the corporation inconsistent with this article viii , shall adversely affect any right or protection of any director , officer , employee or other agent established pursuant to this article viii existing at the time of such amendment , repeal or adoption of an inconsistent provision , including without limitation by eliminating or reducing the effect of this article viii , for or in respect of any act , omission or other matter occurring , or any action or proceeding accruing or arising ( or that , but for this article viii , would accrue or arise ) , prior to such amendment , repeal or adoption of an inconsistent provision . 
+article ix 
+{enum} 
+the liability of the directors of the corporation for monetary damages shall be eliminated to the fullest extent permitted by the n . r . s . , as now or hereafter in effect . if the n . r . s . is amended to authorize corporate action further eliminating or limiting the personal liability of directors , then the liability of a director of the corporation shall be eliminated to the fullest extent permitted by the n . r . s . , as so amended . 
+{enum} 
+neither any amendment or repeal of any section of this article ix , nor the adoption of any provision of these articles of incorporation or the by-laws of the corporation inconsistent with this article ix , shall adversely affect any right or protection of any director established pursuant to this article ix existing at the time of such amendment , repeal or adoption of an inconsistent provision , including without limitation by eliminating or reducing the effect of this article viii , for or in respect of any act , omission or other matter occurring , or any action or proceeding accruing or arising ( or that , but for this article ix , would accrue or arise ) , prior to such amendment , repeal or adoption of an inconsistent provision . 
+article x 
+except as may be expressly provided in these articles of incorporation , the corporation reserves the right at any time and from time to time to amend , alter , change or repeal any provision contained in these amended articles of incorporation or a preferred stock designation , and any other provisions authorized by the laws of the state of nevada at the time in force may be added or inserted , in the manner now or thereafter prescribed herein or by applicable law , and all rights , preferences and privileges of whatsoever nature conferred upon stockholders , directors or any other persons whomsoever by and pursuant to these articles of incorporation in its present form or as hereafter amended are granted subject to the right reserved in this article x ; provided , however , that any amendment or repeal of article viii or article ix of these articles of incorporation shall not adversely affect any right or protection existing hereunder in respect of any act or omission occurring prior to such amendment or repeal ; and provided further that no preferred stock designation shall be amended after the issuance of any shares of the series of preferred stock created thereby , except in accordance with the terms of such preferred stock designation and the requirements of applicable law . 
+- 5 - 
+- 6 - 

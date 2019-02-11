@@ -1,0 +1,28 @@
+exhibit 
+state of delaware 
+certificate of merger of 
+wilshire bancorp , inc . with and into 
+bbcn bancorp , inc . 
+july {num} {num} 
+pursuant to section {num} of the general corporation law of the state of delaware ( the " dgcl " ) , bbcn bancorp , inc . , a delaware corporation ( " bbcn " ) , in connection with the merger of wilshire bancorp , inc . , a california corporation ( " wilshire " ) , with and into bbcn ( the " merger " ) , hereby certifies as follows : 
+first : the name and state of incorporation of each of the constituent corporations participating in the merger ( the " constituent corporations " ) are as follows : 
+name state of incorporation 
+bbcn bancorp , inc . delaware 
+wilshire bancorp , inc . california 
+second : the agreement and plan of merger , dated december {num} {num} by and between the constituent corporations ( the " merger agreement " ) has been approved , adopted , certified , executed and acknowledged by each of the constituent corporations in accordance with section {num} of the dgcl . 
+third : bbcn shall be the surviving corporation in the merger and will continue its existence under the name " hope bancorp , inc . " ( the " surviving corporation " ) upon the effective time of the merger . 
+fourth : the certificate of incorporation of bbcn shall be the certificate of incorporation of the surviving corporation , except that article i of bbcn's certificate of incorporation is hereby amended and restated in its entirety as follows : 
+" i . 
+the name of this corporation is hope bancorp , inc . " 
+fifth : the merger is to become effective at the close of business at 8 : {num} p . m . eastern daylight time on the date of the filing and acceptance of this certificate of merger with the secretary of state of the state of delaware . 
+sixth : the merger agreement is on file at {num} wilshire boulevard , suite {num} los angeles , california {num} the principal place of business of the surviving corporation . 
+seventh : a copy of the merger agreement will be furnished by the surviving corporation on request and without cost , to any stockholder or shareholder , as the case may be , of any of the constituent corporations . 
+eighth : the authorized capital stock of wilshire consists of {num} share of common stock , no par value , and {num} shares of preferred stock , ${num} par value . 
+signature page follows 
+in witness whereof , said corporation has caused this certificate of merger to be signed by an authorized officer , as of the date first set forth above . 
+bbcn bancorp , inc . 
+by : / s / kevin s . kim . 
+authorized officer 
+name : kevin s . kim 
+title : president and chief executive officer 
+signature page to certificate of merger 

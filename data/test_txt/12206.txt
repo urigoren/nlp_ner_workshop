@@ -1,0 +1,133 @@
+exhibit {num} stock purchase agreement 
+common stock purchase agreement 
+this common stock purchase agreement ( the " agreement " ) made this _____ day of september ___ , {num} by and between , tobi mac aro , an individual ( the " buyer " ) and edward barrios , an individual and maxwell ramos , an individual ( collectively hereinafter , the " sellers " ) , regarding the purchase of shares of common stock of cataca resources , inc . a nevada corporation ( the " company " ) , and setting forth the terms and conditions upon which the sellers will sell fifteen million ( {num} ) shares ( the " shares " ) of common stock ( the " common stock " ) of the company , individually and beneficially owned by sellers , to buyer . 
+now therefore , in consideration of the mutual promises , covenants and representations contained herein , the parties herewith agree as follows : 
+article i 
+sale of securities 
+{num} 
+{enum} subject to the terms and conditions of this agreement , the sellers agrees to sell the shares of common stock for an aggregate purchase price of fifteen thousand ( ${num} ) ( the " purchase price " ) , with the purchase price being distributed on a pro rata basis to the two individual sellers . this is a private transaction between the sellers and buyer . 
+{num} 
+purchase price . it is agreed that the purchase price for the shares will be wire transferred to the sellers within five ( 5 ) days of the date of this agreement . the closing shall take place simultaneously to the execution of this agreement . 
+article ii 
+representations and warranties 
+the sellers hereby represents and warrants to the buyer the following : 
+{num} 
+organization . the company is a nevada corporation duly organized , validly existing , and in good standing under the laws of that state . the company is a reporting company pursuant to securities and exchange commission ( " sec " ) rules and regulations , and has timely filed all reports schedules , forms , statements and other documents required to be filed by the company under the securities act of {num} as amended , and the securities and exchange act of {num} as amended , including pursuant to section {num} ( g ) , {num} ( a ) or {num} ( d ) thereof . ( the foregoing materials , including the exhibits thereto and documents incorporated by reference therein , being collectively referred to herein as the " sec reports " ) . 
+{num} 
+{enum} the authorized capital stock of the company consists of {num} shares of common stock , ${num} par value , of which {num} shares of common stock are issued and outstanding as the date hereof . all outstanding shares are fully paid and non-assessable , free of liens , encumbrances , options , restrictions and legal or equitable rights of others not a party to this agreement except for restrictions on transfer imposed by federal and state securities laws . at the closing , there will be no outstanding subscriptions , options , rights , warrants , convertible securities , or other agreements or commitments obligating the company to issue or to transfer from treasury any additional shares of its capital stock . none of the outstanding shares of common stock of the company are subject to any stock restriction agreements , other than by virtue of being deemed " control securities " and thus subject to those restrictions imposed by the securities act of {num} as amended . all of such shareholders have valid title to such shares of common stock and acquired their shares of common stock in a lawful transaction and in accordance with nevada corporate law and the applicable securities laws of the united states . 
+{num} 
+financial statements . the financial statements of the company included in the sec reports comply in all material respects with applicable accounting requirements and the rules and regulations of the sec with respect thereto as in effect at the time of filing . such financial statements have been prepared in accordance with united states generally accepted accounting principles ( " u . s . gaap " ) applied on a consistent basis throughout the periods indicated and with each other , except as may be otherwise specified in such financial statements or the notes thereto and except that the unaudited financial statements may not contain all footnotes required by u . s . gaap . , and such financial statements fairly present the financial condition and operating results of the company as of the dates , and for the periods , indicated therein , subject to normal year-end audit adjustments . except as set forth in the financial statements , and as set forth in paragraph {num} the company has no material liabilities ( contingent or otherwise ) . the company is not a guarantor or indemnitor of any indebtedness of any other person , firm or corporation . sellers agrees to provide any reasonably requested confirmations or representations from the company's independent auditor in connection with the company's form {num}k for the period ending december {num} {num} 
+1 
+{num} 
+filings with government agencies . the company files annual and quarterly reports with the sec and is current in all filings . the company has made all filings with the state of nevada that might be required and is current in its filings and reporting to the state of nevada . 
+{num} 
+{enum} it is understood and agreed that the purchase of the shares is predicated on the company not having any liabilities at closing . the company will not , as of closing , have any debt , liability , or obligation of any nature , whether accrued , absolute , contingent , or otherwise that will not be paid by sellers at closing . any debt or liabilities owed by the company at the time of closing will be listed on exhibit a below . the sellers is not aware of any pending , threatened or asserted claims , lawsuits or contingencies involving the company or its shares . to the best knowledge of the sellers , there is no dispute of any kind between the company and any third party , and no such dispute will exist at the closing of this transaction and at the closing , the company will be free from any and all liabilities , liens , claims and / or commitments . 
+{num} 
+ability to carry out obligations . the sellers have the right , power , and authority to enter into , and perform its obligations under this agreement . the execution and delivery of this agreement by the sellers and the performance by the sellers of its obligations hereunder will not cause , constitute , or conflict with or result in ( a ) any breach or violation of any of the provisions of or constitute a default under any license , indenture , mortgage , charter , instrument , articles of incorporation , bylaw , or other agreement or instrument to which the company , the officers , directors or the sellers is a party , or by which they may be bound , nor will any consents or authorizations of any party other than those hereto be required , ( b ) an event that would cause the company ( and / or assigns ) to be liable to any party , or ( c ) an event that would result in the creation or imposition of any lien , charge , or encumbrance on any asset of the company or upon the shares to be acquired by the buyer . 
+{num} 
+contracts , leases and assets . the company is not a party to any contract , agreement or lease ( other than the normal contract with the transfer agent ) . no person holds a power of attorney from the company or the sellers . at the closing , the company will have no assets or liabilities or any obligations which would give rise to a liability in the future . 
+{num} 
+compliance with laws . the company has complied in all material respects , with , and is not in violation of any , federal , state , or local statute , law , and / or regulation applicable to the company . to the best knowledge of the sellers , the company has complied with all federal and state securities laws in connection with the offer , sale and distribution of its securities . the shares being sold herein are being sold in a private transaction between the sellers and the buyer , and the sellers makes no representations as to whether the shares are subject to trading restrictions under the securities act of {num} as amended , and rules promulgated thereunder . 
+{num} 
+{enum} the company is not a party to any suit , action , arbitration , or legal , administrative , or other proceeding , or pending governmental investigation . to the best knowledge of the sellers , there is no basis for any such action or proceeding and no such action or proceeding is threatened against the company . the company is not a party to or in default with respect to any order , writ , injunction , or decree of any federal , state , local , or foreign court , department , agency , or instrumentality . 
+{num} 
+conduct of business . prior to the closing , the company shall conduct its business in the normal course , and shall not ( without the prior written approval of buyer ) ( i ) sell , pledge , or assign any assets , ( ii ) amend its articles of incorporation or bylaws , ( iii ) declare dividends , redeem or sell stock or other securities ( iv ) incur any liabilities , except in the normal course of business , ( v ) acquire or dispose of any assets , enter into any contract , guarantee obligations of any third party , or ( vi ) enter into any other transaction . 
+{num} 
+closing documents . all minutes , consents or other documents pertaining to the company to be delivered at the closing shall be valid and in accordance with the laws of nevada . 
+{num} 
+title . the sellers have good and marketable title to all of the shares being sold by them to the buyer pursuant to this agreement . the shares will be , at the closing , free and clear of all liens , security interests , pledges , charges , claims , encumbrances and restrictions of any kind , except for restrictions on transfer imposed by federal and state securities laws . none of the shares are or will be subject to any voting trust or agreement . no person holds or has the right to receive any proxy or similar instrument with respect to such shares . except as provided in this agreement , the sellers is not a party to any agreement which offers or grants to any person the right to purchase or acquire any of the shares . there is no applicable local , state or federal law , rule , regulation , or decree which would , as a result of the purchase of the shares by buyer ( and / or assigns ) impair , restrict or delay voting rights with respect to the shares . 
+{num} 
+transfer of shares . the sellers will have the responsibility for sending all certificates representing the shares being purchased , along with the proper stock powers with signature guarantees acceptable to the transfer agent for delivery to the escrow agent to be sent to the buyer at closing . 
+2 
+article iii 
+closing 
+{num} 
+closing for the purchase of common stock . within five ( 5 ) days of the closing of this transaction , all of the documents and consideration described in paragraphs {num} above and in {num} shall have been delivered . 
+{num} 
+documents and payments to be delivered at closing . as part of the closing , the following documents , in form reasonably acceptable to counsel to the parties , and shall be delivered to buyer : 
+{enum} 
+by the sellers : 
+{enum} 
+stock certificate or certificates , along with stock powers with medallion signature guarantees acceptable to the transfer agent , representing the shares , endorsed in favor of the name or names as designated by buyer or left blank ; 
+{enum} 
+the resignation of all officers of the company ; 
+{enum} 
+the appointment of new directors of the company as designated by the buyer and the resignation of all its current directors ; and buyer will provide the sellers the resolution of the new appointment before the closing ; 
+{enum} 
+true and correct copies of all of the business and corporate records of the company , including but not limited to correspondence files , bank statements , checkbooks , savings account books , minutes of shareholder and directors meetings or consents , financial statements , a shareholder list from the company's transfer agent dated as of the closing , stock transfer records , agreements and contracts that exist and 
+{enum} 
+such other documents of the company as may be reasonably required by buyer , if available . 
+{enum} 
+by buyer : a wire transfer to the sellers in the amount of ${num} representing the purchase price for the shares . 
+{num} 
+conditions subsequent . after the closing : 
+{enum} 
+after the purchase , the buyer of the shares shall file the appropriate filings , if so required , disclosing the acquisition of the shares by the buyer ( " disclosure document " ) . 
+{enum} 
+upon the purchase of the shares by the buyer , buyer will have the full responsibility for filing any and all documents required by the sec and / or any other government agency that may be required . the sellers will supply the buyer with all information that is currently available for the company . the buyer understands that the sellers will have no responsibility whatsoever for any filings made by the company in the future , either with the sec , finra or with the state of nevada . 
+article iv 
+investment intent 
+{num} 
+transfer restrictions . buyer ( and / or assigns ) agrees that the shares being acquired pursuant to this agreement may be sold , pledged , assigned , hypothecated or otherwise transferred , with or without consideration ( " transfer " ) only pursuant to an effective registration statement under the securities act of {num} as amended ( the " act " ) , or pursuant to an exemption from registration under the act . 
+{num} 
+investment intent . the buyer is acquiring the shares for his own account for investment , and not with a view toward distribution thereof . 
+{num} 
+no advertisement . the buyer acknowledges that the shares have been offered to him in direct communication between him and sellers , and not through any advertisement of any kind . 
+3 
+{num} 
+knowledge and experience . the buyer acknowledges that he has been encouraged to seek his own legal and financial counsel to assist him in evaluating this purchase . the buyer acknowledges that sellers has given him and his counsel access to all information relating to the company's business that he or any one of them has requested . the buyer acknowledges that he has sufficient business and financial experience , and knowledge concerning the affairs and conditions of the company so that he can make a reasoned decision as to this purchase of the shares and is capable of evaluating the merits and risks of this purchase . 
+{num} 
+restrictions on transferability . the buyer is aware of the restrictions of transferability of the shares and further understands the certificates shall bear the following legend . 
+{enum} 
+this security has not been registered with the securities and exchange commission under the securities act of {num} as amended ( the " act " ) , in reliance upon the exemption from registration provided in sections 4 ( 1 ) and 4 ( 2 ) and regulation d under the act . as such , the purchase of this security was made with the intent of investment and not with a view for distribution . therefore , any subsequent transfer of this security or any interest therein will be unlawful unless it is registered under the act or unless an exemption from registration is available . 
+{enum} 
+the buyer understands that the shares may only be disposed of pursuant to either ( i ) an effective registration statement under the act , or ( ii ) an exemption from the registration requirements of the act . 
+article v 
+remedies 
+{num} 
+arbitration . all questions concerning the construction , validity , enforcement and interpretation of this agreement shall be governed by and construed and enforced in accordance with the internal laws of the state of nevada , without regard to the principles of conflict of laws thereof . any controversy of claim arising out of , or relating to , this agreement , or the making , performance , or interpretation thereof , shall be settled by arbitration in nevada in accordance with the rules of the u . s . arbitration association then existing , and judgment on the arbitration award may be entered in any court having jurisdiction over the subject matter of the controversy . 
+{num} 
+termination . the buyer may terminate this agreement , if at the closing , the sellers has failed to comply with all material terms of this agreement and have failed to supply any documents required by this agreement unless they do not exist , or have failed to disclose any material facts which could have a substantial effect on any part of this transaction . sellers may terminate this agreement , if at the closing buyer has failed to perform . termination is the sole remedy . 
+{num} 
+{enum} from and after the closing , the parties , jointly and severally , agree to indemnify the other against all actual losses , damages and expenses caused by ( i ) any material breach of this agreement by them or any material misrepresentation contained herein , or ( ii ) any misstatement of a material fact or omission to state a material fact required to be stated herein or necessary to make the statements herein not misleading . 
+{num} 
+indemnification non-exclusive . the foregoing indemnification provision is in addition to , and not derogation of any statutory , equitable or common law remedy any party may have for breach of representation , warranty , covenant or agreement . 
+article vi 
+miscellaneous 
+{num} 
+captions and headings . the article and paragraph headings throughout this agreement are for convenience and reference only , and shall in no way be deemed to define , limit , or add to the meaning of any provision of this agreement . 
+{num} 
+no oral change . this agreement and any provision hereof , may not be waived , changed , modified , or discharged , orally , but only by an agreement in writing signed by the party against whom enforcement of any waiver , change , modification , or discharge is sought . 
+4 
+{num} 
+non-waiver . except as otherwise expressly provided herein , no waiver of any covenant , condition , or provision of this agreement shall be deemed to have been made unless expressly in writing and signed by the party against whom such waiver is charged ; and ( i ) the failure of any party to insist in any one or more cases upon the performance of any of the provisions , covenants , or conditions of this agreement or to exercise any option herein contained shall not be construed as a waiver or relinquishment for the future of any such provisions , covenants , or conditions , ( ii ) the acceptance of performance of anything required by this agreement to be performed with knowledge of the breach or failure of a covenant , condition , or provision hereof shall not be deemed a waiver of such breach or failure , and ( iii ) no waiver by any party of one breach by another party shall be construed as a waiver with respect to any other or subsequent breach . 
+{num} 
+time of essence . time is of the essence of this agreement and of each and every provision hereof . 
+{num} 
+entire agreement . this agreement , including any and all attachments hereto , if any , contain the entire agreement and understanding between the parties hereto , and supersede all prior agreements and understandings . 
+{num} 
+partial invalidity . in the event that any condition , covenant or other provision of this agreement is held to be invalid or void by any court of competent jurisdiction , it shall be deemed severable from the remainder of this agreement and shall in no way affect any other condition , covenant or other provision of this agreement . if such condition , covenant or other provision is held to be invalid due to its scope or breadth , it is agreed that it shall be deemed to remain valid to the extent permitted by law . 
+{num} 
+significant changes . the sellers understands that significant changes may be made in the capitalization and / or stock ownership of the company , which changes could involve a reverse stock split and / or the issuance of additional shares , thus possibly having a dramatic negative effect on the percentage of ownership and / or number of shares owned by present shareholders of the company . 
+{num} 
+{enum} this agreement may be executed simultaneously in one or more counterparts , each of which shall be deemed an original , but all of which together shall constitute one and the same instrument . facsimile signatures will be acceptable to all parties . 
+{num} 
+binding effect . this agreement shall inure to and be binding upon the heirs , executors , personals , successors and assigns of each of the parties to this agreement . 
+{num} 
+effect of closing . all representations , warranties , covenants , and agreements of the parties contained in this agreement , or in any instrument , certificate , opinion , or other writing provided for in it , shall be true and correct as of the closing and shall survive the closing of this agreement . 
+{num} 
+mutual cooperation . the parties hereto shall cooperate with each other to achieve the purpose of this agreement , and shall execute such other and further documents and take such other and further actions as may be necessary or convenient to effect the transaction described herein . 
+signature page follows 
+5 
+in witness whereof , this agreement has been duly executed by the parties hereto as of the date first above written . 
+edward barrios , seller 
+by : 
+maxwell ramos , seller 
+by : 
+tobi mac aro , buyer 
+by : 
+6 
+exhibit a 
+liabilities 
+{enum} 
+7 

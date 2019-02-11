@@ -1,0 +1,28 @@
+exhibit {num} 
+exhibit {num} 
+modification agreement to equity purchase agreement 
+and registration rights agreement 
+amendment , dated august {num} {num} to equity purchase agreement ( " purchase agreement " ) , and registration rights agreement ( " registration rights agreement " ) , both dated as of july {num} {num} and the parties to the agreements being river north equity , llc and the investors under the executed counterparts of the purchase agreement ( " investors " ) and ems find , inc . , a nevada corporation , with its principal offices located at {num} buck road , suite {num} huntingdon valley , pa {num} ( " ems " ) , the purchase agreement and registration rights agreement being collectively referred to herein as the " agreements " . capitalized terms used herein and not otherwise defined herein shall have the meaning assigned to such term in the respective agreements . 
+whereas , ems and the investors entered into the agreements for the purpose of investors providing to ems an equity line of credit financing facility for purchases in the maximum amount of ${num} of ems common stock , which financing requires the filing by ems of a registration statement on form s-1 ( the " registration statement " ) under the securities act of {num} as amended ; 
+whereas , the agreements provide that the registration statement shall be filed by ems by august {num} {num} ( the " s-1 filing date " ) ; and 
+whereas , ems and the investors have agreed to amend the agreements to provide that , in view of the filing schedule for the form {num}-k annual report to be filed by ems in september , {num} the s-1 filing date under both agreements shall be amended so that ems shall be required to use its best efforts to file the registration statement by october {num} {num} ; and 
+whereas , in accordance with the terms and conditions of the agreements , ems and the investors hereby approve the amendments of the respective agreements as set forth herein . 
+now , therefore , in consideration of the foregoing and the mutual covenants contained herein , the parties agree as follows : 
+{enum} 
+by their respective execution of this agreement , ems and the investors agree that the definition of " registration statement " in the purchase agreement shall be amended to read in its entirety as follows : 
+" registration statement " shall mean the company's effective registration statement on file with the sec , and any follow up registration statement or amendment thereto . the company shall use its best efforts to file with the sec by october {num} {num} a registration statement on form s-1 covering the maximum commitment amount of ${num} of the company's securities . the investors shall agree to be named " underwriters " in such registration statement and to register the sale of shares received at the fixed price identified in the registration statement . the company shall use its best efforts to cause the registration statement to go " effective " no later than ninety ( {num} ) days from the filing date . 
+{enum} 
+by their respective execution of this agreement , ems and the investors agree that section 2 ( a ) of the registration rights agreement shall be amended to read in its entirety as follows 
+" {num} obligation of the company . in connection with the registration of the registered securities , the company shall do each of the following : 
+{enum} prepare promptly and use best efforts to file with the sec by october {num} {num} a registration statement with respect to not less than the maximum allowable under rule {num} of registered 
+securities , and thereafter use all commercially reasonable efforts to cause such registration statement relating to the registered securities to become effective within five ( 5 ) business days after notice from the securities and exchange commission that such registration statement may be declared effective , and keep the registration statement effective at all times prior to the termination of the purchase agreement until the earliest of ( i ) the date that is three months after the completion of the last closing date under the purchase agreement , ( ii ) the date when the investor may sell all registered securities under rule {num} without volume limitations , or ( iii ) the date the investor no longer owns any of the registered securities ( collectively , the " registration period " ) , which registration statement ( including any amendments or supplements , thereto and prospectuses contained therein ) shall not contain any untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein , in the light of the circumstances under which they were made , not misleading ; . . . " 
+{enum} 
+except as expressly provided herein , the agreements shall continue in full force and effect . 
+ems find , inc . 
+by : / s / steve rubakh 
+name : steve rubakh 
+title : ceo 
+river north equity , llc 
+by : / s / edward liceaga 
+name : edward m . liceaga 
+title : president 

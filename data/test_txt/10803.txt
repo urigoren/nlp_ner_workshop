@@ -1,0 +1,58 @@
+converted by edgarwiz 
+exhibit {num} 
+amendment to agreement of sale 
+this amendment is maid this {num} th day september {num} to the agreement made the {num} th day of september {num} by and between ameri metro , inc . hereinafter referred to as " option holder " party to the first part 
+jewel ' s real – estate {num}-{num} master lllp of red lion , pennsylvania {num} hereinafter referred to as " the seller . " party of the second part , seller 
+this amendment is paragraph 5 relating to closing date of september {num}th {num} changing is to october {num} th {num} 
+all other terms and condition of the agreement will remain in full force and effect . 
+ameri metro , inc . hereinafter referred to as party to the first part 
+/ s / debra mathias , ceo 
+____________________________________________ 
+port de claudius , inc . / tb / ta port trajan in pennsylvania hereinafter referred to as " the buyer . " 
+/ s / b . craig smith 
+____________________________________________ 
+agreement of sale and or assignment of assets in phase one 
+this agreement is made the {num} th day of september {num} by and between ameri metro , inc . hereinafter referred to as " option holder " party to the first part 
+jewel ' s real – estate {num}-{num} master lllp of red lion , pennsylvania {num} hereinafter referred to as " the seller . " party of the second part , seller 
+global infrastructure finance & development authority , inc division of hi speed rail facilities provider inc . of p . o . box . {num} red lion pennsylvania hereinafter referred to as financier . party to the third part 
+port de claudius , inc . / tb / ta port trajan in pennsylvania hereinafter referred to as " the buyer . " party to the fourth part . 
+hsrf statutory trust as trustee , a wyoming trust company ( the " trustee " ) , party to the fifth part 
+all five parties hereinafter be collectively referred to as the " cartel " 
+background and recitals 
+whereas , the " cartel " , have entered into various letters of intent , memorandum of understandings and agreement ( s ) with each other and those letters of intent , memorandum of understandings and agreement ( s ) master trust indentures and trustee agreement have been on record with sec and are now by reference are incorporated into this background and recitals copy of which is attached and marked exhibit " a " . the cartel desires to consolidate all agreements into this agreement , to sell and or assign certain assets , hereinafter described , now held by party to the first part , and party of the second part , 
+whereas , port de claudius , inc . / tb / ta port trajan in pennsylvania hereinafter referred to as " the buyer . " desires to purchase and / or take assignment of the said assets in phase one ; and 
+whereas , for the purpose of this agreement party to the first part , and party of the second part , desires to sell and / or the assignment of the said assets in phase one to party to the fourth part . 
+whereas , the assignment of the said assets in phase one hereto as is described in exhibit " b " for reference purposes only ; and 
+whereas , said sale and / or the assignment of the said assets in phase one to party of the fourth part is expressly and exclusively to facilitate the priority financial interest of party to the first part 
+{enum} 
+now therefore , in consideration of the following covenants , duties , representations and obligations to be kept and performed by each party , and with the intention to be bound legally , the parties agree as follows : this agreement supersedes all prior agreements , contracts , understandings and negotiations between the parties , and any prior discussions , and representations and negotiations are merged herein . 
+{enum} 
+party to the first part , and party of the second part , shall sell and assign to port de claudius , inc . / tb / ta port trajan in pennsylvania hereinafter referred to as " the buyer . " all rights , title and interest may have in and to any contractual agreements including but not limited to said agreement ( exhibit " a " ) so that party to the first part is divested completely of the same for the phase one . 
+{enum} 
+all contractual agreements , written , oral or implied , between cartel and any related or affiliated companies are rendered null and void upon the completion of the transaction contemplated by this agreement for phase one . 
+{enum} 
+port de claudius , inc . / tb / ta port trajan referred to as " the buyer . " party to the fifth part . " cartel " per the attached summary of closing statement exhibit " b " 
+{enum} 
+settlement on the sale and assignment provided for herein shall occur in york , pennsylvania , at a time and location mutually agreeable to the parties , on or before september {num} {num} with time being of the essence . at settlement , to party to the first part in the form of a bank cashier ' s check or in other form reasonably acceptable to seller form bond proceeds to jewel ' s real – estate {num}-{num} master lllp party of the second part , this agreement has been prepared by representative for the buyer , and the seller acknowledges having been counseled by an attorney of its choice or that b uyer ' s waived the right to such counsel . no reliance is made upon buyer ' s attorney by seller . 
+{enum} 
+this agreement shall be construed and interpreted in accordance with the laws of the commonwealth of pennsylvania ; and venue for any litigation arising therefrom shall be in york county , pennsylvania . 
+{enum} this agreement shall not be recorded , disclosed to any person not a party hereto , or modified except by a writing signed by all parties and supported by additional consideration . it shall not be incorporated by reference in any other document . 
+{enum} 
+this agreement shall not be modified , amended , supplemented or otherwise changed except by a writing executed by the parties . in the event that such an amendment is necessary to clarify some provision hereof , seller shall not attempt to raise issues or request changes that would change seller ' s obligations hereunder . 
+in witness whereof , the parties have executed this agreement on the day and date first above written . 
+ameri metro , inc . hereinafter referred to as party to the first part 
+/ s / james l . becker 
+jewel ' s real – estate {num}-{num} master lllp party of the second part , seller 
+/ s / shahnawaz c . mathias ( jewel ) 
+global infrastructure finance & development authority , inc division of hi speed rail facilities provider inc . 
+/ s / james kingsborough 
+port de claudius , inc . / tb / ta port trajan in pennsylvania hereinafter referred to as " the buyer . " 
+/ s / b . craig smith 
+hsrf statutory trust as trustee , a wyoming trust company ( the " trustee " ) , 
+/ s / robert holmes 
+exhibit a 
+material asset of acquisition 
+see exhibit {num} pdf version ex{num}exhibita 
+exhibit b 
+summary of closing statement 
+see exhibit {num} pdf version ex{num}exhibitb 

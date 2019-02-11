@@ -1,0 +1,81 @@
+ex{num}-{num}htm 
+exhibit {num} 
+termination agreement 
+among 
+federal deposit insurance corporation , 
+receiver of bank of hiawassee , 
+hiawassee , georgia 
+federal deposit insurance corporation , 
+receiver of new horizons bank , 
+east ellijay , georgia 
+federal deposit insurance corporation 
+and 
+park sterling bank 
+dated as of 
+august {num} {num} 
+termination agreement 
+this termination agreement ( the " agreement " ) , is made and entered into as of the {num} th day of august , {num} by and among the federal deposit insurance corporation , as receiver of bank of hiawassee , hiawassee , georgia , and as receiver of new horizons bank , east ellijay , georgia ( collectively , the " receiver " ) , park sterling bank , organized under the laws of the state of north carolina and having its principal place of business in mecklenberg county , north carolina ( " park sterling " ) , and the federal deposit insurance corporation , organized under the laws of the united states of america and having its principal office in washington , d . c . , acting in its corporate capacity ( the " corporation " ) . the receiver , the corporation and park sterling may each be referred to herein as a " party " or collectively as the " parties . " 
+recitals 
+whereas , on march {num} {num} the georgia department of banking and finance closed the bank of hiawassee ( " hiawassee " ) , and the federal deposit insurance corporation accepted appointment as receiver of hiawassee ; 
+whereas , following acceptance of appointment as receiver of hiawassee , the receiver , citizens south bank and the corporation entered into a purchase and assumption agreement dated as of march {num} {num} ( the " hiawassee p&a agreement " ) with respect to certain assets and liabilities of hiawassee ; 
+whereas , on april {num} {num} the georgia department of banking and finance closed new horizons bank ( " nhb " ) , and the federal deposit insurance corporation accepted appointment as receiver of hiawassee ; 
+whereas , following acceptance of appointment as receiver of nhb , the receiver , citizens south bank and the corporation entered into a purchase and assumption agreement dated as of april {num} {num} ( the " new horizons p&a agreement " ) with respect to certain assets and liabilities of nhb ; . 
+whereas , each of the p&a agreements includes a single family shared-loss agreement attached as exhibit {num}a ( collectively , the " sfslas " ) and a commercial shared-loss agreement attached as exhibit {num}b ( collectively , the " cslas " ) ; 
+whereas , park sterling merged with citizens south bank and assumed all duties and obligations under each of the p&a agreements , the sfslas and the cslas ; 
+whereas , the parties agree that it is in each of their best interest to adjust and settle any obligations under the sfslas and cslas and to enter into this agreement ; 
+whereas , park sterling has offered to pay , and the receiver and corporation , have agreed to accept , in full satisfaction of the parties current and future liabilities and obligation to each other under the sfslas and cslas , the sum of ${num} ( the " termination amount " ) ; 
+now , therefore , in consideration of the mutual promises , covenants and undertakings and the payment to be made herein , the receiver , the corporation and park sterling wish to resolve , settle , terminate and commute any and all past and present claims related to the sfslas and cslas under the following terms and conditions herein set forth and other valuable consideration , the parties hereto agree as follows : 
+article i 
+closing 
+except as noted below in section {num} and subject to the satisfaction , or waiver in writing of the conditions precedent set forth in article iii , the transactions contemplated by this agreement shall be consummated at a closing ( the " closing " ) to be held in person or by electronic means on august {num} {num} or such earlier or later date , or in such other manner , as the parties hereto may agree in writing ( the " closing date " ) . 
+article ii 
+payments and termination 
+{num} payment of termination amount . on the closing date , subject to the satisfaction or waiver in writing of the conditions precedent set forth herein , park sterling shall pay or cause to be paid the termination amount to the receiver by wire transfer in immediately available funds . the parties hereby acknowledge that the amount of shared-loss claims filed by park sterling but not yet paid by or to the receiver were accounted for in the calculation of the termination amount . 
+{num} termination of the sfslas and the cslas . upon the occurrence of the closing and payment of the termination amount all rights and obligations of the parties to make and receive payments pursuant to the sfslas and the cslas and all rights and obligations of the parties thereto including , but not limited to , any reporting obligations or rights to inspect or audit books and records shall terminate effective as of the closing date . the parties hereby agree that park sterling's total liability and obligation to the receiver and / or the corporation , whether under contract or otherwise , shall be discharged by park sterling's payment of the termination amount . aside from the sfslas and cslas , the hiawassee p&a agreement and new horizons p&a agreement shall otherwise remain in full force and effect . 
+{num} legal action ; utilization of special receivership powers . as of the closing date , park sterling's right , under article iii of the sfslas and article iii of the cslas , to request to utilize any special legal power or right which park sterling derived as a result of having acquired an asset from the receiver shall terminate ; provided , however , any prior requests to utilize such special powers or rights that were granted by the receiver shall not be affected hereby , and park sterling may continue to use such special legal rights or powers in the litigation in which the permission to use those special legal powers or rights was given . notwithstanding the foregoing , park sterling shall continue to have all rights and remedies available to it under applicable state and federal laws , which shall not be limited or altered by this agreement . 
+article iii 
+conditions precedent 
+the obligations of the parties to this agreement are subject to the receiver and the corporation having received at or before the closing date evidence reasonably satisfactory to each of any necessary approval , waiver , or other action by any governmental authority , the board of directors of park sterling , or other third party , to the extent any such approval is required , with respect to this agreement and the transactions contemplated hereby , and any agreements , documents , matters or proceedings contemplated hereby or thereby . 
+article iv 
+miscellaneous 
+{num} no third party beneficiary . nothing expressed or referred to in this agreement is intended or shall be construed to give any person other than the receiver , the corporation and park sterling ( and their respective successors and assigns ) any legal or equitable right , remedy or claim under or with respect to this agreement or any provisions contained herein , it being the intention of the parties hereto that this agreement , the obligations and statements of responsibilities hereunder , and all other conditions and provisions hereof are for the sole and exclusive benefit of the receiver , the corporation and park sterling and that there be no other third party beneficiaries . 
+{num} rights cumulative . except as otherwise expressly provided herein , the rights of each of the parties under this agreement are cumulative , may be exercised as often as any party considers appropriate and are in addition to each such party's rights under this agreement , any of the agreements related thereto or under applicable law . any failure to exercise or any delay in exercising any of such rights , or any partial or defective exercise of such rights , shall not operate as a waiver or variation of that or any other such right , unless expressly otherwise provided . 
+{num} entire agreement . this agreement embodies the entire agreement of the parties hereto in relation to the subject matter herein and supersedes all prior understandings or agreements , oral or written , between the parties . 
+{num} counterparts . 
+{enum} this agreement may be executed in any number of counterparts and by the duly authorized representative of a different party hereto on separate counterparts , each of which when so executed shall be deemed to be an original and all of which when taken together shall constitute one and the same agreement . 
+{enum} each counterpart of this agreement will be treated in all manner and respects as an original agreement and will be considered to have the same binding legal effect as if it were the original signed version thereof delivered in person . no signatory to this agreement may raise the use of a facsimile machine or other electronic means to deliver an executed document or the fact that any signature or agreement was transmitted or communicated through the use of a facsimile machine or other electronic means as a defense to the formation or enforceability of a contract and each party hereto forever waives any such defense . 
+{num} governing law . this agreement and the rights and obligations hereunder and thereunder shall be governed by and construed in accordance with the federal law of the united states of america , and in the absence of controlling federal law , in accordance with the laws of the state of georgia . 
+{num} successors . all terms and conditions of this agreement shall be binding on the successors and assigns of the receiver , the corporation and park sterling . 
+{num} modification . no amendment or other modification , rescission or release of any part of this agreement shall be effective except pursuant to a written agreement subscribed by the duly authorized representatives of the parties hereto . 
+{num} waiver . each of the receiver , the corporation and park sterling may waive its respective rights , powers or privileges under this agreement ; provided that such waiver shall be in writing ; and further provided that no failure or delay on the part of the receiver , the corporation or park sterling to exercise any right , power or privilege under this agreement shall operate as a waiver thereof , nor will any single or partial exercise of any right , power or privilege under this agreement preclude any other or further exercise thereof or the exercise of any other right , power or privilege by the receiver , the corporation , or park sterling under this agreement , nor will any such waiver operate or be construed as a future waiver of such right , power or privilege under this agreement . 
+{num} severability . if any provision of this agreement is declared invalid or unenforceable , then , to the extent possible , all of the remaining provisions of this agreement shall remain in full force and effect and shall be binding upon the parties hereto . 
+{num} survival of covenants . the covenants , representations , and warranties in this agreement shall survive the execution of this agreement and the consummation of the transactions contemplated hereunder . 
+{num} capitalized terms . capitalized terms not otherwise defined herein shall have the meanings given such terms in the p&a agreements , the sfslas or the cslas , as applicable . 
+signature page follows 
+in witness whereof , the parties have caused this agreement to be duly executed by themselves or their respective officers , as the case may be , as of the day and year first above written . 
+park sterling bank 
+by : / s / james c . cherry 
+name : james c . cherry 
+title : ceo 
+attest : 
+/ s / randall royther 
+federal deposit insurance corporation , 
+receiver of bank of hiawassee 
+by : / s / robert n . stoner , jr . 
+name : robert n . stoner , jr . 
+title : manager , strategic programs 
+attest : 
+/ s / andy hoang 
+federal deposit insurance corporation , 
+receiver of new horizons bank 
+by : / s / robert n . stoner , jr . 
+name : robert n . stoner , jr . 
+title : manager , strategic programs 
+attest : 
+/ s / andy hoang 
+federal deposit insurance corporation 
+by : / s / phillip g . mangano 
+name : phillip g . mangano 
+title : deputy director , drr 
+attest : 
+/ s / andy hoang 

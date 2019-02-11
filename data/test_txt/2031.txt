@@ -1,0 +1,40 @@
+ex-{num} 
+exhibit {num} 
+amended and restated certificate of incorporation 
+of 
+sequenom , inc . 
+article i . 
+name 
+the name of the corporation is sequenom , inc . ( the " corporation " ) . 
+article ii . 
+registered office 
+the registered office of the corporation in the state of delaware shall be located at {num} centerville road , suite {num} in the city of wilmington , county of new castle , delaware {num} the name of the registered agent of the corporation at such address is the corporation service company . 
+article iii . 
+purpose and powers 
+the purpose of the corporation is to engage in any lawful act or activity for which corporations may be organized under the general corporation law of the state of delaware ( the " dgcl " ) . the corporation shall have all power necessary or convenient to the conduct , promotion or attainment of such acts and activities . 
+article iv . 
+capital stock 
+section {num} authorized shares 
+the total number of shares of all classes of stock that the corporation shall have the authority to issue is one thousand ( {num} ) shares of common stock , having a par value of ${num} per share ( the " common stock " ) . 
+section {num} common stock 
+{num} dividends . whenever there shall have been paid , or declared and set aside for payment , to the holders of shares of any class of stock having preference over the common stock as to the payment of dividends , the full amount of dividends and of sinking fund or retirement payments , if any , to which such holders are respectively entitled in preference to the common stock , then dividends may be paid on the common stock and on any class or series of stock entitled to participate therewith as to dividends , out of any assets legally available for the payment of dividends thereon , but only when and as declared by the board of directors of the corporation . 
+{num} dissolution , liquidation , winding up . in the event of any dissolution , liquidation , or winding up of the corporation , whether voluntary or involuntary , the holders of the common stock , and holders of any class or series of stock entitled to participate therewith , in whole or in part , as to the distribution of assets in such event , shall become entitled to participate in the distribution of any assets of the corporation remaining after the corporation shall have paid , or provided for payment of , all debts and liabilities of the corporation and after the corporation shall have paid , or set aside for payment , to the holders of any class of stock having preference over the common stock in the event of dissolution , liquidation or winding up the full preferential amounts ( if any ) to which they are entitled . 
+{num} voting rights . each holder of shares of common stock shall be entitled to attend all special and annual meetings of the stockholders of the corporation and , share for share and without regard to class , together with the holders of all other classes of stock entitled to attend such meetings and to vote ( except any class or series of stock having special voting rights ) , to cast one vote for each outstanding share of common stock so held upon any matter or thing ( including , without limitation , the election of one or more directors ) properly considered and acted upon by the stockholders . 
+article v . 
+board of directors 
+section {num} number ; election 
+the number of directors of the corporation shall be such number as from time to time shall be fixed by , or in the manner provided in , the by-laws of the corporation . unless and except to the extent that the by-laws of the corporation shall otherwise require , the election of directors of the corporation need not be by written ballot . except as otherwise provided in this certificate of incorporation , each director of the corporation shall be entitled to one vote per director on all matters voted or acted upon by the board of directors of the corporation . 
+section {num} management of business and affairs of the corporation 
+the business and affairs of the corporation shall be managed by or under the direction of the board of directors of the corporation . 
+section {num} exculpation 
+a director of the corporation shall not be personally liable to the corporation or its stockholders for monetary damages for breach of fiduciary duty as a director , except for liability ( i ) for any breach of the director's duty of loyalty to the corporation or its stockholders , ( ii ) for acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law , ( iii ) under section {num} of the delaware general corporation law or ( iv ) for any transaction from which the director derived any improper personal benefit . if the delaware general corporation law is amended to authorize corporate action further eliminating or limiting the personal liability of directors , then the liability of a director of the corporation shall be eliminated to the fullest extent permitted by the delaware general corporation law , as so amended . 
+section {num} indemnification 
+to the extent permitted by applicable law , the corporation is also authorized to provide indemnification of ( and advancement of expenses to ) such agents ( and any other persons to which delaware law permits the corporation to provide indemnification ) through bylaw provisions , agreements with such agents or other persons , vote of stockholders or disinterested directors or otherwise , in excess of the indemnification and advancement otherwise permitted by section {num} of the delaware general corporation law , subject only to limits created by applicable delaware law ( statutory or non-statutory ) , with respect to actions for breach of duty to the corporation , its stockholders and others . 
+section {num} effect of repeal or modification 
+any repeal or modification of section {num} or section {num} shall be prospective and shall not adversely affect any right or protection of a director , officer , agent or other person existing at the time of , or increase the liability of any director of the corporation with respect to any acts or omissions of such director occurring prior to , such repeal or modification . 
+article vi . 
+amendment of by-laws 
+in furtherance and not in limitation of the powers conferred by the dgcl , the board of directors of the corporation is expressly authorized and empowered to adopt , amend and repeal the by-laws of the corporation . 
+article vii . 
+amendment of certificate of incorporation 
+the corporation reserves the right at any time , and from time to time , to amend , alter , change , or repeal any provision contained in this certificate of incorporation , and other provisions authorized by the laws of the state of delaware at the time in force may be added or inserted , in the manner now or hereafter prescribed by law ; and all rights , preferences , and privileges of any nature conferred upon stockholders , directors , or any other persons by and pursuant to this certificate of incorporation in its present form or as hereafter amended are granted subject to the rights reserved in this article vii . 

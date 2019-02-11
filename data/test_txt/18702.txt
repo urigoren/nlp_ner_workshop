@@ -1,0 +1,26 @@
+exhibit {num} 
+for immediate release 
+investor contact : 
+carol diraimo , ( {num} ) {num}-{num} 
+media contact : 
+brian luscomb , ( {num} ) {num}-{num} 
+jack in the box inc . amends credit agreement and announces 
+additional ${num} million share repurchase program 
+san diego , september {num} {num} – jack in the box inc . ( nasdaq : jack ) today announced completion of an amendment to its existing senior credit facility . under the terms of the amendment , the credit facility was increased to ${num} billion , which consists of a ${num} million term loan and ${num} million revolving credit facility . 
+following the amendment on september {num} {num} ${num} million was outstanding on the term loan and approximately ${num} million was drawn or used for letters of credit under the revolving credit facility . 
+the maturity date for both the revolving credit facility and the term loan will remain in march {num} the interest rate on the senior credit facility is based on the company's leverage ratio and can range from libor plus {num} percent to libor plus {num} percent . the interest rate as of the date of the amendment was libor plus {num} percent . 
+the amendment also raised the maximum leverage ratio covenant from {num} times to {num} times , and allows unlimited cash dividends and share repurchases if pro forma leverage is less than {num} times ( from {num} times previously ) , subject also to pro forma fixed charge covenant compliance . 
+" the amended credit agreement provides us with more than ${num} million of additional borrowing capacity to support the company's strategic priorities , " said jerry rebel , executive vice president and chief financial officer . " we are pleased that our lenders have the confidence in our business model to increase our borrowing capacity to 4 times ebitda without waiting for our refranchising strategy to be completed . " 
+- more - 
+jack in the box inc . 
+page 2 
+in addition , the company announced that its board of directors has authorized an additional ${num} million stock buyback program expiring in november {num} as of the end of the third quarter of fiscal {num} the company had ${num} million remaining under stock buyback programs previously authorized by its board of directors in february and may {num} that expire in november {num} 
+wells fargo securities , llc , merrill lynch , pierce , fenner & smith incorporated , and coöperatieve rabobank u . a . , new york branch ( f / k / a cooperative centrale raiffesisen-boerenleenbank b . a . " rabobank international " new york branch ) served as joint lead arrangers and joint lead bookrunners . 
+about jack in the box inc . 
+jack in the box inc . ( nasdaq : jack ) , based in san diego , is a restaurant company that operates and franchises jack in the box® restaurants , one of the nation's largest hamburger chains , with more than {num} restaurants in {num} states and guam . additionally , through a wholly owned subsidiary , the company operates and franchises qdoba mexican eats® , a leader in fast-casual dining , with more than {num} restaurants in {num} states , the district of columbia and canada . for more information on jack in the box and qdoba , including franchising opportunities , visit www . jackinthebox . com or www . qdoba . com . 
+- more - 
+jack in the box inc . 
+page 3 
+safe harbor statement 
+this press release contains forward-looking statements within the meaning of the federal securities laws . such statements are subject to substantial risks and uncertainties . a variety of factors could cause the company's actual results to differ materially from those expressed in the forward-looking statements , including the following : the success of new products and marketing initiatives ; the impact of competition , unemployment , trends in consumer spending patterns and commodity costs ; the company's ability to reduce g&a ; the company's ability to execute its refranchising strategy ; the company's ability to achieve and manage its planned growth , which is affected by the availability of a sufficient number of suitable new restaurant sites , the performance of new restaurants , and risks relating to expansion into new markets ; litigation risks ; food safety incidents or negative publicity impacting the reputations of the company's brands ; and stock market volatility . these and other factors are discussed in the company's annual report on form {num}-k and its periodic reports on form {num}-q filed with the securities and exchange commission which are available online at http : / / investors . jackinthebox . com or in hard copy upon request . the company undertakes no obligation to update or revise any forward-looking statement , whether as the result of new information or otherwise . 
+# # # 

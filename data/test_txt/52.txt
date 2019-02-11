@@ -1,0 +1,87 @@
+exhibit 
+ex {num} 
+first amendment to 
+agreement for settlement of claims including releases 
+and purchase and sale of beneficial interests 
+among 
+alterna springerville llc and 
+ldvf1 tep llc 
+as sellers ; 
+wilmington trust company and 
+william j . wade 
+as parties to certain trust agreements , each dated as of december {num} {num} as amended , for the benefit of sellers 
+not in their individual capacities , but solely as owner trustees ( except as expressly provided herein ) ; 
+tucson electric power company 
+as purchaser ; 
+and 
+uns energy corporation 
+as indemnitor 
+dated as of 
+august {num} {num} 
+first amendment to 
+agreement for settlement of claims including releases 
+and purchase and sale of beneficial interests 
+this first amendment to agreement for settlement of claims including releases and purchase and sale of beneficial interests ( " amendment " ) , dated as of the {num} th day of august , {num} ( " effective date " ) , by and among alterna springerville llc , a delaware limited liability company ( " alterna " ) , ldvf1 tep llc , a delaware limited liability company ( " ldvf1 " and together with alterna , " sellers " ) , wilmington trust company , a delaware trust company ( " wilmington " ) , and william j . wade , an individual ( " wade " ) , not in their individual capacities but solely as owner trustee and cotrustee ( except as expressly provided herein ) , respectively ( together , " owner trustees " ) under and pursuant to certain trust agreements , each dated as of december {num} {num} as amended , for the benefit of sellers as owner participants ( " trust agreements " ) , tucson electric power company , an arizona corporation ( " purchaser " ) , and uns energy corporation , an arizona corporation ( " indemnitor " ) . alterna , ldvf{num} owner trustees , purchaser , and indemnitor are sometimes referred to herein collectively as the " parties , " and individually as a " party . " 
+background 
+{enum} the parties are party to that certain agreement for settlement of claims including releases and purchase and sale of beneficial interests , dated as of february {num} th {num} ( " agreement " ) . 
+{enum} the obligation of purchaser and sellers to complete the transactions contemplated by the agreement is subject to purchaser having received authorization from the ferc for the transfer of beneficial interests and the acquisition by purchaser of the alterna undivided interest and the ldvf1 undivided interest ( " ferc authorization " ) . 
+{enum} the agreement also provides that if the conditions precedent in the agreement are not satisfied or waived on or before {num} days after the effective date then either purchaser or sellers may terminate the agreement ( the date of such notice , the " settlement termination date " ) ; provided , however , that if the only conditions that have not been satisfied at the settlement termination date are the conditions precedent set forth in sections {num} ( c ) and {num} ( c ) ( which require the purchaser to obtain ferc authorization ) , the settlement termination date shall automatically be extended by an additional sixty ( {num} ) days . 
+{enum} on march {num} {num} purchaser filed with the ferc an application seeking ferc authorization ( the " application " ) . to date , purchaser has not received ferc authorization and the application remains pending . 
+{enum} the only conditions precedent under the agreement that have not been satisfied are the conditions precedent set forth in sections {num} ( c ) and {num} ( c ) of the agreement . 
+{enum} the parties desire to amend the agreement as set forth herein to provide additional time for purchaser to receive ferc authorization . 
+agreements 
+in consideration of the foregoing background and the mutual agreements hereinafter set forth , and for other good and valuable consideration , the receipt and sufficiency of which are hereby acknowledged by the parties , sellers , wilmington and wade ( solely with respect to section {num} of the agreement ) , owner trustees , purchaser , and indemnitor , each intending to be legally bound , do hereby agree as follows : 
+section {num} defined terms . capitalized terms used but not otherwise defined herein shall have the meanings given to them in the agreement . 
+section {num} amendment to section {num} ( a ) of the agreement . the phrase " sixty ( {num} ) days " in the penultimate sentence of section {num} ( a ) of the agreement is hereby deleted and replaced with " ninety ( {num} ) days " . 
+section {num} other provisions unaffected . all of the terms , covenants and provisions of the agreement shall continue in full force and effect , unamended and unmodified except as specifically set forth in this amendment . 
+section {num} effectiveness . this amendment shall be effective , and shall be binding on the parties , on the date first above written . 
+section {num} governing law . this amendment shall be governed by , and construed in accordance with , the laws of the state of new york without giving effect to that state's choice of law or conflict of laws doctrines . 
+section {num} counterparts . this amendment may be executed by the parties in one or more counterparts , all of which shall be considered one and the same agreement , and shall become binding when one or more counterparts have been signed by each of the parties and delivered to each party . 
+section {num} limitation of owner trustee liability . section {num} of the agreement is incorporated herein by reference . 
+signature page follows 
+in witness whereof , the parties have executed this amendment as of the date first above written . 
+alterna springerville llc 
+by : / s / roger p . miller 
+name : roger p . miller 
+title : president 
+c / o alterna capital partners llc 
+{num} river road , suite {num} 
+wilton , ct {num} 
+attention : thomas x . fritsch , esq . 
+ldvf1 tep llc 
+by : ldvf1 tfe llc , its sole member 
+by : / s / james k . noble iii 
+name : james k . noble iii 
+title : secretary 
+{num} avenue of the americas 
+new york , ny {num} 
+wilmington trust company , not in its individual capacity , but solely as owner trustee ( except as expressly provided herein ) 
+by : / s / jose l . pardes 
+name : jose l paredes 
+title : assistant vice president 
+rodney square north 
+{num} north market street 
+wilmington , de {num} 
+attention : jose paredes 
+william j . wade , not in his individual capacity , but solely as cotrustee ( except as expressly provided herein ) 
+/ s / william j . wade 
+c / o wilmington trust company 
+rodney square north 
+{num} north market street 
+wilmington , de {num} 
+uns energy corporation 
+by : / s / david hutchens 
+name : david hutchens 
+title : president & ceo 
+{num} east broadway blvd . 
+mail stop hqe{num} 
+tucson , arizona {num} 
+attention : general counsel 
+tucson electric power company 
+by : / s / david hutchens 
+name : david hutchens 
+title : president & ceo 
+{num} east broadway blvd . 
+mail stop hqe{num} 
+tucson , arizona {num} 
+attention : general counsel 

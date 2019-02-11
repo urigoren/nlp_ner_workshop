@@ -1,0 +1,27 @@
+exhibit 
+exhibit {num} 
+news release 
+community healthcare trust update on recent activities 
+franklin , tenn . , july {num} {num} / prnewswire / -- community healthcare trust incorporated ( nyse : chct ) provides an update on its activities during the second quarter of {num} 
+investments in the second quarter of {num} 
+during the second quarter of {num} the company acquired three properties for an aggregate purchase price of approximately ${num} million which included the exercise of a purchase option on one property in which the company held a ${num} million mortgage note receivable . the mortgage note was repaid upon acquisition . the company's expected returns on these property acquisitions range from approximately {num}% to {num}% . the company funded its second quarter investments with proceeds from its follow on equity offering completed in april {num} 
+properties under signed contract / term sheet 
+the company has 3 properties with substantially agreed to purchase agreements and / or signed term sheets for an aggregate expected purchase price of approximately ${num} million . the company's expected return on these investments range from approximately {num}% to {num}% . the company is currently negotiating and performing due diligence procedures customary for these types of transactions and cannot provide any assurance as to the timing of when or whether these transactions will actually close . the company anticipates funding additional investments with cash on hand , cash from operations , through proceeds from its credit facility , or from net proceeds from debt or equity offerings . 
+{num} lease renewals 
+the company has renewed {num}% of its leased space maturing in the 1 st and 2 nd quarter of {num} and is in active negotiations with the one remaining tenant to expand its space . 
+the company has agreed on terms or is in active negotiations for {num}% of the leased space maturing in the 3 rd and 4 th quarters of {num} 
+the company continues to be encouraged by its lease renewals and negotiations . 
+equity offering 
+in april {num} the company completed a public offering of {num} shares of its common stock , including {num} shares of common stock issued in connection with the exercise in full of the 
+1 
+underwriters' option to purchase additional shares , and received net proceeds of approximately ${num} million from the offering . 
+dividend increase 
+the company increased its common stock cash dividend for the quarter ended march {num} {num} this dividend , in the amount of ${num} per share , was paid on june {num} {num} to shareholders of record on may {num} {num} this dividend rate equates to an annualized dividend of ${num} per share . community healthcare trust incorporated has increased its dividend every quarter since its initial public offering . 
+about community healthcare trust incorporated 
+community healthcare trust is a real estate investment trust that focuses on owning income-producing real estate properties associated primarily with the delivery of outpatient healthcare services in non-urban markets throughout the united states . the company had investments of approximately ${num} million in {num} real estate properties as of march {num} {num} located in {num} states and total over {num} million square feet . 
+additional information regarding the company , including this quarter's operations , can be found at www . chct . reit . please contact the company at {num}-{num}-{num} to request a printed copy of this information . 
+cautionary note regarding forward-looking statements 
+in addition to the historical information contained within , the matters discussed in this press release may contain forward-looking statements that involve risks and uncertainties . forward-looking statements are generally identifiable by use of forward-looking terminology such as " believes , " " expects , " " may , " " will , " " should , " " seeks , " " approximately , " " intends , " " plans , " " estimates , " " anticipates " or other similar words or expressions . forward-looking statements are based on certain assumptions and can include future expectations , future plans and strategies , financial and operating projections or other forward-looking information . these forward-looking statements are subject to various risks and uncertainties , not all of which are known to the company and many of which are beyond the company's control , which could cause actual results to differ materially from such statements . we therefore caution you against relying on such forward-looking statements . these risks and uncertainties are discussed from time to time in its filings with the securities and exchange commission . readers are cautioned not to place undue reliance on the forward-looking statements contained herein which speak only as of the date hereof . we intend these forward-looking statements to speak only as of the time of this release and the company undertakes no obligation to update forward-looking statements , whether as the result of new information , future developments , or otherwise , except as may be required by law . 
+contact : w . page barnes , {num}-{num}-{num} 
+source : community healthcare trust incorporated 
+2 

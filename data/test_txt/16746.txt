@@ -1,0 +1,57 @@
+exhibit 
+note prepayment agreement 
+this note prepayment agreement ( the " agreement " ) is made effective as of the __ day of ________ , {num} ( the " effective date " ) by and between __________________ ( the " company " ) , lp pinewood spv , llc , a delaware limited liability company ( " spv " ) , and wells fargo bank , national association ( the " bank " ) . 
+statement of background information 
+{enum} on september {num} {num} company caused bank to issue , and confirmed the issuance of , its certificate of deposit in the amount of _____________________ , ( the " certificate of deposit " ) , evidencing a deposit for the benefit of the company . 
+{enum} pursuant to the purchase and sale agreement dated as of july {num} {num} between company and louisiana-pacific corporation ( " lp " ) , as seller , company issued a promissory note payable to the order of lp , dated september , {num} {num} in the original principal amount of_______________ due and payable in full on september {num} {num} attached hereto as exhibit " a . " company desired that interest and principal on the installment note , when due pursuant to the terms of the installment note , be paid from interest and principal of the certificate of deposit . 
+{enum} on september {num} {num} bank issued the irrevocable letter of credit no . _______ and the continuing letter of credit agreement ( together the " letter of credit " ) , for the account of the company , in the amount of __________________with the termination date as of november {num} {num} for the benefit of lp , as security for the installment note , attached hereto as exhibit " b . " 
+{enum} bank required company , among other things , as a condition to the issuance of the letter of credit , to pledge all of its rights , title and interest in and to the certificate of deposit to bank . on september {num} {num} company and bank entered into a certain pledge and payment direction agreement ( the " pledge agreement " ) , pursuant to which bank pledged all of company's rights , title and interest in and to the certificate of deposit , attached hereto as exhibit " c . " 
+{enum} on september {num} {num} the installment note was duly assigned and endorsed to spv pursuant to a certain allonge to note ( the " first allonge to note " ) , attached hereto as exhibit " d . " on october {num} {num} subsequent to the first allonge to note , the note was assigned and endorsed to bank pursuant to a certain allonge to note ( the " second allonge to note " ) , attached hereto as exhibit " e . " 
+{enum} pursuant to a certain certificate regarding transfer ( the " first transfer certificate " ) , dated september {num} {num} lp requested bank to issue an amendment to the letter of credit updating the new beneficiary of the letter of credit to spv , attached hereto as exhibit " f . " on october {num} {num} immediately subsequent to the first transfer certificate , spv required bank to update the beneficiary of the letter of credit to bank ( the " second transfer certificate " ) , attached hereto as exhibit " g . " 
+{enum} company desires to prepay all outstanding amounts of the installment note , including its accrued and unpaid interest and expenses , to spv ; and requests that the bank cancel the letter of credit . spv agrees to accept prepayment of the installment note and to request the bank to cancel the letter of credit . bank agrees to use the certificate of deposit for the payment of the outstanding 
+amounts of the installment note , including its accrued and unpaid interest and expenses , and to cancel the letter of credit ( the " prepayment " ) . the company , spv and bank desire that the date of the prepayment be on or about november {num} {num} but in no event later than november {num} {num} ( the " prepayment date " ) . 
+{enum} this agreement sets forth the parties' understandings with respect to the prepayment . 
+statement of agreement 
+in consideration of the foregoing , company , spv and bank ( the " parties " ) , hereby agree as follows : 
+{enum} certificate of deposit . spv agrees to accept prepayment of the installment note by the company . company requests that bank agree to release the principal and accrued and unpaid interest of the certificate of deposit , and authorizes bank to use the funds available from the certificate of deposit for the full payment of the outstanding amount of the installment note , including its accrued and unpaid interest and expenses . bank agrees to such early maturity of the certificate of deposit . 
+{enum} installment note . upon bank's confirmation of the full payment of the outstanding principal and interest on the installment note , spv agrees to release the installment note ( without recourse and without representation or warranty of any kind ( either express or implied ) ) to company as set forth in exhibit " h " " release and satisfaction of promissory note , " and to issue to bank the certificate as set forth in exhibit " i " " certificate , " confirming all payments on the installment note have been made in full . 
+{enum} cancellation letter of credit . upon receipt of the certificate and the receipt as set forth in exhibit " j " " wells fargo bank , n . a . 's receipt for the original letter of credit , " bank shall cancel the letter of credit . 
+{enum} pledge agreement . upon cancellation of the letter of credit by the bank , the pledge agreement shall be automatically terminated and of no further force and effect . 
+{enum} closing of transaction . the consummation of the prepayment shall occur on the prepayment date . 
+{enum} delivery of documents . the parties agree to promptly procure , deliver or execute and deliver all further instruments and documents , and take any other actions which are reasonably required to evidence the consummation of the prepayment contemplated hereby and other termination of the security interests contemplated hereby , in each case without recourse , representation or warranty of any kind ( either express or implied ) . 
+{enum} liability . except as may be otherwise provided in this agreement , no liability is assumed by or assigned to the company , its officers or employees as a result of this prepayment . 
+{enum} miscellaneous . 
+{enum} entire agreement ; amendment . this agreement ( including the exhibits and agreements incorporated herein by reference ) constitutes the entire agreement between the parties hereto with respect to the subject matter hereof , supersedes all prior agreements between the parties hereto relating to the matters contained herein and may not be modified , waived or terminated orally and may only be amended by an agreement in writing signed by the parties hereto . 
+{enum} assignment . neither party shall make or purport to make any assignment or other transfer of this agreement or of any of the rights granted to it hereunder without the prior written consent of the other party , and no such assignment or transfer shall be effective without the written consent of the other party . 
+{enum} governing law and jurisdiction . this agreement shall be administered , construed and enforced according to the laws of the state of north carolina . 
+{enum} counterparts . this agreement may be executed in any number of counterparts with the same effect as if all of the parties hereto had signed the same document . all counterparts shall be construed together and shall constitute one agreement . 
+{enum} validity . the invalidity or unenforceability of any provision of this agreement shall not in any way affect the validity or enforceability of any other provision and this agreement shall be construed in all respects as if such invalid or unenforceable provision has never been in the agreement . 
+{enum} incorporation of amendments to applicable law . any references to laws , or to any regulations or administrative pronouncements thereunder , shall be deemed to include a reference to any amendments thereof and any successor provisions thereto . 
+{enum} waiver . neither any failure of any party to exercise any power given under this agreement or to insist upon strict compliance with any obligation specified in this agreement nor any custom or practice at variance with the terms hereof shall constitute a waiver of the right of such party to demand exact compliance with the terms of this agreement . 
+{enum} incorporation by reference . the exhibits to this agreement are incorporated in this agreement by reference . 
+{enum} time . time is of the essence in this agreement . 
+{enum} construction . in construing and enforcing this agreement , the following rules shall be followed : 
+{enum} each provision of this agreement shall be construed simply according to its fair meaning and not strictly for or against any party . no consideration shall be given to the fact or presumption that any party had a greater or lesser hand in drafting this agreement . 
+{enum} in construing and enforcing this agreement , no consideration shall be given to the captions of the articles , sections , subsections , and clauses of this agreement , which are inserted for convenience in organizing and locating the provisions of this agreement , not as an aid in its construction . 
+{enum} plural words shall be understood to include their singular forms , and vice versa . 
+{enum} the word " include " and its syntactical forms mean " include , but are not limited to , " and corresponding syntactical forms . the principal of ejusdem generis shall not be used to limit the scope of the category of things illustrated by the items mentioned in a clause introduced by the word " including . " 
+{enum} a defined term has its defined meaning through this agreement , regardless of where in this agreement the term is defined . 
+{enum} except as otherwise provided in this agreement , a reference to an article , section , or clause means an article , section , or clause of this agreement and may be understood to mean , for example , " section {num} of this agreement " or " section {num} hereof . " the term " section " may be used variously to identify entire sections ( as in " section {num} " ) , subsections ( as in " section {num} ( a ) " ) , and clauses ( as in " section {num} ( h ) ( iii ) " ) . 
+in witness whereof , the parties hereto , by their duly authorized representatives , have executed this agreement as of the effective date above written . 
+_______________________________ , 
+a delaware limited liability company 
+by : __________________________ 
+name : 
+title : regular manager 
+lp pinewood spv , llc , 
+a delaware limited liability company 
+by : __________________________ 
+name : curtis m . stevens 
+title : regular manager 
+by : __________________________ 
+name : sallie b . bailey 
+title : regular manager 
+wells fargo bank , national association 
+by : __________________________ 
+name : __________________________ 
+title : __________________________ 

@@ -1,0 +1,140 @@
+exhibit 
+exhibit {num} 
+execution version 
+fourth amendment 
+this fourth amendment ( " amendment " ) dated as of august {num} {num} ( the " fourth amendment effective date " ) is by and among hi-crush partners lp , a delaware limited partnership ( the " borrower " ) , the lenders party hereto , and zb , n . a . dba amegy bank , as administrative agent for the lenders ( in such capacity , the " administrative agent " ) . 
+whereas , the borrower , the lenders from time to time party thereto ( the " lenders " ) , and zb , n . a . dba amegy bank , as administrative agent , as issuing lender , and as swing line lender , are parties to the amended and restated credit agreement dated as of april {num} {num} as amended by consent , waiver and first amendment dated as of october {num} {num} the second amendment dated as of november {num} {num} and the third amendment dated as of april {num} {num} ( as amended , the " credit agreement " ) ; 
+whereas , pursuant to that certain contribution agreement dated as of august {num} {num} ( the " contribution agreement " ) among the borrower and hi-crush proppants , hi-crush proppants has agreed to contribute all of the equity interests in hi-crush blair llc , a delaware limited liability company ( " blair " ) , to the borrower in exchange for approximately ${num} of total consideration consisting of ( a ) not less than ${num} in cash raised from the sale of common units by the borrower , ( b ) common units of the borrower for the remainder of the purchase price due at the closing of the contribution agreement and ( c ) additional cash consideration of up to ${num} after closing pursuant to the terms of the contribution agreement ( the " blair drop down " ) ; 
+whereas , in connection with the blair drop down , each of the letters of credit identified on schedule i attached hereto ( the " blair letters of credit " ) will be transferred to be maintained under the credit agreement ; and 
+whereas , the parties hereto have agreed to make certain amendments to the credit agreement as provided for herein , subject to the conditions herein . 
+now therefore , in consideration of the premises and the mutual covenants , representations and warranties contained herein , and for other good and valuable consideration , the receipt and sufficiency of which are hereby acknowledged , the parties hereto hereby agree as follows : 
+agreement 
+section {num} defined terms . unless otherwise defined in this amendment , each capitalized term used in this amendment has the meaning given such term in the credit agreement , as amended by this amendment . 
+section {num} amendments to the credit agreement . 
+{enum} section {num} of the credit agreement is hereby amended to include the following new defined terms in their appropriate alphabetical order : 
+#{num} 
+" blair " means hi-crush blair llc , a delaware limited liability company . 
+" blair contribution agreement " means that certain contribution agreement dated as of august {num} {num} among the borrower and hi-crush proppants . 
+" blair drop down " means the contribution by hi-crush proppants of all of the equity interests in blair to the borrower pursuant to the blair contribution agreement in exchange for approximately ${num} of total consideration consisting of ( a ) not less than ${num} in cash raised from the sale of common units by the borrower , ( b ) common units of the borrower for the remainder of the purchase price due at the closing of the blair contribution agreement and ( c ) additional cash consideration of up to ${num} after closing pursuant to the terms of the blair contribution agreement . 
+" blair drop down documents " means the contribution agreement , together with each other agreement , instrument , or document executed in connection with the blair drop down . 
+" fourth amendment " means that certain fourth amendment to this agreement dated as of august {num} {num} 
+{enum} the definition of " drop down acquisition " in section {num} of the credit agreement is hereby amended by adding " and the blair drop down " immediately after " the augusta drop down " . 
+{enum} section {num} of the credit agreement is hereby amended by replacing " including the augusta drop down " with " including the augusta drop down and the blair drop down " . 
+{enum} section {num} of the credit agreement is hereby amended by replacing clause ( e ) of such section as follows : 
+{enum} either ( i ) ( a ) the leverage ratio , calculated on a pro forma basis after giving effect to such acquisition as of the beginning of the period of four fiscal quarters most recently ended , is less than {num} to {num} and ( b ) after giving effect to such acquisition , liquidity would be greater than or equal to ${num} ( ii ) ( a ) the total consideration ( including the adjustment of purchase price or similar adjustments ) for such acquisition and all other acquisitions permitted under this clause ( e ) ( ii ) during any fiscal year expended by the borrower or any of its subsidiaries in such fiscal year shall not exceed an aggregate amount equal to ${num} and ( b ) the borrower and its subsidiaries shall be in pro forma compliance with the financial covenants in section {num} and {num} after giving effect to such acquisition as of the beginning of the period of four fiscal quarters most recently ended and the q2 {num} compliance date shall have occurred , or ( iii ) such acquisition is the blair drop down . 
+-2- 
+section {num} blair letters of credit . each blair letter of credit , as of the fourth amendment effective date , shall be a letter of credit deemed to have been issued pursuant to the commitments and shall constitute a portion of the letter of credit exposure . 
+section {num} conditions to effectiveness . this amendment shall become effective on the fourth amendment effective date upon the satisfaction of the following conditions precedent : 
+{enum} documentation . the administrative agent shall have received the following , each in form and substance satisfactory to the administrative agent : 
+{enum} this amendment duly executed by the borrower , the administrative agent and the majority lenders , and the acknowledgement and reaffirmation attached hereto duly executed by each of the guarantors ; and 
+{enum} copies of the blair drop down documents , certified as of the fourth amendment effective date by an authorized officer of the borrower ( a ) as being true and correct copies of such documents , ( b ) as being in full force and effect and ( c ) that no material term or condition thereof shall have been amended , modified or waived after the execution thereof in a manner that is materially adverse to the interests of the administrative agent or the lenders without the prior written consent of the administrative agent . 
+{enum} consents ; authorization . the borrower shall have received any consents , licenses and approvals required in accordance with applicable law , or in accordance with any document , agreement , instrument or arrangement to which the borrower or any subsidiary is a party , in connection with the consummation of the blair drop down . 
+{enum} other proceedings . no action , suit , investigation or other proceeding ( including without limitation , the enactment or promulgation of a statute or rule ) by or before any arbitrator or any governmental authority shall be pending or , to the borrower's knowledge , threatened and no preliminary or permanent injunction or order by a state or federal court shall have been entered in connection with the consummation of the blair drop down . 
+{enum} delivery of financial statements ; projections . the administrative agent shall have received true and correct copies of ( i ) the unaudited pro forma consolidated balance sheet of the borrower and its subsidiaries as of june {num} {num} prepared giving pro forma effect to the blair drop down , as if such transactions had occurred on such date , and ( ii ) the projections prepared by management of balance sheets , income statements and cashflow statements of the borrower and its subsidiaries , after giving effect to the blair drop down , covering the first two full years after the fourth amendment effective date . 
+{enum} equity issuance . the borrower shall have received cash proceeds from an equity issuance by the borrower of common units on terms satisfactory to the administrative agent in aggregate amount not less than ${num} ( determined prior to giving effect to the payment of all related underwriter fees and expenses , sec and blue sky fees , printing costs , fees and expenses of accountants , lawyers and other professional advisors , and brokerage commissions ) . 
+-3- 
+{enum} consummation of the blair drop down . the administrative agent shall have received evidence , in form and substance satisfactory to the administrative agent , of the contemporaneous consummation of the blair drop down in accordance with the blair drop down documents . 
+{enum} amendment of hi-crush proppants credit agreement . the administrative agent shall have received evidence , in form and substance satisfactory to the administrative agent , that ( i ) the hi-crush proppants credit agreement has been amended to permit the blair drop down and the transactions contemplated hereby and ( ii ) all obligations , liabilities and liens of blair relating to the hi-crush proppants credit agreement and the other credit documents ( as defined in the hi-crush proppants credit agreement ) have been released and terminated . 
+{enum} payment of fees . on or prior to the fourth amendment effective date , the borrower shall have paid all reasonable and documented out-of-pocket costs and expenses which have been invoiced and are payable pursuant to section {num} of the credit agreement . 
+section {num} post-closing obligations . notwithstanding section {num} of the credit agreement , within thirty ( {num} ) days following the fourth amendment effective date ( or a later date acceptable to the administrative agent in its sole discretion ) , the borrower shall deliver to the administrative agent each of the items set forth in schedule iii to the credit agreement with respect to blair . 
+section {num} representations and warranties . the borrower hereby represents and warrants that after giving effect hereto : 
+{enum} the representations and warranties of the credit parties contained in the credit documents are true and correct in all material respects on and as of the date hereof , other than those representations and warranties that expressly relate solely to a specific earlier date , which shall remain true and correct in all material respects as of such earlier date ; and 
+{enum} no default or event of default has occurred and is continuing . 
+section {num} effect of amendment . 
+{enum} the execution , delivery and effectiveness of this amendment shall not , except as expressly provided herein , operate as a waiver of any right , power or remedy of any lender , the issuing lender , the swing line lender or the administrative agent under any of the credit documents , nor , except as expressly provided herein , constitute a waiver or amendment of any provision of any of the credit documents . 
+{enum} upon and after the execution of this amendment by each of the parties hereto , each reference in the credit agreement to " this agreement " , " hereunder " , " hereof " or words of like import referring to the credit agreement , and each reference in the other credit documents to " the credit agreement " , " thereunder " , " thereof " or words of like import referring to the credit agreement , shall mean and be a reference to the credit agreement as modified hereby . 
+-4- 
+{enum} this amendment is a credit document executed pursuant to the credit agreement and shall ( unless otherwise expressly indicated herein ) be construed , administered and applied in accordance with the terms and provisions thereof . 
+{enum} except as specifically modified above , the credit agreement and the other credit documents are and shall continue to be in full force and effect and are hereby in all respects ratified and confirmed . 
+section {num} release : for good and valuable consideration , the receipt and sufficiency of which are hereby acknowledged , the borrower hereby , for itself and its successors and assigns , fully and without reserve , releases , acquits , and forever discharges each secured party , its respective successors and assigns , officers , directors , employees , representatives , trustees , attorneys , agents and affiliates ( collectively the " released parties " and individually a " released party " ) from any and all actions , claims , demands , causes of action , judgments , executions , suits , debts , liabilities , costs , damages , expenses or other obligations of any kind and nature whatsoever , direct and / or indirect , at law or in equity , whether now existing or hereafter asserted , whether absolute or contingent , whether due or to become due , whether disputed or undisputed , whether known or unknown ( including , without limitation , any offsets , reductions , rebatement , claims of usury or claims with respect to the negligence of any released party ) ( collectively , the " released claims " ) , for or because of any matters or things occurring , existing or actions done , omitted to be done , or suffered to be done by any of the released parties , in each case , on or prior to the fourth amendment effective date and are in any way directly or indirectly arising out of or in any way connected to any of this amendment , the credit agreement , any other credit document , or any of the transactions contemplated hereby or thereby ( collectively , the " released matters " ) . the borrower , by execution hereof , hereby acknowledges and agrees that the agreements in this section 8 are intended to cover and be in full satisfaction for all or any alleged injuries or damages arising in connection with the released matters herein compromised and settled . the borrower hereby further agrees that it will not sue any released party on the basis of any released claim released , remised and discharged by the credit parties pursuant to this section 8 . in entering into this amendment , the borrower has consulted with , and has been represented by , legal counsel and expressly disclaim any reliance on any representations , acts or omissions by any of the released parties and hereby agrees and acknowledges that the validity and effectiveness of the releases set forth herein do not depend in any way on any such representations , acts and / or omissions or the accuracy , completeness or validity hereof . the provisions of this section 8 shall survive the termination of this amendment , the credit agreement and the other credit documents and payment in full of the obligations . 
+section {num} governing law . this amendment shall be deemed a contract under , and shall be governed by , and construed and enforced in accordance with , the laws of the state of texas without regard to conflicts of laws principles . 
+-5- 
+section {num} counterparts . this amendment may be executed in any number of counterparts and by different parties hereto in separate counterparts , each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement . transmission by facsimile or other electronic means of an executed counterpart of this amendment shall be deemed to constitute due and sufficient delivery of such counterpart . 
+this amendment and the other credit documents , as defined in the credit agreement , represent the final agreement among the parties and supersede all prior understandings and agreements , whether written or oral , relating to the transactions provided for herein and therein . additionally , this amendment and the other credit documents may not be contradicted by evidence of prior , contemporaneous , or subsequent oral agreements of the parties . 
+there are no oral agreements among the parties . 
+remainder of page intentionally left blank 
+-6- 
+in witness whereof , the parties hereto have caused this amendment to be duly executed and delivered by their respective duly authorized officers as of the date first above written . 
+borrower : 
+hi-crush partners lp 
+by : hi-crush gp llc , its general partner 
+by : / s / laura fulton 
+name : laura c . fulton 
+title : chief financial officer 
+signature page to fourth amendment to amended and restated credit agreement 
+hi-crush partners lp 
+administrative agent / lenders : 
+zb , n . a . dba amegy bank , in its capacity as administrative agent , issuing lender , swing line lender , and a lender 
+by : / s / authorized person 
+name : authorized person 
+title : authorized officer 
+signature page to fourth amendment to amended and restated credit agreement 
+hi-crush partners lp 
+barclays bank plc , 
+as a lender 
+by : / s / authorized person 
+name : authorized person 
+title : authorized officer 
+signature page to fourth amendment to amended and restated credit agreement 
+hi-crush partners lp 
+morgan stanley bank , n . a . , 
+as a lender 
+by : / s / authorized person 
+name : authorized person 
+title : authorized officer 
+signature page to fourth amendment to amended and restated credit agreement 
+hi-crush partners lp 
+iberiabank , 
+as a lender 
+by : / s / authorized person 
+name : authorized person 
+title : authorized officer 
+signature page to fourth amendment to amended and restated credit agreement 
+hi-crush partners lp 
+regions bank , 
+as a lender 
+by : / s / authorized person 
+name : authorized person 
+title : authorized officer 
+signature page to fourth amendment to amended and restated credit agreement 
+hi-crush partners lp 
+ubs ag , stamford branch , 
+as a lender 
+by : / s / authorized person 
+name : authorized person 
+title : authorized officer 
+signature page to fourth amendment to amended and restated credit agreement 
+hi-crush partners lp 
+origin bank ( f / k / a community trust bank ) , as a 
+lender 
+by : / s / authorized person 
+name : authorized person 
+title : authorized officer 
+signature page to fourth amendment to amended and restated credit agreement 
+hi-crush partners lp 
+bank of america , n . a . , 
+as a lender 
+by : / s / authorized person 
+name : authorized person 
+title : authorized officer 
+signature page to fourth amendment to amended and restated credit agreement 
+hi-crush partners lp 
+acknowledgment and reaffirmation 
+each of the undersigned ( each a " guarantor " and collectively the " guarantors " ) hereby ( a ) acknowledges receipt of a copy of the foregoing fourth amendment dated as of august {num} {num} ( the " amendment " ) among hi-crush partners , a delaware limited partnership ( the " borrower " ) , the lenders party thereto , and zb , n . a . dba amegy bank , as administrative agent ( in such capacity , the " administrative agent " ) and ( b ) ratifies , confirms , and acknowledges that its obligations under the amended and restated guaranty agreement dated as of april {num} {num} ( as amended , restated , supplemented or otherwise modified from time to time , the " guaranty " ; capitalized terms used herein and not specifically defined herein have the meaning provided in the guaranty ) are in full force and effect and that each guarantor continues to unconditionally and irrevocably , jointly and severally , guarantee the full and punctual payment , when due , whether at stated maturity or earlier by acceleration or otherwise , of all of the guaranteed obligations , as such guaranteed obligations may have been amended by the amendment . each guarantor hereby acknowledges that its execution and delivery of this acknowledgment and reaffirmation do not indicate or establish an approval or consent requirement by the guarantors in connection with the execution and delivery of amendments to the credit agreement or any of the other credit documents ( as defined in the credit agreement referred to in the guaranty ) . 
+release : for good and valuable consideration , the receipt and sufficiency of which are hereby acknowledged , each guarantor hereby , for itself and its successors and assigns , fully and without reserve , releases , acquits , and forever discharges each secured party , its respective successors and assigns , officers , directors , employees , representatives , trustees , attorneys , agents and affiliates ( collectively the " released parties " and individually a " released party " ) from any and all actions , claims , demands , causes of action , judgments , executions , suits , debts , liabilities , costs , damages , expenses or other obligations of any kind and nature whatsoever , direct and / or indirect , at law or in equity , whether now existing or hereafter asserted , whether absolute or contingent , whether due or to become due , whether disputed or undisputed , whether known or unknown ( including , without limitation , any offsets , reductions , rebatement , claims of usury or claims with respect to the negligence of any released party ) ( collectively , the " released claims " ) , for or because of any matters or things occurring , existing or actions done , omitted to be done , or suffered to be done by any of the released parties , in each case , on or prior to the fourth amendment effective date ( as defined in the fourth amendment ) and are in any way directly or indirectly arising out of or in any way connected to any of the fourth amendment , the credit agreement , any other credit document ( including this acknowledgment and reaffirmation ) , or any of the transactions contemplated hereby or thereby ( collectively , the " released matters " ) . each guarantor , by execution hereof , hereby acknowledges and agrees that the agreements in this paragraph are intended to cover and be in full satisfaction for all or any alleged injuries or damages arising in connection with the released matters herein compromised and settled . the borrower hereby further agrees that it will not sue any released party on the basis of any released claim released , remised and discharged by the credit parties pursuant to this paragraph . in entering into the agreements set forth in this acknowledgment and reaffirmation , the borrower has consulted with , and 
+has been represented by , legal counsel and expressly disclaim any reliance on any representations , acts or omissions by any of the released parties and hereby agrees and acknowledges that the validity and effectiveness of the releases set forth herein do not depend in any way on any such representations , acts and / or omissions or the accuracy , completeness or validity hereof . the provisions of this paragraph shall survive the termination of this acknowledgment and reaffirmation , the fourth amendment , the credit agreement and the other credit documents and payment in full of the obligations . 
+this acknowledgment and reaffirmation shall be governed by , and construed and enforced in accordance with , the laws of the state of texas without regard to conflicts of laws principles . 
+this acknowledgment and reaffirmation and the other credit documents , as defined in the credit agreement , represent the final agreement among the parties and supersede all prior understandings and agreements , whether written or oral , relating to the transactions provided for herein and therein . additionally , this amendment and the other credit documents may not be contradicted by evidence of prior , contemporaneous , or subsequent oral agreements of the parties . 
+there are no oral agreements among the parties . 
+hi-crush wyeville llc 
+hi-crush chambers llc 
+hi-crush operating llc 
+hi-crush railroad llc 
+d & i silica , llc . 
+hi-crush finance corp . 
+hi-crush augusta acquisition co . llc 
+hi-crush augusta llc 
+hi-crush canada inc . 
+each by : / s / laura fulton 
+name : laura c . fulton 
+title : chief financial officer 

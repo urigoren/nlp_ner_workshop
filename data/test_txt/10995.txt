@@ -1,0 +1,35 @@
+felp-ex{num}_{num}htm 
+exhibit {num} 
+supplemental indenture 
+supplemental indenture ( this " supplemental indentur e " ) dated as of august {num} {num} to the indenture ( as defined below ) , is m ade by and a m ong foresight energy llc , a delaware limited liability company ( " fellc " ) , foresight energy finance corporation , a delaware corporation ( the " co-issuer " and together with fellc , the " issuers " ) , and wilmington savings fund society , fsb , as the successor indenture trustee ( in such capacity , the " trustee " ) , and a m ends the indenture , dated as of august {num} {num} a m ong the issuers , the guarantors party thereto from time to time and the trustee ( as a m ended and supple m ented from ti m e to ti m e , the " indenture " ) . ca p itali ze d t e r m s use d b u t n o t d e f i n e d h e r e in h a v e t h e res p ecti v e m e an in g s set f o rth in t h e i nd e n ture . 
+recitals : 
+wherea s , pursuant to the conse n t solicitation state m ent dated august {num} {num} ( as the sa m e m a y be a m end e d , supple m ented or m odified from ti m e to t i m e ) , the issuers solicited consents of the holders o f the notes to a m end the ter m s of the indenture as set f orth in section {num} hereof ( the " proposed amendment " ) ; 
+wherea s , pursuant to section {num} of t h e indenture , the written consent of holders of at least a m ajo r ity in a g gregate pri n cipal a m ount of the outstanding notes ( the " requisite c onsents " ) is sufficient to adopt the proposed a m end m ent ; 
+wherea s , having received the requisite consents for the proposed a m end m en t , the issuers and the trustee intend to execute this supplemental indenture to a m end the indenture , subject to the terms and conditions provided herein ; 
+now , therefor e , i n consideration of the foregoing and for other good and valuable consideration , the receipt and sufficiency of which are hereby acknowledged , the parties mutually covenant and agree for the equal and r a table benefit of the holders of the notes as f ollows : 
+section {num} amendment to section {num} . upon the effectiveness of this section {num} pursuant to section {num} hereof , clause ( 2 ) of section {num} of the indenture ( " satisfaction and discharge of indenture " ) shall hereby be replaced in its entirety with the following : 
+" ( 2 ) reserved ; " 
+section {num} effectiveness of section {num} . the amendment to section {num} of the indenture pursuant to section {num} hereof shall not become effective until ( a nd shall be deemed effective immediately prior to ) the consummation of the " exchange offer , " as such term is defined in that certain amended and restated transaction support agreement dated july {num} {num} ( including the transaction term sheet attached thereto as 
+exhibit a ) by and among the issuers , foresight energy gp llc , the guarantors party thereto , foresight reserves lp , mr . christopher cline , cline resources and development company , mr . michael j . beyer , munsen llc , filbert holdings llc , candice cline 2 {num} irrevocable trust , alex t . cline {num} irrevocable trust , christopher l . cline {num} irrevocable trust , kameron n . cline {num} irrevocable trust and forest glen investments llc , murray energy corp . and the holders of the notes party thereto ( as amended , s upplemented or otherwise modified from time to time ) . 
+section {num} governing law . the internal law of the state of new york shall govern and be used to construe this supplemental indenture , the indenture and the notes . 
+section {num} counterparts . the parties may sign any number of copies of this supplemental indenture . each signed copy shall be an original , but all of them together represent the same agreement . the exchange of copies of this supplement indenture and of signature pages by facsimile or pdf transmission shall constitute effective execution and delivery of this supplemental indenture as to the parties hereto and may be used in lieu of the original supplemental indenture for all purposes . signatures of the parties hereto transmitted by facsimile or pdf shall be deemed to be their original signatures for all purposes . 
+section {num} effect of headings . the section headings herein are for convenience only and shall not affect the construction hereof . 
+section {num} the trustee and agent . neither the trustee nor the paying agent shall be responsible in any manner whatsoever for or in respect of the validity , sufficiency or adequacy of this supplemental indenture or for or in respect of the recitals contained herein , all of which recitals are made solely by the issuers . 
+section {num} officers' certificate . promptly following the consummation of the exchange offer , fellc will deliver to the trustee an officers' certificate advising the trustee that the exchange offer has been consummated . for the avoidance of doubt , the delivery of such officers' certificate shall not be a condition precedent to the effectiveness of this supplemental indenture or section {num} hereof . 
+section {num} supplemental indenture . this supplemental indenture shall form part of the indenture for all purposes and every holder of notes heretofore or hereafter authenticated and delivered shall be bound hereby . 
+remainder of page intentionally left blank 
+in w itness w h ereof , the pa r ties hereto have caused this suppl e m ental indenture to be duly executed and attested , all as of the date first above written . 
+issuers : 
+foresight energy llc 
+by : / s / robert d . moore 
+name : robert d . moore 
+title : president and chief executive officer 
+foresight energy finance corporation 
+by : / s / robert d . moore 
+name : robert d . moore 
+title : president and chief executive officer 
+trustee : 
+wilmington savings fund society , fsb , as trustee 
+by : / s / raye d . goldsborough 
+name : raye d . goldsborough 
+title : assistant vice president 

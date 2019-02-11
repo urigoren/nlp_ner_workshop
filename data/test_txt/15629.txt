@@ -1,0 +1,231 @@
+diod-ex{num}_{num}htm 
+exhibit {num} 
+corporate participants 
+leanne sievers shelton group - ir 
+keh-shew lu diodes , inc . - president , ceo 
+rick white diodes , inc . - cfo , secretary , treasurer 
+mark king diodes , inc . - svp sales & marketing 
+conference call participants 
+steve smigie raymond james & associates , inc . - analyst 
+gary mobley the benchmark company - analyst 
+justin li robert w . baird & company , inc . - analyst 
+shawn harrison longbow research - analyst 
+christopher longiaru sidoti & company - analyst 
+presentation 
+operator 
+good afternoon , and welcome to diodes incorporated's second quarter {num} financial results conference call . at this time , all participants are in a listen-only mode . at the conclusion of today's conference call , instructions will be given for the question and answer session . ( operator instructions ) . as a reminder , this conference call is being recorded today , tuesday , august {num} {num} 
+i would now like to turn the call over to leanne sievers of shelton group investor relations . leanne , please go ahead . 
+leanne sievers - shelton group - ir 
+good afternoon and welcome to diodes' second quarter {num} financial results conference call . i'm leanne sievers , executive vice president of shelton group , diodes' investor relations firm . 
+joining us today are diodes' president and ceo , dr . keh-shew lu ; chief financial officer , rick white ; senior vice president of sales and marketing , mark king ; and director of investor relations , laura mehrl . 
+before i turn the call over to dr . lu , i would like to remind our listeners that management's prepared remarks contain forward-looking statements , which are subject to risks and uncertainties , and management may make additional forward-looking statements in response to your questions . therefore , the company claims the protection of the safe harbor for forward-looking statements that is contained in the private securities litigation reform act of {num} actual results may differ from those discussed today , and , therefore , we refer you to a more detailed discussion of the risks and uncertainties in the company's filings with the securities and exchange commission . 
+in addition , any projections as to the company's future performance represent management's estimates as of today , august {num} {num} diodes assumes no obligation to update these projections in the future as market conditions may or may not change . 
+additionally , the company's press release and management statements during this conference call will include discussions of certain measures and financial information in gaap and non-gaap terms . included in the company's press release are definitions and reconciliations of gaap to non-gaap items , which provide additional details . also , throughout the company's press release and management's statements during this conference call , we refer to net income attributable to common stockholders as gaap net income . 
+as a reminder , the results announced today are preliminary and are subject to diodes finalizing its closing procedures and customary quarterly review by the company's independent registered public accounting firm . as such , these results are subject to revision until the company files its quarterly report on form {num}-q for the quarter ending june {num} {num} 
+for those of you unable to listen to the entire call at this time , a recording will be available via webcast for {num} days in the investor relations section of diodes' website at www . diodes . com . 
+1 
+exhibit {num} 
+and now , i'll turn the call over to diodes' president and ceo , dr . keh-shew lu . dr . lu , please go ahead . 
+keh-shew lu - diodes , inc . - president , ceo 
+thank you , leanne . welcome , everyone , and thank you for joining us today . 
+i'm pleased to report strong second quarter results , highlighted by achievement of record revenue and gross profit dollars . the growth was driven by our approximately 7% sequential increase in diodes core business with a modest 1% increase in revenue from pericom . 
+our industrial market revenue was higher in the quarter reflecting increased sales in north america and europe . revenue from our automotive market also had another solid quarter of growth , as this end market continues to outpace the average growth rate of the company . in addition , we achieved {num} basis point sequential improvement in non-gaap gross margin due primarily to increased utilization at our manufacturing facilities and improved product mix . 
+we also continued to generate solid cash flow during the quarter , which enabled us to pay down ${num} million of long-term debts or a total of ${num} million since the end of third quarter {num} it took approximately three years to pay off the debts from our bcd semiconductor acquisition and we anticipate a similar timeframe for pericom due to diodes' strong cash flow generation . 
+as we look to the third quarter , we expect revenue to grow {num}% sequentially at the midpoint , representing ${num} million in quarterly revenue run rate , which is an important milestone toward achieving our goal of $1 billion in annual revenue . additionally , gross margin is expected to improve another {num} basis points at the midpoint of our guidance range of {num}% with operating expense decreasing further as a percent of the sales . we are beginning to see improvement in the general market environment and anticipate a more typical seasonal cycle going into the quarter . 
+with that , i now turn the call over to rick to discuss our second quarter and mid-year results as well as third quarter guidance in more detail . 
+rick white - diodes , inc . - cfo , secretary , treasurer 
+thanks , dr . lu , and good afternoon , everyone . 
+revenue for the second quarter {num} was a record ${num} million , increasing {num}% from the ${num} million in the first quarter {num} and {num}% from the ${num} million in the second quarter {num} gross profit for the second quarter {num} reached a record ${num} million , or {num}% of revenue , compared to the first quarter of {num} of ${num} million , or {num}% of revenue , and the second quarter {num} of ${num} million , or {num}% of revenue . the sequential improvement in gross margin was due primarily to increased utilization at our manufacturing facilities and improved product mix . 
+gaap operating expenses for the second quarter {num} were ${num} million , or {num}% of revenue , and on a non-gaap basis ${num} million , or {num}% of revenue , which excludes ${num} million of transaction , retention , amortization of acquisition-related intangible asset expenses , and employee award costs . this compares to gaap operating expenses of ${num} million , or {num}% of revenue , in the first quarter {num} or {num}% on a non-gaap basis . 
+looking specifically at selling , general , and administrative expenses for the second quarter , sg&a was approximately ${num} million , or {num}% of revenue , compared to ${num} million , or {num}% of revenue , in the first quarter {num} investment in research and development for the second quarter was approximately ${num} million , or {num}% of revenue , compared to ${num} million , or {num}% of revenue , in the first quarter {num} combined , sg&a plus r&d was ${num} million , or {num}% of revenue , compared to ${num} million , or {num}% of revenue , in the first quarter {num} 
+total other expense amounted to approximately ${num} million for the quarter including ${num} million of interest expense , which was partially offset by ${num} million of currency gains and interest income . income before taxes and non-controlling interest in the second quarter {num} amounted to ${num} million compared to a loss of $2 million in the first quarter of {num} turning to income taxes , our effective income tax rate for the second quarter was approximately {num}% . 
+second quarter {num} gaap net income was ${num} million , or ${num} per diluted share , compared to gaap net loss of ${num} million , or negative ${num} per share , in the first quarter of {num} and gaap net income of ${num} million , or ${num} per diluted share , in the second quarter {num} the share count used to compute gaap diluted eps for the second quarter {num} was {num} million shares . 
+non-gaap adjusted net income was ${num} million , or ${num} per diluted share , which excluded , net of tax , ${num} million of non-cash acquisition-related intangible asset amortization cost . this compares to non-gaap adjusted net income of ${num} million , or ${num} per diluted share , in the first quarter of {num} and ${num} million , or ${num} per diluted share , in the second quarter of {num} we have included in our earnings release a reconciliation of gaap net income to non-gaap adjusted net income , 
+2 
+which provides additional details . included in the second quarter {num} gaap and non-gaap adjusted net income was approximately $3 million , net of tax , non-cash share-based compensation expense . excluding share-based compensation expense , both gaap and non-gaap adjusted eps would have increased by ${num} per diluted share in the second quarter . 
+cash flow generated from operations was ${num} million for the second quarter . free cash flow was ${num} million for the second quarter , which included ${num} million of capital expenditures . net cash flow for the quarter was a negative ${num} million including the pay down of approximately ${num} million of long-term debt . 
+turning to the balance sheet , at the end of the second quarter , cash and cash equivalents totaled approximately ${num} million and short-term investment totaled ${num} million . working capital was approximately ${num} million . 
+at the end of the second quarter , inventory increased approximately $5 million from the end of the first quarter {num} to approximately ${num} million . inventory in the quarter reflects a $9 million increase in finished goods and a $3 million decrease in work-in-process and a $1 million decrease in raw materials . inventory days were {num} in the quarter , which was comparable to last quarter . and , at the end of the second quarter , accounts receivable was approximately ${num} million , an increase of ${num} million from the first quarter . a / r days were {num} compared to {num} last quarter . 
+our long-term debt totaled approximately ${num} million . a total of ${num} million has been paid down since the end of the third quarter {num} capital expenditures for the second quarter were ${num} million or {num}% of revenue . as we mentioned in the past , chengdu will be included in our full-year target model for capex , which will be 5% to 9% of revenue . depreciation and amortization expense for the second quarter was ${num} million . 
+now , turning to our outlook . for the third quarter of {num} we expect to grow revenue to a range between ${num} million and ${num} million , or up {num}% to 9% sequentially . we expect gaap and non-gaap gross margin to be {num}% plus or minus 1% . non-gaap operating expenses are expected to be approximately {num}% of revenue plus or minus 1% . we expect interest expense to be approximately $3 million and our income tax rate to be {num}% plus or minus 3% . shares used to calculate diluted eps for the third quarter are anticipated to be approximately {num} million . please note that purchase accounting adjustments for pericom and previous acquisitions of ${num} million after tax are not included in these non-gaap estimates . 
+with that said , i will now turn the call over to mark king . 
+mark king - diodes , inc . - svp sales & marketing 
+thank you , rick , and good afternoon . 
+the second quarter set a record for both revenue and gross profit dollars , with revenue increasing {num}% sequentially , led by strong automotive and industrial growth in north america and europe . oem sales were up {num}% and distributor pop was up 6% . distributor inventory increased 9% in preparation for a stronger third quarter while pos grew 8% with europe setting another record quarter for pos . 
+customer activity continued to be strong across all regions with solid design activity and wins . we are well-positioned with customers across our product portfolio to further expand our content and drive growth for the balance of this year . 
+also , the integration of pericom continues to remain on schedule and we expect the completion of the sales integration by the end of q{num} we continue to penetrate our key customer base with a broader product line and see significant customer synergy and cross-selling opportunities with the pericom products . we also continue to make progress with our automotive and industrial expansion initiatives with increasing revenue growth , new product introductions , and design wins . 
+from a product perspective , the second quarter was a record quarter for our mosfet and cmos ldos . we also continue to see strong momentum for our protection products and led drivers along with a bounce-back in revenue for our hall sensors and ac-to-dc product lines driven primarily by smartphone sales in china . 
+turning to global sales , asia represented {num}% of revenue , europe {num}% , and north america {num}% . in terms of our end markets , consumer represented {num}% of revenue , communications {num}% , industrial {num}% , computing {num}% , and automotive was 6% . we continue to make progress on our automotive and industrial initiatives with both end markets increasing sequentially . 
+let me now provide more detail within each of our end markets . for the consumer market , we released two new audio devices , the first of which is a highly-integrated 3-watt class-d power amplifier that provides excellent audio performance and system flexibility for portable speakers ; and the second , a stereo line driver designed with pop-free architecture for high audio performance at low systems cost . we also saw the adoption of our adjustable current limit power switches by several key tv and set-top box customers . 
+for mobile communications applications including portable device charging , diodes once again introduced a wide range of products during the quarter . from our mofset platforms , we launched a family of csp and dfn packets parts targeting reverse battery protection , quick charge , and load-switch applications along with two high-voltage parts targeted at charger applications . 
+building on diodes' close relationships with several mobile communication customers , we released high-surge and general-purpose protection devices to meet the needs of these customers including one product offering the highest surge and clamping capability of its kind . also during the quarter , our hall sensor devices gained further market share specifically in china's smartphone market with several key wins across multiple platforms and major cell phone manufacturers . other new smartphone wins include a usb signal switch and a high-performance signal re-driver with integrated equalization circuitry . 
+in the computing market , we extended our support of usb applications with the release of a new high-performance linear re-driver designed specifically for the usb {num} protocol . we are well-positioned to support emerging usb {num} re-driver requirements and have several critical early design wins on market-leading platforms . we also released a bi-directional crossbar solution for switching usb {num} signals through a type-c connector . another recent release related to the emerging type-c connector market was a flexible cost-effective device that detects plug-in orientation of the cable . 
+also in the computing space we are seeing growing demand for our ssd mux product line to support high-density solid-state memory applications for data centers . the need to support these applications will continue to expand with the growth of cloud computing and big data initiatives . 
+for the industrial applications , diodes released several new products underpinning our commitment to meeting the needs of this segment . during the second quarter , we released a {num}-volt oring controller aimed at n+1 redundant power supply systems to support data center requirements for {num}% system up time . also new for this second quarter is a range of gate drivers in single channel , half bridge , and high side / low side configurations as well as a family of {num}-volt {num}- to {num}-milliamp linear led drivers . additionally , we released {num}-volt to {num}-volt mosfet products utilizing shielded-gate technology that were well-suited for industrial power supply applications . 
+also in the industrial space , we expanded our offering of led drivers for non-dimmable retrofit bulb applications with a family of high-power , high-efficiency drivers that meets the latest energy star requirements . additionally , our triac dimmable product series continues to be very successful in led applications with several major incremental design wins during the quarter . we are also seeing increased opportunities for our products in industrial camera modules for applications such as security cameras as well as e-meters and e-bike applications in china . 
+and , finally , in the automotive market , diodes once again extended our range of auto-qualified mosfets with the addition of six {num}-volt and {num}-volt products featuring {num}-degreee c-rated shielded-gate technology . diodes now has strong design win and sales momentum with this rugged technology with targeted automotive customers . diodes also generated strong demand for its new npn constant current linear led drivers for interior , ambient , and courtesy lighting . 
+also within the automotive market , we are seeing an emerging trend in telematics where telecommunication capabilities are being embedded into the automotive electronic system . our pcie gen-2 packet switch is on a key telematics reference design and has also been designed into a smart antenna project . additionally , our new piezo driver has been adopted in several electronic tag and key-fob applications due to the efficiency and performance of this device . 
+in summary , our initiatives to expand our presence in the automotive and industrial markets continue to show evidence of success . in conjunction with these efforts , we also remain focused on further expanding our presence in the portable and wearable space , which are markets ideally suited for diodes deep expertise in miniaturization and power-efficient packaging . our third quarter expectations for continued growth is representative of our solid position with customers and growing content across our portfolio . 
+with that , i'll open the floor to questions . operator? 
+question and answer 
+operator 
+( operator instructions ) . steve smigie , raymond james . 
+steve smigie - raymond james & associates , inc . - analyst 
+{enum} thanks a lot . and congratulations , dr . lu , on getting the good revenue results here and getting the gross margin back up to your more normal levels . 
+exhibit {num} 
+keh-shew lu - diodes , inc . - president , ceo 
+thank you . 
+steve smigie - raymond james & associates , inc . - analyst 
+{enum} i was hoping you could talk a little bit more about how we should think about margins here going forward . it sounds like you're seeing revenue pick back up to more seasonal patterns again . and so , assuming there's still some modest growth , is it fair to think ; continue to fill the factories , get a little bit better utilization , continue to mix in the new products so we should see , generally speaking , sort of a modest move up in gross margins going forward . is that the right way to sort of think about it at a high level? 
+keh-shew lu - diodes , inc . - president , ceo 
+well , steve , the key thing , really , if you look at our products , the gross margin of our products is above or at least at the model we set it up , {num}% . right now , the step down of our gp was due to the under-loaded utilization problems . and you know every quarter when we're talking about that , we said , " steve , our utilization can improve then our gp will improve . " and , right now , if we look at the second quarter we improved because the revenue is up and utilization is up . and we kept the guidance for the third quarter . again , you know the revenue , revenue going up and , therefore , we believe the utilization will be improved and then the gp will improve too . 
+so , we continue to limit our spend , expense or our spending on the capitals such that we are not eating the capacity . we only eat the capacity as needed a certain type of package , which really the new one , our ddfn , and those is the one we feel short on capacity . but most of the capacity is enough to support our future growth . therefore , we limited our capital in that area . 
+and , by doing that , we will believe our utilization will continue improve therefore our gp will continue to improve . and especially in the fab , we're talking about {num} to 8-inch fab , that's really the only capital that we spend on the wafer fab . and we're hoping if the pictures continually improve , then the fab , especially bcd fab will continue improve the utilization and then we'll continue to improve the gross margin . 
+steve smigie - raymond james & associates , inc . - analyst 
+okay , great . thank you very much . and i wanted to maybe get a little bit more color on how we should think about operating expense improvements going forward . what are the levers there? is there any more to be taken out of the pericom acquisition? or are you sort of more sort of where you expected to be at this point? i know it wasn't really about taking cost out , but any sort of public company cost going away , that kind of stuff . and so , just generally , how opex should trend . it seems like generally it should be coming down as a percentage of revenue . is that , again , sort of the right way to be thinking about the opex there? thanks . 
+keh-shew lu - diodes , inc . - president , ceo 
+well , from the expense , operating expense point of view , we mainly focus on growth of revenue . and then , as the percent of expense , percent of the revenue , will be going down . that is really main focus . and for the corporate costs , some of that corporate cost still here because executive bonus , the retention bonus , and some of the , like cfo , some of the people they still stay to helping us for consolidation . but those will be minor savings . but our key focus is how to mutual help each other to expand the market share to grow revenue such that , as a percent of the revenue , that expense would go down . and that's really our focus . 
+steve smigie - raymond james & associates , inc . - analyst 
+okay , great . thanks . and if i could just sneak one last one in . just in terms of revenue growth here , it sounds like you've got a bunch of new products coming out . i mean you always do , but it seems like particular to pericom , mark is indicating there could be some synergies now that you guys have had them for a while . just any update on how you're viewing growth opportunity . thanks . 
+keh-shew lu - diodes , inc . - president , ceo 
+5 
+well , i'll let mark later on to answer . but at the beginning , let me add it . pericom product , it takes time to design in and takes time to ramp it up . we show effort to help pericom product to expand again more this year . but it really takes time . but we see an opportunity and we see a lot of synergy between their product and our product . but that kind of roll-up it takes effort to do the design win , to ramp it . and we believe next year will be the year for us to see the result . mark? 
+mark king - diodes , inc . - svp sales & marketing 
+that's right . yes , we were very excited about the opportunities we've seen in our present customer base to advance their product line and even outside of their traditional markets , even into the consumer market segments and so forth . so , we have a lot of new opportunities that in , let's say , the first six months where -- i mean i'm actually a little surprised how well it's gone . 
+the other nice impact is , within their customer base and even within our customer base with their product , it's allowing us to see things a little bit earlier and get a little bit more advanced look for some of our more standard product areas . so , actually , the match is quite good and the progress is actually better than i expected as quickly . so , we're very excited . 
+steve smigie - raymond james & associates , inc . - analyst 
+great , thank you very much . 
+operator 
+thank you . gary mobley , benchmark . 
+gary mobley - the benchmark company - analyst 
+good afternoon , everyone . congrats on a good , strong q{num} 
+keh-shew lu - diodes , inc . - president , ceo 
+thank you . 
+gary mobley - the benchmark company - analyst 
+i had a question about your q3 revenue guide . if i look back in time at your previous quarterly revenue guidance ranges , the difference between the high and the low in your guidance ranges is about ${num} million and sometimes as low as ${num} million . this quarter it's ${num} million . why are you taking the approach of having a big plus or minus 3% guidance range relative to the midpoint this quarter? and what's the difference between achieving the high and low end of that guidance range? 
+keh-shew lu - diodes , inc . - president , ceo 
+i don't know . when we give the guidance , we just think it . well , first we decide ; what is the midpoint? then , from there , we see ; okay , how much potential variance could be . and , from there , we decide . but i hardly pay attention to the percent or something . 
+rick white - diodes , inc . - cfo , secretary , treasurer 
+{enum} i think it has to do more with the percentage growth rate . so , this time , it's 2% to 9% . so , that's 7% either way so it's {num}% . so , as we get bigger , that percentage will be a bigger dollar amount than it has been in the past . but it really doesn't have anything to do specifically with we think there's a larger range or something like that . 
+keh-shew lu - diodes , inc . - president , ceo 
+to be honest , like i say , first thing we decide is what will be the midpoint and after we decide the midpoint then we say ; okay , what kind of range we think the market fluctuation will be . and that's what we doing . so , i never really pay attention of what the real percent or what's the reason behind the percent variations . 
+gary mobley - the benchmark company - analyst 
+{enum} i didn't know if you did have bottoms-up analysis on what-if scenarios and what not . but , 5% sequential revenue growth isn't too shabby . i guess it's in-line with peers . 
+with respect to the pericom business , it was up only 1% in q{num} i don't know what your expectations are for the business in q3 and i'm not quite sure about the seasonal trends that pericom business normally sees . but do you view that 1% growth in the june quarter as a bit of a disappointment? and are there any other issues in there , whether it be end-of-life in products or anything relating to that that might have caused some noise in the number? 
+keh-shew lu - diodes , inc . - president , ceo 
+well , before we purchased pericom , we know their history . and if you go back to their history , they're more focused on improving the gross margin as a percent instead of focus on the pure revenue growth . and if you look at diodes , we are different . diodes is more on growth and try to keep the gross margin at {num}% . then , when we combined , when we purchased that , we all know that's their tradition and we all know that's what diodes do in the past . 
+so , now , move forward what we will try to do will be how to help them to grow . and that's what mark just mentioned . the opportunity is there and we see a lot of synergy . and we see a lot of good opportunity for pericom product to hit a better growth mode . but like i said , it takes time . their product actually needs a lot of design win effort . a lot of fae type of effort to help them . and it takes time to ramp it , too . 
+so , we would like to have both . one is growth at the same time as we improve the gross margins . and so , that's our charge and it's our -- but we are good at that so i have confidence we will move the path of growth at the same time improve the gp . 
+gary mobley - the benchmark company - analyst 
+{enum} and i just had one last question . there has certainly been a lot of industry consolidation that's taken place . i think most of your larger competitors -- and i know this is a very fragmented market -- but most of your larger competitors have been touched one way or another from some type of industry consolidation . has that helped the market environment for you? and how do you view that as an opportunity to consolidate market share looking forward? 
+mark king - diodes , inc . - svp sales & marketing 
+{enum} i mean we think consolidation is disruptive to the companies that are consolidating , especially like products and like sales channels . so , i don't think we've seen the benefit of it . we're starting to see some interest in and concerns from the customer base . i don't think our numbers show a benefit . but i think you could say that we believe all consolidation is a positive opportunity for our company . 
+gary mobley - the benchmark company - analyst 
+{enum} that's it for me . thanks , guys . 
+operator 
+thank you . tristan gerra , baird . 
+justin li - robert w . baird & company , inc . - analyst 
+good afternoon . this is justin li calling for tristan . thanks for allowing me to ask a question . so , dr . lu , in your prepared remarks you mentioned you began to see improvements in the general market environment . so , could you provide more color on that? is it more about the seasonality or is it improvement on top of the normal seasonality? 
+keh-shew lu - diodes , inc . - president , ceo 
+i think when we see the improvement in the third quarter it's really it's seasonality . okay? because , typically , third quarter is a growth quarter from second quarter . and we see similar things now . last year is the year , it's strange , when you go into the third quarter all of a sudden it slows down . so , third quarter last year actually slower than second quarter last year . but this year -- i just came back from asia and when i see the asia business and i feel it's much to go back to the old cyclical type of business models now . so , that's why i put it , say it looks like it's better . 
+justin li - robert w . baird & company , inc . - analyst 
+i see . thank you . rick , i think you mentioned the non-gaap gross margin improved {num} basis points sequentially because of increased utilization rate . could you provide a breakdown of the utilization rate for each of the fabs? 
+rick white - diodes , inc . - cfo , secretary , treasurer 
+{enum} just a second . okay . so , let's talk about the assembly test areas first . utilization in our shanghai assembly test was in the {num}% range , which is kind of where it's been for the last two or three quarters . cat has been steadily increasing . cat is our change and assembly test . and they were over {num}% in this last quarter , which we would consider to be fully-loaded . 
+and from a fab standpoint , o-fab , the fab in england , in oldham , england continues to run way over what we consider to be fully-loaded , in the {num}% to {num}% range there . they're way above {num}% . sfab{num} the shanghai fab , the older fab in shanghai , is {num}% . sfab2 is the newer fab in shanghai and if you go back in the last part of {num} the last half of {num} they were in the {num}% range . and they have been steadily increasing to about the {num}% range the last couple of quarters . still not fully-loaded , but getting much closer and that's why we talk about these increased utilization rates . and then , kfab , a little bit lower than what we like , but expected to do better in the third quarter . 
+keh-shew lu - diodes , inc . - president , ceo 
+so , overall , from fab point of view , diodes' fab including ofab and kfab that you can -- one is over , one is slightly under , so you can consider that it's about for the model overloaded at {num}% . okay? 
+justin li - robert w . baird & company , inc . - analyst 
+{enum} 
+keh-shew lu - diodes , inc . - president , ceo 
+and the bcd fab is the one we still under-loaded , especially sfab{num} which start from zero from when we took over . and they gradually improve . now it's up to {num}% . but it's still not fully-loaded yet . 
+from the packaging point of view , what we try to do would be move everything we can move to cat into assembly side . so , what we'll try keep to do assembly side fully-loaded . okay? and then , now the shanghai at side is under-loaded . it's about {num}% and we think that all the upside will push it to cat . so , cat can partially continue increase and continue our fully-loaded . 
+rick white - diodes , inc . - cfo , secretary , treasurer 
+it's fully-loaded . that's correct . 
+keh-shew lu - diodes , inc . - president , ceo 
+it's fully-loaded . 
+justin li - robert w . baird & company , inc . - analyst 
+well , thank you . that's very encouraging . and my last question is about pericom . you guys mentioned by q3 the sales consolidation will complete . so , could you comment about , other than sales consolidation , what other steps are left in terms of consolidation? 
+mark king - diodes , inc . - svp sales & marketing 
+{enum} well , again , we've done the sales . we're in the process of the asian sales consolidation . we've completed the u . s . and north america already . we're working with a proper some channel consolidation effort and so forth . and i'll let the rest of the administrative i think is i think is actively and ongoing . 
+keh-shew lu - diodes , inc . - president , ceo 
+{enum} yes . the rest of it we carefully move it because all this revenue and corporate entity and the shipping , customer acceptance , order entry ; those at the administration portion it takes time because we need to be careful because we don't want to -- 
+rick white - diodes , inc . - cfo , secretary , treasurer 
+it's about the customer , right? 
+keh-shew lu - diodes , inc . - president , ceo 
+customer , yes . so , from people point of view , especially sales people , by end of third quarter we should be all consolidated . but then , for the administration and then in the corporate entity and all these ones , it takes time . you probably don't know that , for example , in asia for corporate entity they need to be signed from pericom and rejoined diodes . and when they do that they could choose not to accept the offer from diodes and then cost a lot of problem . so , we take it very slowly . 
+rick white - diodes , inc . - cfo , secretary , treasurer 
+{enum} but we're also looking at the details of the business ; about where the product is warehoused . do we have the warehouses in the right country? are we shipping the product from the most efficient warehouse to the customer? so , all of those actions are underway , but it's not something that you can do immediately . but , over the next three , six , nine months , i think we will make big strides in changing and improving that process flow . 
+justin li - robert w . baird & company , inc . - analyst 
+{enum} thank you very much . 
+operator 
+thank you . shawn harrison , longbow research . 
+shawn harrison - longbow research - analyst 
+{enum} good afternoon , everyone . 
+keh-shew lu - diodes , inc . - president , ceo 
+{enum} 
+shawn harrison - longbow research - analyst 
+mark , if i may , if i heard it right , you said distributor inventory increased 9% sequentially just based on a stronger third quarter . 
+mark king - diodes , inc . - svp sales & marketing 
+{enum} 
+shawn harrison - longbow research - analyst 
+have you seen inventory continue to grow in the third quarter or has it leveled off here as we've gotten into august? 
+mark king - diodes , inc . - svp sales & marketing 
+i would expect it to level off in the third quarter , yes . so , i don't think it is a concern . i think they just saw ramps in the beginning and some new products coming in so they put their inventory in a little early in this . so , i think it's in pretty good shape . 
+shawn harrison - longbow research - analyst 
+got you . rick , i guess i had some questions on opex . r&d dropped on a dollar basis sequentially and sg&a increased . is that the dollar run rate we should anticipate into the back half of the year? maybe it was $1 million here , $1 million there , but the factors behind the drop sequentially and the uptick as well . 
+rick white - diodes , inc . - cfo , secretary , treasurer 
+well , yes , i don't have the exact details of why r&d went down . but we buy masks and sometimes you buy masks and then you don't have that mask expense the next quarter . so , it's tends to fluctuate up and down from that standpoint . . 
+i think , overall , we're looking at the total operex and , as we move through time , and you can go back and look at it historically , we've basically gone right after a purchase of a company , m&a activity , and then , over the next several quarters that operex percent of revenue continues to go down to reach a more normal level as we go through the consolidation process . so , i think the number is going to stay about the same from a dollar standpoint , but as the revenue increases from ${num} million to the midpoint of ${num} million that's why we forecast the percentage going down . 
+shawn harrison - longbow research - analyst 
+{enum} and then , maybe one quick follow-up from me . if read this right , you had a reversal of pericom both transaction costs and employee award cost . is that just related to getting into the business and employees leaving or is there something else in terms of those reversals that happened? 
+rick white - diodes , inc . - cfo , secretary , treasurer 
+{enum} those were just costs associated that we took out from a non-gaap perspective because they're m&a-related . 
+shawn harrison - longbow research - analyst 
+{enum} well , i guess we can catch up offline on this . i'll hop back in the queue . 
+rick white - diodes , inc . - cfo , secretary , treasurer 
+{enum} well , basically the non-gaap costs are related to retention costs , to the amortization of intangible costs , those types of things that are all m&a-related either to the pericom acquisition or to previous acquisitions . 
+shawn harrison - longbow research - analyst 
+{enum} the transaction costs and the employee award costs were negative this quarter , at least reading that it was added back relative to prior charges . but i can catch up with you on the call back . 
+rick white - diodes , inc . - cfo , secretary , treasurer 
+{enum} 
+operator 
+( operator instructions ) . christopher longiaru , sidoti & company . 
+christopher longiaru - sidoti & company - analyst 
+hey , guys . congratulations on the quarter . 
+mark king - diodes , inc . - svp sales & marketing 
+{enum} 
+keh-shew lu - diodes , inc . - president , ceo 
+thank you . 
+christopher longiaru - sidoti & company - analyst 
+can you hear me? yes , okay . so , my question has to just do with pericom . pericom had some internally-manufactured frequency control products and then they had a lot of stuff that was manufactured externally . can you talk about where those products are being manufactured and how the internal facilities are running and just kind of give us more granularity on that front? 
+keh-shew lu - diodes , inc . - president , ceo 
+pericom's internal manufacturing is their crystal and their oscillators . and the crystal , majority of the crystal produced from shandong province in china . and then , in taiwan , jhongli , they produce some crystal but the majority of it , the majority of the output is oscillators . so , look at that is the two manufacturing sites they have . majority of -- their ie is used in foundry wafer fab and then packaging silicon . okay? but only crystal and oscillator is produced themselves . 
+christopher longiaru - sidoti & company - analyst 
+and did you bring the other products in-house or are you planning to do that? 
+mark king - diodes , inc . - svp sales & marketing 
+so , presently , right now , there are certain products where we've actually been doing some qualification internally . but , presently , right now , all of their subcontract product and subcontract fab is still where it was and will stay there for some time . and nothing has changed with the crystals since our purchase . 
+christopher longiaru - sidoti & company - analyst 
+{enum} okay . 
+keh-shew lu - diodes , inc . - president , ceo 
+oscillator is the same . no big change . okay? and wafer fab , we won't change it either because we don't have the capability to provide because that's all from the external foundry . packaging , majority of their packaging is a subaccount . we don't have that packaging . we cannot move in . okay? 
+christopher longiaru - sidoti & company - analyst 
+{enum} that makes sense . so , all of the improvement that you've seen in gross margin is a combination of mix and utilization . is that fair to say? and none of it is from moving pericom in-house at all . 
+mark king - diodes , inc . - svp sales & marketing 
+{enum} 
+keh-shew lu - diodes , inc . - president , ceo 
+you are correct . 
+rick white - diodes , inc . - cfo , secretary , treasurer 
+yes , that's true . 
+keh-shew lu - diodes , inc . - president , ceo 
+you are correct . 
+christopher longiaru - sidoti & company - analyst 
+that's all i had , guys . thank you very much . 
+keh-shew lu - diodes , inc . - president , ceo 
+thank you . 
+operator 
+thank you . i'm showing no further questions . i would like to turn the call back to dr . keh-shew lu for closing remarks . 
+keh-shew lu - diodes , inc . - president , ceo 
+thank you for your participation today . operator , you may now disconnect . 
+operator 
+ladies and gentlemen , thank you for participating in today's conference . this concludes the program and you may now all disconnect . everyone , have a great day . 

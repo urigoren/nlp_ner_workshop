@@ -1,0 +1,59 @@
+exhibit {num} 
+restricted stock unit agreement 
+this restricted stock unit agreement ( this " agreement " ) , entered into as of september {num} {num} sets forth the terms and conditions of an award ( this " award " ) of restricted stock units ( " units " ) granted by energytek corp . , a nevada corporation ( the " company " ) , to jonathan read ( the " recipient " ) . 
+{enum} definition and incorporation of certain terms . this award is made pursuant to the company's {num} equity incentive plan ( the " plan " ) and the terms of the plan are incorporated in this agreement . capitalized terms used in this agreement that are not defined in this agreement have the meanings as used or defined in the plan . the recipient hereby acknowledges receipt of the plan . 
+{enum} award . effective with the closing of the transactions referred to in section 3 ( b ) ( i ) and ( ii ) ( the " effective date " ) , the recipient is granted {num} units . 
+{enum} vesting / forfeiture . 
+{enum} t he units shall vest in three approximately equal annual increments with the first tranche being fully vested on the effective date and the remaining tranches vesting on the first-year and second-year anniversaries of the effective date , subject to the recipient continuing to perform services for the company as an executive officer on each applicable vesting date . vested units shall be paid out in the form of shares of the company's common stock ( " common stock " ) with delivery of the common stock to take place two years from the effective date . if any fractional units vest , the number of units vesting shall initially be rounded up to the nearest whole number and then rounded down to the nearest whole number for subsequent vesting as necessary . 
+{enum} the units shall fully vest upon a change of control as defined in the plan , with delivery of the shares of common stock to be issued immediately upon the occurrence of such change in control . notwithstanding any other provision of this agreement or of the plan , the company and the recipient agree that consummation of the transactions contemplated by ( i ) that certain agreement and plan of merger among the company , timefire llc and the other parties thereto , effective as of the date hereof , ( ii ) the securities purchase agreement between the company and the purchase signatories thereto , effective as of the date hereof , and ( iii ) the agreement and mutual release among the company and the other parties thereto , effective as of july {num} {num} shall not constitute a change in control . 
+{enum} further notwithstanding any other provision of this agreement , upon resolution of the board , all units and shares of common stock subject to this agreement , whether vested or unvested , will be immediately forfeited if any of the events specified in section {num} of the plan occur . 
+1 
+{enum} profits on the sale of certain shares ; cancellation . if any of the events specified in section {num} of the plan occur within one year following the date the recipient last performed services as an executive officer of the company ( the " termination date " ) ( or such longer period required by any written employment agreement ) , all profits earned from the recipient's sale of the company's common stock during the two-year period commencing one year prior to the termination date shall be forfeited and forthwith paid by the recipient to the company . further , in such event , the company may at its option cancel the unit and / or the common stock granted under this agreement . the company's rights under this section do not lapse one year from the termination date but are a contract right subject to any appropriate statutory limitation period . 
+{enum} rights . the recipient will receive no benefit or adjustment to the units with respect to any cash or stock dividend , or other distributions except as provided for in the plan . further , the recipient will have no voting rights with respect to the units until the shares of common stock are issued and delivered to the recipient . 
+{enum} restriction on transfer . the recipient shall not sell , transfer , pledge , hypothecate or otherwise dispose of any units prior to the applicable vesting date . 
+{enum} obligation to reserve shares . the recipient and the company agree that the company shall have no obligation to reserve and maintain out of its authorized and unissued shares of common stock the number of shares required to be delivered under this agreement until such time as the company has sufficient authorized capital to reserve all shares of common stock issuable under the company's contractual obligations outstanding as of the effective date . 
+{enum} reservation of right to terminate relationship . nothing contained in this agreement shall restrict the right of the company to terminate the relationship of the recipient at any time , with or without cause . 
+{enum} securities . in order to enable the company to comply with the securities act of {num} ( the " securities act " ) and relevant state law , the company may require the recipient , the recipient's estate , or any permitted transferee as a condition of issuing the common stock , to give written assurance satisfactory to the company that the shares subject to the units are being acquired for such person's own account , for investment only , with no view to the distribution of same , and that any subsequent resale of any such shares either shall be made pursuant to a registration statement under the securities act and applicable state law which has become effective and is current with regard to the shares being sold , or shall be pursuant to an exemption from registration under the securities act and applicable state law . 
+the units and the underlying shares of common stock are further subject to the requirement that , if at any time the board shall determine , in its discretion , that the listing , registration , or qualification of the shares of common stock underlying the units upon any securities exchange or under any state or federal law , or the consent or approval of any governmental regulatory body , is necessary as a condition of , or in connection with the issuance of the common stock , the common stock will not be issued unless such listing , registration , qualification , consent or approval shall have been effected . 
+2 
+{enum} tax withholding . the recipient acknowledges and agrees that the company may require the recipient to pay , or may withhold from sums owed by the company to the recipient , any amount necessary to comply with the minimum applicable withholding requirements that the company deems necessary to comply with any federal , state or local withholding requirements for income and employment tax purposes . 
+{enum} no obligation to minimize taxes . the company has no duty or obligation to minimize the tax consequences of this award to the recipient and will not be liable to the recipient for any adverse tax consequences arising in connection with this award . the recipient has been advised to consult with his own personal tax , financial and / or legal advisors regarding the tax consequences of this award . 
+{enum} {num}a compliance . the provisions of this agreement and the issuance of the shares of common stock in respect of the units is intended to comply with the short-term deferral exception as specified in treas . reg . § {num}a-l ( b ) ( 4 ) . 
+{enum} notices and addresses . all notices , offers , acceptance and any other acts under this agreement ( except payment ) shall be in writing , and shall be sufficiently given if delivered to the addressees in person , by federal express or similar receipted next business day delivery , or by email delivery followed by overnight next business day delivery as follows : 
+the recipient : to the recipient at the address on the signature page of this agreement 
+the company : energytek corp . 
+{num} e . camelback rd . , #{num} 
+scottsdale , arizona {num} 
+telephone : ( {num} ) {num}-{num} 
+email : jread@quadratum{num}com 
+attention : chief executive officer 
+with a copy to : michael d . harris , esq . 
+{num} pga boulevard , suite {num} 
+palm beach gardens , fl {num} 
+telephone : ( {num} ) {num}-{num} 
+email : mharris@nasonyeager . com 
+attention : michael d . harris , esq . 
+or to such other address as either of them , by notice to the other may designate from time to time . 
+{enum} counterparts . this agreement may be executed in one or more counterparts , each of which shall be deemed an original but all of which together shall constitute one and the same instrument . the execution of this agreement may be by actual or facsimile signature . 
+{enum} attorney's fees . in the event that there is any controversy or claim arising out of or relating to this agreement , or to the interpretation , breach or enforcement thereof , and any action or proceeding is commenced to enforce the provisions of this agreement , the prevailing party shall be entitled to a reasonable attorney's fee , costs and expenses . 
+3 
+{enum} severability . if any term or condition of this agreement shall be invalid or unenforceable to any extent or in any application , then the remainder of this agreement , and such term or condition except to such extent or in such application , shall not be affected hereby and each and every term and condition of this agreement shall be valid and enforced to the fullest extent and in the broadest application permitted by law . 
+{enum} entire agreement . this agreement represents the entire agreement and understanding between the parties and supersedes all prior negotiations , understandings , representations ( if any ) , and agreements made by and between the parties . each party specifically acknowledges , represents and warrants that they have not been induced to sign this agreement . 
+{enum} governing law . this agreement and any dispute , disagreement , or issue of construction or interpretation arising hereunder whether relating to its execution , its validity , the obligations provided therein or performance shall be governed or interpreted according to the internal laws of the state of nevada without regard to choice of law considerations . 
+{enum} headings . the headings in this agreement are for the purpose of convenience only and are not intended to define or limit the construction of the provisions hereof . 
+{enum} arbitration . any controversy , dispute or claim arising out of or relating to this agreement , or its interpretation , application , implementation , breach or enforcement which the parties are unable to resolve by mutual agreement , except to the extent a party is seeking equitable relief , shall be settled by submission by either party of the controversy , claim or dispute to binding arbitration in scottsdale , arizona ( unless the parties agree in writing to a different location ) , before a single arbitrator in accordance with the rules of the american arbitration association then in effect . the decision and award made by the arbitrator shall be final , binding and conclusive on all parties hereto for all purposes , and judgment may be entered thereon in any court having jurisdiction thereof . 
+signature page to follow 
+4 
+in witness whereof , the undersigned have caused this agreement to be duly executed and delivered as of the date aforesaid . 
+energytek corp . 
+by : / s / jonathan read 
+jonathan read 
+chief executive officer 
+recipient 
+/ s / jonathan read ____________________ 
+jonathan read 
+address : 
+________________________________ 
+________________________________ 
+________________________________ 
+5 

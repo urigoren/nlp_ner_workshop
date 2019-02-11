@@ -1,0 +1,73 @@
+exhibit 
+termination agreement 
+among 
+federal deposit insurance corporation , 
+receiver of colonial bank 
+montgomery , alabama 
+federal deposit insurance corporation 
+and 
+branch banking & trust company 
+dated as of 
+september {num} {num} 
+termination agreement 
+this termination agreement ( the " agreement " ) , is made and entered into as of the fourteenth day of september , {num} by and among the federal deposit insurance corporation , as receiver of colonal bank , montgomery , alabama ( the " receiver " ) , branch banking & trust company , organized under the laws of the state of north carolina and having its principal place of business in winston-salem , north carolina ( the " assuming institution " ) , and the federal deposit insurance corporation , organized under the laws of the united states of america and having its principal office in washington , d . c . , acting in its corporate capacity ( the " corporation " ) . the receiver , the corporation and the assuming institution may each be referred to herein as a " party " or collectively as the " parties " . 
+recitals 
+{enum} the receiver , the assuming institution and the corporation entered into a purchase and assumption agreement dated as of august {num} {num} ( the " p&a agreement " ) with respect to certain assets and liabilities of colonial bank ( the " failed bank " ) . the parties also entered into an addendum to the p&a agreement dated as of august {num} {num} ( the " addendum " ) . 
+. b . the receiver , the assuming institution and the corporation desire to terminate the single family shared-loss agreement , exhibit {num}a of the p&a agreement ( the " sfsla " ) , the commercial shared-loss agreement , exhibit {num} b of the p&a agreement ( the " csla " ) and the addendum . 
+now , therefore , in consideration of the mutual promises herein set forth and other valuable consideration , the parties hereto agree as follows : 
+article i 
+closing 
+except as noted below in section {num} and subject to the satisfaction , or waiver in writing of the conditions precedent set forth in article iii , the transactions contemplated by this agreement shall be consummated at a closing ( the " closing " ) to be held in person or by electronic means , as the receiver shall direct , on september {num} {num} or such earlier or later date , or in such other manner , as the parties hereto may agree in writing ( the " closing date " ) . 
+article ii 
+payments and termination 
+2 
+{num} payment of termination amount . within two business days after the closing date , subject to the satisfaction or waiver in writing of the conditions precedent set forth herein , 
+the assuming institution shall pay or cause to be paid to the receiver by wire transfer in immediately available funds , two hundred thirty million , two hundred eighty eight thousand , nine hundred sixty one dollars ( ${num} ) ( the " termination amount " ) . the assuming institution and the receiver hereby acknowledge that the amount of shared-loss claims filed by the assuming institution but not yet paid by the receiver were accounted for in the calculation of the termination amount . 
+{num} termination of the sfsla and the csla . upon the occurrence of the closing and subsequent payment of the termination amount all rights and obligations of the parties to make and receive payments pursuant to the sfsla and the csla and all rights and obligations of the parties thereto , shall terminate effective as of the closing date . 
+{num} . termination of the addendum . upon the occurrence of the closing all rights and obligations of the parties to make and receive payments pursuant to the addendum and all rights and obligations of the parties thereto , shall terminate effective as of the closing date . 
+{num} legal action ; utilization of special receivership powers . as of the closing date , t he assuming institution's right , under article iii of the sfsla and article iii of the csla , to request to utilize any special legal power or right which the assuming institution derived as a result of having acquired an asset from the receiver shall terminate ; provided , however , any prior requests to utilize such special powers or rights that were granted by the receiver shall not be affected hereby , and the assuming institution may continue to use such special legal rights or powers in the litigation in which the permission to use those special legal powers or rights was given . notwithstanding the foregoing , the assuming institution shall continue to have all rights and remedies available to it under applicable state and federal laws , which shall not be limited or altered by this agreement . 
+article iii 
+conditions precedent 
+the obligations of the parties to this agreement are subject to the receiver and the corporation having received at or before the closing date evidence reasonably satisfactory to each of any necessary approval , waiver , or other action by any governmental authority , the board of directors of the assuming institution , or other third party , with respect to this agreement and the transactions contemplated hereby , and any agreements , documents , matters or proceedings contemplated hereby or thereby . 
+3 
+article iv 
+miscellaneous 
+{num} no third party beneficiary . nothing expressed or referred to in this agreement is intended or shall be construed to give any person other than the receiver , the corporation and the assuming institution ( and their respective successors and assigns ) any legal or equitable right , remedy or claim under or with respect to this agreement or any provisions contained herein , it being the intention of the parties hereto that this agreement , the obligations and statements of responsibilities hereunder , and all other conditions and provisions hereof are for the sole and exclusive benefit of the receiver , the corporation and the assuming institution and that there be no other third party beneficiaries . 
+{num} rights cumulative . except as otherwise expressly provided herein , the rights of each of the parties under this agreement are cumulative , may be exercised as often as any party considers appropriate and are in addition to each such party's rights under this agreement , any of the agreements related thereto or under applicable law . any failure to exercise or any delay in exercising any of such rights , or any partial or defective exercise of such rights , shall not operate as a waiver or variation of that or any other such right , unless expressly otherwise provided . 
+{num} entire agreement . this agreement embodies the entire agreement of the parties hereto in relation to the subject matter herein and supersedes all prior understandings or agreements , oral or written , between the parties . 
+{num} counterparts . 
+{enum} this agreement may be executed in any number of counterparts and by the duly authorized representative of a different party hereto on separate counterparts , each of which when so executed shall be deemed to be an original and all of which when taken together shall constitute one and the same agreement . 
+{enum} each counterpart of this agreement will be treated in all manner and respects as an original agreement and will be considered to have the same binding legal effect as if it were the original signed version thereof delivered in person . no signatory to this agreement may raise the use of a facsimile machine or other electronic means to deliver an executed document or the fact that any signature or agreement was transmitted or communicated through the use of a facsimile machine or other electronic means as a defense to the formation or enforceability of a contract and each party hereto forever waives any such defense . 
+{num} governing law . this agreement and the rights and obligations hereunder and thereunder shall be governed by and construed in accordance with the federal law of the united states of america , and in the absence of controlling federal law , in 
+4 
+accordance with the laws of the state in which the main office of the failed bank was located . 
+{num} successors . all terms and conditions of this agreement shall be binding on the successors and assigns of the receiver , the corporation and the assuming institution . 
+{num} modification . no amendment or other modification , rescission or release of any part of this agreement shall be effective except pursuant to a written agreement subscribed by the duly authorized representatives of the parties hereto . 
+{num} manner of payment . all payments due under this agreement shall be in lawful money of the united states of america in immediately available funds as each party hereto may specify to the other parties ; provided that in the event the receiver or the corporation is obligated to make any payment hereunder in the amount of ${num} or less , such payment may be made by check . 
+{num} waiver . each of the receiver , the corporation and the assuming institution may waive its respective rights , powers or privileges under this agreement ; provided that such waiver shall be in writing ; and further provided that no failure or delay on the part of the receiver , the corporation or the assuming institution to exercise any right , power or privilege under this agreement shall operate as a waiver thereof , nor will any single or partial exercise of any right , power or privilege under this agreement preclude any other or further exercise thereof or the exercise of any other right , power or privilege by the receiver , the corporation , or the assuming institution under this agreement , nor will any such waiver operate or be construed as a future waiver of such right , power or privilege under this agreement . 
+{num} severability . if any provision of this agreement is declared invalid or unenforceable , then , to the extent possible , all of the remaining provisions of this agreement shall remain in full force and effect and shall be binding upon the parties hereto . 
+{num} survival of covenants . the covenants , representations , and warranties in this agreement shall survive the execution of this agreement and the consummation of the transactions contemplated hereunder . 
+{num} capitalized terms . capitalized terms not otherwise defined herein shall have the meanings given such terms in the p&a agreement , the sfsla or the csla , as applicable . 
+signature page follows 
+5 
+in witness whereof , the parties have caused this agreement to be duly executed by themselves or their respective officers , as the case may be , as of the day and year first above written . 
+federal deposit insurance corporation , 
+receiver of colonial bank 
+by : / s / robert stoner 
+name : robert stoner 
+title : manager , strategic programs 
+attest : 
+_ / s / philip mangano 
+federal deposit insurance corporation 
+by : / s / philip mangano 
+name : philip mangano 
+title : deputy director , amm 
+attest : 
+/ s / robert stoner 
+branch banking & trust company 
+by : / s / brent hicks 
+name : brent hicks 
+title : svp - risk executive 
+attest : 
+/ s / regina lisa gause 
+6 

@@ -1,3 +1,4 @@
+import os
 import json
 import collections
 import re
@@ -30,6 +31,24 @@ def predict_on_token_array(X, model, params):
     y_enc = model.predict(X_enc).argmax(2)
     y_enc = list(y_enc)[0][-len(X):]
     return [params["ind2label"][y] for y in y_enc]
+
+
+def predict_on_test_file(filename, model, params):
+    ret = []
+    with open(filename, 'r') as f:
+        for line in f.readlines():
+            line_prediction = ' '.join(predict_on_token_array(line.split(), model, params))
+            ret.append(line_prediction)
+    return ret
+
+
+def predict_on_test_dir(dirname, model, params):
+    ret= {}
+    for fname in os.listdir(dirname):
+        if fname.endswith('.txt'):
+            re[fname] = predict_on_test_file(fname, model, params)
+    return ret
+
 
 
 def autotag(text, model, params):

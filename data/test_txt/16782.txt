@@ -1,0 +1,38 @@
+exhibit 
+exhibit {num} 
+amendment to compensation agreements 
+this amendment to compensation agreements ( this " amendment " ) is made and entered into as of the __ day of june , {num} ( the " amendment date " ) , between and among magellan petroleum corporation , a delaware corporation ( " magellan " or the " company " ) and antoine j . lafargue ( the " executive " ) . 
+w i t n e s s e t h 
+whereas , on october {num} {num} the company and executive entered into certain compensatory agreements designed to incentivize executive to guide the company to a successful exit transaction ; 
+whereas , the compensatory agreements entered into on october {num} {num} included ( i ) an amendment to executive's employment agreement , ( ii ) a restricted stock award agreement , ( iii ) a transaction incentive agreement , and ( iv ) an override bonus agreement ( the executive's employment agreement , restricted stock award agreement , transaction incentive agreement , and override bonus agreement are referred to hereafter as the " compensatory agreements " ) ; and 
+whereas , the company and executive now desire to amend certain of the compensatory agreements in order to more accurately reflect the likely exit transaction and to make certain conforming changes to the documents . 
+now , therefore , in consideration of the premises and mutual covenants and obligations set forth herein and for other good and valuable consideration , the receipt and sufficiency of which is hereby acknowledged and accepted , the parties hereto , intended to be legally bound , agree as follows : 
+{enum} amendments to employment agreement . 
+{enum} section 7a . 4 ( b ) of executive's employment agreement is hereby deleted in its entirety and replaced with the following : 
+" ( b ) the stockholders of the company approve a complete liquidation or dissolution of the company , but only if such approval occurs coincident with or following the sale or other disposition of greater than {num}% ( ninety-five percent ) , as defined by gross market value on october {num} {num} of the gross assets of the company . " 
+{enum} amendments to transaction incentive agreement . 
+{enum} section 5 ( a ) of the transaction incentive agreement is hereby deleted in its entirety and replaced with the following : 
+- 1 - 
+" ( a ) market value . for purposes of this agreement , " market value " shall mean the value of the company common stock with respect to the qualifying transaction , which shall be equal to the vwap ( as defined below ) for the five trading days immediately following the date of the qualifying transaction ; provided , however , that in the event the company ceases to be publicly traded as a stand-alone entity following the qualifying transaction , the market value shall instead be equal to the vwap ( as defined below ) for the five trading days ending on and including the day immediately prior to the date of the qualifying transaction . for purposes of the preceding sentence , " vwap " shall mean the " volume weighted average price " of the company's common stock for any day , as reported in a reputable published or online source selected by the company in good faith , or if no such calculation is available from a reputable published or online source , the " volume weighted average price " for such day may be calculated by the company or its designee using generally accepted industry standards ; provided , however , that in no circumstance shall such calculation take into account after-hours trading or other trading outside of regular trading sessions . 
+{enum} section 5 ( b ) ( ii ) of transaction incentive agreement is hereby deleted in its entirety and replaced with the following : 
+" ( ii ) the stockholders of the company approve a complete liquidation or dissolution of the company , but only if such approval occurs coincident with or following the sale or other disposition of greater than {num}% ( ninety-five percent ) , as defined by gross market value on october {num} {num} of the gross assets of the company . " 
+{enum} amendments to override bonus agreement . 
+{enum} section 2 of the override bonus agreement is hereby deleted in its entirety and replaced with the following : 
+" {num} override bonus . in the event the executive meets the eligible requirements set forth in section {num} he shall be eligible to earn an override bonus in accordance with this section . the override bonus shall be equal to the sum of ( i ) the cash award ( if any ) , plus ( ii ) the other stock based award ( if any ) and any related dividend equivalent amounts , plus ( iii ) the market value of the number of shares of restricted common stock that vest immediately prior to the qualifying transaction pursuant to the terms and conditions of the certain restricted stock award agreement between the company and executive as of the date herewith , along with the value of any related dividends related to such shares of restricted common stock . 
+{enum} section 4 ( a ) of the override bonus agreement is hereby deleted in its entirety and replaced with the following : 
+- 2 - 
+" ( a ) market value . for purposes of this agreement , " market value " shall mean the value of the company common stock with respect to the qualifying transaction , which shall be equal to the vwap ( as defined below ) for the five trading days immediately following the date of the qualifying transaction ; provided , however , that in the event the company ceases to be publicly traded as a stand-alone entity following the qualifying transaction , the market value shall instead be equal to the vwap ( as defined below ) for the five trading days ending on and including the day immediately prior to the date of the qualifying transaction . for purposes of the preceding sentence , " vwap " shall mean the " volume weighted average price " of the company's common stock for any day , as reported in a reputable published or online source selected by the company in good faith , or if no such calculation is available from a reputable published or online source , the " volume weighted average price " for such day may be calculated by the company or its designee using generally accepted industry standards ; provided , however , that in no circumstance shall such calculation take into account after-hours trading or other trading outside of regular trading sessions . 
+{enum} section 4 ( b ) ( ii ) of override bonus agreement is hereby deleted in its entirety and replaced with the following : 
+" ( ii ) the stockholders of the company approve a complete liquidation or dissolution of the company , but only if such approval occurs coincident with or following the sale or other disposition of greater than {num}% ( ninety-five percent ) , as defined by gross market value on october {num} {num} of the gross assets of the company . " 
+{enum} effect of amendments . except as expressly provided herein , all portions of the compensatory agreements shall continue unamended and in full force and effect . 
+{enum} counterparts . the amendment may be executed in counterparts . 
+- 3 - 
+in witness whereof , the company and the executive have duly executed this amendment effective as of the date first written above . 
+magellan petroleum corporation 
+by : / s / j . thomas wilson 
+name : j . thomas wilson 
+title : president 
+executive 
+/ s / antoine lafargue 
+antoine lafargue 
+- 4 - 

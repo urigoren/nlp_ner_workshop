@@ -1,0 +1,173 @@
+note - nonconvertible ( high oid ) 
+this note ( as defined below ) is issued in exchange for ( without any additional consideration ) the first exchange note ( as defined below ) . for purposes of rule {num} this note shall be deemed to have been issued on august {num} {num} 
+convertible promissory note 
+u . s . ${num} 
+" original issue date " : august {num} {num} 
+for value received , vapor hub international inc . , a nevada corporation ( " borrower " ) , promises to pay in lawful money of the united states of america to the order of iliad research and trading , l . p . , a utah limited partnership , or its successors or assigns ( " lender " ) , the principal sum of ${num} together with all other amounts due under this convertible promissory note ( this " note " ) . this note is issued pursuant to that certain exchange agreement with an effective date of july {num} {num} ( the " exchange date " ) , as the same may be amended from time to time ( the " exchange agreement " ) , by and between borrower and lender , pursuant to which lender exchanged the first exchange note ( as defined in the exchange agreement ) for this note , pursuant to section 3 ( a ) ( 9 ) of the securities act of {num} as amended . 
+{enum} 
+transaction documents . borrower and lender agree that the terms and provisions of the purchase agreement ( as defined in the exchange agreement ) and the other transaction documents ( as defined in the purchase agreement ) shall be deemed to apply in all respects to this note . all references in the purchase agreement and the other transaction documents to the term " note " shall be deemed to mean and refer to this note and not the original note ( as defined in the exchange agreement ) or the first exchange note . capitalized terms not defined herein shall have the same meaning as set forth in the exchange agreement . 
+{enum} 
+payment . borrower shall pay to lender the entire remaining outstanding balance of this note ( the " outstanding balance " ) in cash on or before july {num} {num} ( the " maturity date " ) . borrower will make all payments of sums due hereunder to lender at lender's address set forth in the purchase agreement , or at such other place as lender may designate in writing . unless otherwise agreed or required by applicable law , payments will be applied first to any unpaid collection costs and late charges , then to accrued interest and finally to principal . 
+{enum} 
+interest . interest shall accrue on the outstanding balance of this note at the rate of ten percent ( {num}% ) per annum from the exchange date until the same is paid in full ; provided , however , that upon the occurrence of an event of default ( as defined below ) , the outstanding balance of this note shall , upon written notice from lender to borrower , bear interest at the lesser of the rate of eighteen percent ( {num}% ) per annum or the maximum rate permitted by applicable law , and calculated on the basis of a {num}-day year , from the date the applicable event of default occurred until paid . 
+{enum} 
+exchange fee ; original issue discount ; transaction expenses . as set forth in the exchange agreement , borrower agreed to pay an exchange fee ( as defined in the exchange agreement ) in the amount of ${num} which exchange fee is included in the principal balance of this note and is fully earned as of the exchange date . in addition , in connection with the original note , borrower agreed to pay ${num} as an original issue discount and ${num} to lender to cover lender's legal fees , accounting costs , due diligence , monitoring and other transaction costs incurred in connection with the purchase and sale of the original note , all of which amounts were included in the initial principal balance of the original note and are included in the initial principal balance of this note , and all of which amounts are fully earned and payable as of the date hereof . last , in connection with the first exchange note , borrower agreed to pay an exchange fee in the amount of ${num} to lender , which amount was included in the initial principal balance of the first exchange 
+note and is included in the initial principal balance of this note , and which amount is fully earned and payable as of the date hereof . 
+{enum} 
+prepayment . borrower may pay without penalty all or a portion of the amounts owed earlier than they are due . early payments of less than all principal , fees and interest outstanding will not , unless agreed to by lender in writing , relieve borrower of any of borrower's obligations hereunder . 
+{enum} 
+conversions . 
+{num} 
+conversion price . subject to the adjustments set forth herein , the conversion price ( the " conversion price " ) for each conversion ( as defined below ) shall be equal to {num}% ( the " conversion factor " ) multiplied by the average of the three ( 3 ) lowest closing bid prices in the twenty ( {num} ) trading days immediately preceding the applicable conversion . 
+{num} 
+conversions . lender has the right at any time until the outstanding balance has been paid in full , at its election , to convert ( each instance of conversion is referred to herein as a " conversion " ) all or any part of the outstanding balance into shares ( " conversion shares " ) of fully paid and non-assessable common stock , ${num} par value per share ( " common stock " ) , of borrower as per the following conversion formula : the number of conversion shares equals the amount being converted ( the " conversion amount " ) divided by the conversion price . conversion notices in the form attached hereto as exhibit a ( each , a " conversion notice " ) may be effectively delivered to borrower by any method of lender's choice ( including but not limited to facsimile , email , mail , overnight courier , or personal delivery ) , and all conversions shall be cashless and not require further payment from lender . borrower shall deliver the conversion shares from any conversion to lender in accordance with section {num} below . 
+{num} 
+cash payment option . upon receipt of a conversion notice , borrower shall have the option , but not the obligation , to pay the applicable conversion amount in cash in lieu of delivering the conversion shares set forth in the applicable conversion notice ( the " cash payment option " ) . borrower may exercise the cash payment option by delivering the applicable conversion amount via wire transfer of immediately available funds to the account designated by lender within two ( 2 ) business days of borrower's receipt of the conversion notice . in the event borrower does not deliver the applicable conversion amount within such two ( 2 ) business day period , borrower will be deemed to have elected not to exercise its cash payment option and shall be obligated to deliver the applicable conversion shares in accordance with section {num} below . 
+{num} 
+method of conversion share delivery . in the event borrower elects not to exercise its cash payment option , on or before the close of business on the third ( 3 rd ) trading day following the delivery of a conversion notice ( the " delivery date " ) , borrower shall , provided it is dwac eligible ( as defined below ) at such time , deliver or cause its transfer agent to deliver the conversion shares electronically via dwac ( as defined below ) to the account designated by lender in the conversion notice . if borrower is not dwac eligible , it shall deliver to lender or its broker ( as designated in the conversion notice ) , via reputable overnight courier , a certificate representing the number of shares of common stock equal to the number of conversion shares to which lender shall be entitled , registered in the name of lender or its designee . for the avoidance of doubt , borrower has not met its obligation to deliver conversion shares by the delivery date unless lender or its broker , as applicable , has actually received the certificate representing the conversion shares no later than the close of business on the delivery date pursuant to the terms set forth above . moreover , and notwithstanding anything to the contrary herein or in any other transaction document , in the event borrower or its transfer agent refuses to deliver the conversion shares to lender on grounds that such issuance is in violation of rule {num} borrower shall deliver or cause its transfer agent to deliver the conversion shares to lender with a restricted securities legend , but otherwise in accordance with the provisions of this section {num} in conjunction therewith , borrower will also deliver to lender a written opinion from its 
+2 
+counsel or its transfer agent's counsel opining as to why the issuance of the conversion shares violates rule {num} 
+{num} 
+ownership limitation . notwithstanding anything to the contrary contained in this note or the other transaction documents , if at any time lender shall or would be issued shares of common stock under any of the transaction documents , but such issuance would cause lender ( together with its affiliates ) to beneficially own a number of shares exceeding {num}% of the number of shares of common stock outstanding on such date ( including for such purpose the shares of common stock issuable upon such issuance ) ( the " maximum percentage " ) , then borrower must not issue to lender shares of common stock which would exceed the maximum percentage . for purposes of this section , beneficial ownership of common stock will be determined pursuant to section {num} ( d ) of the securities exchange act of {num} as amended . the shares of common stock issuable to lender that would cause the maximum percentage to be exceeded are referred to herein as the " ownership limitation shares " . borrower will reserve the ownership limitation shares for the exclusive benefit of lender . from time to time , lender may notify borrower in writing of the number of the ownership limitation shares that may be issued to lender without causing lender to exceed the maximum percentage . upon receipt of such notice , borrower shall be unconditionally obligated to immediately issue such designated shares to lender , with a corresponding reduction in the number of the ownership limitation shares . by written notice to borrower , lender may increase , decrease or waive the maximum percentage as to itself but any such waiver will not be effective until the {num}st day after delivery thereof . the foregoing {num}-day notice requirement is enforceable , unconditional and non-waivable and shall apply to all affiliates and assigns of lender . 
+{num} 
+certain definitions . certain terms used in this section 6 are defined as follows : 
+{enum} 
+" bloomberg " means bloomberg l . p . ( or if that service is not then reporting the relevant information regarding the common stock , a comparable reporting service of national reputation selected by lender and reasonably satisfactory to borrower ) . 
+{enum} 
+" closing bid price " and " closing trade price " means the last closing bid price and last closing trade price , respectively , for the common stock on its principal market , as reported by bloomberg , or , if its principal market begins to operate on an extended hours basis and does not designate the closing bid price or the closing trade price ( as the case may be ) then the last bid price or last trade price , respectively , of the common stock prior to 4 : {num} : {num} p . m . , new york time , as reported by bloomberg , or , if its principal market is not the principal securities exchange or trading market for the common stock , the last closing bid price or last trade price , respectively , of the common stock on the principal securities exchange or trading market where the common stock is listed or traded as reported by bloomberg , or if the foregoing do not apply , the last closing bid price or last trade price , respectively , of the common stock in the over-the-counter market on the electronic bulletin board for the common stock as reported by bloomberg , or , if no closing bid price or last trade price , respectively , is reported for the common stock by bloomberg , the average of the bid prices , or the ask prices , respectively , of any market makers for the common stock as reported by otc markets group , inc . , and any successor thereto . 
+{enum} 
+" dtc " means the depository trust company or any successor thereto . 
+{enum} 
+" dtc / fast program " means dtc's fast automated securities transfer program . 
+{enum} 
+" dwac " means the dtc's deposit / withdrawal at custodian system . 
+{enum} 
+" dwac eligible " means that ( i ) borrower's common stock is eligible at dtc for full services pursuant to dtc's operational arrangements , including without limitation transfer through dtc's dwac system , ( ii ) borrower has been approved ( without revocation ) by dtc's 
+3 
+underwriting department , ( iii ) borrower's transfer agent is approved as an agent in the dtc / fast program , ( iv ) the conversion shares are otherwise eligible for delivery via dwac ; ( v ) borrower has previously delivered all conversion shares to lender via dwac ; and ( vi ) borrower's transfer agent does not have a policy prohibiting or limiting delivery of the conversion shares via dwac . 
+{enum} 
+" free trading " means that ( i ) the conversion shares have been cleared and approved for public resale by the compliance departments of lender's brokerage firm and the clearing firm servicing such brokerage , and ( ii ) such conversion shares are held in the name of the clearing firm servicing lender's brokerage firm and have been deposited into such clearing firm's account for the benefit of lender . 
+{enum} 
+" trading day " means any day on which the new york stock exchange is open for trading . 
+{enum} 
+event of default . the occurrence and continuance of any of the following shall constitute an " event of default " under this note : 
+{num} 
+failure to pay . borrower shall fail to pay when due , whether at stated maturity , upon acceleration or otherwise , any principal or interest payment , or any other payment required under the terms of this note on the date due . 
+{num} 
+failure to deliver conversion shares . borrower shall fail to deliver any conversion shares to lender in accordance with the terms hereof . 
+{num} 
+breaches of covenants . borrower or any other person or entity fails to comply with or to perform when due any other term , obligation , covenant , or condition contained in this note , in the purchase agreement , in the exchange agreement , any other transaction document , or in any other agreement securing payment of this note and such failure to comply or perform when due is not cured within three ( 3 ) days of the initial occurrence of such failure to comply or perform when due . 
+{num} 
+representations and warranties . any representation or warranty made by borrower to lender in this note , the purchase agreement , the exchange agreement , any other transaction document , or any related agreement shall be materially false , incorrect , incomplete or misleading in any material respect when made or furnished . 
+{num} 
+voluntary bankruptcy or insolvency proceedings . borrower shall ( i ) apply for or consent to the appointment of a receiver , trustee , liquidator or custodian of itself or of all or a substantial part of its property , ( ii ) be unable , or admit in writing its inability , to pay its debts generally as they mature , ( iii ) make a general assignment for the benefit of its or any of its creditors , ( iv ) be dissolved or liquidated , or ( v ) commence a voluntary case or other proceeding seeking liquidation , reorganization or other relief with respect to itself or its debts under any bankruptcy , insolvency or other similar law now or hereafter in effect or consent to any such relief or to the appointment of or taking possession of its property by any official in an involuntary case or other proceeding commenced against it . 
+{num} 
+involuntary bankruptcy or insolvency proceedings . proceedings for the appointment of a receiver , trustee , liquidator , or custodian of borrower or of all or a substantial part of its property , or an involuntary case or other proceedings seeking liquidation , reorganization , or other relief with respect to borrower or its debts under any bankruptcy , insolvency or other similar law now or hereafter in effect shall be commenced and an order for relief entered or such proceeding shall not be dismissed or discharged within sixty ( {num} ) days of commencement . 
+4 
+{num} 
+government action . if any governmental or regulatory authority takes or institutes any action that will materially affect borrower's financial condition , operations or ability to pay or perform borrower's obligations under this note . 
+{num} 
+judgment . a judgment or judgments for the payment of money in excess of the sum of ${num} in the aggregate shall be rendered against borrower and either ( i ) the judgment creditor executes on such judgment or ( ii ) such judgment remains unpaid or undischarged for more than sixty ( {num} ) days from the date of entry thereof or such longer period during which execution of such judgment shall be stayed during an appeal from such judgment . 
+{num} 
+attachment . any execution or attachment shall be issued whereby any substantial part of the property of borrower shall be taken or attempted to be taken and the same shall not have been vacated or stayed within thirty ( {num} ) days after the issuance thereof . 
+{num} 
+failure to make required filings . borrower shall become delinquent in its filing requirements as a fully-reporting issuer registered with the united states securities and exchange commission . 
+{num} 
+trading suspension . trading in borrower's common stock shall be suspended , halted , frozen , chilled , reach zero bid or shall otherwise cease trading on borrower's principal trading market . 
+{num} 
+cross default . borrower breaches or any event of default occurs under any term or provision of any other agreement ( as defined hereafter ) , which breach or default , if capable of being cured , is not cured within ten ( {num} ) days following delivery of written notice of such breach or default by lender to borrower . for purposes hereof , " other agreement " means collectively , ( i ) all existing and future agreements and instruments between , among or by borrower ( or an affiliate ) , on the one hand , and lender ( or an affiliate ) , on the other hand , and ( ii ) any financing agreement or a material agreement that affects borrower's ongoing business operations , excluding in both cases the transaction documents . 
+{num} 
+share reserve . borrower shall fail to maintain the share reserve as required by the exchange agreement . 
+{enum} 
+acceleration ; remedies . 
+{num} 
+at any time following the occurrence of an event of default ( other than an event of default referred to in sections {num} and {num} ) , lender may , by written notice to borrower , declare all unpaid principal , plus all accrued interest and other amounts due hereunder to be immediately due and payable at the mandatory default amount ( as defined below ) without presentment , demand , protest or any other notice of any kind , all of which are hereby expressly waived , anything contained herein to the contrary notwithstanding . upon the occurrence or existence of any event of default described in sections {num} and {num} immediately and without notice , all outstanding unpaid principal , plus all accrued interest and other amounts due hereunder shall automatically become immediately due and payable at the mandatory default amount , without presentment , demand , protest or any other notice of any kind , all of which are hereby expressly waived , anything contained herein to the contrary notwithstanding . in addition to the foregoing remedies , upon the occurrence or existence of any event of default , lender may exercise any other right , power or remedy permitted to it by law , either by suit in equity or by action at law , or both . for purposes hereof , the term " mandatory default amount " means an amount equal to {num}% of the outstanding balance of this note as of the date the event of default occurred , plus all interest , fees , and charges that may accrue on such outstanding balance thereafter . 
+{num} 
+upon the occurrence of a change in control ( as defined below ) , and without further notice to borrower , all unpaid principal , plus all accrued interest and other amounts due 
+5 
+hereunder , shall become immediately due and payable . for purposes hereof , a " change in control " means a sale of all or substantially all of a borrower's assets , or a merger , consolidation , significant equity financing , or other capital reorganization of borrower with or into another company ; provided however that a merger , consolidation , significant equity financing , or other capital reorganization in which the holders of more than fifty percent ( {num}% ) of the equity of borrower outstanding immediately prior to such transaction continue to hold ( either by the voting securities remaining outstanding or by being converted into voting securities of the surviving entity ) more than fifty percent ( {num}% ) of the total voting power represented by the voting securities of such borrower , or such surviving entity , outstanding immediately after such transaction shall not constitute a change in control . 
+{enum} 
+unconditional obligation ; no offset . borrower acknowledges that this note is an unconditional , valid , binding and enforceable obligation of borrower not subject to offset , deduction or counterclaim of any kind . borrower hereby waives any rights of offset it now has or may have hereafter against lender , its successors and assigns , and agrees to make all payments due hereunder in accordance with the terms of this note . 
+{enum} 
+no usury . notwithstanding any other provision contained in this note or in any instrument given to evidence the obligations evidenced hereby : ( a ) the rates of interest and charges provided for herein and therein shall in no event exceed the rates and charges which result in interest being charged at a rate equaling the maximum allowed by law ; and ( b ) if , for any reason whatsoever , lender ever receives as interest in connection with the transaction of which this note is a part an amount which would result in interest being charged at a rate exceeding the maximum allowed by law , such amount or portion thereof as would otherwise be excessive interest shall automatically be applied toward reduction of the unpaid principal balance then outstanding hereunder and not toward payment of interest . 
+{enum} 
+attorneys' fees . if this note is placed in the hands of an attorney for collection or enforcement prior to commencing arbitration or legal proceedings , or is collected or enforced through any arbitration or legal proceeding , or lender otherwise takes action to collect amounts due under this note or to enforce the provisions of this note , then borrower shall pay the costs incurred by lender for such collection , enforcement or action including , without limitation , reasonable attorneys' fees and disbursements . 
+{enum} 
+governing law ; venue . this note shall be construed and enforced in accordance with , and all questions concerning the construction , validity , interpretation and performance of this note shall be governed by , the internal laws of the state of utah , without giving effect to any choice of law or conflict of law provision or rule ( whether of the state of utah or any other jurisdictions ) that would cause the application of the laws of any jurisdictions other than the state of utah . the provisions set forth in the purchase agreement to determine the proper venue for any disputes are incorporated herein by this reference . 
+{enum} 
+arbitration of disputes . borrower agrees that any dispute arising under this note shall be subject to the arbitration provisions ( as defined in the purchase agreement ) set forth as an exhibit to the purchase agreement . 
+{enum} 
+waivers . borrower hereby waives presentment , notice of nonpayment , notice of dishonor , protest , demand and diligence . 
+{enum} 
+loss or mutilation . on receipt by borrower of evidence reasonably satisfactory to borrower of the loss , theft , destruction or mutilation of this note and , in the case of any such loss , theft or destruction of this note , on delivery of an indemnity agreement reasonably satisfactory in form and amount to borrower or , in the case of any such mutilation , on surrender and cancellation of such note , borrower at its expense will execute and deliver , in lieu thereof , a new note of like tenor . 
+6 
+{enum} 
+notices . any notice required or permitted hereunder shall be given in the manner provided in the subsection titled " notices " in the purchase agreement , the terms of which are incorporated herein by this reference . 
+{enum} 
+amendment and waiver . this note and its terms and conditions may be amended , waived or modified only in writing by borrower and lender . 
+{enum} 
+severability . if any part of this note is construed to be in violation of any law , such part shall be modified to achieve the objective of the parties to the fullest extent permitted and the balance of this note shall remain in full force and effect . 
+{enum} 
+assignments . borrower may not assign this note without the prior written consent of lender . this note may be offered , sold , assigned or transferred by lender without the consent of borrower . 
+{enum} 
+final note . this note , together with the exchange agreement and the other transaction documents , contains the complete understanding and agreement of borrower and lender and supersedes all prior representations , warranties , agreements , arrangements , understandings , and negotiations . this note , together with the exchange agreement and the other transaction documents , represents the final agreement between the parties and may not be contradicted by evidence of any alleged prior , contemporaneous , or subsequent oral agreements of the parties . there are no unwritten oral agreements between the parties . 
+{enum} 
+waiver of jury trial . borrower irrevocably waives any and all rights it may have to demand that any action , proceeding or counterclaim arising out of or in any way related to this note or the relationships of the parties hereto be tried by jury . this waiver extends to any and all rights to demand a trial by jury arising under common law or any applicable statute , law , rule or regulation . further , borrower acknowledges that it knowingly and voluntarily is waiving such party's right to demand trial by jury . 
+{enum} 
+time is of the essence . time is of the essence of this note and each and every provision hereof in which time is an element . 
+{enum} 
+liquidated damages . lender and borrower agree that in the event borrower fails to comply with any of the terms or provisions of this note , lender's damages would be uncertain and difficult ( if not impossible ) to accurately estimate because of the parties' inability to predict future interest rates and other relevant factors . accordingly , lender and borrower agree that any fees , balance adjustments , default interest or other charges assessed under this note are not penalties but instead are intended by the parties to be , and shall be deemed , liquidated damages . 
+remainder of page intentionally left blank 
+7 
+in witness whereof , borrower has caused this note to be issued as of the date first set forth above . 
+borrower : 
+vapor hub international inc . 
+by : 
+name : 
+title : 
+signature page to convertible promissory note 
+exhibit a 
+iliad research and trading , l . p . 
+{num} east wacker drive , suite {num} 
+chicago , illinois {num} 
+vapor hub international inc . 
+date : __________________ 
+attn : _________________ 
+{num} tapo street 
+simi valley , california {num} 
+conversion notice 
+the above-captioned lender hereby gives notice to vapor hub international inc . , a nevada corporation ( the " borrower " ) , pursuant to that certain convertible promissory note made by borrower in favor of lender with an original issue date of august {num} {num} ( the " note " ) , that lender elects to convert the portion of the note balance set forth below into fully paid and non-assessable shares of common stock of borrower as of the date of conversion specified below . said conversion shall be based on the conversion price set forth below . in the event of a conflict between this conversion notice and the note , the note shall govern , or , in the alternative , at the election of lender in its sole discretion , lender may provide a new form of conversion notice to conform to the note . capitalized terms used in this notice without definition shall have the meanings given to them in the note . 
+{enum} 
+date of conversion : 
+____________ 
+{enum} 
+conversion # : 
+____________ 
+{enum} 
+conversion amount : 
+____________ 
+{enum} 
+conversion price : _______________ 
+{enum} 
+conversion shares : _______________ ( c divided by d ) 
+{enum} 
+remaining outstanding balance of note : ____________ 
+subject to adjustments for corrections , defaults , interest and other adjustments permitted by the transaction documents ( as defined in the purchase agreement ) , the terms of which shall control in the event of any dispute between the terms of this conversion notice and such transaction documents . 
+please transfer the conversion shares electronically ( via dwac ) to the following account : 
+broker : 
+address : 
+dtc# : 
+account # : 
+account name : 
+to the extent the conversion shares are not able to be delivered to lender electronically via the dwac system , deliver all such certificated shares to lender via reputable overnight courier after receipt of this conversion notice ( by facsimile transmission or otherwise ) to : 
+_____________________________________ 
+_____________________________________ 
+_____________________________________ 
+remainder of page intentionally left blank 
+sincerely , 
+lender : 
+iliad research and trading , l . p . 
+by : iliad management , llc , it general partner 
+by : fife trading , inc . , its manager 
+by : 
+john m . fife , president 

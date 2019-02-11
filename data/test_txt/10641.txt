@@ -1,0 +1,206 @@
+exhibit {num} 
+fourth amendment to 
+revolving credit and term loan agreement 
+this fourth amendment to revolving credit and term loan agreement , dated as of august {num} {num} ( this " amendment " ) , is made by and among liberty tax , inc . , a delaware corporation , formerly known as jth holding , inc . , a delaware corporation ( the " borrower " ) , suntrust bank , in its capacity as administrative agent ( the " administrative agent " ) for the lenders ( as defined in the credit agreement defined below ) and as issuing bank ( the " issuing bank " ) and swingline lender ( the " swingline lender " ) , the lenders party hereto , jth tax , inc . , a delaware corporation ( " jth " ) , lts properties , llc , a virginia limited liability company ( " properties " ) , lts software inc . , a virginia corporation ( " software " ) , wefile inc . , a virginia corporation ( " wefile " ) , jth financial , llc , a virginia limited liability company ( " jth financial " ) , jth properties {num} llc , a virginia limited liability company ( " {num} " ) , siempretax+ llc , a virginia limited liability company , formerly known as hispanic tax , llc , a virginia limited liability company ( " siempretax " ) , jth tax office properties , llc , a virginia limited liability company ( " jth office " ) , aca healthquest , llc , a virginia limited liability company ( " aca healthquest " ) , jth new ventures , llc , a virginia limited liability company ( " jth new ventures " ) , jth court plaza , llc , a virginia limited liability company ( " jth court plaza " ) , and jth publishing , llc , a virginia limited liability company ( " jth publishing " ) , and tiger business services , llc , a virginia limited liability company ( " tiger business , " and together with jth , properties , software , wefile , jth financial , {num} siempretax , jth office , aca healthquest , jth new ventures , jth court plaza and jth publishing , collectively , the " subsidiary loan parties , " and together with the borrower , collectively , the " loan parties , " and individually , a " loan party " ) . 
+recitals : 
+whereas , the borrower , the lenders and the administrative agent are parties to the revolving credit and term loan agreement , dated as of april {num} {num} as amended by the waiver and amendment to revolving credit and term loan agreement , dated as of december {num} {num} by and among borrower , the other loan parties party thereto , certain of the lenders , and the administrative agent , as amended by the supplement and joinder agreement , dated as of december {num} {num} by and among borrower , the other loan parties party thereto , certain of the lenders , and the administrative agent , as amended by the waiver to revolving credit and term loan agreement , dated as of march {num} {num} by and among borrower , the other loan parties party thereto , certain of the lenders , and the administrative agent , as amended by the standstill agreement dated as of august {num} {num} by and among borrower , the other loan parties party thereto , certain of the lenders , and the administrative agent , as amended by the waiver to revolving credit and term loan agreement dated as of august {num} {num} by and among borrower , the other loan parties party thereto , certain of the lenders , and the administrative agent , as amended by the second amendment to revolving credit and term loan agreement dated as of october {num} {num} by and among borrower , the other loan parties party thereto , the lenders party thereto , and the administrative agent , as amended by the supplement and joinder agreement , dated as of october {num} {num} by and among the borrower , the other loan parties , the lenders party thereto and the administrative agent , as amended by the third amendment to revolving credit and term loan agreement dated as of september {num} {num} by and among borrower , the other loan parties party thereto , the lenders party thereto , and the administrative agent ( as further amended , supplemented , amended and restated or otherwise modified through the date hereof , the " credit agreement " ) . capitalized terms defined in the credit agreement and undefined herein shall have the same defined meanings when such terms are used in this amendment ; 
+whereas , the borrower has sold and transferred all of the outstanding equity interests of unified partners , llc , a virginia limited liability company ( " unified " ) , to a third party pursuant to that certain membership purchase agreement , dated as of february {num} {num} by and between aca healthquest , llc and steven doletzky ; and 
+whereas the borrower has requested that the administrative agent and the lenders amend certain provisions of the credit agreement ; and 
+whereas , the administrative agent and the lenders have agreed , subject to the terms and conditions hereinafter set forth , to amend certain provisions of the credit agreement as herein provided . 
+now , therefore , in consideration of the premises and for other good and valuable consideration ( the receipt and sufficiency of which is hereby acknowledged ) , the parties hereto hereby agree as follows : 
+{enum} incorporation of recitals . the foregoing recitals to this amendment are incorporated in and made a part of this amendment to the same extent and the same effect as if fully set forth herein . 
+{enum} amendments to the credit agreement . the loan parties , the administrative agent and the lenders agree that the credit agreement is amended as follows : 
+{enum} the following definitions are hereby inserted in section {num} of the credit agreement , to appear in proper alphabetical order , to read in their respective entireties as follow : 
+" fatca " shall mean sections {num} through {num} of the code , as of the date of this agreement ( or any amended or successor version that is substantively comparable and not materially more onerous to comply with ) , any current or future regulations or official interpretations thereof and any agreements entered into pursuant to section {num} ( b ) ( 1 ) of the code . 
+" fourth amendment " shall mean the fourth amendment to revolving credit and term loan agreement , dated as of august {num} {num} by and among the borrower , the other loan parties , the lenders party thereto and the administrative agent . 
+" fourth amendment effective date " shall mean the fourth amendment effective date ( as such term is defined in the fourth amendment ) . 
+" ofac " shall mean the u . s . department of the treasury's office of foreign assets control . 
+" sanctioned country " shall mean , at any time , a country , region or territory that is , or whose government is , the subject or target of any sanctions . 
+" sanctioned person " shall mean , at any time , ( a ) any person listed in any sanctions-related list of designated persons maintained by ofac , the u . s . department of state , the united nations security council , the european union or any eu member state , ( b ) any person located , organized or resident in a sanctioned country or ( c ) any person controlled by any such person . 
+" sanctions " shall mean economic or financial sanctions or trade embargoes administered , imposed , enacted or enforced from time to time by ( a ) the u . s . government , including those administered by ofac or the u . s . department of state or ( b ) the united nations security council , the european union or her majesty's treasury of the united kingdom . 
+{enum} the definition of the term " fee letter " contained in section {num} of the credit agreement and the usages thereof in the credit agreement and the other loan documents shall be deemed to include a reference to any separate letter agreement ( s ) relating to any fees payable to the administrative agent and / or a lead arranger . 
+{enum} section {num} ( b ) of the credit agreement is amended to add the phrase " or liquidity " immediately following each instance of the phrases " capital requirements " and " capital adequacy " . 
+{enum} section {num} ( a ) of the credit agreement is amended to add the phrases " or withhold " , " or withholding " , " or withholdings " and " or withheld " immediately following each instance of the terms " deduct " , " deduction " , " deductions " and " deducted " , as applicable . 
+{enum} a new section {num} ( f ) is hereby added to the credit agreement to appear in the proper numerical and alphabetical order , and to read in its entirety as follows : 
+{enum} if a payment made to a lender hereunder would be subject to u . s . federal withholding tax imposed by fatca if such lender were to fail to comply with the applicable reporting requirements of fatca ( including those contained in section {num} ( b ) or {num} ( b ) of the code , as applicable ) , such lender shall deliver to the borrower and the administrative agent at the time or times prescribed by law and at such time or times reasonably requested by the borrower or the administrative agent such documentation prescribed by applicable law ( including as prescribed by section {num} ( b ) ( 3 ) ( c ) ( i ) of the code ) and such additional documentation reasonably requested by the borrower or the administrative agent as may be necessary for the borrower and the administrative agent to comply with their obligations under fatca and to determine that such lender has complied with such lender's obligations under fatca or to determine the amount to deduct and withhold from such payment . each lender agrees that if any form or certification it previously delivered expires or becomes obsolete or inaccurate in any respect , it shall update such form or certification or promptly notify the borrower and the administrative agent in writing of its legal inability to do so . solely for purposes of this clause ( d ) , " fatca " shall include any amendments made to fatca after the fourth amendment effective date . 
+{enum} the first sentence of section {num} ( a ) of the credit agreement is amended to replace the " and " preceding clause ( iv ) with a comma , and to insert the following as clause ( v ) thereof : 
+and ( v ) the borrower shall not request , and the issuing bank shall have no obligation to issue , any letter of credit the proceeds of which would be made available to any person ( a ) to fund any activity or business of or with any sanctioned person or in any sanctioned countries , that , at the time of such funding , is the subject of any sanctions or ( b ) in any manner that would result in a violation of any sanctions by any party to this agreement . 
+{enum} section {num} ( b ) ( i ) of the credit agreement is amended to add the phrase " or liquidity requirement " immediately following the phrase " capital requirement " . 
+{enum} section {num} of the credit agreement is amended to add the following immediately following the phrase " no loan party " : 
+nor any subsidiary nor any of its respective officers or employees , nor to the knowledge of any loan party , any director , agent or affiliate thereof 
+{enum} each of clauses ( i ) and ( ii ) of section {num} of the credit agreement are amended to add " or any sanctions " at the end thereof . 
+{enum} section {num} of the credit agreement is hereby amended to delete the final sentence thereof . 
+{enum} the following is hereby inserted as section {num} of the credit agreement , to appear in proper numerical order , to read in its entirety as follows : 
+section {num} sanctions . none of ( a ) the loan parties , nor any of their subsidiaries nor any of their respective officers or employees , nor , to the knowledge of any loan party , any of their respective directors , agents or affiliates thereof , is an individual or entity that is , or is owned or controlled by any individual or entity that is ( i ) currently the subject or target of any sanctions , ( ii ) is a sanctioned person or ( iii ) located , organized or resident in a sanctioned country . 
+{enum} the following is hereby inserted as section {num} of the credit agreement , to appear in proper numerical order , to read in its entirety as follows : 
+section {num} anti-corruption laws . the loan parties and their subsidiaries have conducted their businesses in compliance in all material respects with the united states foreign corrupt practices act of {num} the uk bribery act {num} and other similar and applicable anti-corruption legislation or laws in other jurisdictions and have instituted and maintained policies and procedures designed to promote and achieve compliance with such laws . 
+{enum} clause ( a ) of section {num} of the credit agreement is amended to read in its entirety as follows : 
+{enum} as of the end of the third fiscal quarter of each fiscal year of the borrower , a leverage ratio of not greater than {num} : {num} and 
+{enum} the following is hereby inserted as section {num} of the credit agreement , to appear in proper numerical order , to read in its entirety as follows : 
+section {num} sanctions . the borrower will not , and will not permit any subsidiary to , use any loan or letter of credit or the proceeds of any loan and / or letter of credit , or lend , contribute or otherwise make available any loan or letter credit or the proceeds of any loan or letter of credit to any sanctioned person , to fund any activities of or business with any sanctioned person or in any sanctioned country , or in any other manner that will result in a violation by any person ( including any person participating in the transaction , whether as a lead arranger , the administrative agent , any lender ( including a swingline lender ) or the issuing bank or otherwise ) of sanctions . 
+{enum} the following is hereby inserted as section {num} of the credit agreement , to appear in proper numerical order , to read in its entirety as follows : 
+section {num} anti-corruption laws . the borrower will not , and will not permit any subsidiary to , use any loan or letter of credit or the proceeds therefrom for any purpose that would violate the foreign corrupt practices act of {num} the uk bribery act {num} and any similar anti-corruption legislation or laws in any other jurisdiction . 
+{enum} except as specifically modified by this amendment , the terms and provisions of the credit agreement are ratified and confirmed by the parties hereto and remain in full force and effect . 
+{enum} each of the borrower , the other loan parties , the administrative agent and each lender agrees that , as of and after the fourth amendment effective date ( as hereinafter defined ) , each reference in the loan documents to the credit agreement shall be deemed to be a reference to the credit agreement as amended hereby . 
+{enum} conditions to effectiveness of this amendment . this amendment and the amendments contained herein shall become effective on the date ( the " fourth amendment effective date " ) when each of the conditions set forth below shall have been fulfilled to the satisfaction of the administrative agent : 
+{enum} the administrative agent shall have received counterparts of this amendment , duly executed and delivered on behalf of the borrower , the other loan parties , the administrative agent and the lenders party hereto . 
+{enum} no event shall have occurred and be continuing that constitutes an event of default , or that would constitute an event of default but for the requirement that notice be given or that a period of time elapse , or both . 
+{enum} all representations and warranties of the borrower contained in the credit agreement , and all representations and warranties of each other loan party in each loan document to which it is a party , shall be true and correct in all material respects ( or , if qualified by materiality , in all respects ) at the fourth amendment effective date as if made on and as of such fourth amendment effective date , except that ( a ) any representation or warranty relating to any financial statements shall be deemed to be applicable to the financial statements most recently delivered to the administrative agent in accordance with the provisions of the loan documents and ( b ) each other representation or warranty expressly stated to be made as of the closing date shall not be deemed to have been repeated as of any date other than the closing date . 
+{enum} the borrower shall have delivered to the administrative agent ( 1 ) certified copies of evidence of all corporate and company actions taken by the borrower and the other loan parties to authorize the execution and delivery of this amendment , ( 2 ) certified copies of any amendments to the articles or certificate of incorporation , formation or organization , bylaws , partnership certificate or operating agreement of the borrower and each other loan party since the date of the credit agreement or , as applicable , the joinder of a loan party to the loan documents , ( 3 ) a certificate of incumbency for the officers or other authorized agents , members or partners of the borrower and each other loan party executing this amendment and the other loan documents related hereto and ( 4 ) such additional supporting documents as the administrative agent or counsel for the administrative agent reasonably may request . 
+{enum} intentionally deleted . 
+{enum} intentionally deleted . 
+{enum} all documents delivered pursuant to this amendment must be of form and substance satisfactory to the administrative agent and its counsel , and all legal matters incident to this amendment must be satisfactory to the administrative agent's counsel . 
+{enum} payment by the borrower in immediately available funds of the fees agreed to in the fee letter entered into in connection with this amendment and the fees and expenses required to be paid by section {num} of this amendment . 
+{enum} intentionally deleted . 
+{enum} amendment only ; no novation ; modification of loan documents . each of the borrower and each other loan party acknowledges and agrees that this amendment only amends the terms of the credit agreement and the other loan documents and does not constitute a novation , and each of the borrower and each other loan party ratifies and confirms the terms and provisions of , and its obligations under , the credit agreement and the other loan documents in all respects . each of the borrower and each other loan party acknowledges and agrees that each reference in the loan documents to any particular loan document shall be deemed to be a reference to such loan document as amended by this amendment . to the extent of a conflict between the terms of any loan document and the terms of this amendment , the terms of this amendment shall control . 
+{enum} successors and assigns . this amendment shall be binding upon and inure to the benefit of the borrower , the other loan parties , the lenders and the administrative agent and their respective successors and assigns . 
+{enum} no further amendments . nothing in this amendment or any prior amendment to the loan documents shall require the administrative agent or any lender to grant any further amendments to the terms of the loan documents . each of the borrower and each other loan party acknowledges and agrees that there are no defenses , counterclaims or setoffs against any of their respective obligations under the loan documents . 
+{enum} representations and warranties . each of the borrower and each other loan party represents and warrants that this amendment has been duly authorized , executed and delivered by it in accordance with resolutions adopted by its board of directors or comparable managing body . all other representations and warranties made by the borrower and each other loan party in the loan documents are incorporated by reference in this amendment and are deemed to have been repeated as of the date of this amendment with the same force and effect as if set forth in this amendment , except that ( a ) any representation or warranty relating to any financial statements shall be deemed to be applicable to the financial statements most recently delivered to the administrative agent in accordance with the provisions of the loan documents and ( b ) each other representation or warranty expressly stated to be made as of the closing date shall not be deemed to have been repeated as of any date other than the closing date . each of the borrower and each other loan party represents and warrants to the administrative agent , the lenders and the issuing bank that , after giving effect to the terms of this amendment , no default has occurred and been continuing . 
+{enum} no implied waivers . each of the borrower and each other loan party acknowledges and agrees that the amendments contained herein shall not constitute a waiver , express or implied , of any default , event of default , covenant , term or provision of the credit agreement or any of the other loan documents , nor shall they create any obligation , express or implied , on the part of the administrative agent or any other lender to waive , or to consent to any amendment of , any existing or future default , event of default or violation of any covenant , term or provision of the credit agreement or any of the other loan documents . the administrative agent and the lenders shall be entitled to require strict compliance by the borrower and the other loan parties with the credit agreement and each of the other loan documents , and nothing herein shall be deemed to establish a course of action or a course of dealing with respect to requests by the borrower or any other loan party for waivers or amendments of any default , event of default , covenant , term or provision of the credit agreement or any of the other loan documents . 
+{enum} confirmation of lien . each of the borrower and each other loan party hereby acknowledges and agrees that the collateral is and shall remain in all respects subject to the lien , charge and encumbrance of the credit agreement and the other loan documents and nothing herein contained , and nothing done pursuant hereto , shall adversely affect or be construed to adversely affect the lien , charge or encumbrance of , or conveyance effected by the loans or the priority thereof over other liens , charges , encumbrances or conveyances . 
+{enum} ratification . the terms of the credit agreement and the other loan documents shall remain in full force and effect and are ratified and affirmed by the borrower and each other loan party . 
+{enum} fees and expenses . the borrower agrees to pay all out-of-pocket costs and expenses of the administrative agent and its affiliates , including the fees , charges and disbursements of counsel for the administrative agent and its affiliates , in connection with the preparation and administration of this amendment . 
+{enum} severability . any provision of this amendment held to be illegal , invalid or unenforceable in any jurisdiction , shall , as to such jurisdiction , be ineffective to the extent of such illegality , invalidity or unenforceability without affecting the legality , validity or enforceability of the remaining provisions hereof ; and the illegality , invalidity or unenforceability of a particular provision in a particular jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction . 
+{enum} governing law . this amendment shall be construed in accordance with and be governed by the law ( without giving effect to the conflict of law principles thereof ) of the commonwealth of virginia . this amendment will be deemed to be a contract made under and governed by the laws of the commonwealth of virginia . 
+{enum} counterparts . this amendment may be executed by one or more of the parties to this amendment on any number of separate counterparts ( including by telecopy ) , and all of said counterparts taken together shall be deemed to constitute one and the same instrument . it shall not be necessary that the signature of , or on behalf of , each party , or that the signatures of the persons required to bind any party , appear on more than one counterpart . 
+{enum} intentionally deleted . 
+remainder of page intentionally left blank 
+in witness whereof , the parties hereto have caused this amendment to be duly executed by their respective duly authorized representatives all as of the day and year first above written . 
+borrower : 
+liberty tax , inc . , a delaware corporation , formerly known as jth holding , inc . , a delaware corporation 
+by : / s / kathleen e . donovan 
+name : kathleen e . donovan 
+title : chief financial officer 
+subsidiary loan parties : 
+jth tax , inc . , a delaware corporation 
+by : / s / kathleen e . donovan 
+name : kathleen e . donovan 
+title : chief financial officer 
+lts properties , llc , a virginia limited liability company 
+by : jth tax , inc . , its manager 
+by : / s / kathleen e . donovan 
+name : kathleen e . donovan 
+title : chief financial officer 
+lts software inc . , a virginia corporation 
+by : / s / kathleen curry 
+name : kathleen curry 
+title : president 
+wefile inc . , a virginia corporation 
+by : / s / kathleen curry 
+name : kathleen curry 
+title : president 
+signature page to fourth amendment to revolving credit and term loan agreement 
+jth financial , llc , a virginia limited liability company 
+by : / s / kathleen e . donovan 
+name : kathleen e . donovan 
+title : chief financial officer 
+jth properties {num} llc , a virginia limited liability company 
+by : jth financial , llc , a virginia limited liability company , manager 
+by : / s / kathleen e . donovan 
+name : kathleen e . donovan 
+title : chief financial officer 
+siempretax+ llc , a virginia limited liability company , formerly known as hispanic tax , llc , a virginia limited liability company 
+by : liberty tax , inc . , a delaware corporation , manager 
+by : / s / kathleen e . donovan 
+name : kathleen e . donovan 
+title : chief financial officer 
+jth tax office properties , llc , a virginia limited liability company 
+by : liberty tax , inc . , a delaware corporation , manager 
+by : / s / kathleen e . donovan 
+name : kathleen e . donovan 
+title : chief financial officer 
+signature page to fourth amendment to revolving credit and term loan agreement 
+aca healthquest , llc , a virginia limited liability company 
+by : liberty tax , inc . , a delaware corporation , manager 
+by : / s / kathleen e . donovan 
+name : kathleen e . donovan 
+title : chief financial officer 
+jth new ventures , llc , a virginia limited liability company 
+by : jth financial , llc , a virginia limited liability company , manager 
+by : / s / kathleen e . donovan 
+name : kathleen e . donovan 
+title : chief financial officer 
+signatures continue on following pages 
+signature page to fourth amendment to revolving credit and term loan agreement 
+jth court plaza , llc , a virginia limited liability company 
+by : jth tax , inc . , its manager 
+by : / s / kathleen e . donovan 
+name : kathleen e . donovan 
+title : chief financial officer 
+jth publishing , llc , a virginia limited liability company 
+by : jth tax , inc . , its manager 
+by : / s / kathleen e . donovan 
+name : kathleen e . donovan 
+title : chief financial officer 
+tiger business services , llc , a virginia limited liability company 
+by : jth tax , inc . , its manager 
+by : / s / john t . hewitt 
+name : john t . hewitt 
+title : chief executive officer 
+by : charles lovelace , its manager 
+by : / s / charles lovelace 
+name : charles lovelace 
+signatures continue on following pages 
+signature page to fourth amendment to revolving credit and term loan agreement 
+administrative agent : 
+suntrust bank 
+as administrative agent , as issuing bank and as swingline lender 
+by : / s / david bennett 
+name : david bennett 
+title : director 
+signatures continue on following pages 
+signature page to fourth amendment to revolving credit and term loan agreement 
+lenders : 
+suntrust bank , as lender 
+by : / s / david bennett 
+name : david bennett 
+title : director 
+signatures continue on following pages 
+signature page to fourth amendment to revolving credit and term loan agreement 
+citizens bank of pennsylvania , as lender 
+by : / s / tracy van riper 
+name : tracy van riper 
+title : senior vice president 
+signatures continue on following pages 
+signature page to fourth amendment to revolving credit and term loan agreement 
+bank of america , n . a . , as lender 
+by : / s / jundie cadiena 
+name : jundie cadiena 
+title : senior vice president 
+signatures continue on following pages 
+signature page to fourth amendment to revolving credit and term loan agreement 
+branch banking and trust company , as lender 
+by : / s / steven thompson 
+name : steven thompson 
+title : assistant vice president 
+signatures continue on following pages 
+signature page to fourth amendment to revolving credit and term loan agreement 
+first tennessee bank national association , as lender 
+by : / s / keith sherman 
+name : keith sherman 
+title : senior vice president 
+signatures continue on following pages 
+signature page to fourth amendment to revolving credit and term loan agreement 
+bmo harris financing , inc . , as lender 
+by : / s / christina boyle 
+name : christina boyle 
+title : managing director 
+signatures continue on following pages 
+signature page to fourth amendment to revolving credit and term loan agreement 
+fifth third bank , as lender 
+by : / s / robert y . bennett 
+name : robert y . bennett 
+title : senior vice president 
+signatures continue on following pages 
+signature page to fourth amendment to revolving credit and term loan agreement 
+synovus bank , as lender 
+by : / s / john frierson 
+name : john frierson 
+title : senior vice president 
+signatures continue on following pages 
+signature page to fourth amendment to revolving credit and term loan agreement 
+u . s . bank national association , as lender 
+by : / s / michael gloviak 
+name : michael gloviak 
+title : vice president 
+signature page to fourth amendment to revolving credit and term loan agreement 

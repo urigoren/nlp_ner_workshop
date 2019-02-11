@@ -1,0 +1,36 @@
+exhibit 
+exhibit {num} 
+execution version 
+third amendment to casino operations lease 
+this third amendment to casino operations lease ( " amendment " ) is made as of the {num} th day of august , {num} ( the " effective date " ) , by and between hyatt equities , l . l . c . , a delaware limited liability company ( " landlord " ) and gaming entertainment ( nevada ) llc , a nevada limited liability company ( " tenant " ) . 
+w i t n e s s e t h 
+whereas , landlord and tenant are parties to that certain casino operations lease dated june {num} {num} as amended by that certain first amendment to casino operations lease dated april {num} {num} and that certain second amendment to casino operations lease dated november {num} {num} ( the " second amendment " ) ( collectively , and as the same may be further amended , restated , exchanged , substituted , extended or otherwise modified from time to time , the " casino lease " ) ; 
+whereas , landlord and tenant are parties to that certain second lien security agreement dated june {num} {num} as amended by that certain first amendment to second lien security agreement dated april {num} {num} and that certain second amendment to second lien security agreement dated may {num} {num} ( as the same may be further amended , restated , exchanged , substituted , extended or otherwise modified from time to time , the " security agreement " ) pursuant to which tenant has provided landlord with a security interest in all of tenant's interest in the casino lease , the premises and the personal property all as described in the security agreement , as security for the full and prompt payment and performance of all of tenant's obligations under the casino lease and the security agreement , as described therein ; and 
+whereas , the parties hereto have agreed to amend the casino lease as provided herein . 
+now , therefore , in consideration of the mutual covenants and obligations set forth herein and for other good and valuable consideration , the receipt and sufficiency of which are hereby acknowledged , the parties hereto hereby agree as follows : 
+{enum} recitals . the foregoing recitals shall constitute an integral part of this amendment , and this amendment shall be construed in consideration thereof . all capitalized terms used herein and not otherwise defined shall have the meanings ascribed to them in the casino lease . 
+{enum} rent . section {num} of the casino lease is hereby deleted in its entirety and replaced with the following : 
+{num} rent . tenant shall pay to landlord rent in the amount of ( i ) one million five hundred thousand us dollars ( us${num} ) per year starting on the commencement date through december {num} {num} in equal monthly installments of one hundred twenty-five thousand and {num} / {num} us dollars ( us${num} ) , ( ii ) one million seven hundred fifty thousand us dollars ( us${num} ) per year starting on january {num} {num} ( or the date upon which landlord's work ( defined below ) is completed , whichever occurs later ) through december {num} {num} in equal monthly installments of one hundred forty-five thousand eight hundred thirty three and {num} / {num} us dollars ( us${num} ) and ( iii ) two million us dollars ( us${num} ) per year starting on january {num} {num} through the remainder of the initial term in equal monthly installments of one hundred sixty-six thousand six hundred sixty-six and {num} / {num} us dollars ( us${num} ) , payable in 
+advance , in the manner prescribed in section {num} ( ( i ) , ( ii ) and ( iii ) are collectively referred to herein as " initial rent " ) . 
+{enum} landlord capital improvements . section 5 of the second amendment is hereby amended to provide that landlord shall complete landlord's work on or before june {num} {num} except in the event that landlord's work is delayed due to force majeure events or any delays caused tenant . 
+{enum} tenant improvements . section 6 of the second amendment is hereby amended to provide that tenant shall complete tenant's work on or before june {num} {num} except in the event that tenant's work is delayed due to force majeure events or any delays caused by landlord . 
+{enum} no other changes . except as otherwise herein expressly provided , the casino lease shall continue in full force and effect , as amended by this amendment . 
+{enum} authority . subject to the preceding paragraph , landlord and tenant hereby covenant and warrant that they have full right and authority to enter into this amendment . 
+{enum} recording . this amendment or any memorandum thereof may not be recorded by tenant without the consent of landlord , in its sole discretion . 
+{enum} tenant estoppel . tenant hereby represents and warrants to landlord that as of the date hereof that neither tenant , nor landlord , is in default under any of the terms , covenants or provisions of the casino lease or the security agreement . as of the date hereof , tenant has no knowledge of any event which , but for the passage of time or the giving of notice or both , would constitute an event of default by either landlord or tenant under the casino lease or security agreement . 
+{enum} ratification . except as otherwise expressly modified by the terms of this amendment , the casino lease and security agreement remain unchanged and shall continue in full force and effect . all terms , covenants , and conditions of the casino lease ( not expressly modified herein ) and the security agreement are hereby confirmed and ratified and remain in full force and effect , and constitute valid and binding obligations of tenant and landlord enforceable according to the terms thereof . 
+{enum} successors . this amendment shall be binding upon , and shall inure to the benefit of , the parties hereto and their respective successors and assigns . 
+{enum} counterparts ; facsimile / electronic signatures . this amendment may be executed in counterparts and each such counterpart shall be deemed an original and all of which together shall constitute a single amendment . the parties agree that signatures to this amendment may be delivered by facsimile or by electronic transmission in lieu of an original signature , and such facsimile or electronic signature page that shall be deemed to be originals and may be relied on to the same extent as the originals . 
+signatures on following page . 
+in witness whereof , the parties hereto have caused this amendment to be executed as of the day and year first written above . 
+landlord : 
+hyatt equities , l . l . c . , a delaware limited 
+liability company 
+by : / s / stephen m . sokal 
+name : stephen m . sokal 
+title : vice president 
+gaming entertainment ( nevada ) llc , 
+a nevada limited liability company 
+by : / s / daniel r . lee 
+name : daniel r . lee 
+title : manager 

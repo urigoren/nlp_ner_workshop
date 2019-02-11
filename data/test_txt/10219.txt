@@ -1,0 +1,171 @@
+converted by edgarwiz 
+the exchange contemplated herein is intended to comport with the requirements of section 3 ( a ) ( 9 ) of the securities act of {num} as amended . 
+exchange agreement 
+this exchange agreement ( this " agreement " ) is executed as of july {num} {num} by and between vapor hub international inc . , a nevada corporation ( the " company " ) , and iliad research and trading , l . p . , a utah limited partnership , its successors and / or assigns ( " holder " ) . capitalized terms not defined herein shall have the same meaning as set forth in the original note ( as defined below ) . 
+{enum} 
+pursuant to that certain note purchase agreement dated august {num} {num} between holder and the company ( the " purchase agreement " ) , the company issued to holder a certain promissory note in the original principal amount of ${num} and having an original issue date of august {num} {num} ( the " original note " ) . 
+{enum} 
+on may {num} {num} holder and company exchanged the original note for a new promissory note in the original principal amount ${num} and having an original issue date of august {num} {num} ( the " first exchange note " ) . 
+subject to the terms of this agreement , holder and the company desire to exchange ( such exchange is referred to as the " note exchange " ) the first exchange note for a new promissory note in the original principal amount of ${num} and substantially in the form attached hereto as exhibit a ( the " second exchange note " ) . the note exchange will consist of holder surrendering the first exchange note in return for the second exchange note . other than the surrender of the first exchange note , no consideration of any kind whatsoever shall be given by holder to the company in connection with this agreement . 
+{enum} 
+pursuant to the terms and conditions hereof , holder and the company agree to exchange the first exchange note for the second exchange note . 
+now , therefore , in consideration of the premises and the mutual promises herein made , and in consideration of the representations , warranties and covenants herein contained , the parties hereto agree as follows : 
+{enum} 
+issuance of second exchange note . upon execution of this agreement , holder will surrender the first exchange note to the company and the company will issue to holder the second exchange note . in conjunction therewith , the company hereby confirms that the first exchange note represents the company's unconditional obligation to pay the outstanding balance of such note pursuant to the terms of the first exchange note . the company and holder agree that upon surrender , the first exchange note will be cancelled and the remaining amount owed to holder in consideration of the note exchange shall hereafter be evidenced solely by the second exchange note . 
+{enum} 
+exchange fee ; affirmation of outstanding balance . the company acknowledges that the outstanding balance ( as defined in the second exchange note ) of the second exchange note includes an exchange fee in the amount of ${num} ( the " exchange fee " ) , which sum was added to the outstanding balance of the second exchange note in consideration of the accommodations granted to the company and the legal and other fees incurred by holder in connection with the note exchange . holder and the company acknowledge and agree that the outstanding balance of the second exchange note upon its issuance , including the application of the exchange fee , is ${num} 
+{enum} 
+closing date ; deliveries . the closing of the transaction contemplated hereby ( the " closing " ) along with the delivery of the first exchange note and the other exchange documents ( as defined below ) shall occur on the date that is mutually agreed to by the company and holder ( the " closing date " ) by means of the exchange by express courier and email of . pdf documents , but shall be deemed to have occurred at the offices of hansen black anderson ashcraft pllc in lehi , utah . on the closing date , prior to or contemporaneously with the execution and delivery of this agreement , the following events shall occur : 
+{num} 
+the company shall execute and deliver to holder the secretary's certificate substantially in the form attached hereto as exhibit b ( the " secretary's certificate " ) . 
+{num} 
+the company shall issue the second exchange note to holder . 
+{num} 
+mutual delivery of all other exchange documents , including without limitation this agreement . 
+{num} 
+holder shall deliver the first exchange note to the company for cancellation . 
+{num} 
+company shall have delivered to holder a fully executed irrevocable letter of instructions to transfer agent substantially in the form attached hereto as exhibit c ( the " ta letter " ) acknowledged and agreed to in writing by company's transfer agent ( the " transfer agent " ) . 
+{num} 
+company shall have delivered to holder a fully executed share issuance resolution to be delivered to the transfer agent substantially in the form attached hereto as exhibit d . 
+{enum} 
+holding period , tacking and legal opinion . the company represents , warrants and agrees that for the purposes of rule {num} ( " rule {num} " ) of the securities act of {num} as amended ( the " securities act " ) , the holding period of the second exchange note will include the holding period of the original note and the first exchange note from august {num} {num} which date is the date that the original note was issued . the company agrees not to take a position contrary to this section 4 in any document , statement , setting , or situation and further acknowledges that the first exchange note has not been amended or altered since such date . the company represents that it has ceased to be an issuer described in rule {num} ( i ) ( 1 ) ( i ) . the second exchange note is being issued in substitution of and exchange for and not in satisfaction of the first exchange note . the second exchange note shall not constitute a novation or satisfaction and accord of the first exchange note . the company acknowledges and understands that the representations and agreements of the company in this section 4 are a material inducement to holder's decision to consummate the transactions contemplated herein . 
+{enum} 
+representations , warranties and covenants of holder . holder represents , warrants , and covenants to the company that : 
+{num} 
+investment purpose . holder is acquiring the second exchange note for its own account for investment only and not with a view towards , or for resale in connection with , the public sale or distribution thereof , except pursuant to sales registered or exempted under the securities act ; provided , however , that by making the representations herein , holder reserves the right to dispose of any conversion shares ( as defined in the second exchange note ) ( together with the second exchange note , the " securities " ) issued thereunder at any time in accordance with or pursuant to an effective registration statement covering such conversion shares or an available exemption under the securities act . 
+{num} 
+accredited investor status . holder is an " accredited investor " as that term is defined in rule {num} ( a ) ( 3 ) of regulation d of the securities act . 
+2 
+{num} 
+authorization , enforcement . this agreement has been duly and validly authorized , executed and delivered on behalf of holder and is a valid and binding agreement of holder enforceable in accordance with its terms . 
+{num} 
+brokers . there are no brokerage commissions , finder's fees or similar fees or commissions payable by holder in connection with the transactions contemplated hereby based on any agreement , arrangement or understanding with holder or any action taken by holder . 
+{enum} 
+representations , warranties , and covenants of the company . the company hereby makes the representations set forth below and covenants and agrees as follows to holder ( in addition to those set forth elsewhere herein ) : 
+{num} 
+organization and qualification . the company has been duly organized , validly exists and is in good standing under the laws of the state of nevada . the company has full corporate power and authority to enter into this agreement and this agreement has been duly and validly authorized , executed and delivered by the company and is a valid and binding obligation of the company , enforceable against the company in accordance with its terms , except as such enforcement may be limited by the united states bankruptcy code and laws effecting creditors' rights , generally . 
+{num} 
+authorization , enforcement , compliance with other instruments . ( i ) the company has the requisite corporate power and authority to enter into and perform its obligations under this agreement , the second exchange note , and each of the other exchange documents and to issue the securities in accordance with the terms hereof , ( ii ) the execution and delivery of the exchange documents by the company and the consummation by the company of the transactions contemplated hereby , including , without limitation , the issuance of the securities , have been duly authorized by the company's board of directors and no further consent or authorization is required by the company , its board of directors or its stockholders , ( iii ) the exchange documents have been duly executed and delivered by the company , ( iv ) the exchange documents constitute the valid and binding obligations of the company enforceable against the company in accordance with its terms , except as such enforcement may be limited by the united states bankruptcy code and laws effecting creditors' rights , generally , and ( v ) the company's signatory has full corporate or other requisite authority to execute the exchange documents and to bind the company . the company's board of directors has duly adopted a resolution authorizing this agreement and ratifying its terms , as indicated by the secretary's certificate . 
+{num} 
+issuance of securities . the issuance of the securities is duly authorized and the securities are and will be , upon issuance , free and clear of all taxes , liens , claims , pledges , mortgages , restrictions , obligations , security interests and encumbrances of any kind , nature and description other than liens in favor of holder , and when issued will be validly issued , fully paid and non-assessable . 
+{num} 
+no conflicts . the execution and delivery by the company of , and the performance by the company of its obligations under this agreement in accordance with the terms of this agreement will not contravene any provision of applicable law or the charter documents of the company or any agreement or other instrument binding upon the company , or any judgment , order or decree of any governmental body , agency or court having jurisdiction over the company , and no consent , approval , authorization or order of , or qualification with , any governmental body or agency is required for the performance by the company of its obligations under this agreement in accordance with the terms of this agreement . 
+{num} 
+sec documents : financial statements . none of the company's filings ( " sec documents " ) filed with the sec contained , at the time they were filed , any untrue statement of a material fact or omitted to state any material fact required to be stated therein or necessary to make the statements 
+3 
+made therein , in light of the circumstances under which they were made , not misleading . since august {num} {num} the company has filed all reports , schedules , forms , statements and other documents required to be filed by the company with the sec under the securities exchange act of {num} as amended ( the " exchange act " ) . 
+{num} 
+brokers . the company has taken no action which would give rise to any claim by any person for a brokerage commission , placement agent or finder's fees or similar payments by holder relating to this agreement or the transactions contemplated hereby . the company shall indemnify and hold harmless each of holder , its employees , officers , directors , stockholders , managers , members , agents , attorneys , and partners , and their respective affiliates , from and against all claims , losses , damages , costs ( including the costs of preparation and attorneys' fees ) and expenses suffered in respect of any such claimed or existing fees . 
+{num} 
+authorization and issuance . the first exchange note and the original note were authorized by all necessary company action and validly issued and executed , and the company's signatory had full corporate or other requisite authority to execute such agreements and to bind the company . 
+{num} 
+holding period . after due inquiry , the company represents and warrants that at all times , the company has complied in all material respects with all applicable securities and other applicable laws in relation with the issuance , holding and transfers of the original note and the first exchange note . to the company's knowledge , no violation of securities and other applicable laws occurred in connection with the acquisition , issuance , or holding of the original note and the first exchange note . 
+{num} 
+no modifications . no written document , agreement , instrument , contract , amendment or modification to the first exchange note exists that supplements , modifies , or amends the terms set forth in the first exchange note . 
+{num} 
+absence of litigation . there is no action , suit , proceeding , inquiry or investigation before or by any court , public board , government agency , self-regulatory organization or body pending against or affecting the company , the common stock or any of the company's subsidiaries , wherein an unfavorable decision , ruling or finding would have a material adverse effect on the company or its operations . 
+{num} 
+no additional consideration . the company has not received any cash or property consideration in any form whatsoever for entering into this agreement , other than the surrender of the first exchange note . 
+{num} 
+recitals . all of the information , facts and representations set forth in the recitals section of this agreement are in all respects true and accurate as of the date hereof and are incorporated as representations and warranties of the company as if set forth in this section {num} 
+{num} 
+issuer status . until the full repayment of the second exchange note , the company shall not terminate its status as an issuer required to file reports under the exchange act even if the exchange act or the rules and regulations thereunder would otherwise permit such termination . 
+{num} 
+acknowledgement of obligations . the company hereby acknowledges , confirms and agrees that the obligations of the company to holder under the second exchange note are unconditionally owed by the company to holder without offset , defense or counterclaim of any kind , nature or description whatsoever . 
+4 
+{num} 
+termination . the purchase agreement and all other transaction documents ( as defined in the purchase agreement ) are hereby terminated with respect to the first exchange note , but remain in full force and effect with respect to the second exchange note . all references in the transaction documents to the first exchange note shall hereafter be deemed to be references to the second exchange note . 
+{enum} 
+deliverables ; exchange documents . together with its execution of this agreement , the company shall execute and deliver the secretary's certificate , the ta letter and the share issuance resolution . this agreement , the secretary's certificate , the second exchange note , the ta letter , the share issuance resolution and any other documents , agreements , or instruments entered into or delivered in connection with this agreement , or any amendments to any of the foregoing , are collectively referred to as the " exchange documents " . for the avoidance of doubt , all of the transaction documents entered into by the parties in connection with the purchase agreement ( other than the first exchange note ) shall continue to apply to the second exchange note as if the second exchange note was issued concurrently therewith . 
+{enum} 
+reservation of shares . at all times during which the second exchange note is outstanding , company will reserve from its authorized and unissued common stock to provide for the issuance of common stock upon the full conversion of the second exchange note at least ( i ) three ( 3 ) times the number of shares of common stock obtained by dividing the outstanding balance by the conversion price ( as defined in the second exchange note ) ( the " share reserve " ) , but in any event not less than {num} shares of common stock shall be reserved at all times for such purpose ( the " transfer agent reserve " ) . company further agrees that it will cause the transfer agent to immediately add shares of common stock to the transfer agent reserve in increments of {num} shares as and when requested by holder in writing from time to time , provided that such incremental increases do not cause the transfer agent reserve to exceed the share reserve . in furtherance thereof , from and after the date hereof and until such time that the second exchange note has been paid in full , company shall require the transfer agent to reserve for the purpose of issuance of conversion shares under the second exchange note , a number of shares of common stock equal to the transfer agent reserve . company shall further require the transfer agent to hold such shares of common stock exclusively for the benefit of holder and to issue such shares to holder promptly upon holder's delivery of a conversion notice under the second exchange note . finally , company shall require the transfer agent to issue shares of common stock pursuant to the second exchange note to holder out of its authorized and unissued shares , and not the transfer agent reserve , to the extent shares of common stock have been authorized , but not issued , and are not included in the transfer agent reserve . the transfer agent shall only issue shares out of the transfer agent reserve to the extent there are no other authorized shares available for issuance and then only with holder's written consent . 
+{enum} 
+releases and waivers . 
+{num} 
+upon the full repayment of the second exchange note ( referred to as " payment in full " ) , holder will release and forever discharge the company of and from any and all manner of actions , suits , debts , sums of money , contracts , agreements , claims and demands at law or in equity , that holder had , or may have arising from the first exchange note . 
+{num} 
+the company hereby affirms that the obligations under the second exchange note and as set forth herein are valid and binding obligations of the company , and hereby waives , to the fullest extent allowable under law , any and all defenses that may be available to a debtor under applicable state and federal law including , without limiting the foregoing , any and all defenses available to a debtor or maker under the provisions of the uniform commercial code pertaining to negotiable instruments . 
+5 
+{num} 
+upon execution of this agreement , the company releases and forever discharges holder of and from any and all manner of actions , suits , debts , sums of money , contracts , agreements , claims and demands at law or in equity , that the company had , or may have arising from the first exchange note . 
+{enum} 
+miscellaneous . the provisions set forth in this section {num} shall apply to this agreement , as well as all other exchange documents as if these terms were fully set forth therein . 
+{num} 
+governing law ; venue . this agreement shall be governed by and interpreted in accordance with the laws of the state of utah without regard to the principles of conflict of laws . each party consents to and expressly agrees that the exclusive venue for arbitration of any dispute arising out of or relating to this agreement or the relationship of the parties or their affiliates shall be in salt lake county , utah . without modifying the parties' obligations to resolve disputes hereunder pursuant to the arbitration provisions ( as defined in the purchase agreement ) , each party hereto submits to the exclusive jurisdiction of any state or federal court sitting in salt lake county , utah in any proceeding arising out of or relating to this agreement and agrees that all claims ( as defined in the arbitration provisions ) in respect of the proceeding may only be heard and determined in any such court and hereby expressly submits to the exclusive personal jurisdiction and venue of such court for the purposes hereof and expressly waives any claim of improper venue and any claim that such courts are an inconvenient forum . each party hereto hereby irrevocably consents to the service of process of any of the aforementioned courts in any such proceeding by the mailing of copies thereof by registered or certified mail , postage prepaid , to its address as set forth in the purchase agreement , such service to become effective ten ( {num} ) days after such mailing . 
+{num} 
+arbitration of claims . each party agrees that any dispute arising out of or relating to this agreement or any other exchange document shall be subject to the arbitration provisions . 
+{num} 
+successors and assigns ; third party beneficiaries . this agreement shall inure to the benefit of and be binding upon the successors and permitted assigns of the parties hereto . except as otherwise expressly provided herein , no person other than the parties hereto and their successors and permitted assigns is intended to be a beneficiary of this agreement . 
+{num} 
+pronouns . all pronouns and any variations thereof in this agreement refer to the masculine , feminine or neuter , singular or plural , as the context may permit or require . 
+{num} 
+counterparts . this agreement may be executed in any number of counterparts , each of which shall be deemed an original , but all of which together shall constitute one instrument . the parties hereto confirm that any electronic copy of another party's executed counterpart of this agreement ( or its signature page thereof ) will be deemed to be an executed original thereof . 
+{num} 
+headings . the headings of this agreement are for convenience of reference and shall not form part of , or affect the interpretation of , this agreement . 
+{num} 
+severability . whenever possible , each provision of this agreement shall be interpreted in such a manner as to be effective and valid under applicable law , but if any provision of this agreement shall be invalid or unenforceable in any jurisdiction , such provision shall be modified to achieve the objective of the parties to the fullest extent permitted and such invalidity or unenforceability shall not affect the validity or enforceability of the remainder of this agreement or the validity or enforceability of this agreement in any other jurisdiction . 
+6 
+{num} 
+entire agreement . this agreement , together with the second exchange note , the other exchange documents , and the transaction documents , constitutes and contains the entire agreement between the parties hereto , and supersedes all prior oral or written agreements and understandings between holder , the company , their affiliates and persons acting on their behalf with respect to the matters discussed herein , and this agreement and the instruments referenced herein contain the entire understanding of the parties with respect to the matters covered herein and therein and , except as specifically set forth herein or therein , neither the company nor holder makes any representation , warranty , covenant or undertaking with respect to such matters . 
+{num} 
+no reliance . the company acknowledges and agrees that neither holder nor any of its officers , directors , members , managers , representatives or agents has made any representations or warranties to the company or any of its officers , directors , stockholders , agents , representatives , or employees except as expressly set forth in the exchange documents and , in making its decision to enter into the transactions contemplated by the exchange documents , the company is not relying on any representation , warranty , covenant or promise of holder or its officers , directors , members , managers , agents or representatives other than as set forth in the exchange documents . 
+{num} 
+amendment . any amendment , supplement or modification of or to any provision of this agreement , shall be effective only if it is made or given by an instrument in writing ( excluding any email message ) and signed by the company and holder . 
+{num} 
+no waiver . no forbearance , failure or delay on the part of a party hereto in exercising any right , power or remedy hereunder shall operate as a waiver thereof , nor shall any single or partial exercise of any such right , power or remedy preclude any other or further exercise thereof or the exercise of any other right , power or remedy . any waiver of any provision of this agreement shall be effective ( a ) only if it is made or given in writing ( including an email message ) and ( b ) only in the specific instance and for the specific purpose for which made or given . 
+{num} 
+assignment . notwithstanding anything to the contrary herein , the rights , interests or obligations of the company hereunder may not be assigned , by operation of law or otherwise , in whole or in part , by the company without the prior written consent of holder , which consent may be withheld at the sole discretion of holder ; provided , however , that in the case of a merger , sale of substantially all of the company's assets or other corporate reorganization , holder shall not unreasonably withhold , condition or delay such consent . this agreement or any of the severable rights and obligations inuring to the benefit of or to be performed by holder hereunder may be assigned by holder to a third party , including its financing sources , in whole or in part . 
+{num} 
+advice of counsel . in connection with the preparation of this agreement and all other exchange documents , each of the company , its stockholders , officers , agents , and representatives acknowledges and agrees that the attorney that prepared this agreement and all of the other exchange documents acted as legal counsel to holder only . each of the company , its stockholders , officers , agents , and representatives ( a ) hereby acknowledges that he / she / it has been , and hereby is , advised to seek legal counsel and to review this agreement and all of the other exchange documents with legal counsel of his / her / its choice , and ( b ) either has sought such legal counsel or hereby waives the right to do so . 
+{num} 
+no strict construction . the language used in this agreement is the language chosen mutually by the parties hereto and no doctrine of construction shall be applied for or against any party . 
+{num} 
+attorneys' fees . in the event of any action at law or in equity to enforce or interpret the terms of this agreement or any of the other exchange documents , the parties agree that the 
+7 
+party who is awarded the most money ( which , for the avoidance of doubt , shall be determined without regard to any statutory fines , penalties , fees , or other charges awarded to any party ) shall be deemed the prevailing party for all purposes and shall therefore be entitled to an additional award of the full amount of the attorneys' fees and expenses paid by such prevailing party in connection with the litigation and / or dispute without reduction or apportionment based upon the individual claims or defenses giving rise to the fees and expenses . nothing herein shall restrict or impair a court's power to award fees and expenses for frivolous or bad faith pleading . 
+{num} 
+waiver of jury trial . each party to this agreement irrevocably waives any and all rights it may have to demand that any action , proceeding or counterclaim arising out of or in any way related to this agreement , any other exchange document , or the relationships of the parties hereto be tried by jury . this waiver extends to any and all rights to demand a trial by jury arising under common law or any applicable statute , law , rule or regulation . further , each party hereto acknowledges that it is knowingly and voluntarily waiving its right to demand trial by jury . 
+{num} 
+further assurances . each party shall do and perform or cause to be done and performed , all such further acts and things , and shall execute and deliver all such other agreements , certificates , instruments and documents , as the other party may reasonably request in order to carry out the intent and accomplish the purposes of this agreement and the consummation of the transactions contemplated hereby . 
+{num} 
+notices . unless otherwise specifically provided for herein , all notices , demands or requests required or permitted under this agreement to be given to the company or holder shall be given as set forth in the " notices " section of the purchase agreement . 
+{num} 
+survival of representations and warranties . all of the representations and warranties made herein shall survive the execution and delivery of this agreement for the maximum time allowable by applicable law . 
+{num} 
+transaction fees . each party shall be responsible for its own attorneys' fees and other costs and expenses associated with documenting and closing the transaction contemplated by this agreement . 
+{num} 
+specific performance . the company and holder acknowledge and agree that irreparable damage would occur in the event that any provision of this agreement or any of the other exchange documents were not performed in accordance with its specific terms or were otherwise breached . it is accordingly agreed that the parties shall be entitled to an injunction or injunctions , without ( except as specified in the arbitration provisions ) the necessity to post a bond , to prevent or cure breaches of the provisions of this agreement or such other exchange document and to enforce specifically the terms and provisions hereof or thereof , this being in addition to any other remedy to which any of them may be entitled by law or equity . 
+{num} 
+time is of the essence . time is expressly made of the essence of each and every provision of this agreement and the exchange documents . 
+{num} 
+voluntary agreement . the company has carefully read this agreement and each of the other exchange documents and has asked any questions needed for the company to understand the terms , consequences and binding effect of this agreement and each of the other exchange documents and 
+8 
+fully understand them . the company has had the opportunity to seek the advice of an attorney of the company's choosing , or has waived the right to do so , and is executing this agreement and each of the other exchange documents voluntarily and without any duress or undue influence by holder or anyone else . 
+remainder of the page intentionally left blank ; signature page to follow 
+9 
+in witness whereof , each of the undersigned represents that the foregoing statements made by it above are true and correct and that it has caused this exchange agreement to be duly executed on its behalf ( if an entity , by one of its officers thereunto duly authorized ) as of the date first above written . 
+holder : 
+iliad research and trading , l . p . 
+by : iliad management , llc , its general partner 
+by : fife trading , inc . , its manager 
+by : / s / john m . fife 
+john m . fife , president 
+company : 
+vapor hub international inc . 
+by : 
+/ s / lori winther 
+name : 
+lori winther 
+title : 
+chief financial officer 
+attachments : 
+exhibit a 
+second exchange note 
+exhibit b 
+secretary's certificate 
+exhibit c 
+ta letter 
+exhibit d 
+share issuance resolution 
+signature page to exchange agreement 

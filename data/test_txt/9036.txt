@@ -1,0 +1,23 @@
+exhibit 
+exhibit {num} 
+telenav reaches agreement with nokomis capital 
+wes cummins joins board of directors as independent director 
+richard todaro resigns from board of directors 
+santa clara , calif . , august {num} {num} – telenav® , inc . ( nasdaq : tnav ) , a leader in connected car services , today announced that it reached an agreement with nokomis capital pursuant to which the board will appoint wes cummins of nokomis to its board of directors . in connection with the agreement , richard todaro will resign from telenav's board of directors . telenav and nokomis also agreed to search for an additional independent director and to the extent that such independent director is not identified by january {num} {num} brett hendrickson of nokomis will be appointed as a class ii director until such time as an independent director is identified . 
+" we are pleased to welcome wes cummins as a new independent director to the telenav board and would also like to thank richard todaro for his service and contribution to the company during his term of office , " said hp jin , chairman and ceo of telenav . mr . jin continued , " wes is a distinguished investor who will add valuable experience and perspective to the board . we look forward to benefitting from his perspective as we continue to execute on our growth strategies and create value for shareholders . " 
+{enum} cummins said , " i am pleased to be joining telenav's board and i look forward to working with the rest of the board and management team to effectively position the company for the many opportunities in the auto market and enhance value for shareholders . " 
+{enum} cummins will join the board as a class i director , with a term expiring at the {num} annual meeting of stockholders and the telenav board will renominate mr . cummins for a new term at the {num} annual meeting of stockholders . 
+in connection with today's announcement , telenav has entered into an agreement with nokomis capital , l . l . c . ( " nokomis " ) , which owns approximately {num}% of telenav's outstanding shares . under the terms of the agreement , telenav agreed to welcome mr . cummins to the telenav board and nokomis has agreed to customary standstill and voting commitments . the complete agreement will be included as an exhibit to the company's current report on form 8-k to be filed with the securities and exchange commission . 
+about wes cummins 
+wes cummins joined nokomis capital , l . l . c . in october of {num} from march of {num} to september {num} mr . cummins was an analyst for harvey partners . prior to harvey partners , mr . cummins was at b . riley & co . since february of {num} during his 9 years at b . riley , mr . cummins held multiple positions including : senior research analyst covering technology hardware companies , director of research , head of capital markets , and finally president . during this time mr . cummins gained extensive experience in the investment research process , public and private capital raising , m&a , corporate restructuring and shareholder activism . prior to b . riley , he was an associate analyst at needham & company . mr . cummins holds a b . s . b . a . from washington university in st . louis . 
+about telenav 
+telenav is a leading provider of connected car and location-based platform services . these services consist of our map and navigation platform and our advertising delivery platform . our map and navigation platform allows telenav to deliver enhanced location-based services to auto manufacturers , developers , and end users through various distribution channels . our advertising delivery platform delivers highly targeted advertising services leveraging our location expertise . follow us on twitter , on facebook and on google+ . 
+copyright {num} telenav , inc . all rights reserved . 
+" telenav , " " scout , " and the telenav and scout logos are registered trademarks of telenav , inc . unless otherwise noted , all other trademarks , service marks , and logos used in this press release are the trademarks , service marks or logos of their respective owners . 
+tnav-f 
+tnav-c 
+investor relations contact : 
+cynthia hiponia or erin rheaume 
+the blueshirt group for telenav , inc . 
+{num}-{num}-{num} 
+ir@telenav . com 

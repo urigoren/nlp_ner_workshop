@@ -1,0 +1,51 @@
+exhibit {num} 
+amendment no . 1 to agreement and plan of merger 
+this amendment no . 1 to agreement and plan of merger ( this " amendment " ) , dated as of july {num} {num} amends the agreement and plan of merger ( the " merger agreement " ) , dated as of march {num} {num} by and among limbach holdings llc ( " company " ) , {num} capital corp . ( " {num} capital " ) , and f d g hvac llc , a delaware limited liability company , solely in its capacity as the limbach holders' representative pursuant to the designation in section {num} thereof . 
+whereas , the parties desire to amend the merger agreement on the terms set forth herein . 
+now , therefore , for good and valuable consideration , the receipt and sufficiency of which are hereby acknowledged , the parties hereto hereby agree as follows : 
+{enum} definitions . capitalized terms used and not otherwise defined herein shall have the meanings set forth in the merger agreement . 
+{enum} amendments . the merger agreement is hereby amended as follows : 
+{enum} exhibit a . exhibit a to the merger agreement is hereby deleted in its entirety and replaced with exhibit a-1 attached hereto . 
+{enum} section {num} ( b ) ( ii ) . section {num} ( b ) ( ii ) of the merger agreement is hereby amended by ( x ) inserting immediately before the period in the first sentence thereof the following : " and ( 4 ) a pro rata portion of the additional warrants " and ( y ) inserting " additional warrants " immediately before the term " merger shares " in the last sentence thereof . 
+{enum} section {num} ( c ) . section {num} ( c ) of the merger agreement is hereby amended by inserting immediately before the semi-colon at the end of clause ( iii ) thereof the following : 
+" ; and ( iv ) a pro rata portion of the additional warrants " 
+{enum} section {num} ( a ) ( ii ) . section {num} ( a ) ( ii ) of the merger agreement is hereby amended by deleting the phrase " fifteen million dollars ( ${num} ) " in the proviso thereof and replacing it with " ten million dollars ( ${num} ) " . 
+{enum} section {num} ( a ) ( iii ) . section {num} ( a ) ( iii ) of the merger agreement is hereby deleted in its entirety and replaced with the following : 
+" ( iii ) the number of warrants set forth on exhibit a-1 as the number of merger warrants based on the non-redemption amount immediately prior to the closing , each of which shall be substantially in the form of exhibit d and entitle the holder thereof to purchase one ( 1 ) share of {num} common stock at an exercise price of twelve dollars and fifty-cents ( ${num} ) ( collectively , the " merger warrants , " ) ; and 
+{enum} an aggregate of {num} warrants , each of which shall be substantially in the form of exhibit k ( collectively , the " additional warrants , " and together with the merger shares and the merger warrants , the " equity consideration " ) ; " 
+{enum} sections {num} ( c ) , ( d ) and ( e ) . sections {num} ( c ) , ( d ) and ( e ) of the merger agreement are hereby amended by inserting immediately following each occurrence of the phrase " merger warrants " the phrase " or additional warrants " . 
+{enum} article 9 . article 9 of the merger agreement is here by amended by inserting the following new definitions in the appropriate alphabetical order : 
+" " additional warrants " has the meaning set forth in section {num} ( a ) ( iv ) . " 
+" " equity consideration " has the meaning set forth in section {num} ( a ) ( iv ) . " 
+{enum} article 9 . the definition of " per unit payment " in article 9 of the merger agreement is hereby amended by deleting " ${num} " in clause ( a ) ( i ) thereof and replacing it with " ${num} " . 
+{enum} article 9 . the definition of " pro rata portion " in article 9 of the merger agreement is hereby amended and restated as follows : 
+" " pro rata portion " means : 
+{enum} in the case of sections {num} ( b ) ( ii ) , {num} ( c ) ( i ) , {num} ( c ) ( ii ) and {num} ( c ) ( iv ) , ( y ) one , divided by ( z ) the sum of the aggregate number of limbach units held by all holders plus the aggregate number of limbach vested option units held by all participating optionholders , in each case , as of immediately prior to the effective time ; and 
+{enum} in the case of section {num} ( c ) ( iii ) , ( y ) one , divided by ( z ) the aggregate number of limbach units held by all holders as of immediately prior to the effective time . " 
+{enum} section {num} ( b ) . the last sentence of section {num} ( b ) of the merger agreement is hereby amended by deleting " ${num} " and replacing it with " ${num} " and by deleting " two ( 2 ) years " and replacing it with " three ( 3 ) years . " 
+{enum} exhibit b . the section entitled " anti-dilution " in exhibit b of the merger agreement is hereby amended by adding " lenders , debt financing sources , " before the term " bank " in clause ( v ) of such section . 
+{enum} nature of agreement ; no other amendments . the parties hereby acknowledge and agree that this amendment constitutes an amendment to the merger agreement in accordance with section {num} thereof . except as specifically amended by this amendment , all other terms and provisions of the merger agreement shall remain in full force and effect . each reference in the merger agreement to ( a ) " this agreement , " " hereunder , " " hereof , " " herein " or words of like import referring to the merger agreement shall mean and be a reference to the merger agreement as amended by this amendment , and ( b ) " exhibit a " shall mean and be deemed to be a reference to exhibit a-1 hereto . 
+{enum} section headings . the section headings of this amendment are for reference purposes only and are to be given no effect in the construction or interpretation of this amendment . 
+{enum} counterparts . this amendment may be executed in one or more counterparts , each of which shall be deemed an original but all of which together will constitute one and the same instrument . delivery of an executed counterpart of a signature page to this amendment by facsimile , . pdf or other electronic means shall be effective as delivery of a manually executed counterpart to the amendment . 
+{enum} governing law . this amendment shall be governed by , and construed in accordance with the laws of the state of new york without regard to the conflicts of law principles thereof . 
+{enum} trust account waiver . the company acknowledges and agrees that {num} capital is a blank check company with the power and privileges to effect a merger , asset acquisition , reorganization or similar business combination involving the company parties and one or more businesses or assets . the company acknowledges and agrees that {num} capital's sole assets consist of the cash proceeds of {num} capital's initial public offering and private placements of its securities , and that substantially all of these proceeds have been deposited in the trust account for the benefit of its public stockholders . for and in consideration of {num} capital entering into this amendment , the receipt and sufficiency of which are hereby acknowledged , the company , for itself and on behalf of the company parties , and its and their respective affiliates , managers , directors , officers , affiliates , members , stockholders and trustees , do hereby irrevocably waive any right , title , interest or claim of any kind they have or may have in the future in or to any monies in the trust account , and agree not to seek recourse against the trust account or any funds distributed therefrom as a result of , or arising out of , any such claims against {num} capital arising under this amendment ; provided , that , nothing herein shall serve to limit or prohibit the company's right to pursue a claim against {num} capital for legal relief against monies or other assets held outside the trust account or for specific performance or other equitable relief in connection with the consummation of the transactions contemplated by this agreement ( including a claim for {num} capital to specifically perform its obligations under this agreement ) and cause the disbursement of the balance of the cash remaining in the trust account ( after giving effect to the redemption of shares of {num} capital's common stock as set forth in its certification of incorporation ) so long as such claim would not affect {num} capital's ability to fulfill its obligation to redeem the shares of common stock as set forth in its certification of incorporation . 
+signature page follows 
+in witness whereof , the parties have caused this amendment to be duly executed , as of the date first above written . 
+limbach holdings llc 
+by : / s / david s . gellman 
+name : david s . gellman 
+title : vice president 
+{num} capital corp . 
+by : / s / hassan r . baqar 
+name : hassan r . baqar 
+title : director & chief financial officer 
+fdg hvac llc , as limbach holders' representative 
+by : / s / david s . gellman 
+name : david s . gellman 
+title : vice president 
+signature page to amendment no . 1 to agreement and plan of merger 
+exhibit a-1 
+merger consideration and shares of 
+{num} capital class a preferred stock 
+exhibit k 
+form of additional warrants 

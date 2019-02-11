@@ -1,0 +1,25 @@
+purchase and sales agreement 
+this agreement is made and entered into on september {num} {num} by and between british cambridge inc . , a delaware company ( " the seller " ) , and british cambridge institute . , also referred to as british cambridge college . , a philippines company ( " the purchaser " ) . 
+whereas , the seller is the owner of a custom designed online platform for online education , herein referred to as " the online platform " and or " the platform . " 
+the online platform allows for class selection to be streamlined through individual logins assigned to students . each student or teacher has a unique profile they can customize with their own personal information . 
+from their individual profiles students and teachers have the capability to interact with one another in an active online class setting . students are able to complete work , as dictated by the course selection they have chosen for their curriculum , through the platform and , once more based upon the specific course load they have chosen , are assigned quizzes which they can also complete through the platform . 
+the online platform also makes it possible for students , or any permissible member , to transfer documents to one another . most notably this feature is designed for the submission of work documents . the platform's design is independent of any other comparable operating system and has its own unique code that is written specifically for its current use . 
+the actual material in the online platform is not proprietary to the platform itself , but rather it is designated and implemented by the various universities and institutions who make use of this platform . that is to say that any courses that the students , or other registered members of the site , are using through the platform should not be attributed to the platform itself , but rather to the universities , or other institutions , who have the ownership rights to said courses . 
+whereas the purchaser desires to purchase from the seller the rights to , and ownership of , the online education platform at a purchase price of ${num} and the seller desires to sell the rights to , and ownership of , the online education platform to the purchaser at a purchase price of ${num} 
+now , therefore , in consideration of the mutual covenants and agreements contained in this agreement , and in order to consummate the purchase and the sale of the assets mentioned herein , it is hereby agreed as follows : 
+{enum} terms of agreement . 
+the purchase price for the rights and ownership of the online education platform is ${num} the closing will be immediately upon the execution of this agreement . the seller will immediately deliver to the purchaser the code , graphics , and any other material relating to the asset , " the online education platform . " 
+the active lease agreement executed on august {num} {num} between the two aforementioned parties , british cambridge inc . , and british cambridge college is terminated upon the execution of this agreement . both parties have agreed to this termination through the signing of this purchase and sales agreement . 
+{enum} terms of payment . 
+during the three month period ended june {num} {num} british cambridge college paid us " british cambridge , inc . " ${num} in advance payments to be put toward the lease of the online education platform . because we are selling the online education platform to them upon the execution of this agreement we have agreed that the advance payments will be considered as the monetary consideration in the above transaction . as a result there will be no physical exchange of cash following the execution of this agreement . 
+{enum} governing law . this agreement and all transactions contemplated hereby , shall be governed by , construed and enforced in accordance with the laws of the state of delaware . the parties herein waive trial by jury and agree to submit to the personal jurisdiction and venue of a court of subject matter jurisdiction located in the state of delaware . in the event that litigation results from , or arises out of , this agreement or the performance thereof , the parties agree to reimburse the prevailing party's reasonable attorney's fees , court costs , and all other expenses , whether or not taxable by the court as costs , in addition to any other relief to which the prevailing party may be entitled . 
+in witness whereof , this agreement has been executed by each of the individual parties hereto on the date first above written . 
+signed , sealed and delivered in the presence of : 
+seller : british cambridge , inc . 
+by : / s / hatadi shapiro supaat 
+name : hatadi shapiro supaat 
+chief executive officer and authorized representative 
+purchaser : british cambridge college 
+by : / s / teodoro g . bondoc jr . 
+name : teodoro g . bondoc jr . 
+president and authorized representative 

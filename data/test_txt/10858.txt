@@ -1,0 +1,34 @@
+exhibit 
+exhibit {num} 
+second amended and restated certificate of incorporation 
+of 
+tumi holdings , inc . 
+article one 
+the name of the company is tumi holdings , inc . ( the " company " ) . 
+article two 
+the registered office of the company in the state of delaware is located at {num} orange street , wilmington , new castle county , delaware {num} and the name of the registered agent whose office address will be the same as the registered office is the corporation trust company . 
+article three 
+the purpose of the company is to engage in any lawful act or activity for which a corporation may be organized under the delaware general corporation law . 
+article four 
+the total number of shares of capital stock that the company has authority to issue is {num} shares , which will be designated common stock , par value ${num} per share . 
+article five 
+the number of directors of the company shall be such as from time time fixed by , or in the manner provided in , the bylaws of the company ( the " bylaws " ) . unless , and except to the extent that , the bylaws so require , the election of directors need not be by written ballot . 
+article six 
+the board of directors of the company ( the " board of directors " ) may from time to time adopt , amend or repeal the bylaws , subject to the power of the stockholders to adopt any bylaws or to amend or repeal any bylaws adopted , amended or repealed by the board of directors . 
+article seven 
+to the fullest extent that the delaware general corporation law as it exists on the date hereof or as it may hereafter be amended permits the limitation or elimination of the liability of directors , no director shall be liable to the company or its stockholders for monetary damage for breach of fiduciary duty as a director . any repeal or amendment of this article seven will not adversely affect any limitation on the personal liability or alleged liability of a director arising from an act or omission of that director occurring prior to the time of such repeal or amendment . if the general corporation law of the state of delaware is amended to permit further elimination or limitation of the personal liability of directors , then the liability of a director of the company shall be eliminated or limited to the fullest extent permitted by the general corporation law of the state of delaware as so amended . 
+article eight 
+the directors shall have powers without the assent or vote of the stockholders to fix and vary the amount to be reserved for any proper purpose ; to authorize and cause to be executed mortgages and liens upon all or any part of the property of the company ; to determine the use and disposition of any surplus or net profits ; and to fix the times for the declaration and payment of dividends . 
+article nine 
+the directors in their discretion may submit any contract or act for approval or ratification at any annual meeting of the stockholders or at any meeting of the stockholders called for the purpose of considering any such act or contract , and any contract or act that shall be approved or be ratified by the vote of the holders of a majority of the stock of the company which is represented in person or by proxy at such meeting and entitled to vote thereat ( provided that a lawful quorum of stockholders be there represented in person or by proxy ) shall be as valid and as binding upon the company and upon all the stockholders as though it had been approved or ratified by every stockholder of the company , whether or not the contract or act would otherwise be open to legal attack because of directors' interest , or for any other reason . 
+article ten 
+in addition to the powers and authorities hereinbefore or by statute expressly conferred upon them , the directors are hereby empowered to exercise all such powers and do all such acts and things as may be exercised or done by the company ; subject , nevertheless , to the provisions of the statutes of the state of delaware , of this certificate , and to any bylaws from time to time made by the stockholders ; provided , however , that no bylaws so made shall invalidate any prior act of the directors which would have been valid if such bylaw had not been made . 
+article eleven 
+the company shall , to the full extent permitted by section {num} of the delaware general corporation law , as amended from time to time , indemnify all persons whom it may indemnify pursuant thereto . 
+article twelve 
+section {num} of the delaware general corporation law , as amended from time to time , shall not apply to the company . 
+article thirteen 
+whenever a compromise or arrangement is proposed between this corporation and its creditors or any class of them and / or between this corporation and its stockholders or any class of them , any court of equitable jurisdiction within the state of delaware may , on the application in a summary way of this corporation or of any creditor or stockholder thereof or on the application of any receiver or receivers appointed for this corporation under section {num} of title 8 of the delaware code or on the application of trustees in dissolution or of any receiver or receivers appointed for this corporation under section {num} of title 8 of the delaware code order a meeting of the creditors or class of creditors , and / or of the stockholders or class of stockholders of this corporation , as the case may be , to be summoned in such manner as the said court directs . if a majority in number representing three fourths in value of the creditors or class of creditors , and / or of the stockholders or class of stockholders of this corporation , as the case may be , agree to any compromise or arrangement and to any reorganization of this corporation as 
+consequence of such compromise or arrangement , the said compromise or arrangement and the said reorganization shall , if sanctioned by the court to which the said application has been made , be binding on all the creditors or class of creditors , and / or on all the stockholders or class of stockholders , of this corporation , as the case may be , and also on this corporation . 
+article fourteen 
+the company reserves the right to amend , alter , change or repeal any provision contained in this certificate in the manner now or hereafter prescribed by law , and all rights and powers conferred herein on stockholders , directors and officers are subject to this reserved power . 

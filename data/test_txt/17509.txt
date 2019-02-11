@@ -1,0 +1,21 @@
+exhibit {num} 
+accelerate diagnostics submits de novo request to fda for accelerate pheno™ system and 
+accelerate phenotest™ bc kit 
+tucson , ariz . , july {num} {num} ( globe newswire ) -- accelerate diagnostics , inc . ( " accelerate " ) announced today the submission of a de novo request for evaluation of automatic class iii designation to the u . s . food and drug administration ( fda ) for its accelerate pheno™ system and accelerate phenotest™ bc kit for positive blood culture samples . 
+the fully automated system provides high-speed identification ( id ) and antimicrobial susceptibility testing ( ast ) of pathogens from patient samples faster than conventional methods . in recently completed marketing studies , the system and kit saved more than {num} hours as compared to standard of care methods ; creating the potential to expedite optimal antimicrobial therapy for patients suspected of bacteremia or fungemia , both life-threatening conditions with high morbidity and mortality risk . 
+the accelerate phenotest™ bc kit consists of a highly multiplexed panel of assays targeting the most prevalent microorganisms and the antimicrobial agents typically used to treat them . accelerate anticipates launching the bc kit with {num} individual assays . the final number of assays included in the kit distributed in the u . s . will depend on the review of each individual assay for marketing authorization by the fda . 
+the de novo request , sent friday evening to the fda , is supported by a recently completed clinical study including more than {num} samples across {num} study sites . overall results across all assays from the study showed {num}% sensitivity and {num}% specificity for id results and {num}% essential agreement and {num}% categorical agreement for ast . 
+about accelerate diagnostics , inc . 
+accelerate diagnostics , inc . ( " accelerate diagnostics , " ) ( nasdaq : axdx ) , is an in vitro diagnostics company dedicated to providing solutions for the global challenge of antibiotic resistance and hospital acquired infections . the company's fully automated id / ast system , accelerate pheno™ , and direct from positive blood culture kit , accelerate phenotest™ bc , utilize proprietary molecular and phenotypic detection technologies which have the potential to substantially reduce the time to antimicrobial susceptibility results while achieving high sensitivity and specificity . for more information about accelerate diagnostics , visit http : / / www . acceleratediagnostics . com . 
+the " accelerate diagnostics " and " accelerate pheno " and " accelerate phenotest " logos and marks are trademarks or registered trademarks of accelerate diagnostics , inc . 
+forward-looking statements 
+certain of the statements made in this press release are forward looking , such as those , among others , about our projections as to when certain key business milestones may be achieved , including marketing authorization by the fda of the accelerate pheno™ system and accelerate phenotest™ bc kit for positive blood cultures , the commercial launch of the accelerate pheno™ system and accelerate phenotest™ bc kit for positive blood cultures , the potential of our technology , the growth of the market , our estimates as to the size of our market opportunity and potential pricing , our competitive position and estimates of time reduction to results , and our future development plans and growth strategy . actual results or developments may differ materially from those projected or implied in these forward-looking statements . information about the risks and uncertainties faced by accelerate diagnostics is contained in the section captioned " risk factors " in the company's most recent annual report on form {num}-k , filed with the securities and exchange commission on march {num} {num} in addition , the company's forward-looking statements could be affected by general industry and market conditions . except as required by federal securities laws , the company undertakes no obligation to update or revise these forward-looking statements to reflect new events , uncertainties or other contingencies . 
+contact 
+media contact : 
+andrew chasteen 
++1 ( {num} ) {num} {num} 
+achasteen@axdx . com 
+investor contact : 
+laura pierson 
++1 ( {num} ) {num} {num} 
+investors@axdx . com 

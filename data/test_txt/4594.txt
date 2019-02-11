@@ -1,0 +1,38 @@
+blueprint 
+exhibit {num} 
+root9b technologies , inc . 
+wavier of anti-dilution rights 
+effective august {num} {num} 
+whereas , root9b technologies , inc . ( the " company " ) is considering the issuance of up to ${num} in convertible promissory notes ( the " new notes " ) that may be converted by the holder thereof into an aggregate of up to {num} shares of common stock of the company ( " shares " ) at a conversion price not less than ${num} per share , which is less than the exercise price ( as defined in the march agreement ( as defined below ) ) and in connection therewith , warrants ( the " new warrants " ) to purchase an aggregate of up to {num} shares at an exercise price per share not less than ${num} which is less than the applicable exercise price per share ( as defined in the march warrants ( as defined below ) ) ; 
+whereas , interest under the new notes may be paid by the company by the issuance of shares of its capital stock ( the " interest shares " ) , at a price per share not less than ${num} which is less than the exercise price and the applicable exercise price per share ; 
+whereas , the undersigned are parties to that certain amended and restated securities purchase agreement , dated march {num} {num} ( the " march agreement " ) providing the undersigned with certain rights upon the issuance of additional stock ( as defined in the march agreement ) ; and 
+whereas , the company has issued warrants , each dated as of march {num} {num} ( the " march warrants " ) , to the undersigned , providing the undersigned with certain rights upon the issuance of additional stock ( as defined in the march warrants ) . 
+now , therefore , the undersigned , constituting all of the qualified holders ( as defined in the march agreement ) and the registered holder ( as defined in the march warrant ) under each march warrant , do hereby acknowledge and agree that the new notes , the new warrants , any shares issued upon conversion of the new notes , any shares issued upon exercise of the new warrants , and any interest shares shall be excluded from the definition of , and shall not constitute , additional stock ( as that term is defined in the march agreement and the march warrants ) under the march agreement and the march warrants , and the undersigned do hereby waive any rights that would arise in the event that any of the foregoing securities constituted additional stock under the march agreement and / or the march warrants . 
+signature page follows . 
+this waiver of anti-dilution rights shall be effective as of the date first set forth above . this waiver of anti-dilution rights may be executed in any number of counterparts , each of which shall constitute an original and all of which together shall constitute one action . any copy , facsimile or other reliable reproduction of this action may be substituted or used in lieu of the original writing for any and all purposes for which the original writing could be used , provided that such copy , facsimile or other reproduction be a complete reproduction of the entire original writing . 
+qualified holders : 
+bay pond partners , l . p . 
+by : wellington management company llp , as investment adviser 
+by : / s / emily babalas 
+name : emily d . babalas 
+its : managing director and counsel 
+bay pond investors ( bermuda ) l . p . 
+by : wellington management company llp , as investment adviser 
+by : / s / emily babalas 
+name : emily d . babalas 
+its : managing director and counsel 
+ithan creek master investors ( cayman ) l . p . 
+by : wellington management company llp , as investment adviser 
+by : / s / emily babalas 
+name : emily d . babalas 
+its : managing director and counsel 
+wolf creek partners , l . p . 
+by : wellington management company llp , as investment adviser 
+by : / s / emily babalas 
+name : emily d . babalas 
+its : managing director and counsel 
+acknowledged and agreed by : 
+root9b technologies , inc . 
+by : / s / brian king 
+name : brian king 
+its : chief operating officer 
