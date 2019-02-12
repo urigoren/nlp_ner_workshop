@@ -42,7 +42,8 @@ def read_json_zip_file(in_file, maxsize=256, read_limit=2000):
         i = 0
         for fname in z.filelist:
             with z.open(fname) as f:
-                all_x += json.load(f)
+                # all_x += json.load(f) # works only in python36
+                all_x += json.loads(f.read().decode('utf-8'))
                 i += 1
             if i >= read_limit:
                 break
