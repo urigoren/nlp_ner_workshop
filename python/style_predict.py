@@ -47,7 +47,7 @@ def predict_on_test_dir(dirname, model, params):
     ret= {}
     for fname in tqdm(os.listdir(dirname)):
         if fname.endswith('.txt'):
-            ret[fname] = predict_on_test_file(dirname+'/'+fname, model, params)
+            ret[fname.replace('.txt', '')] = predict_on_test_file(dirname+'/'+fname, model, params)
     return ret
 
 

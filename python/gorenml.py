@@ -2,7 +2,7 @@ from urllib import request, parse
 import os
 import json
 from sklearn.base import BaseEstimator, ClassifierMixin
-from style_predict import load_model, predict_on_test_dir, predict_on_token_array, predict_on_test_file
+from style_predict import load_model, predict_on_test_dir, predict_on_token_array, predict_on_test_file, autotag
 from style_learn import fit_file
 
 
@@ -28,7 +28,7 @@ class Submission(BaseEstimator, ClassifierMixin):
             else:
                 return predict_on_test_file(X, model, params)
         else:
-            return ' '.join(predict_on_token_array(X.split(), model, params))
+            return autotag(X, model, params)
 
     def submit(self, test_folder="../data/test_txt"):
         """Submits a test data set to the goren.ml server"""
@@ -45,5 +45,6 @@ class Submission(BaseEstimator, ClassifierMixin):
 
 if __name__ == "__main__":
     submission = Submission("ug")
-    submission.submit()
+    accuracy = submission.submit()
+    print (accuracy)
     # print(submission.submit({"a": ["n n b","b"], "b": ["n n b","b"]}))
