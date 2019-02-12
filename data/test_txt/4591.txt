@@ -1,7 +1,0 @@
-blueprint 
-exhibit {num} 
-the securities represented by this note have not been registered under the securities act of {num} as amended , and have been acquired for investment and not with a view to , or in connection with , the sale or distribution thereof . no such sale or distribution may be effected without an effective registration statement related thereto or an opinion of counsel in a form satisfactory to the company that such registration is not required under the securities act of {num} as amended . 
-secured convertible promissory note 
-$__________ _________ , {num} 
-new york , new york 
-for value received , root9b technologies , inc . , a delaware corporation ( the " company " ) , promises to pay to ____________ ( the " holder " ) , or its registered assigns , in lawful money of the united states of america the principal amount of 

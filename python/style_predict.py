@@ -5,6 +5,7 @@ import re
 from keras.models import model_from_json
 from keras.preprocessing.sequence import pad_sequences
 from style_extract import tokenizer
+from tqdm import tqdm
 
 
 def load_model(folder):
@@ -44,11 +45,10 @@ def predict_on_test_file(filename, model, params):
 
 def predict_on_test_dir(dirname, model, params):
     ret= {}
-    for fname in os.listdir(dirname):
+    for fname in tqdm(os.listdir(dirname)):
         if fname.endswith('.txt'):
-            re[fname] = predict_on_test_file(fname, model, params)
+            ret[fname] = predict_on_test_file(dirname+'/'+fname, model, params)
     return ret
-
 
 
 def autotag(text, model, params):
