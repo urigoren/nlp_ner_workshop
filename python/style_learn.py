@@ -108,7 +108,7 @@ def fit_file(in_file, tp):
         print("Reading conll format")
         X, y = read_conll_file(in_file, tp["max_sentence_size"])
     elif in_file.lower().endswith('.zip'):
-        X, y = read_json_zip_file(in_file, tp["max_sentence_size"])
+        X, y = read_json_zip_file(in_file, tp["max_sentence_size"], tp["read_limit"])
     else:
         raise SystemError("unknown input file extension")
 
@@ -159,11 +159,12 @@ def fit_file(in_file, tp):
 
 if __name__ == "__main__":
     train_params = {
-        "max_sentence_size": 256,
+        "read_limit": 2000,
+        "max_sentence_size": 64,
         "test_size": 0.1,
         "min_word_freq": 2,
         "batch_size": 1024,
-        "epochs": 1,
+        "epochs": 10,
         "embedding_size": 128,
         "lstm_size": 32,
         "dropout": 0.5,
