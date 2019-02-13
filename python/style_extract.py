@@ -27,7 +27,7 @@ def tokenizer(txt, lower=True, enum=False, numeric=True, split=True):
     if not split:
         return txt
     for c in '()[]./,;:"':
-        txt = txt.replace(c, f" {c} ")
+        txt = txt.replace(c, " "+c+" ")
     return [w for w in txt.split() if any(w)]
 
 
@@ -241,13 +241,13 @@ def main(params):
         with open(params.out_text, 'w') as f:
             for line in parse_lines(params.in_html):
                 for td in line:
-                    f.write(f"{td.data} ")
+                    f.write(td.data + " ")
                 f.write('\n')
         if params.out_labels:
             with open(params.out_labels, 'w') as f:
                 for line in parse_lines(params.in_html):
                     for td in line:
-                        f.write(f"{td.tag} ")
+                        f.write(td.tag + " ")
                     f.write('\n')
     else:
         sys.stderr.write("either `out_text` or `out_json` parameter is required\n")

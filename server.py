@@ -38,7 +38,7 @@ def style():
         txt = request.form["txt"]
         return autotag(txt, model, params)
     except Exception as e:
-        return f"<h2>{e}</h2>" + traceback.format_exc().replace('\n', '<br>')
+        return "<h2>"+str(e)+"</h2>" + traceback.format_exc().replace('\n', '<br>')
 
 
 @app.route('/')

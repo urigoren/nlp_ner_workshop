@@ -64,11 +64,11 @@ def autotag(text, model, params):
         lines.append([])
         for word, label in zip(reversed(row[0]), reversed(row[1])):
             tag = params['ind2label'][label]
-            lines[-1].insert(0, f"<{tag}>{word}</{tag}>" if tag != 'n' else word)
+            lines[-1].insert(0, "<{t}>{w}</{t}>".format(t=tag, w=word) if tag != 'n' else word)
     html = "<br>".join([' '.join(line) for line in lines])
     # Rejoin words together, to get a cleaner view
     for tag in params['ind2label'].values():
-        html = html.replace(f"</{tag}> <{tag}>", " ")
+        html = html.replace("</{t}> <{t}>".format(t=tag), " ")
     html = re.compile('" (\w+) "').sub('"\\1"', html)
     html = re.compile(' ([\\.,:;]) ').sub('\\1 ', html)
     return html
