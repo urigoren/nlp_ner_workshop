@@ -13,29 +13,6 @@ from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_f
 from sklearn.model_selection import train_test_split
 
 
-def read_conll_file(in_file, maxsize=256,):
-    all_x = []
-    seq = []
-    with open(in_file, 'r', errors='ignore') as f:
-        for line in f.readlines():
-            try:
-                x, y = line.strip().split(' ', 1)
-                seq.append((x, y))
-            except:
-                if any(seq):
-                    all_x.append(seq)
-                    seq = []
-        if any(seq):
-            all_x.append(seq)
-    lengths = [len(x) for x in all_x]
-    print('Input sequence length range: ', max(lengths), min(lengths))
-    short_x = [x for x in all_x if len(x) <= maxsize]
-    print('# of short sequences: {n}/{m} '.format(n=len(short_x), m=len(all_x)))
-    X = [[c[0] for c in x] for x in short_x]
-    y = [[c[1] for c in y] for y in short_x]
-    return X, y
-
-
 def read_json_zip_file(in_file, maxsize=256, read_limit=2000):
     with ZipFile(in_file) as z:
         all_x = []
@@ -104,13 +81,7 @@ def build_model(max_sentence_length, vocab_size, num_tags, embedding_size, lstm_
 
 
 def fit_file(in_file, tp):
-    if in_file.lower().endswith('.txt'):
-        print("Reading conll format")
-        X, y = read_conll_file(in_file, tp["max_sentence_size"])
-    elif in_file.lower().endswith('.zip'):
-        X, y = read_json_zip_file(in_file, tp["max_sentence_size"], tp["read_limit"])
-    else:
-        raise SystemError("unknown input file extension")
+    X, y = read_json_zip_file(in_file, tp["max_sentence_size"], tp["read_limit"])
 
     ind2word, word2ind, ind2label, label2ind = build_vocabulary(X, y, tp["min_word_freq"])
 
