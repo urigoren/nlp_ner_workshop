@@ -13,11 +13,14 @@ from sklearn.metrics import accuracy_score, confusion_matrix, precision_recall_f
 from sklearn.model_selection import train_test_split
 
 
-def read_json_zip_file(in_file, maxsize=256, read_limit=2000):
+def read_json_zip_file(in_file, maxsize=256, read_limit=2000, read_offset=0):
     with ZipFile(in_file) as z:
         all_x = []
         i = 0
         for fname in z.filelist:
+            if read_offset > 0:
+                read_offset -= 1
+                continue
             with z.open(fname) as f:
                 # all_x += json.load(f) # works only in python36
                 all_x += json.loads(f.read().decode('utf-8'))
