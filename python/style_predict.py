@@ -21,7 +21,7 @@ def load_model(folder):
         label2ind = data["label2ind"]
         ind2label = {i: l for l, i in label2ind.items()}
         ind2label[0] = 'n'
-        maxlen = data["maxsize"]
+        maxlen = data["max_length"]
     return model, {'word2ind': word2ind, 'ind2word': ind2word, 'label2ind': label2ind, 'ind2label': ind2label,
                    'maxlen': maxlen}
 

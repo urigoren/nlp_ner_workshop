@@ -96,7 +96,7 @@ def fit_file(in_file, tp):
         json.dump({
             "word2ind": dict(word2ind),
             "label2ind": dict(label2ind),
-            "maxsize": seq_size
+            "max_length": seq_size
         }, f)
 
     X_train, X_test, y_train, y_test = train_test_split(X_enc, y_enc, test_size=tp["test_size"])
