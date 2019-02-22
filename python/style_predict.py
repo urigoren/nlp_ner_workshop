@@ -10,11 +10,11 @@ from tqdm import tqdm
 
 def load_model(folder):
     """Loads model files, and returns keras model and parameters"""
-    with open(folder + '/model_architecture.json', 'r') as f:
+    with open(folder + '/model_architecture.json', 'r', encoding="utf-8", errors="ignore") as f:
         model = model_from_json(f.read())
     model.load_weights(folder + '/model_weights.h5')
     model._make_predict_function()
-    with open(folder + '/model_params.json', 'r') as f:
+    with open(folder + '/model_params.json', 'r', encoding="utf-8", errors="ignore") as f:
         data = json.load(f)
         word2ind = collections.defaultdict(lambda: 1, data["word2ind"])
         ind2word = {i: l for l, i in word2ind.items()}
