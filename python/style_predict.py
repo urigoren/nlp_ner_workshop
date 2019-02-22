@@ -36,7 +36,7 @@ def predict_on_token_array(X, model, params):
 
 def predict_on_test_file(filename, model, params):
     ret = []
-    with open(filename, 'r') as f:
+    with open(filename, 'r', encoding='utf-8', errors='ignore') as f:
         for line in f.readlines():
             line_prediction = ' '.join(predict_on_token_array(line.split(), model, params))
             ret.append(line_prediction)
