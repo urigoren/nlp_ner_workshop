@@ -1,5 +1,9 @@
 <?php
-function cmp_lines($a,$b) {
+/*
+    Code for submission server, live at:
+    http://www.goren4u.com/nlp_ner
+*/
+function cmp_lines($a, $b) {
     $lcmp = array_combine($a, $b); // zip(a, b)
     $ret = 0;
     $n = 0;
