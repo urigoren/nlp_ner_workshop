@@ -1,29 +1,29 @@
 <?php
 function cmp_lines($a,$b) {
-    $lcmp = array_combine($a, $b);
+    $lcmp = array_combine($a, $b); // zip(a, b)
     $ret = 0;
     $n = 0;
-    foreach($lcmp as $x=>$y) {
+    foreach($lcmp as $x => $y) {
         $n+=1;
-        $ret+=(trim($x)==trim($y))?1:0;
+        $ret+=(trim($x) == trim($y)) ? 1 : 0;
     }
     return $ret/$n;
 }
 
-if (array_key_exists("submission", $_REQUEST) && array_key_exists("name",$_REQUEST)) //Record submission
+if (array_key_exists("submission", $_REQUEST) && array_key_exists("name", $_REQUEST)) //Record submission
 {
         $user=preg_replace("/[^a-zA-Z0-9_]+/", "", $_REQUEST["name"]);
-        $submission=json_decode($_REQUEST["submission"],true);
-        $truth=json_decode(file_get_contents("holdout.data"),true);
+        $submission=json_decode($_REQUEST["submission"], true);
+        $truth=json_decode(file_get_contents("holdout.data"), true);
         // Calculate the accuracy of the submission
         $n=0;$score=0;
-        foreach($truth as $x=>$y) {
+        foreach($truth as $x => $y) {
             $n +=1;
             $score += array_key_exists($x, $submission) ? cmp_lines($submission[$x], $y) : 0;
         }
         $score /= $n;
-        $submission["score"]=$score;
-        $submission["user"]=$user;
+        $submission["score"] = $score;
+        $submission["user"] = $user;
         // Save submission as json file
         file_put_contents("$user.json",json_encode($submission));
         echo $score;
@@ -35,8 +35,8 @@ else // Show leaderboard
         $files = scandir('.');
         foreach ($files as $index=>$fname) {
                 if (substr($fname,-5)=='.json') {
-                        $json= json_decode(file_get_contents($fname),true);
-                        $scores[$json["user"]]=$json["score"];
+                        $json= json_decode(file_get_contents($fname), true);
+                        $scores[$json["user"]] = $json["score"];
                 }
         }
         arsort($scores);
@@ -65,7 +65,7 @@ else // Show leaderboard
     </thead>
     <tbody>
 <?php
-        foreach($scores as $user=>$score) {
+        foreach($scores as $user => $score) {
                 echo "<tr><th>$user</th><td>$score</td></tr>";
         }
 ?>
