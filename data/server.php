@@ -41,7 +41,6 @@ else // Show leaderboard
         }
         arsort($scores);
         // Format the leaderboard
-        echo "<html><head><meta http-equiv=\"refresh\" content=\"30\" /></head>";
 ?>
 <!DOCTYPE html>
 <html lang="en">
