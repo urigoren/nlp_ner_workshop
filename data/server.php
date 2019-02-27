@@ -1,14 +1,15 @@
 <?php
 function cmp_lines($a,$b) {
-$lcmp = array_combine($a, $b);
-$ret = 0;
-$n = 0;
-foreach($lcmp as $x=>$y) {
-$n+=1;
-$ret+=(trim($x)==trim($y))?1:0;
+    $lcmp = array_combine($a, $b);
+    $ret = 0;
+    $n = 0;
+    foreach($lcmp as $x=>$y) {
+        $n+=1;
+        $ret+=(trim($x)==trim($y))?1:0;
+    }
+    return $ret/$n;
 }
-return $ret/$n;
-}
+
 if (array_key_exists("submission", $_REQUEST) && array_key_exists("name",$_REQUEST)) //Record submission
 {
         $user=preg_replace("/[^a-zA-Z0-9_]+/", "", $_REQUEST["name"]);
