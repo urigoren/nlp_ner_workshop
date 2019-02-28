@@ -1,0 +1,10 @@
+cmd: ./gdrive-download.sh "1pWP7nPeopBe9Qf-E1xheN9TLKvITulBx" 0.zip
+deps:
+- md5: 65f344290e47a71c6273d0104a1fddc5
+  path: gdrive-download.sh
+md5: be7897bd79ff3880349b083ec20ed258
+outs:
+- cache: true
+  md5: b579e7168811a71560bd97b6ef954413
+  metric: false
+  path: 0.zip

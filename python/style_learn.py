@@ -132,16 +132,9 @@ def fit_file(in_file, tp):
 
 
 if __name__ == "__main__":
-    train_params = {
-        "read_limit": 2000,
-        "max_sentence_size": 64,
-        "test_size": 0.1,
-        "min_word_freq": 2,
-        "batch_size": 1024,
-        "epochs": 10,
-        "embedding_size": 128,
-        "lstm_size": 32,
-        "dropout": 0.5,
-        "out_dir": "../model",
-    }
+    # TODO: Move to separate train_params.json and read it here, set as DVC dependency
+    import yaml
+    with open('train_params.yaml', 'r') as f:
+        train_params = yaml.load(f)
+    print(train_params)
     fit_file('../data/0.zip', train_params)
