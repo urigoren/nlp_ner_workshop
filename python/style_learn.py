@@ -84,9 +84,9 @@ def build_model(max_sentence_length, vocab_size, num_tags, embedding_size, lstm_
 
 def save_metrics(**kwargs):
     for fname,metric in kwargs.items():
-        with open(f'../model/metrics/{fname}', 'w') as f:
+        with open(f'../model/metrics/{fname}.json', 'w') as f:
             try:
-                json.dump(metric, f)
+                json.dump({fname: metric}, f)
             except Exception as e:
                 print(f'Failed to save metric {fname} due to error: {e}')
 
