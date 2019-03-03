@@ -1,12 +1,12 @@
 cmd: python3 style_learn.py 2>&1 | tee ../model/learn-stdout.txt
 deps:
-- md5: 052cec97687273b38916c0aa57dbf9d0
+- md5: a3c7c021c224e97dd36ef8199693afd8
   path: style_learn.py
 - md5: 75db2a9a39e79051c23457d98095c712
   path: train_params.yaml
 - md5: b579e7168811a71560bd97b6ef954413
   path: ../data/0.zip
-md5: d852b76c936b7835720020d3e490dafc
+md5: e000fc4baaa2399feb3963deab22acad
 outs:
 - cache: true
   md5: c3d0b037aa05579ed0c8e74098a20d49
