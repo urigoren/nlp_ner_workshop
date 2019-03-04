@@ -2,8 +2,8 @@ from urllib import request, parse
 import os
 import json
 from sklearn.base import BaseEstimator, ClassifierMixin
-from style_predict import load_model, predict_on_test_dir, predict_on_token_array, predict_on_test_file, autotag
-from style_learn import fit_file
+from python.style_predict import load_model, predict_on_test_dir, predict_on_token_array, predict_on_test_file, autotag
+from python.style_learn import fit_file
 
 
 class Submission(BaseEstimator, ClassifierMixin):
