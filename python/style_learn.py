@@ -82,9 +82,9 @@ def build_model(max_sentence_length, vocab_size, num_tags, embedding_size, lstm_
     model.compile(loss='categorical_crossentropy', optimizer='adam')
     return model
 
-def save_metrics(**kwargs):
+def save_metrics(out_dir='../model', **kwargs):
     for fname,metric in kwargs.items():
-        with open(f'../model/metrics/{fname}.json', 'w') as f:
+        with open(f'{out_dir}/metrics/{fname}.json', 'w') as f:
             try:
                 json.dump({fname: metric}, f)
             except Exception as e:
@@ -140,6 +140,7 @@ def fit_file(in_file, tp):
     print(test_results)
 
     save_metrics(
+        out_dir=tp['out_dir'],
         test_score=test_score,
         train_acc=train_acc,
         train_confusion=train_confusion.tolist(),
