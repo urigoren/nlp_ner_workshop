@@ -1,0 +1,104 @@
+cmd: python3 style_learn.py 2>&1 | tee ../model/learn-stdout.txt
+deps:
+- md5: ec118b8138f3d3253701fc7965b7c8ed
+  path: style_learn.py
+- md5: 75db2a9a39e79051c23457d98095c712
+  path: train_params.yaml
+- md5: b579e7168811a71560bd97b6ef954413
+  path: ../data/0.zip
+md5: 9d8fcaff4912857eb8a8304ff785e9a8
+outs:
+- cache: true
+  md5: c3d0b037aa05579ed0c8e74098a20d49
+  metric: false
+  path: ../model/model_arch.json
+- cache: true
+  md5: c1267a72ddd123b32a1f65b2df18565c
+  metric: false
+  path: ../model/model_params.json
+- cache: true
+  md5: 3a44a8242693b363b9076fc637972b99
+  metric: false
+  path: ../model/model_weights.h5
+- cache: true
+  md5: 003898446d853e2e523f40ed118e7f3b
+  metric: false
+  path: ../model/learn-stdout.txt
+- cache: false
+  md5: 4bfad46d1ed577bc75923f956437dcfc
+  metric:
+    type: json
+    xpath: test_score
+  path: ../model/metrics/test_score.json
+- cache: false
+  md5: e605e59d5c5289249b33767c9ff8c743
+  metric:
+    type: json
+    xpath: train_acc
+  path: ../model/metrics/train_acc.json
+- cache: false
+  md5: 23975f375fd31ecc981ef1bbaead31d9
+  metric:
+    type: json
+    xpath: train_confusion
+  path: ../model/metrics/train_confusion.json
+- cache: false
+  md5: 781e6ee19cccfbd9b5e10732e6cf3159
+  metric:
+    type: json
+    xpath: train_precision
+  path: ../model/metrics/train_precision.json
+- cache: false
+  md5: 2dbc986cd61e966e3f9ada4264b4aa6a
+  metric:
+    type: json
+    xpath: train_recall
+  path: ../model/metrics/train_recall.json
+- cache: false
+  md5: c66dd9c64b2b765f03c481352ce222e4
+  metric:
+    type: json
+    xpath: train_fbeta
+  path: ../model/metrics/train_fbeta.json
+- cache: false
+  md5: 7f5c96feb748303a288534aed34a5aef
+  metric:
+    type: json
+    xpath: train_support
+  path: ../model/metrics/train_support.json
+- cache: false
+  md5: ffd8570d70c1721f9e1069073f2021ab
+  metric:
+    type: json
+    xpath: test_acc
+  path: ../model/metrics/test_acc.json
+- cache: false
+  md5: d0cc86400df86800d9d89d16f7e0e44f
+  metric:
+    type: json
+    xpath: test_confusion
+  path: ../model/metrics/test_confusion.json
+- cache: false
+  md5: 72a59db14f8af5ba03c03fc4e3cf6f96
+  metric:
+    type: json
+    xpath: test_precision
+  path: ../model/metrics/test_precision.json
+- cache: false
+  md5: e17292e04045b5e6a8dc5caabd070239
+  metric:
+    type: json
+    xpath: test_recall
+  path: ../model/metrics/test_recall.json
+- cache: false
+  md5: cb7718d4f3a0b3591129414d6569fade
+  metric:
+    type: json
+    xpath: test_fbeta
+  path: ../model/metrics/test_fbeta.json
+- cache: false
+  md5: f5b3640698a661f031076f35e38a32ab
+  metric:
+    type: json
+    xpath: test_support
+  path: ../model/metrics/test_support.json

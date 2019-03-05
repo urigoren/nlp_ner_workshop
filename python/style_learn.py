@@ -82,6 +82,13 @@ def build_model(max_sentence_length, vocab_size, num_tags, embedding_size, lstm_
     model.compile(loss='categorical_crossentropy', optimizer='adam')
     return model
 
+def save_metrics(out_dir='../model', **kwargs):
+    for fname,metric in kwargs.items():
+        with open(f'{out_dir}/metrics/{fname}.json', 'w') as f:
+            try:
+                json.dump({fname: metric}, f)
+            except Exception as e:
+                print(f'Failed to save metric {fname} due to error: {e}')
 
 def fit_file(in_file, tp):
     X, y = read_json_zip_file(in_file, tp["max_sentence_size"], tp["read_limit"])
@@ -105,43 +112,61 @@ def fit_file(in_file, tp):
     model = build_model(seq_size, len(word2ind), len(label2ind), tp["embedding_size"], tp["lstm_size"])
 
     model.fit(X_train, y_train, batch_size=tp["batch_size"], epochs=tp["epochs"], validation_data=(X_test, y_test))
-    score = model.evaluate(X_test, y_test, batch_size=tp["batch_size"])
-    print('Raw test score:', score)
+    test_score = model.evaluate(X_test, y_test, batch_size=tp["batch_size"])
+    print('Raw test score:', test_score)
 
     pr = model.predict(X_train).argmax(2)
     yh = y_train.argmax(2)
     fyh, fpr = calc_score(yh, pr)
-    print('Training accuracy:', accuracy_score(fyh, fpr))
+    train_acc = accuracy_score(fyh, fpr)
+    print('Training accuracy:', train_acc)
     print('Training confusion matrix:')
-    print(confusion_matrix(fyh, fpr))
-    precision_recall_fscore_support(fyh, fpr)
+    train_confusion = confusion_matrix(fyh, fpr)
+    print(train_confusion)
+    train_results = precision_recall_fscore_support(fyh, fpr)
+    print('Training results:')
+    print(train_results)
 
     pr = model.predict(X_test).argmax(2)
     yh = y_test.argmax(2)
     fyh, fpr = calc_score(yh, pr)
-    print('Testing accuracy:', accuracy_score(fyh, fpr))
+    test_acc = accuracy_score(fyh, fpr)
+    print('Testing accuracy:', test_acc)
     print('Testing confusion matrix:')
-    print(confusion_matrix(fyh, fpr))
-    precision_recall_fscore_support(fyh, fpr)
+    test_confusion = confusion_matrix(fyh, fpr)
+    print(test_confusion)
+    test_results = precision_recall_fscore_support(fyh, fpr)
+    print('Testing results:')
+    print(test_results)
+
+    save_metrics(
+        out_dir=tp['out_dir'],
+        test_score=test_score,
+        train_acc=train_acc,
+        train_confusion=train_confusion.tolist(),
+        train_recall=train_results[0].tolist(),
+        train_precision=train_results[1].tolist(),
+        train_fbeta=train_results[2].tolist(),
+        train_support=train_results[3].tolist(),
+        test_acc=test_acc,
+        test_confusion=test_confusion.tolist(),
+        test_recall=test_results[0].tolist(),
+        test_precision=test_results[1].tolist(),
+        test_fbeta=test_results[2].tolist(),
+        test_support=test_results[3].tolist(),
+     )
 
     # Save the model architecture
-    with open(tp["out_dir"]+'/model_architecture.json', 'w') as f:
+    with open(tp["out_dir"]+'/model_arch.json', 'w') as f:
         f.write(model.to_json())
 
     model.save_weights(tp["out_dir"]+'/model_weights.h5')
 
 
 if __name__ == "__main__":
-    train_params = {
-        "read_limit": 2000,
-        "max_sentence_size": 64,
-        "test_size": 0.1,
-        "min_word_freq": 2,
-        "batch_size": 1024,
-        "epochs": 10,
-        "embedding_size": 128,
-        "lstm_size": 32,
-        "dropout": 0.5,
-        "out_dir": "../model",
-    }
+    import yaml
+    with open('train_params.yaml', 'r') as f:
+        train_params = yaml.load(f)
+    print("Train params:")
+    print(train_params)
     fit_file('../data/0.zip', train_params)

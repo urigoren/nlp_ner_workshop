@@ -1,0 +1,10 @@
+read_limit: 2000
+max_sentence_size: 64
+test_size: 0.1
+min_word_freq: 2
+batch_size: 1024
+epochs: 1
+embedding_size: 128
+lstm_size: 32
+dropout: 0.5
+out_dir: ../model

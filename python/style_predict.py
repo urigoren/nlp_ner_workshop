@@ -4,13 +4,13 @@ import collections
 import re
 from keras.models import model_from_json
 from keras.preprocessing.sequence import pad_sequences
-from style_extract import tokenizer
+from python.style_extract import tokenizer
 from tqdm import tqdm
 
 
 def load_model(folder):
     """Loads model files, and returns keras model and parameters"""
-    with open(folder + '/model_architecture.json', 'r', encoding="utf-8", errors="ignore") as f:
+    with open(folder + '/model_arch.json', 'r', encoding="utf-8", errors="ignore") as f:
         model = model_from_json(f.read())
     model.load_weights(folder + '/model_weights.h5')
     model._make_predict_function()
