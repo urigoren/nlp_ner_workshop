@@ -1,8 +1,0 @@
-exhibit {num} 
-macy's , inc . 
-by-laws 
-( amended and restated as of february {num} {num} ) 
-stockholders' meetings 
-{enum} time and place of meetings . all meetings of the stockholders for the election of directors or for any other purpose will be held at such time and place , within or without the state of delaware , as may be designated by the board or , in the absence of a designation by the board , the chairman , the president , or the secretary , and stated in the notice of meeting . the board may postpone and reschedule any previously scheduled annual or special meeting of the stockholders . 
-{enum} annual meeting . an annual meeting of the stockholders will be held at such date and time as may be designated from time to time by the board , at which meeting the stockholders will elect the directors to succeed those whose terms expire at such meeting and will transact such other business as may properly be brought before the meeting in accordance with by-law {num} 
-{enum} special meetings . ( a ) special meetings of the stockholders may be called only by ( i ) the chairman , ( ii ) the secretary within {num} calendar days after receipt of the written request of a majority of the whole board , and ( iii ) as provided in 
