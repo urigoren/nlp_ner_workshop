@@ -157,7 +157,7 @@ def fit_file(in_file, tp):
      )
 
     # Save the model architecture
-    with open(tp["out_dir"]+'/model_arch.json', 'w') as f:
+    with open(tp["out_dir"]+'/model_architecture.json', 'w') as f:
         f.write(model.to_json())
 
     model.save_weights(tp["out_dir"]+'/model_weights.h5')

@@ -4,7 +4,7 @@ import collections
 import re
 from keras.models import model_from_json
 from keras.preprocessing.sequence import pad_sequences
-from python.style_extract import tokenizer
+from style_extract import tokenizer
 from tqdm import tqdm
 
 

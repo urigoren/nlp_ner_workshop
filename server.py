@@ -1,7 +1,8 @@
+import sys
 import traceback
 from flask import Flask, request, send_from_directory, render_template
-
-from python.style_predict import autotag, load_model
+sys.path.append('python')
+from style_predict import autotag, load_model
 
 app = Flask(__name__)
 model, params = load_model('model')
