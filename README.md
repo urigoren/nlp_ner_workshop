@@ -23,7 +23,7 @@ Due to Google Drive quota issues make sure **not** to unzip the data file.
 4. Now install all of the requirements: `pip3 install -r requirements.txt`[](https://www.python.org/downloads/release/python-364/)
 
 ## Training a model
-  1. Download data from [our Google drive](https://drive.google.com/open?id=1pWP7nPeopBe9Qf-E1xheN9TLKvITulBx)
+  1. Download data from [our Google drive](https://drive.google.com/open?id=10jR67dVxIn4IQry8YtVc8HL31feT-SeM)
   1. Save the `.zip` file in the `data/` folder.
   1. Run `style_learn.py` to train an NER model.
   1. Run `server.py` to evaluate your model in the browser.
